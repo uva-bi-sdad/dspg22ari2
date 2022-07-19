@@ -1,4 +1,4 @@
-﻿
+
 
 
 
@@ -359,36 +359,16 @@ Chapter 1
 
 Leader Development
 
-1-1. Codes (10032-10176)
-Adaptability
-Qualities of a Leader
-The Army depends upon itself to develop adaptable leaders able to achieve mission accomplishment in dynamic, unstable, and complex environments. A robust, holistic leader development program is essential. Codes (10237-10518)
-Leader development
-Adaptability
-Cooperation
-Through a mix of education, training, and experience, Army leader development processes produce and sustain agile, adaptive, and innovative leaders who act with boldness and initiative in dynamic, complex situations to execute missions according to doctrine, orders, and training. Codes (10518-10768)
-Adaptability
-integrity
-Qualities of a Leader
-Furthermore, it also produces leaders that possess the integrity and willingness to act in the absence of orders, when existing orders, doctrine or their own experience no longer fit the situation, or when unforeseen opportunities or threats arise. Properly designed leader development programs develop trusted leaders of character, competence, and commitment. The goal is to develop Army leaders who clearly provide purpose, direction, motivation, and vision to their teams and subordinates while executing missions to support their commander’s intent. Leaders at all levels need to be prepared to understand the strategic context for execution and success of any mission.
+1-1. The Army depends upon itself to develop adaptable leaders able to achieve mission accomplishment in dynamic, unstable, and complex environments. A robust, holistic leader development program is essential. Through a mix of education, training, and experience, Army leader development processes produce and sustain agile, adaptive, and innovative leaders who act with boldness and initiative in dynamic, complex situations to execute missions according to doctrine, orders, and training. Furthermore, it also produces leaders that possess the integrity and willingness to act in the absence of orders, when existing orders, doctrine or their own experience no longer fit the situation, or when unforeseen opportunities or threats arise. Properly designed leader development programs develop trusted leaders of character, competence, and commitment. The goal is to develop Army leaders who clearly provide purpose, direction, motivation, and vision to their teams and subordinates while executing missions to support their commander’s intent. Leaders at all levels need to be prepared to understand the strategic context for execution and success of any mission.
 
-1-2. Codes (11197-12235)
-Leader development
-Leader development is fundamental to our Army—leader development is the deliberate, continuous, sequential, and progressive process—founded in Army values—that grows Soldiers and Army Civilians into competent and confident leaders capable of decisive action. Leader development is achieved through the lifelong synthesis of the knowledge, skills, and experiences gained through the training and education opportunities in the institutional, operational, and self-development domains (AR 350-1). A key component of leader development is remaining focused on the professionalism of our leaders and those they lead. By developing and promoting a professional force, the Army develops trust on several levels: between Soldiers; between Soldiers and leaders; between Soldiers and Army Civilians; between the Soldiers, their families and the Army; and between the Army and the American people. This is why the Army is committed to providing quality institutions of education and training along with challenging experiences throughout a career.
+1-2. Leader development is fundamental to our Army—leader development is the deliberate, continuous, sequential, and progressive process—founded in Army values—that grows Soldiers and Army Civilians into competent and confident leaders capable of decisive action. Leader development is achieved through the lifelong synthesis of the knowledge, skills, and experiences gained through the training and education opportunities in the institutional, operational, and self-development domains (AR 350-1). A key component of leader development is remaining focused on the professionalism of our leaders and those they lead. By developing and promoting a professional force, the Army develops trust on several levels: between Soldiers; between Soldiers and leaders; between Soldiers and Army Civilians; between the Soldiers, their families and the Army; and between the Army and the American people. This is why the Army is committed to providing quality institutions of education and training along with challenging experiences throughout a career.
 
 
 
 TENETS OF ARMY LEADER DEVELOPMENT
 
 1-3. The tenets of Army leader development provide the essential principles that have made the Army successful at developing its leaders. The tenets also provide a backdrop for the Army principles of unit training (see ADRP 7-0). The overarching tenets of Army leader development are—
-Codes (12555-12636)
-Leader development
-Organizational trust
-
-Strong commitment by the Army, superiors, and individuals to leader development.
-Codes (12636-12697)
-Leader development
-Shared Vision
+strong commitment by the Army, superiors, and individuals to leader development.
 
 Clear purpose for what, when, and how to develop leadership.
 
@@ -398,23 +378,9 @@ Three mutually supportive domains (institutional, operational, and self-developm
 
 Providing, accepting, and acting upon candid assessment and feedback.
 
-1-4. Development of people is an Army priority. Commitment represents intention and engagement from the individual, from supportive leaders, and from the Army. Codes (13111-13291)
-Team orientation
-Responsibility
-Qualities of a Leader
-Beyond their directed responsibility to develop subordinates, leaders want to serve in an organization that values camaraderie and teamwork and improves the capabilities of others. Leaders have a directed responsibility to develop their subordinates; accountability for implementation follows responsibility. Leaders must be committed to the development of others and themselves. Teams change and organizations change when individuals choose to engage and improve.
+1-4. Development of people is an Army priority. Commitment represents intention and engagement from the individual, from supportive leaders, and from the Army.Beyond their directed responsibility to develop subordinates, leaders want to serve in an organization that values camaraderie and teamwork and improves the capabilities of others. Leaders have a directed responsibility to develop their subordinates; accountability for implementation follows responsibility. Leaders must be committed to the development of others and themselves. Teams change and organizations change when individuals choose to engage and improve.
 
-1-5. Codes (13581-13659)
-Leader development
-Shared Vision
-Development depends on having clear purpose for what, when and how to develop. Good leader development is purposeful and goal-oriented. A clearly established purpose enables leaders to guide, assess, and accomplish development. Codes (13809-14147)
-Leader development
-Cooperation
-Adaptability
-Intellectual efficiency
-Qualities of a Leader
-Influnce 
-The principles of leader development describe goals for what leaders need to be developed to do: leading by example, developing subordinates, creating a positive environment for learning, exercising the art and science of mission command, adaptive performance, critical and creative thinking, and knowing subordinates and their families. The core leader competencies and attributes identified
+1-5. Development depends on having clear purpose for what, when and how to develop. Good leader development is purposeful and goal-oriented. A clearly established purpose enables leaders to guide, assess, and accomplish development. The principles of leader development describe goals for what leaders need to be developed to do: leading by example, developing subordinates, creating a positive environment for learning, exercising the art and science of mission command, adaptive performance, critical and creative thinking, and knowing subordinates and their families. The core leader competencies and attributes identified
 
 
 
@@ -432,10 +398,7 @@ in ADRP 6-22 and the Army Leader Development Strategy (ALDS) provide additional 
 
 
 
-THE CHALLENGE FOR LEADER DEVELOPMENTCodes (16255-16568)
-Adaptability
-Qualities of a Leader
-
+THE CHALLENGE FOR LEADER DEVELOPMENT
 
 1-9. The Army must develop leaders comfortable making decisions with available information and prepared to underwrite the honest mistakes subordinates make when learning. These same leaders must also be capable of developing others to be adaptive, creative, professional, and disciplined to execute any mission. Leaders should place emphasis on holistic programs that range across grades from enlisted through senior officers and the Army Civilian Corps.
 
@@ -443,10 +406,7 @@ Qualities of a Leader
 
 1-11. Successful leaders recognize that they must continually develop their subordinates by maximizing opportunities in the institutional, operational, and self-development domains. It is critical to the long-term sustainment of the Army. Leaders are responsible for ensuring their organizations develop subordinates, perform missions, apply doctrinally sound principles in training, and exercise stewardship of resources. Along with responsibility comes accountability. Accountability speaks to two levels: leaders held accountable for how well they have developed their subordinates and individuals held accountable for their own professional development.
 
-1-12. The ALDS lays out the Army's vision, mission, and framework for leader development. The strategic vision emphasizes competence, commitment, character, skills, and attributes needed by Army leaders to prevail in unified land operations and leading the Army enterprise. The Army's leader development mission relies on training, education, and experience components to contribute to the development of leaders. The ALDS also identifies the ends, ways and means for the leader development process. Will and time applied to development are the essential means for success, and this is why a professional culture and individual mindsets committed to development are important. Codes (19022-19267)
-Leader development
-Responsibility
-The ALDS starts with leaders at all levels understanding their responsibility for developing other leaders and themselves and creating conditions that provide the
+1-12. The ALDS lays out the Army's vision, mission, and framework for leader development. The strategic vision emphasizes competence, commitment, character, skills, and attributes needed by Army leaders to prevail in unified land operations and leading the Army enterprise. The Army's leader development mission relies on training, education, and experience components to contribute to the development of leaders. The ALDS also identifies the ends, ways and means for the leader development process. Will and time applied to development are the essential means for success, and this is why a professional culture and individual mindsets committed to development are important. The ALDS starts with leaders at all levels understanding their responsibility for developing other leaders and themselves and creating conditions that provide the
 
 
 
@@ -473,8 +433,7 @@ LEADERSHIP REQUIREMENTS
 
 
 
-Codes (21852-21899)
-Leader development
+
 
 Figure 1-1. Army leadership requirements model
 
@@ -491,8 +450,7 @@ Figure 1-1. Army leadership requirements model
 
 
 
-Codes (23771-23852)
-Leader development
+
 
 Table 1-1. Principles of mission command linkage to Army leadership requirements
 
@@ -502,16 +460,7 @@ Table 1-1. Principles of mission command linkage to Army leadership requirements
 
 COHESIVE AND EFFECTIVE TEAMS
 
-1-19. Teams are an essential configuration of how people come together to accomplish missions. In the Army, teams occur throughout every structure level of the organization. The Army as a whole is teams of teams. It begins with buddy teams––two military members who look after each other in a variety of positions and environments. The missions of the Army demand that leaders and teams be developed and ready. It is proven that a team is more effective than an individual when members work together, using their unique skills, experiences, and capabilities. The Army leadership competency categories cover how Army leaders lead; develop themselves, their subordinates, and organizations; and bring efforts together to achieve results. ArCodes (24621-24699)
-Team building
-Qualities of a Leader
-my leaders are charged with developing others and conducting team building. HoCodes (24699-24913)
-Leader development
-Cooperation
-Adaptability
-Qualities of a Leader
-Qualities of a Team
-listic leader development programs contribute to unit cohesion, resilience, and agility by producing leaders and teams that are creative, life-long learners, adaptable, and capable of exercising mission command.
+1-19. Teams are an essential configuration of how people come together to accomplish missions. In the Army, teams occur throughout every structure level of the organization. The Army as a whole is teams of teams. It begins with buddy teams––two military members who look after each other in a variety of positions and environments. The missions of the Army demand that leaders and teams be developed and ready. It is proven that a team is more effective than an individual when members work together, using their unique skills, experiences, and capabilities. The Army leadership competency categories cover how Army leaders lead; develop themselves, their subordinates, and organizations; and bring efforts together to achieve results. Army leaders are charged with developing others and conducting team building. Holistic leader development programs contribute to unit cohesion, resilience, and agility by producing leaders and teams that are creative, life-long learners, adaptable, and capable of exercising mission command.
 
 1-20. The mission command philosophy helps to set the conditions for developing teams. Creating a shared understanding is the first step and most important in developing a team. It gives the team a unifying purpose. The leader sets the tone; in a team-focused climate, members understand how they contribute to the overall success of the organization. Knowing the ‘why’ drives each action taken. Developing an overall sense of team and building an effective high quality team are two separate actions that should be parts of the overall leader development program. The goal of team building is to improve the quality of the team and how it works together to accomplish the mission.
 
@@ -535,15 +484,7 @@ Team building
 
 From a first sergeant: Team building is a vital part of the Army because Soldiers need to feel as though they are a part of a team if they are going to be willing to fight and die for a teammate and their country. Soldiers need to learn their position and responsibility within that team.
 
-1-23. Teamwork fosters open communication, improves professional relations, and contributes to unit motivation and building trust. Teamwork pulls together the knowledge and experience of a diverse group of people to accomplish the mission. Knowing the elements of effective teams and developing teamwork helps leaders assemble the team, orient them, create an identity, cultivate trust, engage in solving problems, manage processes, regulate team dynamics, and deliver results to other organizations and stakeholders. High performing teams enforce high standards and hold each other accountable for their actions and their level of performanceCodes (28098-28368)
-Intellectual efficiency
-Qualities of a Leader
- or output. Motivation and discipline are keys to teams that surpass normal expectations. Table 1-2 compares characteristics of effective teams and ineffective teams. Time management and prioritization of effort are important for self and team discipline. Teams that find themCodes (28374-28978)
-Intellectual efficiency
-Qualities of a Leader
-Definition of team success
-Influnce 
-selves continually operating in a crisis management mode need to break out of the cycle with better prioritization, effective delegation and
+1-23. Teamwork fosters open communication, improves professional relations, and contributes to unit motivation and building trust. Teamwork pulls together the knowledge and experience of a diverse group of people to accomplish the mission. Knowing the elements of effective teams and developing teamwork helps leaders assemble the team, orient them, create an identity, cultivate trust, engage in solving problems, manage processes, regulate team dynamics, and deliver results to other organizations and stakeholders. High performing teams enforce high standards and hold each other accountable for their actions and their level of performance or output. Motivation and discipline are keys to teams that surpass normal expectations. Table 1-2 compares characteristics of effective teams and ineffective teams. Time management and prioritization of effort are important for self and team discipline. Teams that find themselves continually operating in a crisis management mode need to break out of the cycle with better prioritization, effective delegation and
 
 
 
@@ -559,10 +500,7 @@ Table 1-2. Signs of ineffective and effective teams
 
 1-24. The mental dimension is an often overlooked part of teaming and team building. Shared cognition of teamwork includes learning, situational understanding, and critical thinking; motivation is common to all. The leader has a role in building team capacity in each area.
 
-1-25. Teams thaCodes (28984-29632)
-Intellectual efficiency
-Definition of team success
-t have a positive learning culture are eager to understand new areas and current situations. High performance teams are motivated to be inquisitive, to find better ways of doing their work, to acquire new information, and to create new knowledge. Leaders can establish a culture of learning by making learning part of the team's goals. Leaders can build up beliefs in the power of learning by how they demonstrate the value of learning to them personally and how they make learning interesting. Leaders can trigger learning by calling for reflection on shared events and individual experiences.
+1-25. Teams that have a positive learning culture are eager to understand new areas and current situations. High performance teams are motivated to be inquisitive, to find better ways of doing their work, to acquire new information, and to create new knowledge. Leaders can establish a culture of learning by making learning part of the team's goals. Leaders can build up beliefs in the power of learning by how they demonstrate the value of learning to them personally and how they make learning interesting. Leaders can trigger learning by calling for reflection on shared events and individual experiences.
 
 1-26. Teams that thoroughly engage in active situation assessment and understanding will have the best information available to work on required tasks. Asking questions and sensemaking are valuable processes for teamwork. Sensemaking is a process of creating meaning of an experience through discussion. Individual experiences and insights have greater value through a collaborative situation assessment. The depth of understanding achieved is pivotal in how the team handles complex problems. Developing accurate assessments and the ability to make precise distinctions comes from teams that are motivated to practice at discussing problems critically.
 
@@ -1176,13 +1114,7 @@ Chapter 3
 
 Fundamentals of Development
 
-3-1. Every part of the Army is vested in maximizing its human capital to prevent, shape, and wCodes (63006-63376)
-Leader development
-Team building
-in in the land domain. Every individual that makes up this capital is—or can become—a pivotal leader. While the Army employs many strategies in the development of leaders, the most influential of these coincide with the time spent in operational assignments for Soldiers and while at work for Army Civilians. Working in real settings—solving real problems with actual team members—provides the challenges and conditions where leaders can see the significance of and have the opportunity to perform leadership activities. Leaders encourage development and learning in their subordinates in every aspect of daily activities and should seek to learn something new every day. Self-development can occur anywhere, so it is an important aspect of development in organizations. Other settings, such as education, can apply the priCodes (63829-63992)
-Cooperation
-Influnce 
-nciples that are effective and efficient for development in units. Units and organizations operate in a more decentralized manner than educational and training centers. Decentralization makes the sharing of effective practices necessary and beneficial. Educational institutions and training centers are organizations that can adopt these same leader development principles for their own staffs, students, and trainees.
+3-1. Every part of the Army is vested in maximizing its human capital to prevent, shape, and win in the land domain. Every individual that makes up this capital is—or can become—a pivotal leader. While the Army employs many strategies in the development of leaders, the most influential of these coincide with the time spent in operational assignments for Soldiers and while at work for Army Civilians. Working in real settings—solving real problems with actual team members—provides the challenges and conditions where leaders can see the significance of and have the opportunity to perform leadership activities. Leaders encourage development and learning in their subordinates in every aspect of daily activities and should seek to learn something new every day. Self-development can occur anywhere, so it is an important aspect of development in organizations. Other settings, such as education, can apply the principles that are effective and efficient for development in units. Units and organizations operate in a more decentralized manner than educational and training centers. Decentralization makes the sharing of effective practices necessary and beneficial. Educational institutions and training centers are organizations that can adopt these same leader development principles for their own staffs, students, and trainees.
 
 3-2. The fundamentals of development simplify and span the formal leader development activities that the Army has advocated, such as assessing, counseling, coaching, mentoring, broadening, and team building. The fundamentals are common across formal and informal leader development activities and serve to reinforce an Army developmental culture and a developmental mindset. Other sources provide guidance on techniques associated with the formal activities, such as AR 350-1 on MSAF assessments, AR 623-3 on the evaluation process, ATP 6-22.1 on the counseling process, ADRP 6-22 and MSAF resources on coaching, AR 621-7 and DA PAM 600-3 on broadening, and emerging doctrine on team building.
 
@@ -1314,10 +1246,7 @@ Approachability Enables Development
 
 From a battalion staff officer:
 
-An open door policy is critical for demonstrating approachability to subordinates. However, it is not enough just to say you have an open door policy. I think my commander is nonjudgmental and seems levelheaded on any issue, which makes it easy to bring issues to his attention. He is humble, genuine, and patient. At unit functions, I wCodes (75079-75714)
-Cooperation
-Qualities of a Leader
-atch him and his wife circulate. He drops down to eye level with the kids and gets a laugh from them for some remark. They both give their full time and attention to whomever they are talking to.
+An open door policy is critical for demonstrating approachability to subordinates. However, it is not enough just to say you have an open door policy. I think my commander is nonjudgmental and seems levelheaded on any issue, which makes it easy to bring issues to his attention. He is humble, genuine, and patient. At unit functions, I watch him and his wife circulate. He drops down to eye level with the kids and gets a laugh from them for some remark. They both give their full time and attention to whomever they are talking to.
 
 Because of his style, laid-back but concerned and competent, he elicits open communication from subordinates. He starts out by asking about the individual and their family before getting to unit issues by asking, “How’s it going?” I noticed that people open up when he uses this approach. He puts them at ease and they know he is genuinely concerned. His approach had a positive effect throughout the battalion.
 
@@ -3009,11 +2938,7 @@ Asking for Feedback
 
 What a person actually saw and their impressions of your action(s).
 
-ThatCodes (206009-206762)
-Qualities of a Leader
-integrity
-Qualities of a Team
- person’s impression of how well you performed during the interaction(s).
+That person’s impression of how well you performed during the interaction(s).
 
 How you react in certain situations. For example, “When a subordinate challenges your authority in front of others, you seem to get flustered and be at a loss for words.”
 
@@ -3043,11 +2968,7 @@ Listen carefully and respectfully.
 
 Ask for clarification and examples when points are unclear.
 
-Summarize the points to make sure thCodes (206943-207065)
-integrity
-Influnce 
-Qualities of a Leader
-at you understand the person correctly.
+Summarize the points to make sure that you understand the person correctly.
 
 Thank the feedback providers for their time and assistance.
 
@@ -3071,13 +2992,7 @@ Self-analysis
 
 4-16. After gathering the information from outside sources through formal assessments, observing others, and requesting feedback, it is time to reflect on personal behavior and performance. Examining personal situations and experiences can reveal things to change or improve. The situation analysis exercise will help analyze experiences to help identify personal strengths and developmental needs.
 
-COMPLETE A SITUATION ANALYSIS FOR SELF-DEVELOPMENTThink of experiences over the past two years that give insight into personal strengths and developmental needs—maybe a critical decision, an important task you led or were a part of, or a significant personal interaction. Use these questions to analyze each situation:What was the situation? What was happening? Who was there?What was the goal and did you reach it? What were you trying to accomplish? What resources or skills did you have or not have that you needed?What did you say and think? Were you able to find the right words to make your point? What were you thinking at the time? What made you feel good (confident, excited) or bad (confused, worried)?What did you do? How did you act (including your body language)? Why did you choose to act the way you did? How did others react? Did you help or hurt the situation? Did you adjust your actions based on how others were reacting?Why dCodes (209010-209728)
-Cooperation
-integrity
-Team building
-Qualities of a Leader
-Influnce 
-id you act the way you did? What knowledge and skills led you to act the way you did?What could have helped you handle the situation better? How could you have used your strengths to reach a better outcome? Are there any developmental needs that you should make a high priority for personal self-development efforts?
+COMPLETE A SITUATION ANALYSIS FOR SELF-DEVELOPMENTThink of experiences over the past two years that give insight into personal strengths and developmental needs—maybe a critical decision, an important task you led or were a part of, or a significant personal interaction. Use these questions to analyze each situation:What was the situation? What was happening? Who was there?What was the goal and did you reach it? What were you trying to accomplish? What resources or skills did you have or not have that you needed?What did you say and think? Were you able to find the right words to make your point? What were you thinking at the time? What made you feel good (confident, excited) or bad (confused, worried)?What did you do? How did you act (including your body language)? Why did you choose to act the way you did? How did others react? Did you help or hurt the situation? Did you adjust your actions based on how others were reacting?Why did you act the way you did? What knowledge and skills led you to act the way you did?What could have helped you handle the situation better? How could you have used your strengths to reach a better outcome? Are there any developmental needs that you should make a high priority for personal self-development efforts?
 
 
 
@@ -3087,10 +3002,7 @@ Think of experiences over the past two years that give insight into personal str
 
 What was the situation? What was happening? Who was there?
 
-What was the goal and did you reach it? What were you tryCodes (209764-210096)
-Intellectual efficiency
-Qualities of a Leader
-ing to accomplish? What resources or skills did you have or not have that you needed?
+What was the goal and did you reach it? What were you trying to accomplish? What resources or skills did you have or not have that you needed?
 
 What did you say and think? Were you able to find the right words to make your point? What were you thinking at the time? What made you feel good (confident, excited) or bad (confused, worried)?
 
@@ -3170,10 +3082,7 @@ Did formal assessments point out any deficiencies?
 
 GOAL SETTING
 
-4-24. To make the most of self-development efforts and avoid wasting time and energy, it is crucial to set self-development goals—identify personal and professional goals and decide where to go. This seCodes (214500-214645)
-Intellectual efficiency
-Qualities of a Team
-ction outlines procedures to—
+4-24. To make the most of self-development efforts and avoid wasting time and energy, it is crucial to set self-development goals—identify personal and professional goals and decide where to go. This action outlines procedures to—
 
 
 
@@ -3201,26 +3110,11 @@ The needs of the Army.
 
 Roles and Responsibilities
 
-4-26. Roles and responsibilities at home and at work may offCodes (215090-215301)
-Definition of team success
-Intellectual efficiency
-er opportunities for self-development, such as being a spouse, parent, teacher, Soldier, or other roles. Each role has different responsibilities, skill and knowledge requirements, and expectations. Reserve CompCodes (215301-215401)
-Definition of team success
-Diversity In Team
-Intellectual efficiency
-onent leaders have a unique opportunity to improve both civilian and military profession skills by linking self-development goals to skills shared by both professions. ADRP 6-22 describes expectatioCodes (215499-215696)
-Diversity In Team
-Intellectual efficiency
-Qualities of a Leader
-ns for key roles as Army military and civilian leaders.
+4-26. Roles and responsibilities at home and at work may offer opportunities for self-development, such as being a spouse, parent, teacher, Soldier, or other roles. Each role has different responsibilities, skill and knowledge requirements, and expectations. Reserve conent leaders have a unique opportunity to improve both civilian and military profession skills by linking self-development goals to skills shared by both professions. ADRP 6-22 describes expectations for key roles as Army military and civilian leaders.
 
 4-27. Chosen roles usually reflect personal interests and values, but even assigned roles will affect the value of different self-development paths. When roles and responsibilities align with talents and interests, leaders are likely to succeed and be satisfied.
 
-ANALYZE ROLES AND RESPONSIBILITIESList three to four of important roles at home and at work. Next to Codes (215920-216126)
-Intellectual efficiency
-Qualities of a Leader
-Adaptability
-each role, list the two most important responsibilities in that role.Now think about the listed roles and responsibilities and identify knowledge, skills, or attitudes that enable better performance of these roles and responsibilities.
+ANALYZE ROLES AND RESPONSIBILITIESList three to four of important roles at home and at work. Next to each role, list the two most important responsibilities in that role.Now think about the listed roles and responsibilities and identify knowledge, skills, or attitudes that enable better performance of these roles and responsibilities.
 
 
 
@@ -3334,11 +3228,7 @@ Identifying the resources needed to meet the milestones.
 
 Establishing time estimates and deadlines that help track progress.
 
-Dividing large tasks into smaller partsCodes (224442-224909)
-Intellectual efficiency
-Definition of team success
-Qualities of a Leader
- to reduce being overwhelmed.
+Dividing large tasks into smaller parts to reduce being overwhelmed.
 
 Identifying possible obstacles and the actions and resources needed to overcome them.
 
@@ -3440,20 +3330,13 @@ Setting Habits for Self-development
 
 From a warrant officer:
 
-Maintaining expertise and enhancing it are especially relevant to warrant officers who bring specialized knowledge and experience to their units. A practice that has served me well throughout my career has been to dedicate time each day for self-study. Goal setting was also important; it Codes (229484-229903)
-Leader development
-Adaptability
-Definition of team success
-kept me focused and excited to move forward to the next challenge. On alternating days, I review relevant topics related to my area of expertise or general Army knowledge. I selected topics based on an honest assessment of my own strengths and needs, while mentors and raters recommended others. This practice began when I was a junior warrant officer, during field training exercises, deployments, and combat operations. As a senior warrant and senior leader within my organization. I still make time each day to learn something new.
+Maintaining expertise and enhancing it are especially relevant to warrant officers who bring specialized knowledge and experience to their units. A practice that has served me well throughout my career has been to dedicate time each day for self-study. Goal setting was also important; it kept me focused and excited to move forward to the next challenge. On alternating days, I review relevant topics related to my area of expertise or general Army knowledge. I selected topics based on an honest assessment of my own strengths and needs, while mentors and raters recommended others. This practice began when I was a junior warrant officer, during field training exercises, deployments, and combat operations. As a senior warrant and senior leader within my organization. I still make time each day to learn something new.
 
 
 
 Learning Opportunities
 
-4-38. Learning stems from deliberate planned activities or from the unplanned experiCodes (230127-230410)
-Intellectual efficiency
-Adaptability
-ences of daily life. Make the most of each learning opportunity, whether planned or not.
+4-38. Learning stems from deliberate planned activities or from the unplanned experiences of daily life. Make the most of each learning opportunity, whether planned or not.
 
 
 

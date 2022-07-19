@@ -1,5 +1,5 @@
-﻿
-TC 7-21.13	
+
+TC 7-21.13
 
 Soldier’s Guide
 
@@ -1189,10 +1189,7 @@ THE ARMY PROFESSION AND ETHIC
 
 
 
-The Army has a dual nature—it is both a military department (a part of the Armed Forces) and a military profession. As one of the Nation’s armed services, we carry out the missions assigned to us by the Commander-in-Chief in accordance with the law and regulations created by Congress. The Army is built upon an ethos of trust, which buttresses four other essential characteristics of our profession: military expertise, honorableCodes (43896-44432)
-Organizational trust
-Cooperation
- service, esprit de corps, and stewardship (ADP 1, page 2-1).
+The Army has a dual nature—it is both a military department (a part of the Armed Forces) and a military profession. As one of the Nation’s armed services, we carry out the missions assigned to us by the Commander-in-Chief in accordance with the law and regulations created by Congress. The Army is built upon an ethos of trust, which buttresses four other essential characteristics of our profession: military expertise, honorable service, esprit de corps, and stewardship (ADP 1, page 2-1).
 
 
 
@@ -1208,9 +1205,7 @@ Military-technical-doctrine of applying land power along with planning and execu
 
 Moral-ethical-applying combat power according to laws and expectations of the citizens.
 
-Political-Codes (44853-44942)
-Leader development
-cultural-cooperation between sister services, foreign militaries, and other government agencies.
+Political-cultural-cooperation between sister services, foreign militaries, and other government agencies.
 
 Leader development-building leaders to be the qualitative multiplier of any battlefield.
 
@@ -1280,9 +1275,7 @@ Being a professional Soldier means conducting yourself at all times to bring cre
 
 
 
-“An American Professional Soldier is an expert, a volunteer certified in the Profession of Arms, bonded with comrades in a shared identity and culture of sacrifice and service to the Nation and the Constitution, who adheres to theCodes (50116-50449)
-integrity
- highest ethical standards and is a steward of the future of the profession.”4
+“An American Professional Soldier is an expert, a volunteer certified in the Profession of Arms, bonded with comrades in a shared identity and culture of sacrifice and service to the Nation and the Constitution, who adheres to the highest ethical standards and is a steward of the future of the profession.”4
 
 
 
@@ -1340,10 +1333,7 @@ General Eric Shinseki, the 34th Army Chief of Staff, authorized the Warrior Etho
 
 
 
-5 Brunye, et al, “Enhancing Warrior Ethos in Initial Entry TraiCodes (53019-53048)
-Team orientation
-Shared Vision
-ning”, Proceedings of the Human Factors and Ergonomics Society Annual Meeting, October 2006.
+5 Brunye, et al, “Enhancing Warrior Ethos in Initial Entry Training”, Proceedings of the Human Factors and Ergonomics Society Annual Meeting, October 2006.
 
 
 
@@ -1462,9 +1452,7 @@ NOTE: Civilian Participation in Military Ceremonies. Since its inception at the 
 
 
 
-Codes (59703-59813)
-Responsibility
-Cooperation
+
 
 
 
@@ -1506,10 +1494,7 @@ Becoming an effective part of a team as a Soldier means knowing our role and fol
 
 4-1. Roles.
 
-We (Soldiers) are the Army’s most important resource. Trained, fit, and determined Soldiers win America’s conflicts. Your role as a Soldier derives from your “duties, responsibilities, and authorities” based upon your rank. Adhering to the Army Values and the Soldier’s Creed as well as “achieving competency in your rank and exhibiting the potential for the next higherCodes (60441-60636)
-Responsibility
-Team orientation
- rank”
+We (Soldiers) are the Army’s most important resource. Trained, fit, and determined Soldiers win America’s conflicts. Your role as a Soldier derives from your “duties, responsibilities, and authorities” based upon your rank. Adhering to the Army Values and the Soldier’s Creed as well as “achieving competency in your rank and exhibiting the potential for the next higher rank”
 
 /leadership position are inherent in your role as a Soldier (AR 600-8-19, paragraph 1-5). “Each role and responsibility is unique…” and “Every individual in the Army is a member of a team – as leaders or followers” (ADRP 6-22, paragraph 2-3). You are a warrior and a member of a team.
 
@@ -1539,12 +1524,7 @@ Soldier and comrades from other services, are the Nation’s ultimate guarantor 
 
 
 
-Yours is the profession of arms, the will to win, the sure knowledge that in war there is no substitute for victory, that if you lose, the nation will be destroyed, thaCodes (62827-63657)
-Responsibility
-Team building
-Team orientation
-Organizational trust
-t the very obsession of your public service must be Duty, Honor, Country…
+Yours is the profession of arms, the will to win, the sure knowledge that in war there is no substitute for victory, that if you lose, the nation will be destroyed, that the very obsession of your public service must be Duty, Honor, Country…
 
 GEN Douglas MacArthur
 
@@ -1682,9 +1662,7 @@ The relationships between initial entry training trainees and permanent party pe
 
 
 
-Recruiter and recruit relationships between permanent party personnel assigned or attached to the United States Army Recruiting Command and potential prospects, applicants, members of the delayed entry program, or members of the delayed training program not required by the recruiting mission are prohibited. This prohibition applies to United States Army Recruiting Command personnel without regard to the unit of assignment of the permanent party member and the potential prospects, applicants, delayed Codes (70523-70945)
-Organizational trust
-entry program or delayed training program members.
+Recruiter and recruit relationships between permanent party personnel assigned or attached to the United States Army Recruiting Command and potential prospects, applicants, members of the delayed entry program, or members of the delayed training program not required by the recruiting mission are prohibited. This prohibition applies to United States Army Recruiting Command personnel without regard to the unit of assignment of the permanent party member and the potential prospects, applicants, delayed entry program or delayed training program members.
 
 
 
@@ -1694,19 +1672,13 @@ Mutual trust and common goals are the two characteristics that enhance the relat
 
 
 
-Every Soldier has a sergeant. Team leaders, squad leaders, platoon sergeants, first sergeants, sergeants major and command sergeants major form the NCO Support Channel. This support channel is responsible for dCodes (71253-71580)
-Organizational trust
-ay-to-day operations of the unit, advises the Chain of Command, and trains and leads Soldiers.
+Every Soldier has a sergeant. Team leaders, squad leaders, platoon sergeants, first sergeants, sergeants major and command sergeants major form the NCO Support Channel. This support channel is responsible for day-to-day operations of the unit, advises the Chain of Command, and trains and leads Soldiers.
 
 
 
 
 
-No matter how big or small a problem may seem, you should make every attempt to utilize your chain of command or the NCO support channel (as appropriate) to assist in solving your problems. They have the means and resources to commCodes (71581-72091)
-Team building
-Team orientation
-Cooperation
-unicate your issue directly to the responsible leaders so that it may be handled expeditiously.
+No matter how big or small a problem may seem, you should make every attempt to utilize your chain of command or the NCO support channel (as appropriate) to assist in solving your problems. They have the means and resources to communicate your issue directly to the responsible leaders so that it may be handled expeditiously.
 
 
 
@@ -1732,11 +1704,7 @@ Not to expose themselves or Soldiers to unnecessary risk.
 
 Be accountable for their actions and the actions of their Soldiers.
 
-Endure hardships eCodes (72768-73174)
-Cooperation
-commitment to serve
-integrity
-qual to the hardships experienced by Soldiers.
+Endure hardships equal to the hardships experienced by Soldiers.
 
 Have admiration for the Soldier’s honest effort.
 
@@ -1880,26 +1848,17 @@ If Soldiers are captured and held in a group, they must organize in a military m
 
 
 
-The Codes (77967-78526)
-Responsibility
-Team orientation
-Code of Conduct GTA card is found on the U.S. Army Central Army Registry website.
+The Code of Conduct GTA card is found on the U.S. Army Central Army Registry website.
 
 
 
 4-8. Duties.
 
-Every Soldier has certain duties, responsibilities, and levels of authority. Soldiers should know what these are and how they apply to them. One obligation of Soldiers is to carry out their duties to standard and to the best of their abilities. They must bear their responsibilities knowing they are part of a team that only works well when each of its members does their best. If Soldiers are in a leadership position, they must exert authority to build the team and develop their Soldiers. Soldiers depend on their leaders eCodes (78589-78945)
-Responsibility
-very day to make tough decisions. There are three types of duties (TC 7-22.7):
+Every Soldier has certain duties, responsibilities, and levels of authority. Soldiers should know what these are and how they apply to them. One obligation of Soldiers is to carry out their duties to standard and to the best of their abilities. They must bear their responsibilities knowing they are part of a team that only works well when each of its members does their best. If Soldiers are in a leadership position, they must exert authority to build the team and develop their Soldiers. Soldiers depend on their leaders every day to make tough decisions. There are three types of duties (TC 7-22.7):
 
 
 
-Specified Duties. Specified duties are those related to jobs and positions. Directives such as Army Regulations, Department of the Army (DA) general orders, the Uniform Code of Military Justice (UCMJ), Soldier’s manuals, and Military Occupational Specialty (MOS) job descriptions specify theseCodes (78962-79470)
-Responsibility
-integrity
-Team orientation
- duties. They spell out what Soldiers must do and the standards they must meet.
+Specified Duties. Specified duties are those related to jobs and positions. Directives such as Army Regulations, Department of the Army (DA) general orders, the Uniform Code of Military Justice (UCMJ), Soldier’s manuals, and Military Occupational Specialty (MOS) job descriptions specify these duties. They spell out what Soldiers must do and the standards they must meet.
 
 
 
@@ -1909,25 +1868,17 @@ Implied Duties. Implied duties are not typically provided in writing, but are of
 
 
 
-functioning at an optimum level. In most cases, these duties depend on individual initiative. They improve the work environment anCodes (79488-79848)
-Responsibility
-Cooperation
-d motivate Soldiers to perform because they want to, not because they have to.
+functioning at an optimum level. In most cases, these duties depend on individual initiative. They improve the work environment and motivate Soldiers to perform because they want to, not because they have to.
 
 
 
-Directed Duties. These duties are directives communicated by superiors—orally or in writing—are not found in the unit’s organizational chart, and may not be directly related to a Soldier’s MOS or assigned job position. They may include assignments such as charge of quarters, staff duty, training NCO, seCodes (79872-80338)
-Responsibility
-rgeant of the guard, and chemical, biological, radiation, & nuclear NCO.
+Directed Duties. These duties are directives communicated by superiors—orally or in writing—are not found in the unit’s organizational chart, and may not be directly related to a Soldier’s MOS or assigned job position. They may include assignments such as charge of quarters, staff duty, training NCO, sergeant of the guard, and chemical, biological, radiation, & nuclear NCO.
 
 
 
 4-9. Responsibilities.
 
-Responsibility “can only reside and inhere in a single individual. You may share it with others, but your portion is not diminished. You may delegate it, but it is still with you. You may disclaim it, but you cannot divest yourself of it. Even if you do recognize it or admit its presence, you cannot escape it. If responsibility is rightfully yours, no evasion, or ignoCodes (80339-80709)
-Responsibility
-integrity
-rance, no passing the blame, can shift the burden to someone else”11 Admiral Hyman G. Rickover.
+Responsibility “can only reside and inhere in a single individual. You may share it with others, but your portion is not diminished. You may delegate it, but it is still with you. You may disclaim it, but you cannot divest yourself of it. Even if you do recognize it or admit its presence, you cannot escape it. If responsibility is rightfully yours, no evasion, or ignorance, no passing the blame, can shift the burden to someone else”11 Admiral Hyman G. Rickover.
 
 
 
@@ -1963,18 +1914,11 @@ Individual Responsibility. As a Soldier, you are responsible for performing your
 
 
 
-Responsibility based on rank. You also have uniqueCodes (81603-81989)
-Responsibility
-Organizational trust
- responsibilities based on rank, duty position, and even geographical location.
+Responsibility based on rank. You also have responsibilities based on rank, duty position, and even geographical location.
 
 
 
-Accountability. Related to responsibility is accountability. This is the requirement to answer to superiors (and ultimately the American people) for mission accomplishment, the lives and care of assigned Soldiers, and effective and efficient use of Army resources. It also includes an obligation to answer for properly using delCodes (82012-82321)
-Responsibility
-integrity
-Cooperation
-egated authority. Leaders are accountable for what they do or fail to do.
+Accountability. Related to responsibility is accountability. This is the requirement to answer to superiors (and ultimately the American people) for mission accomplishment, the lives and care of assigned Soldiers, and effective and efficient use of Army resources. It also includes an obligation to answer for properly using delegated authority. Leaders are accountable for what they do or fail to do.
 
 
 
@@ -1998,17 +1942,13 @@ Appearance. Commanders play a huge part in assisting Soldiers to maintain the So
 
 
 
-Fitness. Unit readiness begins with physically fit Soldiers and leaders; operations drain us physically, mentally, and emotionally. While crucial for success in battle, it is important for all members of the Army team to be physically fit, and not just Soldiers. Physically fit people feel more competent and confident, handle stress better, work longer and harder, and recover faster. These attributes provide valuable payoffs in any environment andCodes (83819-84170)
-Organizational trust
- aids in the accomplishment of the overall mission (ADRP 6-22, paragraph 4-5).
+Fitness. Unit readiness begins with physically fit Soldiers and leaders; operations drain us physically, mentally, and emotionally. While crucial for success in battle, it is important for all members of the Army team to be physically fit, and not just Soldiers. Physically fit people feel more competent and confident, handle stress better, work longer and harder, and recover faster. These attributes provide valuable payoffs in any environment and aids in the accomplishment of the overall mission (ADRP 6-22, paragraph 4-5).
 
 
 
 4-11.	Authority.
 
-Authority is the legitimate power of leaders to direct subordinates or to take action within the scope of their position. Military authority begins with the Constitution, which divides it between Congress and the President. Congress has the authority to make laws that govern the Army. The President, as Commander in Chief, commands the Armed ForCodes (84262-84633)
-Organizational trust
-ces.
+Authority is the legitimate power of leaders to direct subordinates or to take action within the scope of their position. Military authority begins with the Constitution, which divides it between Congress and the President. Congress has the authority to make laws that govern the Army. The President, as Commander in Chief, commands the Armed Forces.
 
 
 
@@ -2018,10 +1958,7 @@ Types of Authority. Two types of military authority exist: command and general m
 
 
 
-Command Authority. It originates with the President and may be supplemented by law or regulation. A leader exercises the authority over subordinates by virtue of rank and assignment to a position of leadership. Command authority is exercised when a member of the Army is assiCodes (84634-85060)
-Organizational trust
-Cooperation
-gned to or assumes a position requiring the direction and control of other members of the Army.
+Command Authority. It originates with the President and may be supplemented by law or regulation. A leader exercises the authority over subordinates by virtue of rank and assignment to a position of leadership. Command authority is exercised when a member of the Army is assigned to or assumes a position requiring the direction and control of other members of the Army.
 
 
 
@@ -2039,9 +1976,7 @@ On-the-Spot Corrections. Generally, a Soldier requires an on-the spot correction
 
 
 
-Corrective Training. Corrective training is for Soldiers who have demonstrated that they need and would benefit from additional instruction or practice in a particular area. Care must be taken to give training that has a reasonable relationship to the deficiency. Extra training and instruction, if timely and appropriate, may correct deficiencies and eliminate the need for formal disciplinary measures in the future. Extra training and instruction are not to be used as punitive measures. You must distinguish extra training and instruction from punishment or even the appearance of punishment. Soldiers should have extra traininCodes (86765-87185)
-Organizational trust
-g or instruction only as long as they need it to correct deficiencies.
+Corrective Training. Corrective training is for Soldiers who have demonstrated that they need and would benefit from additional instruction or practice in a particular area. Care must be taken to give training that has a reasonable relationship to the deficiency. Extra training and instruction, if timely and appropriate, may correct deficiencies and eliminate the need for formal disciplinary measures in the future. Extra training and instruction are not to be used as punitive measures. You must distinguish extra training and instruction from punishment or even the appearance of punishment. Soldiers should have extra training or instruction only as long as they need it to correct deficiencies.
 
 
 
@@ -2053,21 +1988,13 @@ LEADERSHIP
 
 
 
-As Soldiers and Army team members, we must understand that leadership is crucial towards mission accomplishment. This chapter allows you to self-reflect and identify what you may need to work on in becoming a better Soldier and a comCodes (87529-88163)
-Leader development
-petent leader when you are assigned to a position of leadership.
+As Soldiers and Army team members, we must understand that leadership is crucial towards mission accomplishment. This chapter allows you to self-reflect and identify what you may need to work on in becoming a better Soldier and a competent leader when you are assigned to a position of leadership.
 
 
 
 5-1. Soldier Leadership Cycle.
 
-To be an effective leader, a Soldier must master their skill level-1 competencies. This includes tactical and technical expertise with honesty and confidence. If you are a Soldier not assigned to a leadership position, you should recognize that your role within the unit is not limited to blindly following instructions, and you should strive to develop and/or hone your leadership skills. Leadership is a process that begins at the lowest level; you need to recognize that these skills never stop evolving. This includes but is not limited to previous employment, experience outside the military, education, and vocational aptitude. Figure 5-1 (page 5-2) shows how the SoldieCodes (88302-89541)
-Leader development
-Shared Vision
-Cooperation
-Team orientation
-Responsibility
-r Leadership Cycle is always evolving.
+To be an effective leader, a Soldier must master their skill level-1 competencies. This includes tactical and technical expertise with honesty and confidence. If you are a Soldier not assigned to a leadership position, you should recognize that your role within the unit is not limited to blindly following instructions, and you should strive to develop and/or hone your leadership skills. Leadership is a process that begins at the lowest level; you need to recognize that these skills never stop evolving. This includes but is not limited to previous employment, experience outside the military, education, and vocational aptitude. Figure 5-1 (page 5-2) shows how the Soldier Leadership Cycle is always evolving.
 
 
 
@@ -2115,12 +2042,7 @@ What type of personality are you? Are you capable of shouldering the responsibil
 
 
 
-Seek Self Development through Education. You need to seek every opportunity for self-development. This includes but is not limited to military education (noncommissioned officer professional development system, civilian education, and vocational learning from accredited civilian institutions. Growth through learning is a personal responsibilitCodes (89984-90644)
-Cooperation
-Shared Vision
-integrity
-Intellectual efficiency
-y that requires personal motivation, drive, fortitude, and discipline.
+Seek Self Development through Education. You need to seek every opportunity for self-development. This includes but is not limited to military education (noncommissioned officer professional development system, civilian education, and vocational learning from accredited civilian institutions. Growth through learning is a personal responsibility that requires personal motivation, drive, fortitude, and discipline.
 
 
 
@@ -2136,22 +2058,11 @@ Character: Army Values, Empathy, Warrior Ethos, Oath, Discipline.
 
 Presence: Military and Professional Bearing, Fitness, Confidence, Resilience.
 
-Intellect: MentalCodes (90672-91146)
-Intellectual efficiency
-Cooperation
-communication
-Leader development
- Agility, Sound Judgment, Innovation, Interpersonal Tact, Expertise.
+Intellect: Mental, Agility, Sound Judgment, Innovation, Interpersonal Tact, Expertise.
 
 
 
-Competencies of a Soldier. Character, presence, and intellect will build a trust relationship from your leader to you. This relationship will promote good communication, leadership opportunities, and a common goal. As you progress through the ranks, you will develop skills critical to your first opportunity as a leader. You need to be loyal, competent in your MOS and tactical skills, and seek leadershCodes (91146-91828)
-Leader development
-Intellectual efficiency
-Team orientation
-Adaptability
-communication
-ip prospects. Paragraph 9-9 provides more details on the nine 21st-century Soldier competencies.
+Competencies of a Soldier. Character, presence, and intellect will build a trust relationship from your leader to you. This relationship will promote good communication, leadership opportunities, and a common goal. As you progress through the ranks, you will develop skills critical to your first opportunity as a leader. You need to be loyal, competent in your MOS and tactical skills, and seek leadership prospects. Paragraph 9-9 provides more details on the nine 21st-century Soldier competencies.
 
 Developing Leadership Potential. You need to adhere to the Army standards; always doing the correct action at the right time. Mastering the basic Soldier functions develops the foundation for leadership behavior and establishes leadership behaviors that blend with the standards of the Army.
 
@@ -2169,10 +2080,7 @@ Develop mental agility.
 
 Develop flexible and adaptive ways to approach issues.
 
-DemoCodes (91828-92723)
-Leader development
-Responsibility
-nstrate professionalism and maturity.
+Demonstrate professionalism and maturity.
 
 Demonstrate leadership presence.
 
@@ -2200,17 +2108,11 @@ Embrace the Soldier first philosophy.
 
 Seek upward mobility through education both military and civilian.
 
-Seek to break the mode of a follower and aCodes (92723-93189)
-Leader development
-Shared Vision
-Negation of Positive Qualities
-dopt behavior commensurate with a professional.
+Seek to break the mode of a follower and adopt behavior commensurate with a professional.
 
 Master your technical and tactical competencies.
 
-Self-awareness is critical to you and is imperative to growing into a mature and responsible leader. Soldiers that understand the “bigger picture” will excel in positions of greater responsibility. Understanding your maturity level, leadership capacity, and personal behavior is critical to correcting potentially flawed leadership habits. Judgment by your peers and potentially your subordinatCodes (93214-93680)
-communication
-es will start now. Correct your behaviors before they become bad habits.
+Self-awareness is critical to you and is imperative to growing into a mature and responsible leader. Soldiers that understand the “bigger picture” will excel in positions of greater responsibility. Understanding your maturity level, leadership capacity, and personal behavior is critical to correcting potentially flawed leadership habits. Judgment by your peers and potentially your subordinates will start now. Correct your behaviors before they become bad habits.
 
 
 
@@ -2266,9 +2168,7 @@ Successful leaders have good relationships with their senior NCOs. Successful co
 
 
 
-Table 5-2 on page 5-9 provides a place to record your cCodes (96914-97169)
-Leader development
-urrent NCO Support Channel.
+Table 5-2 on page 5-9 provides a place to record your current NCO Support Channel.
 
 
 
@@ -2492,24 +2392,17 @@ TRAINING MANAGEMENT
 
 
 
-This chapter discusses training management and how it applies to Soldiers’ development using Codes (108112-108163)
-Shared Vision
-the institutional, operational and self-development domains.
+This chapter discusses training management and how it applies to Soldiers’ development using the institutional, operational and self-development domains.
 
 
 
 6-1. Unit Training Management.
 
-Training management starts with the unit mission. From the mission, unit leaders develop the mission essential task list (METL). The METL is an unconstrained statement of the tasks required to accomplish wartime missions. The availability of resources does not affect METL development, but resources for training are constrained and compete with other missions and requirements. Therefore, leaders develop the long-range, short-range, and near-term training plans to utilCodes (108676-109154)
-Responsibility
-ize available resources to train for proficiency on METL tasks (ADP 7-0).
+Training management starts with the unit mission. From the mission, unit leaders develop the mission essential task list (METL). The METL is an unconstrained statement of the tasks required to accomplish wartime missions. The availability of resources does not affect METL development, but resources for training are constrained and compete with other missions and requirements. Therefore, leaders develop the long-range, short-range, and near-term training plans to utilize available resources to train for proficiency on METL tasks (ADP 7-0).
 
 
 
-Individual Tasks. An individual task is a clearly defined, observable, and measurable activity accomplished by an individual. It is the lowest behavioral level in a job or duty that is performed for its own sake. An individual task supports one or more collective tasks or drills and often supports another individual task. It must be specific and have a definite beginning and ending. It is generally performed in a relatCodes (109173-109759)
-Shared Vision
-Cooperation
-ively short time; however, there may or may not be a specific time limit.
+Individual Tasks. An individual task is a clearly defined, observable, and measurable activity accomplished by an individual. It is the lowest behavioral level in a job or duty that is performed for its own sake. An individual task supports one or more collective tasks or drills and often supports another individual task. It must be specific and have a definite beginning and ending. It is generally performed in a relatively short time; however, there may or may not be a specific time limit.
 
 
 
@@ -2519,25 +2412,15 @@ Collective Tasks. Collective tasks are clearly defined, observable, and measurab
 
 
 
-These provide summary information concerning collective task training, as well as individual and leader training tasks that support the successful execution of collective training. T&EOs also provide information concerning Codes (110077-110519)
-Shared Vision
-Cooperation
-evaluation standards applicable to a training situation (ADRP 1-03).
+These provide summary information concerning collective task training, as well as individual and leader training tasks that support the successful execution of collective training. T&EOs also provide information concerning evaluation standards applicable to a training situation (ADRP 1-03).
 
 
 
-Shared collective task. A shared collective task is a task that is doctrinally performed in the same manner by multiple types of units, and provides multi-echelon training opportunities for multiple career management fields. This ensures that Army units train and fight the same way and we can efficiently consolidate our efforts in response to conflict. Shared collective tasks must be represented through only one task to ensure Army-wide standardized training. Examples of appropriate shared collective tasks include; Reconnoiter a Route, Perform Passive Air Codes (110709-111108)
-Cooperation
-Shared Vision
-Defense Measures, Conduct an Attack, and Conduct a Tactical Convoy.
+Shared collective task. A shared collective task is a task that is doctrinally performed in the same manner by multiple types of units, and provides multi-echelon training opportunities for multiple career management fields. This ensures that Army units train and fight the same way and we can efficiently consolidate our efforts in response to conflict. Shared collective tasks must be represented through only one task to ensure Army-wide standardized training. Examples of appropriate shared collective tasks include; Reconnoiter a Route, Perform Passive Air Defense Measures, Conduct an Attack, and Conduct a Tactical Convoy.
 
 
 
-Unique collective task. A unique collective task is a clearly defined collective task that provides training opportunities for a single career management field. The designated proponent is solely responsible for the development and maintenance of a unique collective task. Tasks may be incorporated into other proponents’ unit task lists for use when the assigned career management fields are outside the unit’s proponency. An example of a Codes (111218-111742)
-Shared Vision
-Cooperation
-Definition of team success
-unique collective task is Install Underground Pipeline.
+Unique collective task. A unique collective task is a clearly defined collective task that provides training opportunities for a single career management field. The designated proponent is solely responsible for the development and maintenance of a unique collective task. Tasks may be incorporated into other proponents’ unit task lists for use when the assigned career management fields are outside the unit’s proponency. An example of a unique collective task is Install Underground Pipeline.
 
 
 
@@ -2569,11 +2452,7 @@ more than just a Soldier, your quest in becoming a leader lies within the three 
 
 
 
-The Institutional Domain. This domain includes initial military training, professional military education, Civilian Education System (CES), and functional training for you as well as Army civilians (TC 7-22.7, paragraph 6.4). This is considered the institutional force and where your training will begin. It will provide courses/events based on individual tasks/topicsCodes (114373-114682)
-Team orientation
-Shared Vision
-Definition of team success
- at institutions to ensure you meet established learning standards.
+The Institutional Domain. This domain includes initial military training, professional military education, Civilian Education System (CES), and functional training for you as well as Army civilians (TC 7-22.7, paragraph 6.4). This is considered the institutional force and where your training will begin. It will provide courses/events based on individual tasks/topics at institutions to ensure you meet established learning standards.
 
 
 
@@ -4189,7 +4068,7 @@ EFMP	exceptional Family member program EO	equal opportunity
 
 
 
-Glossary	
+Glossary
 
 
 
