@@ -1,4 +1,4 @@
-﻿
+
 
 
 Table 2 – 4
@@ -31,9 +31,7 @@ Character encompasses elements internal and central to the leader’s core consi
 
 
 
-Action required: Rating officials will comment on how well the rated officer promoted a climate of dignity and respect and adhered to the requirements of the SHARP program. Codes (1192-1560)
-Team building
-This assessment should identify, as appropriate, any significant actions or contributions the rated officer made toward promoting the personal and professional development of subordinates; ensuring the fair, respectful treat-ment of unit personnel; and establishing a workplace and overall command climate that fosters dignity and respect for all members of the unit. This assessment should also identify any failures by the rated officer to foster a climate of dignity and respect and adhere to the SHARP program. Additional comments may be explained and entered in part IV, blocks c.1 though c.6 (if required).
+Action required: Rating officials will comment on how well the rated officer promoted a climate of dignity and respect and adhered to the requirements of the SHARP program. This assessment should identify, as appropriate, any significant actions or contributions the rated officer made toward promoting the personal and professional development of subordinates; ensuring the fair, respectful treat-ment of unit personnel; and establishing a workplace and overall command climate that fosters dignity and respect for all members of the unit. This assessment should also identify any failures by the rated officer to foster a climate of dignity and respect and adhere to the SHARP program. Additional comments may be explained and entered in part IV, blocks c.1 though c.6 (if required).
 
 
 
@@ -49,9 +47,7 @@ d. Retaliated against a person making a complaint or report of sexual harassment
 
 
 
-Army Values consist of the principles, standards, and qualities considered essential for successful Army leaders. They are fundamen-tal to helping Soldiers and DA Civilians make the right decision in any situation. Codes (2448-2525)
-Leader development
-Army Values are an important leader responsibility and an expected standard. Comments, when provided, will refer to a specific value and be included in the narrative (for example, “A solid, trustworthy officer whose integrity is beyond reproach.”). A list of Army Values and their definitions follow (see ADRP 6 – 22 for a more detailed explanation).
+Army Values consist of the principles, standards, and qualities considered essential for successful Army leaders. They are fundamen-tal to helping Soldiers and DA Civilians make the right decision in any situation. Army Values are an important leader responsibility and an expected standard. Comments, when provided, will refer to a specific value and be included in the narrative (for example, “A solid, trustworthy officer whose integrity is beyond reproach.”). A list of Army Values and their definitions follow (see ADRP 6 – 22 for a more detailed explanation).
 
 
 
@@ -83,15 +79,11 @@ g. Personal Courage: faces fear, danger, or adversity (physical and moral).
 
 
 
-Empathy:Codes (3344-3837)
-Shared Vision
- the ability to see something from another person’s point of view, to identify with, and enter into another person’s feelings and emotions. Empathy allows the leader to anticipate what others are experiencing and to try to envision how decisions or actions affect them. Army leaders display empathy when they genuinely relate to another person’s situation, motives, and feelings. Empathy does not necessarily mean sympathy for another, but identification that leads to a deeper understanding.
+Empathy:the ability to see something from another person’s point of view, to identify with, and enter into another person’s feelings and emotions. Empathy allows the leader to anticipate what others are experiencing and to try to envision how decisions or actions affect them. Army leaders display empathy when they genuinely relate to another person’s situation, motives, and feelings. Empathy does not necessarily mean sympathy for another, but identification that leads to a deeper understanding.
 
 
 
-Warrior Ethos and Service Ethos: the professional attitudes and beliefs that characterize the American Soldier. Codes (3950-4173)
-commitment to serve
-They reflect a Sol-dier’s selfless commitment to the Nation, mission, unit, and fellow Soldiers. These ethos are developed and sustained through disci-pline, commitment to the Army Values, and pride in the Army’s heritage. The key to the Warrior Ethos and Service Ethos are not only physical, tactical, and technical training, but also a mindset developed through purposeful mental preparation.
+Warrior Ethos and Service Ethos: the professional attitudes and beliefs that characterize the American Soldier. They reflect a Sol-dier’s selfless commitment to the Nation, mission, unit, and fellow Soldiers. These ethos are developed and sustained through disci-pline, commitment to the Army Values, and pride in the Army’s heritage. The key to the Warrior Ethos and Service Ethos are not only physical, tactical, and technical training, but also a mindset developed through purposeful mental preparation.
 
 
 
@@ -102,10 +94,6 @@ Discipline: at the individual level, this is primarily self-discipline, the abil
 
 
 DA Form 67 – 10 – 1, part IV: block c.2—Presence
-
-
-Codes (4954-5285)
-Qualities of a Leader
 
 Presence is the impression a leader makes on others contributing to his or her success in leading them. This impression is the sum of a leader’s outward appearance, demeanor, actions, and words. Presence incorporates a leader’s effectiveness when demonstrating military and profession bearing, fitness, confidence, and resilience.
 
@@ -145,9 +133,7 @@ Confidence: projecting self-confidence and certainty in the unit’s ability to 
 
 
 
-Resilience: tCodes (5848-5985)
-Adaptability
-he psychological and physical capacity to bounce back from life’s stressors repeatedly to thrive in an era of high opera-tional tempo.
+Resilience: the psychological and physical capacity to bounce back from life’s stressors repeatedly to thrive in an era of high opera-tional tempo.
 
 
 
@@ -161,15 +147,11 @@ DA Form 67 – 10 – 1, part IV: block c.3—Intellect
 
 
 
-InCodes (6078-6722)
-Intellectual efficiency
-tellect draws on the mental tendencies and resources that shape conceptual abilities applied to one’s duties and responsibilities. Conceptual abilities enable effective problem solving and sound judgment before implementing concepts and plans. They help one think creatively and reason analytically, critically, ethically, and with cultural sensitivity to consider unintended as well as intended consequences, helping leaders anticipate the second- and third-order effects of their actions. The conceptual components affecting an Army leader’s intellect include mental agility, sound judgment, innovation, interpersonal tact, and expertise.
+Intellect draws on the mental tendencies and resources that shape conceptual abilities applied to one’s duties and responsibilities. Conceptual abilities enable effective problem solving and sound judgment before implementing concepts and plans. They help one think creatively and reason analytically, critically, ethically, and with cultural sensitivity to consider unintended as well as intended consequences, helping leaders anticipate the second- and third-order effects of their actions. The conceptual components affecting an Army leader’s intellect include mental agility, sound judgment, innovation, interpersonal tact, and expertise.
 
 
 
-MeCodes (6722-6970)
-Adaptability
-ntal agility: a flexibility of mind, an ability to anticipate or adapt to uncertain or changing situations. Agility enables thinking through second- and third-order effects when current decisions or actions are not producing the desired results.
+Mental agility: a flexibility of mind, an ability to anticipate or adapt to uncertain or changing situations. Agility enables thinking through second- and third-order effects when current decisions or actions are not producing the desired results.
 
 
 
@@ -181,15 +163,11 @@ Innovation: the ability to introduce something new when needed or as opportuniti
 
 
 
-InCodes (7780-8093)
-Diversity In Team
-terpersonal tact: interacting with others depends on knowing what others perceive. It relies on accepting the character, reactions, and motives of oneself and others. Interpersonal tact combines these skills, along with recognizing diversity and displaying self-con-trol, balance, and stability in situations.
+Interpersonal tact: interacting with others depends on knowing what others perceive. It relies on accepting the character, reactions, and motives of oneself and others. Interpersonal tact combines these skills, along with recognizing diversity and displaying self-con-trol, balance, and stability in situations.
 
 
 
-ExCodes (8093-8776)
-Qualities of a Leader
-pertise: the special knowledge and skill developed from experience, training, and education. Domain knowledge is what leaders know about application areas used in their duties and positions. Leaders create and use knowledge in at least four domains. Tactical knowledge relates to accomplishing a designated objective through military means. Technical knowledge consists of the specialized information associated with a particular function or system. Joint knowledge is an understanding of joint organizations, their proce-dures, and roles in national defense. Cultural and geopolitical knowledge is awareness of cultural, geographic, and political differ-ences and sensitivities.
+Expertise: the special knowledge and skill developed from experience, training, and education. Domain knowledge is what leaders know about application areas used in their duties and positions. Leaders create and use knowledge in at least four domains. Tactical knowledge relates to accomplishing a designated objective through military means. Technical knowledge consists of the specialized information associated with a particular function or system. Joint knowledge is an understanding of joint organizations, their proce-dures, and roles in national defense. Cultural and geopolitical knowledge is awareness of cultural, geographic, and political differ-ences and sensitivities.
 
 
 
@@ -207,15 +185,11 @@ Leads encompasses five competencies: leads others, extends influence beyond the 
 
 
 
-LeCodes (9230-9876)
-Organizational trust
-ads others: measures the ability to influence Soldiers and DA Civilians in the leader’s organization. Leaders apply character, pres-ence, and intellect to the core leader competencies while guiding others toward a common goal and mission accomplishment. Direct leaders influence others person-to-person, such as a team leader who instructs, encourages hard work, and recognizes achievement. At the direct level, a platoon leader knows what a battalion (BN) commander wants done because the lieutenant understands the commander’s intent two levels up. The intent creates a critical link between the organizational and direct leadership levels.
+Leads others: measures the ability to influence Soldiers and DA Civilians in the leader’s organization. Leaders apply character, pres-ence, and intellect to the core leader competencies while guiding others toward a common goal and mission accomplishment. Direct leaders influence others person-to-person, such as a team leader who instructs, encourages hard work, and recognizes achievement. At the direct level, a platoon leader knows what a battalion (BN) commander wants done because the lieutenant understands the commander’s intent two levels up. The intent creates a critical link between the organizational and direct leadership levels.
 
 
 
-Extends influence beyond the chain of command: involves influencing others when the leader does not have designated authority or when the leader’s authority is not recognized by others. Influence refers to how people create and relay their messages, behaviors, and attitudes to affect the intentions, beliefs, behaviors, and attitudes of another person or group of people. InCodes (10249-10544)
-Team building
-fluence depends upon relationships where leaders build positive rapport and a relationship of mutual trust, making followers more willing to support re-quests. Examples include showing personal interest in a follower’s well-being, offering praise, and understanding a follower’s per-spective.
+Extends influence beyond the chain of command: involves influencing others when the leader does not have designated authority or when the leader’s authority is not recognized by others. Influence refers to how people create and relay their messages, behaviors, and attitudes to affect the intentions, beliefs, behaviors, and attitudes of another person or group of people. Influence depends upon relationships where leaders build positive rapport and a relationship of mutual trust, making followers more willing to support re-quests. Examples include showing personal interest in a follower’s well-being, offering praise, and understanding a follower’s per-spective.
 
 
 
@@ -241,11 +215,7 @@ Performance evaluation–professionalism and Army Values for DA Form 67 – 10 �
 
 
 
-Builds trust: encompasses reliance upon others, confidence in their abilities, and consistency in behavior. Trust builds over time through mutual respect, shared understanding, and common experiences. CoCodes (10896-11015)
-communication
-mmunication contributes to trust by keeping others in-formed, establishing expectations, and developing commitments. Sustaining trust depends on meeting those expectations and com-mitments. TCodes (11087-11323)
-Organizational trust
-rust forms and fosters when leaders create a positive command climate by identifying areas of common interest and goals. Teams develop trust through cooperation, identification with other members, and contribution to the team effort.
+Builds trust: encompasses reliance upon others, confidence in their abilities, and consistency in behavior. Trust builds over time through mutual respect, shared understanding, and common experiences. Communication contributes to trust by keeping others in-formed, establishing expectations, and developing commitments. Sustaining trust depends on meeting those expectations and com-mitments. Trust forms and fosters when leaders create a positive command climate by identifying areas of common interest and goals. Teams develop trust through cooperation, identification with other members, and contribution to the team effort.
 
 
 
@@ -253,10 +223,7 @@ Leads by example: living by the Army Values and the Warrior Ethos that best disp
 
 
 
-CoCodes (11654-12229)
-communication
-Shared Vision
-mmunicates: ensures there is more than the simple transmission of information. It achieves a new understanding and creates new
+Communicates: ensures there is more than the simple transmission of information. It achieves a new understanding and creates new
 
 
 
@@ -298,9 +265,7 @@ Developing people and the organization with a long-term perspective requires lea
 
 
 
-— Invest adequate time and effort to develop individual subordinates and build effective teams. SuCodes (13028-13279)
-Leader development
-ccess demands a fine balance of teaching, counseling, coaching, and mentoring.
+— Invest adequate time and effort to develop individual subordinates and build effective teams. Success demands a fine balance of teaching, counseling, coaching, and mentoring.
 
 
 
@@ -308,9 +273,7 @@ ccess demands a fine balance of teaching, counseling, coaching, and mentoring.
 
 
 
-— The rater will comment on hoCodes (13308-13462)
-Team orientation
-w well the officer promoted and supported a healthy workplace environment conducive to the growth and development of personnel when completing the OER.
+— The rater will comment on how well the officer promoted and supported a healthy workplace environment conducive to the growth and development of personnel when completing the OER.
 
 
 
@@ -466,20 +429,11 @@ DA Form 1059, part II: block f—Character/accountability
 
 Action required: The academic rater will check the box that best indicates how well the Soldier demonstrated character and ac-countability during the course, as defined below:
 
-— Soldiers and leaders demonstrate Army values, the Soldier’s Creed, and Warrior Ethos through action while also developing char-acter and accountability in subordinates. TheyCodes (18164-18394)
-Responsibility
- accept obligations of service before self and for assigned tasks, missions, their subor-dinates, and themselves while building confidence in leaders, peers, and subordinates that they can be counted upon to accomplish goals. SoldCodes (18394-18395)
-Shared Vision
-Responsibility
-iCodes (18395-18701)
-Shared Vision
-er and leader actions are guided by the Army Ethic, which consists of the shared values, beliefs, ideals, and principles held by the Army Profession of Arms and embedded in its culture that are taught to, internalized by, and practiced by all Soldiers in full-spectrum operations as well as peacetime.
+— Soldiers and leaders demonstrate Army values, the Soldier’s Creed, and Warrior Ethos through action while also developing char-acter and accountability in subordinates. They accept obligations of service before self and for assigned tasks, missions, their subor-dinates, and themselves while building confidence in leaders, peers, and subordinates that they can be counted upon to accomplish goals. Soldier and leader actions are guided by the Army Ethic, which consists of the shared values, beliefs, ideals, and principles held by the Army Profession of Arms and embedded in its culture that are taught to, internalized by, and practiced by all Soldiers in full-spectrum operations as well as peacetime.
 
 
 
-— Adhering to and internalizing the Army Ethic develops strong character, ethical reasoning and decision making, empathy for oth-ers, and the self-discipline to always do what is right for fellow Soldiers, the Army, and the Nation. Character enables the Soldier to operate in a complex and uncertain environment with the understanding that the Soldier is individually accountable for not only what is done, but also for what might not be done. The Codes (19146-19373)
-commitment to serve
-pride, esprit, and ethos required of Soldiers as members of the Profession of Arms may require them to sacrifice themselves willingly to preserve the Nation, accomplish the mission, or protect the lives of fellow Sol-diers. Qualities of character and ethical behavior will be stressed at every level.
+— Adhering to and internalizing the Army Ethic develops strong character, ethical reasoning and decision making, empathy for oth-ers, and the self-discipline to always do what is right for fellow Soldiers, the Army, and the Nation. Character enables the Soldier to operate in a complex and uncertain environment with the understanding that the Soldier is individually accountable for not only what is done, but also for what might not be done. The pride, esprit, and ethos required of Soldiers as members of the Profession of Arms may require them to sacrifice themselves willingly to preserve the Nation, accomplish the mission, or protect the lives of fellow Sol-diers. Qualities of character and ethical behavior will be stressed at every level.
 
 
 
@@ -547,9 +501,7 @@ DA Form 1059, part II: block h—Intellect/critical thinking and problem solving
 
 Action required: The academic rater will check the box that best indicates how well the Soldier demonstrated intellect, critical think-ing, and problem solving during the course, as defined below:
 
-SoldCodes (20528-21044)
-Intellectual efficiency
-iers and leaders analyze and evaluate thinking, with a view to improving it. They solve complex problems by using experiences, training, education, critical questioning, convergent, critical, and creative thinking, and collaboration to develop solutions. Throughout their careers, Soldiers and leaders continue to analyze information and hone thinking skills while handling problems of increasing complexity. Select leaders also develop strategic thinking skills necessary for assignments at the national level. Reference: TP 525 – 8 – 2 and paragraph 4 – 3
+Soldiers and leaders analyze and evaluate thinking, with a view to improving it. They solve complex problems by using experiences, training, education, critical questioning, convergent, critical, and creative thinking, and collaboration to develop solutions. Throughout their careers, Soldiers and leaders continue to analyze information and hone thinking skills while handling problems of increasing complexity. Select leaders also develop strategic thinking skills necessary for assignments at the national level. Reference: TP 525 – 8 – 2 and paragraph 4 – 3
 
 
 
@@ -561,9 +513,7 @@ DA Form 1059, part II: block i—Leads/communication and engagement
 
 Action required: The academic rater will check the box that best indicates how well the Soldier demonstrated leadership, communi-cation, and engagement during the course, as defined below:
 
-SoldCodes (21349-21674)
-communication
-iers and leaders express themselves clearly and succinctly in oral, written, and digital communications. They use interpersonal tact, influence, and communication to build effective working relationships and social networks that facilitate knowledge acquisition and provide feedback necessary for continuous improvement.
+Soldiers and leaders express themselves clearly and succinctly in oral, written, and digital communications. They use interpersonal tact, influence, and communication to build effective working relationships and social networks that facilitate knowledge acquisition and provide feedback necessary for continuous improvement.
 
 
 
@@ -591,11 +541,7 @@ DA Form 1059, part II: block j—Develops/collaboration
 
 Action required: The academic rater will check the box that best indicates how well the Soldier demonstrated development and col-laboration during the course, as defined below:
 
-SoldCodes (22261-22440)
-Shared Vision
-iers and leaders create high-performing formal and informal groups by leading, motivating, and influencing individuals and part-ners to work toward common goals effectively. They are effective team members, understand team dynamics, and take appropriate action to foster trust, cohesion, communication, cooperation, effectiveness, and dependability within the team. LeaCodes (22630-22730)
-Diversity In Team
-ders build teams, seek multiple perspectives, alternative viewpoints, and manage team conflict. Reference: TP 525 – 8 – 2 and para 4 – 3
+Soldiers and leaders create high-performing formal and informal groups by leading, motivating, and influencing individuals and part-ners to work toward common goals effectively. They are effective team members, understand team dynamics, and take appropriate action to foster trust, cohesion, communication, cooperation, effectiveness, and dependability within the team. Leaders build teams, seek multiple perspectives, alternative viewpoints, and manage team conflict. Reference: TP 525 – 8 – 2 and para 4 – 3
 
 
 
@@ -607,9 +553,7 @@ DA Form 1059, part II: block k—Achieves/lifelong learner
 
 Action required: The academic rater will check the box that best indicates how well the Soldier demonstrated achievement and life-long learning during the course, as defined below:
 
-SoldCodes (23013-23368)
-Leader development
-iers and leaders continually assess themselves, identify what they need to learn and use skills that help them to effectively ac-quire and update knowledge, skills, and attitudes. Soldiers and leaders value and integrate all forms of learning (formal, informal) on a daily basis to seek improvement of themselves and their organizations continuously.
+Soldiers and leaders continually assess themselves, identify what they need to learn and use skills that help them to effectively ac-quire and update knowledge, skills, and attitudes. Soldiers and leaders value and integrate all forms of learning (formal, informal) on a daily basis to seek improvement of themselves and their organizations continuously.
 
 
 

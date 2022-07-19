@@ -1,4 +1,4 @@
-﻿
+
 ADP 6-22
 
 ARMY LEADERSHIP AND THE PROFESSION
@@ -462,13 +462,8 @@ Republished with permission of the Academy of Management, from “Successful Org
 Introduction
 
 
-Codes (8128-8768)
-Qualities of a Leader
 
 ADP 6-22 establishes and describes the Army profession and the associated ethic that serve as the basis for a shared professional identity. It establishes and describes what leaders should be and do. Having a standard set of leader attributes and core leader competencies facilitates focused feedback, education, training, and development across all leadership levels. ADP 6-22 describes enduring concepts of leadership through the core competencies and attributes required of leaders of all cohorts and all organizations, regardless of mission or setting. These principles reflect decades of experience and validated scientific knowledge.
-Codes (8768-9146)
-Qualities of a Leader
-Intellectual efficiency
 
 An ideal Army leader serves as a role model through strong intellect, physical presence, professional competence, and moral character. An Army leader is able and willing to act decisively, within superior leaders’ intent and purpose, and in the organization’s best interests. Army leaders recognize that organizations, built on mutual trust and confidence, accomplish missions.
 
@@ -674,9 +669,7 @@ Esprit de corps.
 
 
 
-TrusCodes (19132-22398)
-Organizational trust
-t
+Trust
 
 1-11. Trust is the foundation of the Army’s relationship with the American people, who rely on the Army to ethically, effectively, and efficiently serve the Nation. Within the Army profession, trust is shared confidence
 
@@ -748,9 +741,7 @@ Military-technical.
 
 
 
-LeadCodes (26010-26691)
-Leader development
-er and Human Development
+Leader and Human Development
 
 1-25. The leader and human development field informs how the Army profession inspires young people to volunteer to accept a calling to honorable service and then simultaneously develops and certifies their character, competence, and commitment. The Army personnel development system’s lifecycle management functions, including leader and professional development as well as talent management, are career-long processes centered on sequential and progressive training, education, and experience. Lifelong learning is a professional obligation for all Army professionals that includes actively offering and accepting coaching, counseling, and mentoring.
 
@@ -792,10 +783,7 @@ Military-Technical
 
 
 
-StewCodes (30097-31927)
-integrity
-Shared Vision
-ardship
+Stewardship
 
 1-32. Stewardship is the responsibility of Soldiers and Army civilians to strengthen the Army as a profession. It includes caring for the people and resources entrusted to them by the American people, ensuring Army forces are ready, now and in the future, to accomplish the Army’s missions.
 
@@ -817,10 +805,7 @@ ardship
 
 Esprit de Corps
 
-1-38Codes (31945-32576)
-Organizational trust
-Shared Vision
-. Esprit de corps denotes the Army’s winning spirit—a collective ethos of camaraderie, mutual trust, and cohesive teamwork. Successfully accomplishing missions requires spirited and dedicated Soldiers and Army civilians who strive for standards of excellence. Army forces embrace shared intent and situational understanding, accept prudent risk, and exercise disciplined initiative. These guiding principles, in harmony with the Army ethic, strengthen the Army’s identity, resilience, and courage—a never-quit resolve—enabling Army forces to persevere and accomplish the mission in the presence of risk, uncertainty, and fear.
+1-38. Esprit de corps denotes the Army’s winning spirit—a collective ethos of camaraderie, mutual trust, and cohesive teamwork. Successfully accomplishing missions requires spirited and dedicated Soldiers and Army civilians who strive for standards of excellence. Army forces embrace shared intent and situational understanding, accept prudent risk, and exercise disciplined initiative. These guiding principles, in harmony with the Army ethic, strengthen the Army’s identity, resilience, and courage—a never-quit resolve—enabling Army forces to persevere and accomplish the mission in the presence of risk, uncertainty, and fear.
 
 1-39. Soldiers and Army civilians are led, trained, and equipped to accomplish a variety of missions. However, these preparations alone are not enough. The challenges of warfare wear on the morale of even the most experienced leaders. To persevere and prevail in these conditions require both commitment and resilience. Esprit de corps reflects the Army’s collective perseverance to accomplish the toughest missions, ethically, as a team of teams.
 
@@ -828,9 +813,7 @@ Shared Vision
 
 1-41. For Soldiers and Army civilians, esprit de corps is reflected in—
 
-SharCodes (33722-34143)
-Shared Vision
-ed understanding of their professional identity, reasons why they serve, and ways they serve the American people.
+Shared understanding of their professional identity, reasons why they serve, and ways they serve the American people.
 
 Motivation, discipline, striving for excellence, and good morale.
 
@@ -844,15 +827,11 @@ Living by the Army ethic.
 
 1-42. Within a unit, command, or organization, esprit de corps is evident in—
 
-A shCodes (34221-34260)
-Shared Vision
-ared sense of purpose and mission.
+A shared sense of purpose and mission.
 
 Pride in the teamwork that makes its members willing to sacrifice for one another.
 
-PersCodes (34343-34389)
-Adaptability
-everance through adversity and challenge.
+Perseverance through adversity and challenge.
 
 A professional organizational climate—upholding the Army ethic.
 
@@ -864,9 +843,7 @@ The sense of teamwork that makes its members willing to sacrifice for one anothe
 
 1-43. The Army profession strengthens esprit de corps through—
 
-SharCodes (34723-35112)
-Organizational trust
-ed understanding that “America’s Army” is one indivisible team.
+Shared understanding that “America’s Army” is one indivisible team.
 
 Willing obedience to civilian authority as a trusted member of the joint force.
 
@@ -888,10 +865,7 @@ Programs and systems that are trusted to be ethical, effective, and efficient.
 
 
 
-1-45Codes (35720-36280)
-Shared Vision
-Team orientation
-. The Army ethic is the basis of the Army’s shared professional identity of trusted Army professionals. This identity expresses how Army professionals view their profession and why they serve. Love of country and family, preservation of the peace, and defense of the American people and the Army Values are inherent to the Army ethic. The ethical, effective, and efficient accomplishment of the mission is the core of this ethic. Soldiers and Army civilians are bound in common moral purpose to support and defend the Constitution and the American people.
+1-45. The Army ethic is the basis of the Army’s shared professional identity of trusted Army professionals. This identity expresses how Army professionals view their profession and why they serve. Love of country and family, preservation of the peace, and defense of the American people and the Army Values are inherent to the Army ethic. The ethical, effective, and efficient accomplishment of the mission is the core of this ethic. Soldiers and Army civilians are bound in common moral purpose to support and defend the Constitution and the American people.
 
 1-46. The Army ethic guides institutional policy and practice in the ethical design, generation, support and application of landpower, under civilian authority, on behalf of the American people. The relationship between the Army profession and the American people depends on mutual trust, continuously reinforced through the performance of honorable service, military expertise, and stewardship.
 
@@ -941,9 +915,7 @@ Bonds of trust with the American people.
 
 
 
-A SHARCodes (40298-41223)
-Shared Vision
-ED IDENTITY—TRUSTED ARMY PROFESSIONALS
+A SHARED IDENTITY—TRUSTED ARMY PROFESSIONALS
 
 1-56. By taking their solemn oaths of service, Army professionals voluntarily incur an extraordinary moral obligation to live by and uphold the Army ethic, including Army Values, in their decisions and actions, in all aspects of life. It is their responsibility to embrace a shared identity as trusted Army professionals. As such, they assume complementary roles. As honorable servants in defense of the Constitution, they are professionals of character. As Army experts, they are competent professionals. As responsible stewards of the Army profession, they are committed and accountable to each other, the profession, and the American people. When Army professionals return to society, they embrace the concept of Soldiers for Life, and continue to be moral-ethical exemplars for their families and communities, and contribute to the well-being of the United States of America.
 
@@ -1053,10 +1025,7 @@ Army professionals recognize the intrinsic dignity and worth of all people and t
 
 
 
-Army pCodes (48007-48217)
-integrity
-communication
-rofessionals lead by example and demonstrate courage by doing what is ethical despite risk, uncertainty, and fear; they candidly express their professional judgment to subordinates, peers, and superiors.
+Army professionals lead by example and demonstrate courage by doing what is ethical despite risk, uncertainty, and fear; they candidly express their professional judgment to subordinates, peers, and superiors.
 
 
 
@@ -1094,9 +1063,7 @@ Army professionals accomplish the mission and understand it may demand courageou
 
 
 
-1-65. Codes (50098-51144)
-Definition of team success
-The Army mission to “fight and win our Nation’s wars” requires Army forces equipped, trained, and ready to engage in operations across multiple domains and the range of military operations. They defend the basic human rights of Americans. The right to life includes the National responsibility of self-defense. Army forces protect the legitimate interests of the American people when threatened or attacked. Army operations may require the use of armed force against legitimate threats, consistent with the Army ethic and the law of armed conflict. Employing force puts one’s self and others at risk. In the fog of war, uncertainty compromises situational understanding. Regardless, to the best of their ability, they must make decisions and take actions that are ethical, effective, and efficient. They understand there may be unanticipated, unintended consequences affecting the lives of noncombatants. They do all they can to avoid these effects. They accept prudent risk and with courage—an Army Value—accomplish the mission ethically.
+1-65. The Army mission to “fight and win our Nation’s wars” requires Army forces equipped, trained, and ready to engage in operations across multiple domains and the range of military operations. They defend the basic human rights of Americans. The right to life includes the National responsibility of self-defense. Army forces protect the legitimate interests of the American people when threatened or attacked. Army operations may require the use of armed force against legitimate threats, consistent with the Army ethic and the law of armed conflict. Employing force puts one’s self and others at risk. In the fog of war, uncertainty compromises situational understanding. Regardless, to the best of their ability, they must make decisions and take actions that are ethical, effective, and efficient. They understand there may be unanticipated, unintended consequences affecting the lives of noncombatants. They do all they can to avoid these effects. They accept prudent risk and with courage—an Army Value—accomplish the mission ethically.
 
 
 
@@ -1198,10 +1165,7 @@ I do solemnly swear (or affirm) that I will support and defend the Constitution 
 
 ARMY LEADERSHIP
 
-1-73. The Army experience over more than two centuries is that most people have leadership potential and can learn to be effective leaders. The ability to influence others is a central component of leadership. As a result, leader development hasCodes (58012-58619)
-Shared Vision
-communication
- long been an Army priority (see FM 6-22 for more information regarding leader development). This development begins with education, training, and experience, and requires understanding about what Army leaders do and why
+1-73. The Army experience over more than two centuries is that most people have leadership potential and can learn to be effective leaders. The ability to influence others is a central component of leadership. As a result, leader development has long been an Army priority (see FM 6-22 for more information regarding leader development). This development begins with education, training, and experience, and requires understanding about what Army leaders do and why
 
 1-74. Leadership is the activity of influencing people by providing purpose, direction, and motivation to accomplish the mission and improve the organization. Leadership as an element of combat power, coupled with information, unifies the warfighting functions (movement and maneuver, intelligence, fires, sustainment, protection and command and control). Leadership focuses and synchronizes organizations. Leaders inspire people to become energized and motivated to achieve desired outcomes. An Army leader is anyone who by virtue of assumed role or assigned responsibility inspires and influences people by providing purpose, direction, and motivation to accomplish the mission and improve the organization.
 
@@ -1241,11 +1205,7 @@ MOTIVATION
 
 1-81. How leaders motivate others matters. There are practices that are always positive, while others are good or bad depending on the context of the situation. There are those who can inspire others to act because they respect the leader’s judgment, respect that the leader earned. Earning this type of personal respect takes time, so leaders may need to motivate others initially based upon the authorities and respect inherent in their duty position. In either case, leaders should be judicious about using pressure or threat of punishment when motivating others, because doing so too often or when unnecessary breeds resentment and low morale. Aspiring leaders observe many different methods others use to motivate subordinates, and should remember and practice those that were most effective while avoiding those that negatively affected an organization.
 
-Colonel Robert B. NettNear Cognon, Leyte, Philippine Islands—14 December 1944 Then-Lieutenant Nett commanded Company E, 305th Infantry during an attack against a reinforced enemy battalion, which had held up the American advance for two days from entrenched positions. With another infantry company and armored vehicles, Company E advanced against heavy machinegun and small arms fire with LT Nett spearheading the assault. During fierce hand-to-hand encounters, he killed seven Japanese and, although seriously wounded, led his men forward, refusing to relinquish command. He was severely wounded again, but, unwilling to retire, pressed ahead with his troops to assure capture of the objective. Wounded again in the final assault, he arranged for the resumption of the advance before turning over his command, then walked unaided to the rear for medical treatment. LT Nett’s remarkable courage in continuing to lead through sheer determination despite successive wounds, LT Nett provided an inspiring example for his company and was instrumental in the capture of a vital strongpoCodes (64175-65253)
-Qualities of a Leader
-communication
-Leader development
-int. For this action, he received the Medal of Honor.
+Colonel Robert B. NettNear Cognon, Leyte, Philippine Islands—14 December 1944 Then-Lieutenant Nett commanded Company E, 305th Infantry during an attack against a reinforced enemy battalion, which had held up the American advance for two days from entrenched positions. With another infantry company and armored vehicles, Company E advanced against heavy machinegun and small arms fire with LT Nett spearheading the assault. During fierce hand-to-hand encounters, he killed seven Japanese and, although seriously wounded, led his men forward, refusing to relinquish command. He was severely wounded again, but, unwilling to retire, pressed ahead with his troops to assure capture of the objective. Wounded again in the final assault, he arranged for the resumption of the advance before turning over his command, then walked unaided to the rear for medical treatment. LT Nett’s remarkable courage in continuing to lead through sheer determination despite successive wounds, LT Nett provided an inspiring example for his company and was instrumental in the capture of a vital strongpoint. For this action, he received the Medal of Honor.
 
 
 
@@ -1335,10 +1295,7 @@ THE LEADER
 
 Formal Leadership
 
-1-94. Formal leadership authority is granted to individuals by virtue of assignment to positions of responsibility, according tCodes (73129-73727)
-commitment to serve
-Intellectual efficiency
-o their rank and experience. The Uniform Code of Military Justice supports military leaders in positions of legitimate authority. Formal leaders exercise their authority over subordinates through lawful orders and directives. An Army leader operates with clear expectations regarding conduct so that indiscipline does not jeopardize mission success. Leaders, through formally assigned authorities and clearly communicated standards, are responsible for ensuring adherence to standards, policies, and codes. Team leaders, squad leaders, platoon leaders, staff officers, commanders, and civilian supervisors are all examples of leaders in positions with formal designations of authority.
+1-94. Formal leadership authority is granted to individuals by virtue of assignment to positions of responsibility, according to their rank and experience. The Uniform Code of Military Justice supports military leaders in positions of legitimate authority. Formal leaders exercise their authority over subordinates through lawful orders and directives. An Army leader operates with clear expectations regarding conduct so that indiscipline does not jeopardize mission success. Leaders, through formally assigned authorities and clearly communicated standards, are responsible for ensuring adherence to standards, policies, and codes. Team leaders, squad leaders, platoon leaders, staff officers, commanders, and civilian supervisors are all examples of leaders in positions with formal designations of authority.
 
 
 
@@ -1446,9 +1403,7 @@ NONCOMMISSIONED OFFICERS
 
 1-113. Noncommissioned officers are the backbone of the Army and are responsible for maintaining Army standards and discipline. NCOs are critical to training, educating, and developing individuals, crews, and small teams. NCOs are accountable for the care of their Soldiers and setting examples for them.
 
-1-114. The Army relies on NCOs capable of conducting daily operations, executing small unit tactical operations, and making commander’s intent-driven decisions. Subordinates look to NCOs for solutions, guidance, and inspiration. Soldiers count on NCOs they trust and admire. They expect them to convey information and provide day-to-day guidance to accomplish tactical and technical tasks. All SoldiCodes (87457-87743)
-Leader development
-ers look to NCOs to train them to cope, prepare, and perform courageously regardless of the situation.
+1-114. The Army relies on NCOs capable of conducting daily operations, executing small unit tactical operations, and making commander’s intent-driven decisions. Subordinates look to NCOs for solutions, guidance, and inspiration. Soldiers count on NCOs they trust and admire. They expect them to convey information and provide day-to-day guidance to accomplish tactical and technical tasks. All Soldiers look to NCOs to train them to cope, prepare, and perform courageously regardless of the situation.
 
 
 
@@ -1514,9 +1469,7 @@ Figure 1-5. Army leadership levels.
 
 DIRECT LEADERSHIP
 
-1-124. Direct leadership is face-to-face or first-line leadership that generally occurs in organizations where subordinates see their leaders all the time such as teams, squads, sections, platoons, departments, companies, batteries, and troops. The direct leader's span of influence may range from a few to dozens of people. The leader's day-to-day involvement is important for successful unit performance. Direct level leadership covers the same type of functions, such as those performed by an infantry sCodes (94820-95711)
-commitment to serve
-quad or a graves registration unit.
+1-124. Direct leadership is face-to-face or first-line leadership that generally occurs in organizations where subordinates see their leaders all the time such as teams, squads, sections, platoons, departments, companies, batteries, and troops. The direct leader's span of influence may range from a few to dozens of people. The leader's day-to-day involvement is important for successful unit performance. Direct level leadership covers the same type of functions, such as those performed by an infantry squad or a graves registration unit.
 
 
 
@@ -1686,10 +1639,7 @@ The first order of loyalty is to the Constitution and the ideals upon which it i
 
 DUTY: FULFILL YOUR OBLIGATIONS—ALWAYS DO YOUR BEST.
 
-All Soldiers and DA Civilians strive to do their best. Duty extends beyond law, regulation, and orders. Army professionals exercise initiative when they fulfill the purpose, not merely the letter, of received orders. Leaders taCodes (103393-104179)
-Shared Vision
-Diversity In Team
-ke responsibility for their actions and those of their subordinates; it is inherent in their duty to the larger organization, the Army, and the Nation. Conscientious leaders and subordinates possess a sense of responsibility to apply their best efforts to accomplish the mission. This guides Soldiers and DA Civilians to do what is right to the best of their ability.
+All Soldiers and DA Civilians strive to do their best. Duty extends beyond law, regulation, and orders. Army professionals exercise initiative when they fulfill the purpose, not merely the letter, of received orders. Leaders take responsibility for their actions and those of their subordinates; it is inherent in their duty to the larger organization, the Army, and the Nation. Conscientious leaders and subordinates possess a sense of responsibility to apply their best efforts to accomplish the mission. This guides Soldiers and DA Civilians to do what is right to the best of their ability.
 
 
 
@@ -1703,10 +1653,7 @@ General Jonathan M. Wainwright Corregidor Captivity
 
 The Japanese invaded the Philippines in December 1941. In March 1942, as General Douglas MacArthur evacuated to Australia, General Jonathan Wainwright assumed full command from the Malinta Tunnel on Corregidor Island.
 
-Soon, the Japanese grip on the islands tightened and the Philippine defenders at Bataan were surrounded without any support other than artilleryCodes (104179-104913)
-Shared Vision
-Negative Qualities
- fire from Corregidor. Disease, exhaustion, and malnutrition ultimately accomplished what thousands of Japanese soldiers had not done for 90 days—Bataan was lost; more than 12,000 Filipino Scouts and 17,000 Americans became prisoners. Corregidor was in bad shape.
+Soon, the Japanese grip on the islands tightened and the Philippine defenders at Bataan were surrounded without any support other than artillery fire from Corregidor. Disease, exhaustion, and malnutrition ultimately accomplished what thousands of Japanese soldiers had not done for 90 days—Bataan was lost; more than 12,000 Filipino Scouts and 17,000 Americans became prisoners. Corregidor was in bad shape.
 
 General Wainwright directed the defenses with the limited resources available, making frequent visits outside the tunnels to check on his men and to inspire them personally. He was never fearful of enemy fire. A tenacious warrior, he saw men next to him die and personally returned fire on the enemy. He was a unique frontline commander—a fighting general who earned the loyalty of his troops by sharing their hardships.
 
@@ -1720,9 +1667,7 @@ During more than three years of captivity as the highest-ranking and oldest Amer
 
 Despite his steadfast posture in captivity, he feared return to America, expecting to be considered a coward and a traitor for his Corregidor surrender. Americans at home remained loyal to the fighting general and his courageous troops. To honor him and his men, General Wainwright stood behind General MacArthur during the signing of Japan’s official surrender on the USS Missouri on 2 September 1945.
 
-General Wainwright returned home to a hero’s welcome. During a surprCodes (106654-107098)
-Responsibility
-ise ceremony on 10 September 1945, President Truman awarded him the Medal of Honor.
+General Wainwright returned home to a hero’s welcome. During a ceremony on 10 September 1945, President Truman awarded him the Medal of Honor.
 
 
 
@@ -1780,9 +1725,7 @@ Leaders of integrity consistently follow honorable principles. The Army relies o
 
 
 
-Lieutenant Vernon Baker Viareggio, Italy—5-6 April 1945Lieutenant Vernon Baker of the 370th Infantry Regiment demonstrated leadership by example near Viareggio, Italy, during his company’s attack against strongly entrenched German positions in mountainous terrain.Fire from several machine gun emplacements stopped his company. LT Baker crawled to one position and destroyed it, killing three German soldiers. He then attacked an enemy observation post and killed two occupants. With the aid of one of his men, LT Baker continued the advance and destroyed two more machine gun nests, killing or wounding the soldiers occupying these positions. After consolidating his position, LT Baker finally covered the evacuation of the wounded personnel of his unit by occupying an exposed position and drawing the enemy’s fire.On the night following these events, LT Baker volunteered to lead a battalion advance through enemy minefields and heavy fire. TCodes (112918-114287)
-integrity
-wo-thirds of his company was wounded or dead and no reinforcements were in sight. His commander ordered a withdrawal. Baker protested that they could not withdraw; they had to stay and fight.LT Baker stands as an inspiration to not only those who served with him. He stood courageously against the enemy and stood proudly to represent his fallen comrades when he received his Medal of Honor.
+Lieutenant Vernon Baker Viareggio, Italy—5-6 April 1945Lieutenant Vernon Baker of the 370th Infantry Regiment demonstrated leadership by example near Viareggio, Italy, during his company’s attack against strongly entrenched German positions in mountainous terrain.Fire from several machine gun emplacements stopped his company. LT Baker crawled to one position and destroyed it, killing three German soldiers. He then attacked an enemy observation post and killed two occupants. With the aid of one of his men, LT Baker continued the advance and destroyed two more machine gun nests, killing or wounding the soldiers occupying these positions. After consolidating his position, LT Baker finally covered the evacuation of the wounded personnel of his unit by occupying an exposed position and drawing the enemy’s fire.On the night following these events, LT Baker volunteered to lead a battalion advance through enemy minefields and heavy fire. Two-thirds of his company was wounded or dead and no reinforcements were in sight. His commander ordered a withdrawal. Baker protested that they could not withdraw; they had to stay and fight.LT Baker stands as an inspiration to not only those who served with him. He stood courageously against the enemy and stood proudly to represent his fallen comrades when he received his Medal of Honor.
 
 
 
@@ -1840,9 +1783,7 @@ Values and beliefs create a foundation for ethical conduct. Adhering to the Army
 
 
 
-Captain Humbert R. Versace Vietnam CaptivityCaptain Humbert “Rocky” Versace was a West Point graduate assigned to the military assistance advisory group as an intelligence advisor during October 1963.While accompanying a Civilian Irregular Defense Group engaged in combat operations, Versace and two fellow special forces Soldiers were taken prisoner.They were forced to walk barefoot deep into the jungle. Once there, Versace assumed the position of senior prisoner and demanded the captors treat them as prisoners, not war criminals. He tried to escape four times, once crawling through the surrounding swamp until he was recaptured. He garnered most of the attention of the Viet Cong so that life was tolerable for his fellow prisoners. He was their role model.He refused to violate the Code of Conduct, giving the enemy only information required by the Geneva Convention, which he would recite repeatedly.When other Soldiers operated in those remote areas, they heard stories of Versace’s ordeal from local farmers. Speaking fluent Vietnamese and French, he would resist his captors loudly enough that local villagers could hear him. They reported seeing him led through the area barefoot with a rope around his neck, hands tied, and head swollen and Codes (121671-122749)
-Intellectual efficiency
-yellow from jaundice. His hair had turned white from the physical stress. The farmers spoke of his strength, character, and commitment to God and country.On 26 September 1965, after two years in captivity, he was executed in retaliation for three Viet Cong killed in Da Nang. Versace’s remains were never found, but a tombstone bearing his name stands above an empty grave in Arlington cemetery. Ironically, he was just weeks from leaving the Army to become a missionary before being captured. He wanted to return to Vietnam to help orphaned children. Most of all, he is remembered as someone with strong character and beliefs who never gave in. For his bravery, Versace received the Medal of Honor and induction into the Ranger Hall of Fame at Fort Benning.
+Captain Humbert R. Versace Vietnam CaptivityCaptain Humbert “Rocky” Versace was a West Point graduate assigned to the military assistance advisory group as an intelligence advisor during October 1963.While accompanying a Civilian Irregular Defense Group engaged in combat operations, Versace and two fellow special forces Soldiers were taken prisoner.They were forced to walk barefoot deep into the jungle. Once there, Versace assumed the position of senior prisoner and demanded the captors treat them as prisoners, not war criminals. He tried to escape four times, once crawling through the surrounding swamp until he was recaptured. He garnered most of the attention of the Viet Cong so that life was tolerable for his fellow prisoners. He was their role model.He refused to violate the Code of Conduct, giving the enemy only information required by the Geneva Convention, which he would recite repeatedly.When other Soldiers operated in those remote areas, they heard stories of Versace’s ordeal from local farmers. Speaking fluent Vietnamese and French, he would resist his captors loudly enough that local villagers could hear him. They reported seeing him led through the area barefoot with a rope around his neck, hands tied, and head swollen and yellow from jaundice. His hair had turned white from the physical stress. The farmers spoke of his strength, character, and commitment to God and country.On 26 September 1965, after two years in captivity, he was executed in retaliation for three Viet Cong killed in Da Nang. Versace’s remains were never found, but a tombstone bearing his name stands above an empty grave in Arlington cemetery. Ironically, he was just weeks from leaving the Army to become a missionary before being captured. He wanted to return to Vietnam to help orphaned children. Most of all, he is remembered as someone with strong character and beliefs who never gave in. For his bravery, Versace received the Medal of Honor and induction into the Ranger Hall of Fame at Fort Benning.
 
 
 
@@ -1850,10 +1791,7 @@ Captain Humbert R. Versace Vietnam Captivity
 
 Captain Humbert “Rocky” Versace was a West Point graduate assigned to the military assistance advisory group as an intelligence advisor during October 1963.
 
-While accompanying a Civilian Irregular Defense Group engaged in combat operations, Versace and two fellow special foCodes (122750-124924)
-Adaptability
-Intellectual efficiency
-rces Soldiers were taken prisoner.
+While accompanying a Civilian Irregular Defense Group engaged in combat operations, Versace and two fellow special forces Soldiers were taken prisoner.
 
 They were forced to walk barefoot deep into the jungle. Once there, Versace assumed the position of senior prisoner and demanded the captors treat them as prisoners, not war criminals. He tried to escape four times, once crawling through the surrounding swamp until he was recaptured. He garnered most of the attention of the Viet Cong so that life was tolerable for his fellow prisoners. He was their role model.
 
@@ -1881,9 +1819,7 @@ Leaders should not intentionally issue vague or ambiguous orders or instructions
 
 ETHICAL ORDERS
 
-Making the right choice and acting when faced with an ethiCodes (126232-127090)
-Adaptability
-cal question can be difficult. Sometimes the situation requires a leader to stand firm and disagree with a supervisor on ethical grounds. These occasions test one’s character and moral courage. Situations in which any Army member thinks an order is unlawful can be the most difficult.
+Making the right choice and acting when faced with an ethical question can be difficult. Sometimes the situation requires a leader to stand firm and disagree with a supervisor on ethical grounds. These occasions test one’s character and moral courage. Situations in which any Army member thinks an order is unlawful can be the most difficult.
 
 Under typical circumstances, a leader executes a superior leader’s decision with enthusiasm. Unlawful orders are the exception: a leader has a duty to question such orders and refuse to obey them if clarification of the order’s intent fails to resolve objections. If a Soldier perceives an order is unlawful, the Soldier should fully understand the order’s details and original intent. The Soldier should seek immediate clarification from the person who issued the order before proceeding.
 
@@ -1893,10 +1829,7 @@ If the question is more complex, seek legal counsel. If an issue requires an imm
 
 EMPATHY
 
-Army leaders show empathy when they genuinely relate to another person’s situation, motives, or feelings. Empathy does not mean sympathy for another, but a realization that leads to a deeper understanding. Empathy allows the leader to anticipate what others are experiencing and feeling and gives insight to how decisions or actions affect them. Leaders extend empCodes (127971-128552)
-Diversity In Team
-Team building
-athy to others in both their leader and follower roles. Leaders with a strong tendency for empathy can apply it to understand people at a deeper level. This applies to DA Civilians, Soldiers and their Families, local populations, victims of natural disasters, and enemy combatants. Empathy enhances cultural understanding and enables an Army leader to better interact with others.
+Army leaders show empathy when they genuinely relate to another person’s situation, motives, or feelings. Empathy does not mean sympathy for another, but a realization that leads to a deeper understanding. Empathy allows the leader to anticipate what others are experiencing and feeling and gives insight to how decisions or actions affect them. Leaders extend empathy to others in both their leader and follower roles. Leaders with a strong tendency for empathy can apply it to understand people at a deeper level. This applies to DA Civilians, Soldiers and their Families, local populations, victims of natural disasters, and enemy combatants. Empathy enhances cultural understanding and enables an Army leader to better interact with others.
 
 Empathetic leaders are better communicators, help others to understand what is occurring, and inspire others to meet mission objectives. During operations, Army leaders gain empathy when they share hardships to gauge Soldier morale and combat readiness. They recognize the need to provide reasonable comforts and rest periods to maintain morale and accomplish the mission.
 
@@ -1992,12 +1925,7 @@ Commander, Continental Army (1775-81) and President of the United States (1789-9
 
 Discipline is essential to character, just as it is to an organization. All leaders must demonstrate self-discipline—the ability to control one’s own behavior—to do the harder right over the easier wrong. Doing tasks to the established Army standard without deviation reflects discipline.
 
-Individual discipline supports the unit or an organization. At the unit level, leaders maintain discipline by enforcing standards impartially and consistently. Often this involves attending to mundane details, which may seem less urgent than an organization's key tasks, but are necessaCodes (137002-137761)
-Qualities of a Leader
-Organizational trust
-Influnce 
-communication
-ry to ensure success. Examples include preventive maintenance checks and services, pre-combat checks and inspections, effective Command Supply Discipline Programs, Organizational Inspection Programs, and training management. When enforcing standards, Soldiers expect their leaders to do so in an impartial, transparent, just, and consistent manner.
+Individual discipline supports the unit or an organization. At the unit level, leaders maintain discipline by enforcing standards impartially and consistently. Often this involves attending to mundane details, which may seem less urgent than an organization's key tasks, but are necessary to ensure success. Examples include preventive maintenance checks and services, pre-combat checks and inspections, effective Command Supply Discipline Programs, Organizational Inspection Programs, and training management. When enforcing standards, Soldiers expect their leaders to do so in an impartial, transparent, just, and consistent manner.
 
 
 
@@ -2027,10 +1955,7 @@ Humility in its simplest form is the absence of arrogance. It is a sign of a lea
 
 Humility exists on a continuum. Too little humility represents arrogance or hubris, which may lead to overconfidence. Excess humility is problematic because it is interpreted as shyness, meekness, passivity, blind obedience, or timidity. Either extreme signals a lack of self-awareness that undermines followers’ trust and confidence in the leader’s ability to make good decisions, look out for the unit’s welfare, and to achieve success.
 
-It is difficult to judge our own humility. One’s humility is largely determined by other people. It is a subjective perception of the leader. Humility is interpreted differently by different genders and cultures. Individuals need to guard againstCodes (141859-143177)
-commitment to serve
-Influnce 
- their biases and assess character based on the whole set of Army Values and attributes.
+It is difficult to judge our own humility. One’s humility is largely determined by other people. It is a subjective perception of the leader. Humility is interpreted differently by different genders and cultures. Individuals need to guard against their biases and assess character based on the whole set of Army Values and attributes.
 
 
 
@@ -2122,11 +2047,7 @@ Commanding PresenceFor nine months, the commander conducted route clearance patr
 
 Commanding Presence
 
-For nine months, the commander conducted route clearance patrols with his subordinate platoons. Nearly every day, his platoons received direct fire as they found and neutralized hundreds of improvised explosive devices that endangered friendly forces using the roads. A change of command occurred and the commander went to brigade staff. The new commander quickly endeared himself to hCodes (150839-152796)
-Negation of Positive Qualities
-communication
-Shared Vision
-is subordinates as he patrolled daily, sharing risk and hardship. The new commander and his driver were killed in action.
+For nine months, the commander conducted route clearance patrols with his subordinate platoons. Nearly every day, his platoons received direct fire as they found and neutralized hundreds of improvised explosive devices that endangered friendly forces using the roads. A change of command occurred and the commander went to brigade staff. The new commander quickly endeared himself to his subordinates as he patrolled daily, sharing risk and hardship. The new commander and his driver were killed in action.
 
 The unit, nearing their end of their tour, struggled with the deaths of their teammates. The former commander spoke to the brigade commander and explained that he was the best officer available to bring the unit home. The brigade commander supported him; he resumed command of the company and continued operations.
 
@@ -2206,10 +2127,7 @@ FOUNDATIONS OF AN ARMY LEADER INTELLECT
 
 4-2. A leader’s mental abilities affect how well they think and lead others. People differ in intellectual strengths and ways of thinking—there is no one right way to think. Each leader needs to be self-aware of their strengths and limitations and apply them accordingly. Experience informs intellect. Table 4-1 is a summary of the intellect attributes (see page 4-5).
 
-4-3.  The leadeCodes (152842-153927)
-Shared Vision
-communication
-r attributes making up an Army leader’s intellect include—
+4-3.  The leader attributes making up an Army leader’s intellect include—
 
 Mental agility.
 
@@ -2291,18 +2209,13 @@ COMPOSURE
 
 4-13. Effective leaders control their emotions. Emotional self-control, balance, and stability enable leaders to make sound, ethical decisions. Leaders must remain calm under pressure and expend energy on things they can positively influence rather than those things they cannot affect. An Army leader’s level of self-control greatly influences how they interact with others, particularly during periods of crisis when things are not going well. Leaders understand that emotional energy sparks motivation and endurance. Enthusiastic leaders, who are in control of their emotions, will be able to energize others to rise above difficult conditions.
 
-4-14. A leader’s emotional state influences subordinates’ emotions. Balancing the right level and mix of emotions for a situation provides confidence. Extreme, rash displays of emotion can threaten subordinate confidence in a leader’s judgment. Displaying panic or no emotioCodes (161739-163061)
-Negative Qualities
-n at all are opposite extremes. A sense of calm encourages feedback from subordinates, improving communication while contributing to shared understanding. Self-control in combat is especially important—emotions like rage, panic, or fear can be contagious. Leaders who lose their composure cannot expect subordinates to maintain theirs. Practicing composure in garrison and training events provides the experience a leader can draw upon during crisis.
+4-14. A leader’s emotional state influences subordinates’ emotions. Balancing the right level and mix of emotions for a situation provides confidence. Extreme, rash displays of emotion can threaten subordinate confidence in a leader’s judgment. Displaying panic or no emotion at all are opposite extremes. A sense of calm encourages feedback from subordinates, improving communication while contributing to shared understanding. Self-control in combat is especially important—emotions like rage, panic, or fear can be contagious. Leaders who lose their composure cannot expect subordinates to maintain theirs. Practicing composure in garrison and training events provides the experience a leader can draw upon during crisis.
 
 4-15. Effective leaders can read others’ emotional states to employ the right balance of interpersonal tact and candor in a particular situation. They draw on experience to provide subordinates the proper perspective on unfolding events. They possess a range of attitudes, from relaxed to intense, from which to choose appropriately for the circumstances they face. Balanced leaders know how to convey urgency without throwing the entire organization into chaos.
 
 4-16. Effective leaders are steady, levelheaded when under pressure and tired, and calm when facing danger. They model the emotions they want their subordinates to display and resist temptation to do or say what personally feels justified. They remember that venting frustrations publicly may seem to release stress, but actually tends to increase stress across the organization when not done judiciously for sound reasons.
 
-Those Guys Can’t ShootThe coCodes (163106-165539)
-Team building
-Organizational trust
-rdon was beginning to collapse. The enemy had taken random shots at the platoon and the gunners were hunkered down behind their shields. The platoon leader opened the door to get in the vehicle. An insurgent on a scooter darted out from an alley and shot, hitting the inside of the open door. The platoon leader got in, stared at his frightened driver, and said, “Those guys can’t shoot.”While this may come across as bravado, it was not. The platoon leader was just as surprised and frightened as the driver was; however, in the moment he knew that he needed to say something to distract his driver.
+Those Guys Can’t ShootThe cordon was beginning to collapse. The enemy had taken random shots at the platoon and the gunners were hunkered down behind their shields. The platoon leader opened the door to get in the vehicle. An insurgent on a scooter darted out from an alley and shot, hitting the inside of the open door. The platoon leader got in, stared at his frightened driver, and said, “Those guys can’t shoot.”While this may come across as bravado, it was not. The platoon leader was just as surprised and frightened as the driver was; however, in the moment he knew that he needed to say something to distract his driver.
 
 
 
@@ -2568,9 +2481,7 @@ Compliance focuses on quickly meeting task demands.
 
 Resistance
 
-5-22. When leaders experience resistance, the first response is to unCodes (184432-184750)
-communication
-derstand the nature of the relationship and reasons for opposition or non-compliance. Resistance may stem from a lack of trust, lack of understanding, or concerns about well-being. Leaders may need to clarify misperceptions or correct false beliefs. Unfounded rumors can hurt unit cohesiveness and create friction if not confronted at their source. Gossip and rumors reduce focus while increasing the amount of energy leaders must spend on activities other than the mission at hand.
+5-22. When leaders experience resistance, the first response is to understand the nature of the relationship and reasons for opposition or non-compliance. Resistance may stem from a lack of trust, lack of understanding, or concerns about well-being. Leaders may need to clarify misperceptions or correct false beliefs. Unfounded rumors can hurt unit cohesiveness and create friction if not confronted at their source. Gossip and rumors reduce focus while increasing the amount of energy leaders must spend on activities other than the mission at hand.
 
 5-23. Leaders need to ensure all parties focus on a shared understanding. Overt acknowledgement of resistance can be the first step in reducing it. Leaders should confront resistance quickly to determine the reasons why it exists and how to address the causes constructively. This may be enough to change negative mindsets and build or restore mutual trust within the organization. Leaders can lessen resistance by acknowledging concerns with their own position or requests. This demonstrates that the leaders recognize
 
