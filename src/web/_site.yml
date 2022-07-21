@@ -1,0 +1,26 @@
+name: "dspg22ari-website"
+output_dir: "../../docs"
+exclude: ["*.nb.html", "*.csv", "*.CSV", "*.dcf", "parlog", "old", "dashboard"]
+output:
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+    css: style.css
+navbar:
+  title: "Solder Characteristics that Contribute to Unit Performance"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Data"
+      href: data.html
+    - text: "Methods"
+      href: methods.html
+    - text: "Findings"
+      menu:
+        - text: Overview
+          href: findings-overview.html
+        - text: Document Analysis
+        - text: Triangulation
+    - text: "Team"
+      href: team.html

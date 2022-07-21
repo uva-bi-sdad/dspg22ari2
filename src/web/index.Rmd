@@ -1,0 +1,27 @@
+---
+title: "Overview"
+---
+
+This is our overview of the project, we can add images and stuff
+
+This is  *[basic Markdown syntax](https://www.markdownguide.org/basic-syntax)*.
+
+Add an image like this: ![DSPG logo](www/black-logo.png)
+Make sure images are in the www folder
+
+Headings will make a table of contents on the left
+
+# Section 1
+# Section 2
+## Subsection
+
+Here's how you make a list:
+
+*Tips for making figures look good:*
+
+- Make text sizes BIG
+- Stick to the same colors
+- Decide to add titles, captions, etc in the figures OR add on the website for all figures
+
+To update the website: Make changes in the Rmds, then click the build website hammer, push changes to github, automatic updates!
+  

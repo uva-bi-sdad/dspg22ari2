@@ -1,0 +1,15 @@
+.navbar-default {
+  background-color: #232D4B;
+  background-image: url("www/white-logo.png");
+  background-size: contain;
+  background-position: left;
+  background-repeat: no-repeat;
+}
+
+a.navbar-brand:hover {
+  color: #F84C1E !important;
+}
+
+a:hover {
+  color: #F84C1E !important;
+}
