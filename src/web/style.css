@@ -4,6 +4,7 @@
   background-size: contain;
   background-position: left;
   background-repeat: no-repeat;
+  padding: 0px 0px 0px 225px;
 }
 
 a.navbar-brand:hover {
