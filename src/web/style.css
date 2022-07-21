@@ -2,9 +2,9 @@
   background-color: #232D4B;
   background-image: url("www/white-logo.png");
   background-size: contain;
-  background-position: left;
+  background-position: right;
   background-repeat: no-repeat;
-  padding: 0px 0px 0px 225px;
+  padding: 0px 0px 0px 0px;
 }
 
 .navbar-default .navbar-nav > .active > a,
@@ -22,6 +22,7 @@ a:hover {
   color: #F84C1E !important;
 }
 
-a{
+a {
   color: #F84C1E;
 }
+

@@ -24,3 +24,7 @@ navbar:
         - text: Triangulation
     - text: "Team"
       href: team.html
+    - text: ""
+      icon: fa-github
+      href: "https://github.com/uva-bi-sdad/dspg22ari2"
+
