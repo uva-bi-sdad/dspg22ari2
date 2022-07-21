@@ -7,10 +7,21 @@
   padding: 0px 0px 0px 225px;
 }
 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #F84C1E;
+  background: #232D4B;
+}
+
 a.navbar-brand:hover {
   color: #F84C1E !important;
 }
 
 a:hover {
   color: #F84C1E !important;
+}
+
+a{
+  color: #F84C1E;
 }
