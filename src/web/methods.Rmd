@@ -1,5 +1,16 @@
 ---
 title: "Methods"
 ---
-
-Info goes here
+flowchart HERE
+detailed description of method:
+- document selection
+- document analysis
+- coding
+- test coders
+- redid definitions
+- NLP jank
+- made NLP better
+- connected codes to NLP
+We used dedoose
+![Excerpt Count](www/dedoose_example.PNG)
+ 

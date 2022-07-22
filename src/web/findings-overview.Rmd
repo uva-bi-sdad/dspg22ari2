@@ -1,5 +1,12 @@
 ---
 title: "Findings Overview"
----
 
-Info goes here
+---
+# QA
+- chart of codes 
+- explain that
+
+## NLP
+- co occurance
+- topic modeling
+- tf idf

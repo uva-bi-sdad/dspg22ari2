@@ -2,4 +2,20 @@
 title: "Data"
 ---
 
-Info goes here cool
+# Qualitative Analysis Data
+
+- link PDF documents in Github
+- explanation of documents
+- excel of excerpts if it's in github
+- screenshots from dedoose
+
+![Excerpt Count](www/excerpts_per_doc.PNG)
+
+look at our exceprt count per document above
+
+## Natural Language Processing Data
+- could have our code ???
+- charts from github
+- link to github if u can easily
+- skylar explaing how the code works / how it is actually measuring what u claim
+

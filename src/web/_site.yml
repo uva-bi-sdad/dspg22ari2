@@ -8,7 +8,7 @@ output:
     toc_float: true
     css: style.css
 navbar:
-  title: "Solder Characteristics that Contribute to Unit Performance"
+  title: "Solider Characteristics that Contribute to Unit Performance"
   left:
     - text: "Overview"
       href: index.html
@@ -20,8 +20,10 @@ navbar:
       menu:
         - text: Overview
           href: findings-overview.html
-        - text: Document Analysis
-        - text: Triangulation
+        - text: Qualitative Analysis
+          href: qualitative-analysis.html
+        - text: Natural Language Processing
+          href: nlp.html
     - text: "Team"
       href: team.html
     - text: ""

@@ -2,4 +2,9 @@
 title: "Team"
 ---
 
-Info goes here
+# Interns
+## *Skylar Haskiell*
+Skylar is a rising third year at the University of Virginia pursuing a B.S. in Computer Science. 
+
+## *Jill Eberhart*
+Jill is a rising third year at the Univerisity of Virginia pursuing a B.A. in Statistics with a minor in Health and Wellness. 

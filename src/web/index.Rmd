@@ -15,6 +15,13 @@ Headings will make a table of contents on the left
 # Section 2
 ## Subsection
 
+What we want in overview:
+- research question
+- document selection/ analysis
+- coding BASIC overview
+- other kind of coding basic overview
+
+
 Here's how you make a list:
 
 *Tips for making figures look good:*
