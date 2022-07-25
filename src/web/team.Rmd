@@ -3,6 +3,8 @@ title: "Team"
 ---
 
 # Interns
+![Skylar Haskiell](www/skylar_pic.jpg)  
+
 ## *Skylar Haskiell*
 Skylar is a rising third year at the University of Virginia pursuing a B.S. in Computer Science. 
 

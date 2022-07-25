@@ -1,16 +1,29 @@
 ---
 title: "Methods"
 ---
-flowchart HERE
-detailed description of method:
-- document selection
-- document analysis
-- coding
-- test coders
-- redid definitions
-- NLP jank
-- made NLP better
-- connected codes to NLP
+![Flowchart](www/flowchart.PNG)  
+
+#**1. Document Discovery**  
+55 Documents from Army and external sources were evaluated. The author, keywords, possible uses, a description, the date it was written, and any notes were collected. From this list, 10 documents were selected to be used in Qualitative Analysis  
+
+#**2. Document Selection**  
+Documents were selected to be from a variety of sources, sectors, and time periods.  
+
+#**3. Initial Analysis & Code Development**  
+![Initial and Emergent Codes](www/initial_emergent_codes.PNG)   
+
+#**4. Code Refinement**  
+#**5. Primary Reading**  
+#**6. Secondary Coder Test**   
+#**7. Word Cooccurence Test**  
+## Cleaning  
+
+
+#**8. TF-IDF**  
+![TF-IDF](www/tf_idf.png)
+#**9. LDA**  
+#**10. Triangulation**  
+
 We used dedoose
 ![Excerpt Count](www/dedoose_example.PNG)
  

@@ -8,7 +8,7 @@ output:
     toc_float: true
     css: style.css
 navbar:
-  title: "Solider Characteristics that Contribute to Unit Performance"
+  title: "Soldier Characteristics that Contribute to Unit Performance"
   left:
     - text: "Overview"
       href: index.html
