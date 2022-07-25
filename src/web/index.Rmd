@@ -1,38 +1,54 @@
 ---
-title: "Overview"
+title: "Soldier Charcteristics that Contribute to Unit Performance: A Qualitative Analysis"
 ---
 
-This is our overview of the project, we can add images and stuff
+
 
 This is  *[basic Markdown syntax](https://www.markdownguide.org/basic-syntax)*.
 
-Add an image like this: ![DSPG logo](www/black-logo.png)
-Make sure images are in the www folder
-
-Headings will make a table of contents on the left
-
-# Section 1
-# Section 2
-## Subsection
-
-What we want in overview:
-- research question
-- document selection/ analysis
-- coding BASIC overview
-- other kind of coding basic overview
+![DSPG logo](www/black-logo.png)
 
 
-Here's how you make a list:
 
-*Tips for making figures look good:*
 
-- Make text sizes BIG
-- Stick to the same colors
-- Decide to add titles, captions, etc in the figures OR add on the website for all figures
+# **Goal**
+Identify characteristics of individual Soldiers that contribute to unit performance
 
-To update the website: Make changes in the Rmds, then click the build website hammer, push changes to github, automatic updates!
+# **Why**
+Key to extending work to unit performance without requiring unit-level measurement 
+
+# **Method**
+##Document Analysis  
+
+Document analysis is a “form of qualitative research in which documents are interpreted by the researcher to give voice and meaning around an assessment topic" (Bowen, 2009)  
+
+Our Approach: A Mixed Method Thematic Approach  
+
+##Natural Language Processing  
+
+Natural language processing (NLP) "strives to build machines that understand and respond to text data much the same way humans do" (IBM, 2022)  
   
+All NLP for this project was run on a corpus composed of the 10 documents on which document analysis was conducted. The documents were clean by removing stop words (i.e. the, and, of) and lemmatizing each word. Lemmatizing transforms each word to a common base word.
   
-Hey guys!
+###*Cooccurance*  
+Cooccurance visualizes word pairs that occur together most frequenlty in the corpus.  
 
-Hammer?
+###*Term Frequency- Inverse Document Frequency*  
+TF-IDF is a text classification method that reflects the importance of a word to a document in a corpus of documents.  
+  
+###*Latent Dirichlet Allocation*  
+LDA is a Bayesian topic model that discovers the topics in a corpus of documents and the concurent probability that they will occur. 
+
+
+
+
+
+
+<!-- Here's how you make a list: -->
+
+<!-- *Tips for making figures look good:* -->
+
+<!-- - Make text sizes BIG -->
+<!-- - Stick to the same colors -->
+<!-- - Decide to add titles, captions, etc in the figures OR add on the website for all figures -->
+
