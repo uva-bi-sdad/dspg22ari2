@@ -7,6 +7,17 @@ title: "Findings Overview"
 - explain that
 
 ## NLP
-- co occurance
-- topic modeling
-- tf idf
+###*Co-Occurance*
+
+![](www/co-occurence.png)
+
+###*Topic Modeling*
+
+![ ](www/topic_model.png)
+
+
+###*tf-idf*
+####*Term Frequency Inverse Document Frequency*
+![ ](www/tf_idf.png)
+
+

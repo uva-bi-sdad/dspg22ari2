@@ -4,11 +4,7 @@ title: "Soldier Charcteristics that Contribute to Unit Performance: A Qualitativ
 
 
 
-This is  *[basic Markdown syntax](https://www.markdownguide.org/basic-syntax)*.
-
-![DSPG logo](www/black-logo.png)
-
-
+![ ](www/black-logo.png)
 
 
 # **Goal**
