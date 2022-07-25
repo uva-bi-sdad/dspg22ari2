@@ -8,6 +8,7 @@ title: "Data"
 - explanation of documents
 - excel of excerpts if it's in github
 - screenshots from dedoose
+- yay
 
 ![Excerpt Count](www/excerpts_per_doc.PNG)
 
