@@ -21,6 +21,7 @@ top_terms <- chapter_topics %>%
   slice_max(beta, n = 10) %>%
   ungroup() %>%
   arrange(topic, -beta)
+# top_terms <- top_terms %>% rename( = 1, = 2, =3, = 4, =5, =6, =7, =8)
 
 top_terms %>%
   mutate(term = reorder_within(term, beta, topic)) %>%
@@ -28,7 +29,13 @@ top_terms %>%
   geom_col(show.legend = FALSE) +
   facet_wrap(~ topic, scales = "free") +
   scale_y_reordered() +
-  theme(axis.text.x = element_text(angle=30, size = 8))
+  theme(axis.text.x = element_text(angle=30, size = 8)) +
+  scale_fill_manual(values = c("#232d4b","#2c4f6b","#0e879c","#60999a","#d1e0bf","#d9e12b",
+                               "#e6ce3a","#e6a01d","#e57200", "orange", "#232d4b","#2c4f6b",
+                               "#0e879c","#60999a", "#d1e0bf","#d9e12b","#e6ce3a","#e6a01d")) +
+  labs(x = "Beta", y = "Term") +
+
+
 
 
 #tf_idf on individual documents
@@ -47,8 +54,13 @@ desc_tf_idf%>%
   ggplot(aes(tf_idf, fct_reorder(word, tf_idf), fill = document)) +
   geom_col(show.legend = FALSE) +
   facet_wrap(~document, ncol = 2, scales = "free") +
-  labs(x = "tf-idf", y = NULL) +
-  theme(axis.text.y = element_text(angle=15, size = 8))
+  theme(axis.text.y = element_text(angle=15, size = 12), strip.text = element_text(size=13)) +
+  labs(x = "TF-IDF", y = NULL) +
+  scale_fill_manual(values = c("#232d4b","#2c4f6b","#0e879c","#60999a","#d1e0bf","#d9e12b","#e6ce3a","#e6a01d","#e57200", "orange"))
+
+#+ theme(plot.title = element_text(size=22))
+
+
 
 #cooccuarance
 cooccurence %>%
@@ -60,5 +72,12 @@ cooccurence %>%
   geom_node_text(aes(label = name), repel = TRUE,
                  point.padding = unit(0.2, "lines")) +
   theme_void()
+
+
+
+
+#import color palette
+col<- c("#232d4b","#2c4f6b","#0e879c","#60999a","#d1e0bf","#d9e12b","#e6ce3a","#e6a01d","#e57200", "#fdfdfd")
+
 
 
