@@ -64,7 +64,7 @@ desc_tf_idf%>%
 
 #cooccuarance
 cooccurence %>%
-  filter(n >=800) %>%
+  filter(3*n >=800) %>%
   graph_from_data_frame() %>%
   ggraph(layout = "fr") +
   geom_edge_link(aes(edge_alpha = n, edge_width = n), edge_colour = "cyan4") +

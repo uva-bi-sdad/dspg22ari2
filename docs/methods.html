@@ -15,7 +15,7 @@
 
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -383,39 +383,49 @@ div.tocify {
 </div>
 <div id="document-discovery" class="section level1">
 <h1><strong>1. Document Discovery</strong></h1>
-<p>55 Documents from Army and external sources were evaluated. The author, keywords, possible uses, a description, the date it was written, and any notes were collected. From this list, 10 documents were selected to be used in Qualitative Analysis</p>
+<p><img src="www/document_discovery.PNG" alt="Document Discovery" /> A list of 55 documents from the Army and external sources that pertained to the role of an individual in unit performance were collected. The author, keywords, uses, a description, date written, and any notes were collected for each document.</p>
 </div>
 <div id="document-selection" class="section level1">
 <h1><strong>2. Document Selection</strong></h1>
-<p>Documents were selected to be from a variety of sources, sectors, and time periods.</p>
+<p>10 documents were selected to be from a variety of sources, sectors, and time periods. Documents most releavant to the theme were choosen.<br />
+The documents selected can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/txt_files">here</a></p>
 </div>
 <div id="initial-analysis-code-development" class="section level1">
 <h1><strong>3. Initial Analysis &amp; Code Development</strong></h1>
-<div class="figure">
-<img src="www/initial_emergent_codes.PNG" alt="Initial and Emergent Codes" />
-<p class="caption">Initial and Emergent Codes</p>
-</div>
+<p>The 10 documents in the corpus were read a first time to determine major themes that emerged. A literature review was also conducted to determine possible biases that would influence the documents.<br />
+Possible Biases:<br />
+- Historic Army recruitment tests reinforced institutional bias and maintained segregation. Due to Jim Crow laws, black recruits had not received the same education.<br />
+- Until August 2014, a row of chairs was placed behind the female platoon at Marine recruit training for recruits who were too exhausted to stand, despite completing boot camp under the same conditions and requirements as their male peers.<br />
+- “Don’t ask, don’t tell” policy which barred openly LGBTQIA+ persons from joining the military was lifted September 20th, 2011. The law claimed, among other things, their presence would “create a risk (…) to unit cohesion”.</p>
 </div>
 <div id="code-refinement" class="section level1">
 <h1><strong>4. Code Refinement</strong></h1>
+<p><img src="www/initial_emergent_codes.PNG" alt="Initial and Emergent Codes" /> After all of the documents were read, the codes were refined so that there were not multiple codes to cover the same idea.</p>
 </div>
 <div id="primary-reading" class="section level1">
 <h1><strong>5. Primary Reading</strong></h1>
+<p><img src="www/word_cloud.PNG" alt="Word Cloud" /> Once the codes were selected, each document was read in its entirety using Dedoose. There were 319 excerpts and 506 code applications.</p>
 </div>
 <div id="secondary-coder-test" class="section level1">
 <h1><strong>6. Secondary Coder Test</strong></h1>
+<p><img src="www/code_test.PNG" alt="Coder Test" /> Tests were conducted on Dedoose to measure inter-coder relability. Readers outside of the project took a test to determine if their application of the codes matched that of the initial coder.</p>
+</div>
+<div id="cleaning" class="section level1">
+<h1><strong>7. Cleaning</strong></h1>
+<p><img src="www/lemmatization.PNG" alt="Lemmatization Example" /> To begin conducting Natural Language Processing(NLP) on the documents, the corpus was uploaded as text files into R Studio. All of the documents were cleaned by making all of the words lowercase, removing non-letter charcters, and removing white space. It was then decided that stop words(i.e. the, and, of) and any word less than four letters should be removed. Last names that were commonly referenced in documents were also removed. Then, all of the documents were lemmatized. Lemmatazation groups together multiple forms of the same word so that they can be analyzed as a single concept.</p>
 </div>
 <div id="word-cooccurence-test" class="section level1">
-<h1><strong>7. Word Cooccurence Test</strong></h1>
-<div id="cleaning" class="section level2">
-<h2>Cleaning</h2>
-</div>
+<h1><strong>8. Word Cooccurence Test</strong></h1>
+<p>The corpus was split into documents and then paragraphs. The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occured in each paragraph were recorded and the highest cooccurences were recorded.</p>
 </div>
 <div id="tf-idf" class="section level1">
-<h1><strong>8. TF-IDF</strong></h1>
-<p><img src="www/tf_idf.png" alt="TF-IDF" /> #<strong>9. LDA</strong><br />
-#<strong>10. Triangulation</strong></p>
-<p>We used dedoose <img src="www/dedoose_example.PNG" alt="Excerpt Count" /></p>
+<h1><strong>9. TF-IDF</strong></h1>
+<p>The term frequency, inverse document frequency was recorded for each document. This is calculated by multiplying the number of times each word appears in a given document and the inverse document frequency of the word in the corpus of documents. The final set of words shows which terms make each document unique from other documents in the corpus. #<strong>10. LDA</strong><br />
+Latent Dirichlet Allocation is a form of topic modeling that is used to show topics that emerge within the corpus of documents and what words are associated with each topic. For the purpose of this project, it was selected to create 18 topics as 18 codes were discovered when manually reading the doucments.</p>
+</div>
+<div id="triangulation" class="section level1">
+<h1><strong>11. Triangulation</strong></h1>
+<p>Based on the LDA model, codes were matched with the topics to see if the manually labeled documents coincided with the natural language processing.</p>
 </div>
 
 
