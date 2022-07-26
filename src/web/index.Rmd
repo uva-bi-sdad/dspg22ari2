@@ -24,16 +24,16 @@ Our Approach: A Mixed Method Thematic Approach
 
 Natural language processing (NLP) "strives to build machines that understand and respond to text data much the same way humans do" (IBM, 2022)  
   
-All NLP for this project was run on a corpus composed of the 10 documents on which document analysis was conducted. The documents were clean by removing stop words (i.e. the, and, of) and lemmatizing each word. Lemmatizing transforms each word to a common base word.
+All NLP for this project was run on a corpus composed of the 10 documents on which document analysis was conducted. The documents were clean by removing stop words (i.e. the, and, of) and legitimatizing each word. Lemmatizing transforms each word to a common base word.
   
 ###*Cooccurance*  
-Cooccurance visualizes word pairs that occur together most frequenlty in the corpus.  
+Cooccurance visualizes word pairs that occur together most frequently in the corpus.  
 
 ###*Term Frequency- Inverse Document Frequency*  
 TF-IDF is a text classification method that reflects the importance of a word to a document in a corpus of documents.  
   
 ###*Latent Dirichlet Allocation*  
-LDA is a Bayesian topic model that discovers the topics in a corpus of documents and the concurent probability that they will occur. 
+LDA is a Bayesian topic model that discovers the topics in a corpus of documents and the concurrent probability that they will occur. 
 
 
 
