@@ -5,7 +5,7 @@ output: html_document
 
 ```{r, layout="l-body-outset"}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/www/df.RDS"))
+paged_table(readRDS("/home/seh6fy/git/dspg22ari2/src/web/www/df.RDS"))
 ```
 
 
