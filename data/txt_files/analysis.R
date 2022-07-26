@@ -106,6 +106,6 @@ ggsave("/home/jme6bk/github/dspg22ari2/src/web/www/co-occurence.png",
        height = 11)
 
 
-
+saveRDS(df, file= "/home/jme6bk/github/dspg22ari2/src/web/www/df.RDS")
 
 
