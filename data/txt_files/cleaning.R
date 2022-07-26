@@ -38,7 +38,11 @@ for(file in files){
                                "ancona","ruth","ross","johnson","rodriguez","ibid","adrp","also","bunnell",
                                "cajina","rc","ccc","ile","ar","finkelstein","capl","brown","christiansen",
                                "fema","kingston","mcpherson","opms","hqda","arng","wocs","capi","opmg",
+<<<<<<< HEAD
                                "much", "will", "grinston"))
+=======
+                               "much", "will", "grinston", "however", "rater", "find", "make", "table")) # adding capital T to the stopwords
+>>>>>>> 301cfc82e714d5106e982e0ee0d573cfdc2aee66
   cleaned <- cleaned %>% append(doc01) # object for cleaned paragraph text
   names <- names %>% append(rep(file, length(doc01))) # object for the document name each paragraph belongs to
 }
@@ -47,14 +51,4 @@ text_df <- tibble(paragraph = c(seq(1:length(cleaned))), text = cleaned, documen
 tokenized_paragraphs <- text_df %>% unnest_tokens(word, text) %>% count(word, paragraph, sort = TRUE)
 tokenized_words <- text_df %>% unnest_tokens(word,text) %>% count(word,document, sort = TRUE)
 cooccurence <- tokenized_paragraphs %>% pairwise_count(word, paragraph, wt = n, sort = TRUE, upper = FALSE)
-
-# cooccurence %>%
-#   filter(n >=1500) %>%
-#   graph_from_data_frame() %>%
-#   ggraph(layout = "fr") +
-#   geom_edge_link(aes(edge_alpha = n, edge_width = n), edge_colour = "cyan4") +
-#   geom_node_point(size = 3) +
-#   geom_node_text(aes(label = name), repel = TRUE,
-#                  point.padding = unit(0.2, "lines")) +
-#   theme_void()
 
