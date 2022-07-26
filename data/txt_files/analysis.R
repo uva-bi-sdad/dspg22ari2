@@ -92,11 +92,7 @@ ggsave("/home/jme6bk/github/dspg22ari2/src/web/www/tf_idf.png",
 #cooccuarance ----------
 
 cooccurence %>%
-<<<<<<< HEAD
-  filter(3*n >=800) %>%
-=======
   filter(n >=300) %>%
->>>>>>> 301cfc82e714d5106e982e0ee0d573cfdc2aee66
   graph_from_data_frame() %>%
   ggraph(layout = "fr") +
   geom_edge_link(aes(edge_alpha = n, edge_width = n), edge_colour = "cyan4") +
@@ -109,7 +105,5 @@ ggsave("/home/jme6bk/github/dspg22ari2/src/web/www/co-occurence.png",
        width = 15,
        height = 11)
 
-
-saveRDS(df, file= "/home/jme6bk/github/dspg22ari2/src/web/www/df.RDS")
 
 

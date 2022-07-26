@@ -3,20 +3,44 @@ title: "Data"
 ---
 
 # Qualitative Analysis Data
-
 - link PDF documents in Github
 - explanation of documents
 - excel of excerpts if it's in github
 - screenshots from dedoose
-- yay
 
 ![Excerpt Count](www/excerpts_per_doc.PNG)
 
 look at our exceprt count per document above
 
 ## Natural Language Processing Data
-- could have our code ???
-- charts from github
-- link to github if u can easily
-- skylar explaing how the code works / how it is actually measuring what u claim
+
+###*Top Terms*
+EXPLAIN WHAT THIS IS USED FOR
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
+```
+
+###*Document Terms*
+####*Term Frequency - Inverse Document Frequency*
+EXPLAIN WHAT THIS IS USED FOR
+
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
+```
+
+###*Co-Occurence*
+EXPLAIN WHAT THIS IS USED FOR
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/cooccurence.RDS"))
+
+```
+
+
+
+
+
+
 

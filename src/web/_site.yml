@@ -3,7 +3,7 @@ output_dir: "../../docs"
 exclude: ["*.nb.html", "*.csv", "*.CSV", "*.dcf", "parlog", "old", "dashboard"]
 output:
   html_document:
-    theme: default
+    theme: "default"
     toc: true
     toc_float: true
     css: style.css

@@ -1,12 +1,16 @@
 ---
-title: "Findings Overview"
+title: "Overview"
 
 ---
-# QA
-- chart of codes 
-- explain that
+## Qualitative Analysis
 
-## NLP
+###*Codes*
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/df.RDS"), options = list(cols.print=3))
+```
+
+## Natural Language Processing
 ###*Co-Occurance*
 
 ![](www/co-occurence.png)
