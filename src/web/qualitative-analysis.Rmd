@@ -6,7 +6,7 @@ output: html_document
 ADD EXAMPLES !!!!!!
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/df.RDS"), options = list(cols.print=3))
+paged_table(readRDS("/home/seh6fy/git/dspg22ari2/src/web/RDS/df.RDS"), options = list(cols.print=3))
 ```
 
 Above this is complete list of the all the codes used along with examples of the codes. To look more in depth at the themes, patterns, convergences, similarities, and differences lets examine more specific instances within the documents to highlight key findings.

@@ -7,7 +7,7 @@ title: "Overview"
 ###*Codes*
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/df.RDS"), options = list(cols.print=3))
+paged_table(readRDS("/home/seh6fy/git/dspg22ari2/src/web/RDS/df.RDS"), options = list(cols.print=3))
 ```
 
 ## Natural Language Processing
@@ -15,7 +15,7 @@ paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/df.RDS"), option
 
 ![](www/co-occurence.png)
 
-###*Topic Modeling*
+###*LDA*
 
 ![ ](www/topic_model.png)
 

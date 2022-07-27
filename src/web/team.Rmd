@@ -3,21 +3,21 @@ title: "Team"
 ---
 
 # Interns
-![Skylar Haskiell](www/skylar_pic.jpg)  
+![Skylar Haskiell](www/skylar_pic.jpg){width=60% }</center>  
 
 ## *Skylar Haskiell*
 Skylar is a rising third year at the University of Virginia pursuing a B.S. in Computer Science. 
 
-![Jillian Eberhart](www/Jill.png)
+![Jillian Eberhart](www/Jill.png){width=60% }</center>
 
 ## *Jillian Eberhart*
 Jillian is a rising third year at the Univerisity of Virginia pursuing a B.A. in Statistics with a minor in Health and Wellness. 
 
 # Social and Decision Analytics Staff
-![Joel Thurston](www/Joel_pic.png)
+![Joel Thurston](www/Joel_pic.png){width=60% }</center>  
 ## *Joel Thurston*
 Senior Scientist
 
-![Joanna Schroeder](www/Joanna_pic.png)
+![Joanna Schroeder](www/Joanna_pic.png){width=60% }</center>  
 ## *Joanna Schroeder*
 Intermediate Research Specialist

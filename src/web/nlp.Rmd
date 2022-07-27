@@ -1,28 +1,45 @@
 ---
-title: "nlp"
+title: "Natural Language Processing"
 output: html_document
 ---
+For the purposes of this study, it is imporant to note that the colors used for graphs were selected arbitrarily and have no correlation to any derived meaning. [LDA](#LDA)   
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+#Co-Occurance  
+![](www/co-occurence.png)  
+As can be seen above, the frequency at which certain terms co-occured have been graphed. Words that appeared together more frequently are shown with darker lines.It can be extrapolated that words that appear together the most often, are in some way correlated. "N" represents the number of times each word pair appeared together.  
 
-## R Markdown
+#LDA  {#LDA}  
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+![ ](www/topic_model.png)  
+An LDA topic model is shown above. This model was selected to have 18 topics. The topics were not selected to match certain codes, but it was found that certain topics do indeed match up in topic with certain codes. The codes most highly correlated with each topic were used as the label at the top. Beta represents the number of words in a topic. The higher the beta is, the more large the number of words in the corpus that are in the topic.  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+#TF-IDF  
 
-```{r cars}
-summary(cars)
-```
+![ ](www/tf_idf.png)  
+Above is shown a TF-IDF model which shows which word make a document unique. The number shown is the mean TF-IDF score for each word. The higher the score, the more important it is to the uniqueness of the document. The document for which the model was created can be seen at the top of each graph.
 
-## Including Plots
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+<!-- ```{r setup, include=FALSE} -->
+<!-- knitr::opts_chunk$set(echo = TRUE) -->
+<!-- ``` -->
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+<!-- ## R Markdown -->
+
+<!-- This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. -->
+
+<!-- When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this: -->
+
+<!-- ```{r cars} -->
+<!-- summary(cars) -->
+<!-- ``` -->
+
+<!-- ## Including Plots -->
+
+<!-- You can also embed plots, for example: -->
+
+<!-- ```{r pressure, echo=FALSE} -->
+<!-- plot(pressure) -->
+<!-- ``` -->
+
+<!-- Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot. -->

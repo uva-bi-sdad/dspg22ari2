@@ -18,7 +18,7 @@ look at our exceprt count per document above
 EXPLAIN WHAT THIS IS USED FOR
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
+paged_table(readRDS("/home/seh6fy/git/dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
 ```
 
 ###*Document Terms*
@@ -27,14 +27,14 @@ EXPLAIN WHAT THIS IS USED FOR
 
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
+paged_table(readRDS("/home/seh6fy/git/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
 ```
 
 ###*Co-Occurence*
 EXPLAIN WHAT THIS IS USED FOR
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/cooccurence.RDS"))
+paged_table(readRDS("/home/seh6fy/git/dspg22ari2/src/web/RDS/cooccurence.RDS"))
 
 ```
 
