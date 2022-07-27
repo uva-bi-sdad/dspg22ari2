@@ -38,7 +38,6 @@ Definition <- c("Specifies a characteristic that is important to being a good le
 df <- data.frame(Code, Type, Definition)
 
 
-
 ####################################################################### SAVING
 # Save objects ---------
 saveRDS(df, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/df.RDS")
