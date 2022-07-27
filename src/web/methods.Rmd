@@ -12,9 +12,6 @@ The document disocvery can be found [here](https://github.com/uva-bi-sdad/dspg22
 <<<<<<< HEAD
 10 documents were selected to be from a variety of sources, sectors, and time periods. Documents most relevant to the theme were chosen.  
 The documents selected can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/yellow)
-=======
-10 documents were selected to be from a variety of sources, sectors, and time periods. Documents most relevant to the theme were chosen.The documents selected can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/txt_files).
->>>>>>> fc2b74f3f05a6e7fdcf397ac53d72d332801abbf
 
 #**3. Initial Analysis & Code Development**  
 The 10 documents in the corpus were read a first time to determine major themes that emerged. A literature review was also conducted to determine possible biases that would influence the documents.  
