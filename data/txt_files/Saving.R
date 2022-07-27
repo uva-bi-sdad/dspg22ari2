@@ -35,12 +35,13 @@ Definition <- c("Specifies a characteristic that is important to being a good le
                 "Measures a person’s level of identification with the military and their strength of desire to serve their country.",
                 "Exchange of information between individuals. Includes verbal and non-verbal.",
                 "Having honest and strong moral principles.")
-df <- data.frame(Code, Type, Definition)
+themes <- data.frame(Code, Type, Definition)
 
+detaileddf
 
 ####################################################################### SAVING
 # Save objects ---------
-saveRDS(df, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/df.RDS")
+saveRDS(themes, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/themes.RDS")
 saveRDS(top_terms_rename, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/top_terms_rename.RDS")
 saveRDS(desc_tf_idf, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS")
 saveRDS(cooccurence, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/cooccurence.RDS")
