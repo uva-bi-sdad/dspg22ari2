@@ -5,10 +5,10 @@ title: "Overview"
 ## Qualitative Analysis
 
 ###*Codes*
-```{r, layout="l-body-outset", echo = FALSE}
-library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/themes.RDS"), options = list(cols.print=3))
-```
+# ```{r, layout="l-body-outset", echo = FALSE}
+# library(rmarkdown)
+# paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/themes.RDS"), options = list(cols.print=3))
+# ```
 
 ## Natural Language Processing
 ###*Co-Occurance*

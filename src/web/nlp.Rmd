@@ -16,7 +16,8 @@ An LDA topic model is shown above. This model was selected to have 18 topics. Th
 #TF-IDF  
 
 ![ ](www/tf_idf.png)  
-Above is shown a TF-IDF model which shows which word make a document unique. The number shown is the mean TF-IDF score for each word. The higher the score, the more important it is to the uniqueness of the document. The document for which the model was created can be seen at the top of each graph. An interesting note is that many words such as Soldier, Army, leader, and team do not appear in the models. This is because the models represent what makes these documents unique and these words represent common themes.
+
+Above is shown a TF-IDF model which shows which word make a document unique. The number shown is the mean TF-IDF score for each word. The higher the score, the more important it is to the uniqueness of the document. The document for which the model was created can be seen at the top of each graph. An interesting note is that many words such as Soldier,  Army, leader, and team do not appear in the models. This is because the models represent what makes these documents unique and these words represent common themes.
 
 
 

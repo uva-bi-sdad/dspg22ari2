@@ -24,11 +24,12 @@ Possible Biases:
 After all of the documents were read, the codes were refined so that there were not multiple codes to cover the same idea.  
 
 #**5. Primary Reading**  
-![Word Cloud](www/word_cloud.PNG){width=80% }</center>
+![Word Cloud](www/word_cloud.PNG){width=60% }</center>  
+
 Once the codes were selected, each document was read in its entirety using Dedoose. There were 319 excerpts and 506 code applications.  
 
 #**6. Secondary Coder Test**   
-![Coder Test](www/code_test.PNG)
+![Coder Test](www/code_test.PNG)(www/word_cloud.PNG){width=90% }</center>
 Tests were conducted on Dedoose to measure inter-coder reliability. Readers outside of the project took a test to determine if their application of the codes matched that of the initial coder.  
 
 #**7. Cleaning**  
@@ -36,7 +37,7 @@ Tests were conducted on Dedoose to measure inter-coder reliability. Readers outs
 To begin conducting Natural Language Processing(NLP) on the documents, the corpus was uploaded as text files into R Studio. All of the documents were cleaned by making all of the words lowercase, removing non-letter charters, and removing white space. It was then decided that stop words(i.e. the, and, of) and any word less than four letters should be removed. Last names that were commonly referenced in documents were also removed. Then, all of the documents were legitimatized. Legitimization groups together multiple forms of the same word so that they can be analyzed as a single concept. The cleaning steps can be found on our Github [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/txt_files/cleaning.R).
 
 #**8. Word Cooccurence Test**  
-The corpus was split into documents and then paragraphs. The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occurred in each paragraph were recorded and the highest occurrences were recorded. The specific code can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/txt_files/analysis.R).  
+The corpus was split into documents and then paragraphs.[nlp](.\nlp.html). The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occurred in each paragraph were recorded and the highest occurrences were recorded. The specific code can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/txt_files/analysis.R).  
 
 #**9. TF-IDF**  
 The term frequency, inverse document frequency was recorded for each document. This is calculated by multiplying the number of times each word appears in a given document and the inverse document frequency of the word in the corpus of documents. The final set of words shows which terms make each document unique from other documents in the corpus.The specific code can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/txt_files/analysis.R).  
