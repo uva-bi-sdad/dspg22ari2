@@ -8,10 +8,9 @@ title: "Soldier Charcteristics that Contribute to Unit Performance: A Qualitativ
 
 
 # **Goal**
-Identify characteristics of individual Soldiers that contribute to unit performance
+Identify characteristics of individual Soldiers that contribute to unit performance to extend work to unit performance without requiring unit-level measurement
 
-# **Why**
-Key to extending work to unit performance without requiring unit-level measurement 
+
 
 # **Method**
 ##Document Analysis  

@@ -11,7 +11,7 @@
 
 
 
-<title>nlp</title>
+<title>Natural Language Processing</title>
 
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -372,29 +372,41 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">nlp</h1>
+<h1 class="title toc-ignore">Natural Language Processing</h1>
 
 </div>
 
 
-<div id="r-markdown" class="section level2">
-<h2>R Markdown</h2>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>When you click the <strong>Knit</strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
-<pre class="r"><code>summary(cars)</code></pre>
-<pre><code>##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00</code></pre>
+<p>For the purposes of this study, it is imporant to note that the colors used for graphs were selected arbitrarily and have no correlation to any derived meaning. <a href="#LDA">LDA</a></p>
+<div id="co-occurance" class="section level1">
+<h1>Co-Occurance</h1>
+<p><img src="www/co-occurence.png" /><br />
+As can be seen above, the frequency at which certain terms co-occured have been graphed. Words that appeared together more frequently are shown with darker lines.It can be extrapolated that words that appear together the most often, are in some way correlated. &quot;N&quot; represents the number of times each word pair appeared together.</p>
 </div>
-<div id="including-plots" class="section level2">
-<h2>Including Plots</h2>
-<p>You can also embed plots, for example:</p>
-<p><img src="nlp_files/figure-html/pressure-1.png" width="672" /></p>
-<p>Note that the <code>echo = FALSE</code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
+<div id="LDA" class="section level1">
+<h1>LDA</h1>
+<p><img src="www/topic_model.png" /><br />
+An LDA topic model is shown above. This model was selected to have 18 topics. The topics were not selected to match certain codes, but it was found that certain topics do indeed match up in topic with certain codes. The codes most highly correlated with each topic were used as the label at the top. Beta represents the number of words in a topic. The higher the beta is, the more large the number of words in the corpus that are in the topic.</p>
+</div>
+<div id="tf-idf" class="section level1">
+<h1>TF-IDF</h1>
+<p><img src="www/tf_idf.png" /><br />
+Above is shown a TF-IDF model which shows which word make a document unique. The number shown is the mean TF-IDF score for each word. The higher the score, the more important it is to the uniqueness of the document. The document for which the model was created can be seen at the top of each graph.</p>
+<!-- ```{r setup, include=FALSE} -->
+<!-- knitr::opts_chunk$set(echo = TRUE) -->
+<!-- ``` -->
+<!-- ## R Markdown -->
+<!-- This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. -->
+<!-- When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this: -->
+<!-- ```{r cars} -->
+<!-- summary(cars) -->
+<!-- ``` -->
+<!-- ## Including Plots -->
+<!-- You can also embed plots, for example: -->
+<!-- ```{r pressure, echo=FALSE} -->
+<!-- plot(pressure) -->
+<!-- ``` -->
+<!-- Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot. -->
 </div>
 
 

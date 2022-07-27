@@ -15,7 +15,7 @@ paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/themes.RDS"), op
 
 ![](www/co-occurence.png)
 
-###*Topic Modeling*
+###*LDA*
 
 ![ ](www/topic_model.png)
 
