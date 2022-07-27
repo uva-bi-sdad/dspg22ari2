@@ -2,21 +2,21 @@
 title: "Natural Language Processing"
 output: html_document
 ---
-For the purposes of this study, it is imporant to note that the colors used for graphs were selected arbitrarily and have no correlation to any derived meaning. [LDA](#LDA)   
+*For the purposes of this study, it is imporant to note that the colors used for graphs were selected arbitrarily and have no correlation to any derived meaning.* [LDA](#LDA)   
 
 #Co-Occurance  
 ![](www/co-occurence.png)  
-As can be seen above, the frequency at which certain terms co-occured have been graphed. Words that appeared together more frequently are shown with darker lines.It can be extrapolated that words that appear together the most often, are in some way correlated. "N" represents the number of times each word pair appeared together.  
+As can be seen above, the frequency at which certain terms co-occured have been graphed. Words that appeared together more frequently are shown with darker lines.It can be extrapolated that words that appear together the most often, are in some way correlated. "N" represents the number of times each word pair appeared together. Some of the largest co-occurances were between Army and leader, leader and subordinate, and team and member. These findings show that our corpus of document accuretly explored our topic of individual Soldier charcteristics that contribute to team performance.  
 
 #LDA  {#LDA}  
 
 ![ ](www/topic_model.png)  
-An LDA topic model is shown above. This model was selected to have 18 topics. The topics were not selected to match certain codes, but it was found that certain topics do indeed match up in topic with certain codes. The codes most highly correlated with each topic were used as the label at the top. Beta represents the number of words in a topic. The higher the beta is, the more large the number of words in the corpus that are in the topic.  
+An LDA topic model is shown above. This model was selected to have 18 topics. The topics were not selected to match certain codes, but it was found that certain topics do indeed match up in topic with certain codes. The codes most highly correlated with each topic were used as the label at the top. Beta represents the number of words in a topic. The higher the beta is, the more large the number of words in the corpus that are in the topic. Many of the topics correlated strongly to our codes which coroborates their selection. Some of the codes such as Qualities of a Leader, Shared Vision, and Team Success appeared multiple times. This could be extrapolated to show their importance to the Army.  
 
 #TF-IDF  
 
 ![ ](www/tf_idf.png)  
-Above is shown a TF-IDF model which shows which word make a document unique. The number shown is the mean TF-IDF score for each word. The higher the score, the more important it is to the uniqueness of the document. The document for which the model was created can be seen at the top of each graph.
+Above is shown a TF-IDF model which shows which word make a document unique. The number shown is the mean TF-IDF score for each word. The higher the score, the more important it is to the uniqueness of the document. The document for which the model was created can be seen at the top of each graph. An interesting note is that many words such as Soldier, Army, leader, and team do not appear in the models. This is because the models represent what makes these documents unique and these words represent common themes.
 
 
 

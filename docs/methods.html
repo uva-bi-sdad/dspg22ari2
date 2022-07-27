@@ -383,12 +383,11 @@ div.tocify {
 </div>
 <div id="document-discovery" class="section level1">
 <h1><strong>1. Document Discovery</strong></h1>
-<p><img src="www/document_discovery.PNG" alt="Document Discovery" />{dim = c(8, 6)} A list of 55 documents from the Army and external sources that pertained to the role of an individual in unit performance were collected. The author, keywords, uses, a description, date written, and any notes were collected for each document.</p>
+<p><img src="www/document_discovery.PNG" alt="Document Discovery" /> A list of 55 documents from the Army and external sources that pertained to the role of an individual in unit performance were collected. The author, keywords, uses, a description, date written, and any notes were collected for each document.</p>
 </div>
 <div id="document-selection" class="section level1">
 <h1><strong>2. Document Selection</strong></h1>
-<p>10 documents were selected to be from a variety of sources, sectors, and time periods. Documents most relevant to the theme were chosen.<br />
-The documents selected can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/txt_files">here</a></p>
+<p>10 documents were selected to be from a variety of sources, sectors, and time periods. Documents most relevant to the theme were chosen.The documents selected can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/txt_files">here</a>.</p>
 </div>
 <div id="initial-analysis-code-development" class="section level1">
 <h1><strong>3. Initial Analysis &amp; Code Development</strong></h1>
@@ -414,22 +413,29 @@ Possible Biases:<br />
 </div>
 <div id="cleaning" class="section level1">
 <h1><strong>7. Cleaning</strong></h1>
-<img src="www/lemmatization.PNG" alt="Lemmatization Example" style="width:60.0%" />
+<img src="www/lemmatization.PNG" alt="Lemmatization Example" style="width:40.0%" />
 </center>
-<p>To begin conducting Natural Language Processing(NLP) on the documents, the corpus was uploaded as text files into R Studio. All of the documents were cleaned by making all of the words lowercase, removing non-letter charters, and removing white space. It was then decided that stop words(i.e. the, and, of) and any word less than four letters should be removed. Last names that were commonly referenced in documents were also removed. Then, all of the documents were legitimatized. Legitimization groups together multiple forms of the same word so that they can be analyzed as a single concept.</p>
+<p>To begin conducting Natural Language Processing(NLP) on the documents, the corpus was uploaded as text files into R Studio. All of the documents were cleaned by making all of the words lowercase, removing non-letter charters, and removing white space. It was then decided that stop words(i.e. the, and, of) and any word less than four letters should be removed. Last names that were commonly referenced in documents were also removed. Then, all of the documents were legitimatized. Legitimization groups together multiple forms of the same word so that they can be analyzed as a single concept. The cleaning steps can be found on our Github <a href="https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/txt_files/cleaning.R">here</a>.</p>
 </div>
 <div id="word-cooccurence-test" class="section level1">
 <h1><strong>8. Word Cooccurence Test</strong></h1>
-<p>The corpus was split into documents and then paragraphs. The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occurred in each paragraph were recorded and the highest occurrences were recorded.</p>
+<p>The corpus was split into documents and then paragraphs. The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occurred in each paragraph were recorded and the highest occurrences were recorded. The specific code can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/txt_files/analysis.R">here</a>.</p>
 </div>
 <div id="tf-idf" class="section level1">
 <h1><strong>9. TF-IDF</strong></h1>
-<p>The term frequency, inverse document frequency was recorded for each document. This is calculated by multiplying the number of times each word appears in a given document and the inverse document frequency of the word in the corpus of documents. The final set of words shows which terms make each document unique from other documents in the corpus. #<strong>10. LDA</strong><br />
-Latent Dirichlet Allocation is a form of topic modeling that is used to show topics that emerge within the corpus of documents and what words are associated with each topic. For the purpose of this project, it was selected to create 18 topics as 18 codes were discovered when manually reading the documents.</p>
+<p>The term frequency, inverse document frequency was recorded for each document. This is calculated by multiplying the number of times each word appears in a given document and the inverse document frequency of the word in the corpus of documents. The final set of words shows which terms make each document unique from other documents in the corpus.The specific code can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/txt_files/analysis.R">here</a>.</p>
+</div>
+<div id="lda" class="section level1">
+<h1><strong>10. LDA</strong></h1>
+<p>Latent Dirichlet Allocation is a form of topic modeling that is used to show topics that emerge within the corpus of documents and what words are associated with each topic. For the purpose of this project, it was selected to create 18 topics as 18 codes were discovered when manually reading the documents. The specific code can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/txt_files/analysis.R">here</a>.</p>
 </div>
 <div id="triangulation" class="section level1">
 <h1><strong>11. Triangulation</strong></h1>
 <p>Based on the LDA model, codes were matched with the topics to see if the manually labeled documents coincided with the natural language processing.</p>
+</div>
+<div id="next-steps" class="section level1">
+<h1><strong>12. Next steps</strong></h1>
+<p>In the future, it is hope that the corpus would be expanded to include any documents that are similar to the topic but were not originally selected to be included due to constraints. The data collected will be used to inform quantitative models on unit performance.</p>
 </div>
 
 
