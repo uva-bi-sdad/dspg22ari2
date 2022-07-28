@@ -81,27 +81,31 @@ The graph below shows the number of excerpts used per document. The longer bars 
 
 ###*LDA*
 LDA can be used to see the top topics that come out of a given corpus. From our project, we selected tehre to be 18 topics. The titles on each topic group were assigned based on the theme each topic appears to be attempting to convey. Some topics, such as Shared Vision, appear multiple times.
-# ```{r, layout="l-body-outset", echo = FALSE}
-# library(rmarkdown)
-# paged_table(readRDS("dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
-# ```
+
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
+```
+
 
 ###*Document Terms*
 ####*Term Frequency - Inverse Document Frequency*
 TF-IDF can be used to see which topics make each document unique. It is interesting to see that the terms used in Army documents differed slightly than the terms used in academic literature. For example, the academic literature used words such as boundary, demographic, and cooperate. The Army literature had lots of words on the structure of the military such as officer, Soldier, and squad. The overall theme of each document can be derived from the top terms in the model. Building Cohesive Teams focused largely on informal leadership which can be seen through terms such as weekend and Friday. 
 
-# ```{r, layout="l-body-outset", echo = FALSE}
-# library(rmarkdown)
-# paged_table(readRDS("dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
-# ```
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
+```
+
 
 ###*Co-Occurence*
 By looking at the word co-occurance map, the frequency at which different terms appear together is shown. Some of the highest frequency sets include leader and subordiante, army and leader, and team and member. This shows that the documents selected reflected the overall theme of an individual's role in unit performance. Interesting connections include those formed between leader and situation, organizational and leader, and time and leader. 
-# ```{r, layout="l-body-outset", echo = FALSE}
-# library(rmarkdown)
-# paged_table(readRDS("dspg22ari2/src/web/RDS/cooccurence.RDS"))
-# 
-# ```
+
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/cooccurence.RDS"))
+```
+
 
 
 

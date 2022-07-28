@@ -7,7 +7,7 @@ output:
 ---
 
 #**Bottom Line Up Front (BLUF)**
-HERE
+The project will inform and contextualize future quantitative modeling of Army performance. Through qualitative analysis and a thematic approach, we interpreted non-Army and Army documents to give meaning around a phenomena of interest and triangulated for credibility. These documents were tagged with codes related to our research question using a software called Dedoose. The goal was to reach a saturation of themes to a point where we are no longer seeing new emergent themes. These codes have been reformed and secondary coders have tested these codes for relative agreement. The findings of this qualitative analysis focus on specific qualities of leaders, individuals, and teams. In addition, there were several differences in the context between academic and army documents and what team success entailed.  Next, the triangulation process utilized natural language processing. A topic model and word co-occurrence map were done on all the analyzed documents with the goal to compare the qualitative analysis method to the natural language processing method and see any similarities or convergence in ideas. The findings of the NLP made it clear that the themes coded were repetitive and appeared many times throughout all the documents.
 
 # **Goal**
 Identify characteristics of individual Soldiers that contribute to unit performance to extend work to unit performance without requiring unit-level measurement
@@ -30,7 +30,10 @@ Document analysis is a “form of qualitative research in which documents are in
 
 Our Approach: A Mixed Method Thematic Approach 
 
-![ ](www/world_cloud.PNG){width=40%}</center> 
+<p align="center">   
+
+![ ](www/word_cloud.PNG){width=40% }  
+</p>  
 
 ###*Natural Language Processing*  
 
