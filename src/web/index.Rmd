@@ -1,5 +1,9 @@
 ---
 title: "Soldier Charcteristics that Contribute to Unit Performance: A Qualitative Analysis"
+output:
+  html_document:
+    includes:
+      in_header: hero-image.html
 ---
 
 #**Bottom Line Up Front (BLUF)**
@@ -10,8 +14,11 @@ Identify characteristics of individual Soldiers that contribute to unit performa
 
 # **Sponsor**
 This project was sponsored by the Amry Research Institute.  
+<p align="center">   
 
-![ ](www/ARI.png){width=40% }</center>  
+![ ](www/ARI.png){width=40% }  
+</p>  
+
 
 # **Data**   
 A corpus of 10 documents, 8 Army and 2 from outside literature, regarding an individual's role in team performance was created.   

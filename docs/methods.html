@@ -377,13 +377,12 @@ div.tocify {
 </div>
 
 
-<div class="figure">
-<img src="www/flowchart.PNG" alt="Flowchart" />
-<p class="caption">Flowchart</p>
-</div>
+<p align="center">
+<img src="www/flow.PNG" alt="Flowchart" style="width:70.0%" />
+</p>
 <div id="document-discovery" class="section level1">
 <h1><strong>1. Document Discovery</strong></h1>
-<p><img src="www/document_discovery.PNG" alt="Document Discovery" /> A list of 55 documents from the Army and external sources that pertained to the role of an individual in unit performance were collected. The author, keywords, uses, a description, date written, and any notes were collected for each document. The document disocvery can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel">here</a></p>
+<p><img src="www/document_discovery.PNG" alt="Document Discovery" fig.align="center" /> A list of 55 documents from the Army and external sources that pertained to the role of an individual in unit performance were collected. The author, keywords, uses, a description, date written, and any notes were collected for each document. The document disocvery can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel">here</a></p>
 </div>
 <div id="document-selection" class="section level1">
 <h1><strong>2. Document Selection</strong></h1>
@@ -402,29 +401,35 @@ Possible Biases:</p>
 </div>
 <div id="code-refinement" class="section level1">
 <h1><strong>4. Code Refinement</strong></h1>
-<p><img src="www/initial_emergent_codes.PNG" alt="Initial and Emergent Codes" /> After all of the documents were read, the codes were refined so that there were not multiple codes to cover the same idea.</p>
+<p align="center">
+<img src="www/initial_emergent_codes.PNG" alt="Initial and Emergent Codes" />
+</p>
+<p>After all of the documents were read, the codes were refined so that there were not multiple codes to cover the same idea.</p>
 </div>
 <div id="primary-reading" class="section level1">
 <h1><strong>5. Primary Reading</strong></h1>
+<p align="center">
 <img src="www/word_cloud.PNG" alt="Word Cloud" style="width:60.0%" />
-</center>
+</p>
 <p>Once the codes were selected, each document was read in its entirety using Dedoose. There were 320 excerpts and 506 code applications.</p>
 </div>
 <div id="secondary-coder-test" class="section level1">
 <h1><strong>6. Secondary Coder Test</strong></h1>
+<p align="center">
 <img src="www/code_test.PNG" alt="Coder Test" style="width:90.0%" />
-</center>
+</p>
 <p>Tests were conducted on Dedoose to measure inter-coder reliability. Readers outside of the project took a test to determine if their application of the codes matched that of the initial coder.</p>
 </div>
 <div id="cleaning" class="section level1">
 <h1><strong>7. Cleaning</strong></h1>
+<p align="center">
 <img src="www/lemmatization.PNG" alt="Lemmatization Example" style="width:40.0%" />
-</center>
+</p>
 <p>To begin conducting Natural Language Processing(NLP) on the documents, the corpus was uploaded as text files into R Studio. All of the documents were cleaned by making all of the words lowercase, removing non-letter charters, and removing white space. It was then decided that stop words(i.e. the, and, of) and any word less than four letters should be removed. Last names that were commonly referenced in documents were also removed. Then, all of the documents were legitimatized. Legitimization groups together multiple forms of the same word so that they can be analyzed as a single concept. The cleaning steps can be found on our Github <a href="https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/cleaning.R">here</a>.</p>
 </div>
 <div id="word-cooccurence-test" class="section level1">
 <h1><strong>8. Word Cooccurence Test</strong></h1>
-<p>The corpus was split into documents and then paragraphs.<a href=".\nlp.html">nlp</a>. The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occurred in each paragraph were recorded and the highest occurrences were recorded. The specific code can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/analysis.R">here</a>.</p>
+<p>The corpus was split into documents and then paragraphs. The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occurred in each paragraph were recorded and the highest occurrences were recorded. The specific code can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/analysis.R">here</a>.</p>
 </div>
 <div id="tf-idf" class="section level1">
 <h1><strong>9. TF-IDF</strong></h1>
