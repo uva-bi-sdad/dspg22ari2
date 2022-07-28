@@ -10,7 +10,13 @@ title: "Soldier Charcteristics that Contribute to Unit Performance: A Qualitativ
 # **Goal**
 Identify characteristics of individual Soldiers that contribute to unit performance to extend work to unit performance without requiring unit-level measurement
 
+# **Sponsor**
+This project was sponsored by the Amry Research Institute.   
 
+# **Bottom Line Up Front (BLUF)**  
+
+# **Data**   
+A corpus of 10 documents, 8 Army and 2 from outside literature, regarding an individual's role in team performance was created.   
 
 # **Method**
 ##Document Analysis  
@@ -32,8 +38,9 @@ Cooccurance visualizes word pairs that occur together most frequently in the cor
 TF-IDF is a text classification method that reflects the importance of a word to a document in a corpus of documents.  
   
 ###*Latent Dirichlet Allocation*  
-LDA is a Bayesian topic model that discovers the topics in a corpus of documents and the concurrent probability that they will occur. 
-
+LDA is a Bayesian topic model that discovers the topics in a corpus of documents and the concurrent probability that they will occur.   
+ 
+# **Findings**
 
 
 
