@@ -12,9 +12,7 @@ The document disocvery can be found [here](https://github.com/uva-bi-sdad/dspg22
 
 Official Army documents were analyzed to understand individual characteristics of that lead to unit performance from the perspective of the Army. The Army has very different definitions of team success than civilian teams, so the individual characteristics related to success may be specific to the Army. Non-Army documents were also analyzed to see if there are individual characteristics known to lead to success that the Army does not already consider. 
 
-**What Makes Teams Work: Group Effectiveness Research from the Shop Floor** is a publication by researchers at the University of Southern California exploring a heuristic framework illustrating recent trends in depiction of team effectiveness, group, and organization design factors, environmental factors, internal processes, external processes, and group psychosocial traits written for the general public and other academics 
-
-**The Relationship Between Organizational Characteristics and Team Building Success** is a publication by researchers at the University of Akron exploring the influence of organizational structure and team building on workgroup effectiveness written for the general public and other academics 
+ 
 
 We define official Army documents as documents officially published by the Army (Department of Army Authenticated Publications). More specifically, we analyze seven types of Army Administrative Documents: 
 
@@ -53,6 +51,11 @@ A **Training Circulars (TC)** is a permanent publication that provides a means t
 - FM 6-22: Leader Development   
 
 - TC 7-21.13: Soldier’s Guide  
+  
+There were also 2 non-Army documents in the corpus:  
+**What Makes Teams Work: Group Effectiveness Research from the Shop Floor** is a publication by researchers at the University of Southern California exploring a heuristic framework illustrating recent trends in depiction of team effectiveness, group, and organization design factors, environmental factors, internal processes, external processes, and group psychosocial traits written for the general public and other academics 
+
+**The Relationship Between Organizational Characteristics and Team Building Success** is a publication by researchers at the University of Akron exploring the influence of organizational structure and team building on workgroup effectiveness written for the general public and other academics  
 
 ###*Excerpts*
 A full list of all 320 excerpts can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel).
@@ -67,7 +70,7 @@ The graph below shows the number of excerpts used per document. The longer bars 
 EXPLAIN WHAT THIS IS USED FOR
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
+paged_table(readRDS("dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
 ```
 
 ###*Document Terms*
@@ -76,14 +79,14 @@ EXPLAIN WHAT THIS IS USED FOR
 
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
+paged_table(readRDS("dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
 ```
 
 ###*Co-Occurence*
 EXPLAIN WHAT THIS IS USED FOR
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/cooccurence.RDS"))
+paged_table(readRDS("dspg22ari2/src/web/RDS/cooccurence.RDS"))
 
 ```
 
