@@ -70,7 +70,6 @@ Official Army documents were analyzed to understand individual characteristics o
 **The Relationship Between Organizational Characteristics and Team Building Success**   
 - A publication by researchers at the University of Akron exploring the influence of organizational structure and team building on workgroup effectiveness written for the general public and other academics 
 
-
 ###*Excerpts*
 A full list of all 320 excerpts can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel).
 
@@ -84,7 +83,7 @@ The graph below shows the number of excerpts used per document. The longer bars 
 EXPLAIN WHAT THIS IS USED FOR
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
+paged_table(readRDS("dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
 ```
 
 ###*Document Terms*
@@ -93,14 +92,14 @@ EXPLAIN WHAT THIS IS USED FOR
 
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
+paged_table(readRDS("dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
 ```
 
 ###*Co-Occurence*
 EXPLAIN WHAT THIS IS USED FOR
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/cooccurence.RDS"))
+paged_table(readRDS("dspg22ari2/src/web/RDS/cooccurence.RDS"))
 
 ```
 
