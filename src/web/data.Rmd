@@ -61,7 +61,7 @@ The graph below shows the number of excerpts used per document. The longer bars 
 ![Excerpt Count](www/excerpts_per_doc.PNG)
 
 
-## Natural Language Processing Data
+# Natural Language Processing Data
 
 ###*Top Terms*
 EXPLAIN WHAT THIS IS USED FOR
