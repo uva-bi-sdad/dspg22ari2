@@ -9,7 +9,7 @@ title: "Methods"
 #**1. Document Discovery**  
 ![Document Discovery](www/document_discovery.PNG){fig.align='center'}
 A list of 55 documents from the Army and external sources that pertained to the role of an individual in unit performance were collected. The author, keywords, uses, a description, date written, and any notes were collected for each document.
-The document disocvery can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel)
+The document discovery can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel)
 
 #**2. Document Selection**  
 10 documents were selected to be from a variety of sources, sectors, and time periods. Documents most relevant to the theme were chosen.  

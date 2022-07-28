@@ -5,7 +5,7 @@ title: "Data"
 # Qualitative Analysis Data
 ###*Document Review*
 A list of 55 documents from the Army and external sources that pertained to the role of an individual in unit performance were collected. The author, keywords, uses, a description, date written, and any notes were collected for each document to aid in the document selection for the qualitative analysis. Green highlighted documents titles indicate possible relevance to research topic and yellow highlighted document names were the 10 documents used in the qualitative analysis. The chart below shows one example of how a document was reviewed.
-The document disocvery can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel).
+The document discovery can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel).
 
 ![ ](www/document_discovery.PNG)
 
@@ -65,10 +65,10 @@ We define official Army documents as documents officially published by the Army 
 Official Army documents were analyzed to understand individual characteristics of that lead to unit performance from the perspective of the Army. The Army has very different definitions of team success than civilian teams, so the individual characteristics related to success may be specific to the Army. Non-Army documents were also analyzed to see if there are individual characteristics known to lead to success that the Army does not already consider. 
 
 **What Makes Teams Work: Group Effectiveness Research from the Shop Floor**   
-- A publication by researchers at the University of Southern California exploring a heuristic framework illustrating recent trends in depiction of team effectiveness, group, and organization design factors, environmental factors, internal processes, external processes, and group psychosocial traits written for the general public and other academics 
+- A publication by researchers at the University of Southern California exploring a heuristic framework illustrating recent trends in depiction of team effectiveness, group, and organization design factors, environmental factors, internal processes, external processes, and group psycho-social traits written for the general public and other academics 
 
 **The Relationship Between Organizational Characteristics and Team Building Success**   
-- A publication by researchers at the University of Akron exploring the influence of organizational structure and team building on workgroup effectiveness written for the general public and other academics 
+- A publication by researchers at the University of Akron exploring the influence of organizational structure and team building on work group effectiveness written for the general public and other academics 
 
 ###*Excerpts*
 A full list of all 320 excerpts can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel).
@@ -80,7 +80,7 @@ The graph below shows the number of excerpts used per document. The longer bars 
 # Natural Language Processing Data
 
 ###*LDA*
-LDA can be used to see the top topics that come out of a given corpus. From our project, we selected tehre to be 18 topics. The titles on each topic group were assigned based on the theme each topic appears to be attempting to convey. Some topics, such as Shared Vision, appear multiple times.
+LDA can be used to see the top topics that come out of a given corpus. From our project, we selected there to be 18 topics. The titles on each topic group were assigned based on the theme each topic appears to be attempting to convey. Some topics, such as Shared Vision, appear multiple times.
 
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
@@ -99,7 +99,7 @@ paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"
 
 
 ###*Co-Occurence*
-By looking at the word co-occurance map, the frequency at which different terms appear together is shown. Some of the highest frequency sets include leader and subordiante, army and leader, and team and member. This shows that the documents selected reflected the overall theme of an individual's role in unit performance. Interesting connections include those formed between leader and situation, organizational and leader, and time and leader. 
+By looking at the word co-occurrence map, the frequency at which different terms appear together is shown. Some of the highest frequency sets include leader and subordinate, army and leader, and team and member. This shows that the documents selected reflected the overall theme of an individual's role in unit performance. Interesting connections include those formed between leader and situation, organizational and leader, and time and leader. 
 
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)

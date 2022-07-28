@@ -13,7 +13,7 @@ The project will inform and contextualize future quantitative modeling of Army p
 Identify characteristics of individual Soldiers that contribute to unit performance to extend work to unit performance without requiring unit-level measurement
 
 # **Sponsor**
-This project was sponsored by the Amry Research Institute.  
+This project was sponsored by the Army Research Institute.  
 <p align="center">   
 
 ![ ](www/ARI.png){width=40% }  
