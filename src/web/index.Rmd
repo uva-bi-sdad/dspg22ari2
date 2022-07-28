@@ -2,55 +2,45 @@
 title: "Soldier Charcteristics that Contribute to Unit Performance: A Qualitative Analysis"
 ---
 
-
-
-![ ](www/black-logo.png)
-
+#**Bottom Line Up Front (BLUF)**
+HERE
 
 # **Goal**
 Identify characteristics of individual Soldiers that contribute to unit performance to extend work to unit performance without requiring unit-level measurement
 
 # **Sponsor**
-This project was sponsored by the Amry Research Institute.   
+This project was sponsored by the Amry Research Institute.  
 
-# **Bottom Line Up Front (BLUF)**  
+![ ](www/ARI.png){width=40% }</center>  
 
 # **Data**   
 A corpus of 10 documents, 8 Army and 2 from outside literature, regarding an individual's role in team performance was created.   
 
 # **Method**
-##Document Analysis  
+###*Document Analysis*  
 
 Document analysis is a “form of qualitative research in which documents are interpreted by the researcher to give voice and meaning around an assessment topic" (Bowen, 2009)  
 
-Our Approach: A Mixed Method Thematic Approach  
+Our Approach: A Mixed Method Thematic Approach 
 
-##Natural Language Processing  
+![ ](www/world_cloud.PNG){width=40%}</center> 
+
+###*Natural Language Processing*  
 
 Natural language processing (NLP) "strives to build machines that understand and respond to text data much the same way humans do" (IBM, 2022)  
   
 All NLP for this project was run on a corpus composed of the 10 documents on which document analysis was conducted. The documents were clean by removing stop words (i.e. the, and, of) and legitimatizing each word. Lemmatizing transforms each word to a common base word.
   
-###*Cooccurance*  
+####*Cooccurance*  
 Cooccurance visualizes word pairs that occur together most frequently in the corpus.  
 
-###*Term Frequency- Inverse Document Frequency*  
+####*Term Frequency- Inverse Document Frequency*  
 TF-IDF is a text classification method that reflects the importance of a word to a document in a corpus of documents.  
   
-###*Latent Dirichlet Allocation*  
+####*Latent Dirichlet Allocation*  
 LDA is a Bayesian topic model that discovers the topics in a corpus of documents and the concurrent probability that they will occur.   
- 
-# **Findings**
 
 
 
-
-
-<!-- Here's how you make a list: -->
-
-<!-- *Tips for making figures look good:* -->
-
-<!-- - Make text sizes BIG -->
-<!-- - Stick to the same colors -->
-<!-- - Decide to add titles, captions, etc in the figures OR add on the website for all figures -->
+![ ](www/black-logo.png)
 
