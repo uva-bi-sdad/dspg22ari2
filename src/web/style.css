@@ -79,3 +79,20 @@ a {
   top: 120px; /*Controls where TOC stops when sticky */
   width: 100% !important;
 }
+
+@media screen and (max-width: 767px){
+
+  .col-xs-12.col-sm-4.col-md-3 {
+    display: none;
+  }
+
+  .top-text {
+    font-size: 25px;
+  }
+
+  .bottom-text {
+    font-size: 40px;
+  }
+
+
+}
