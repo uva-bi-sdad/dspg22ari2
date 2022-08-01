@@ -2,6 +2,8 @@
 title: "Overview"
 
 ---
+##Overview  
+Through Qualitative Analysis and NLP of the corpus of documents, it became clear that some themes were incredibly relavent and repetitve. Many concepts such as rank and skill/ leadership development occuredly frequently in both methods. 
 ## Qualitative Analysis
 
 ###*Codes*
