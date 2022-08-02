@@ -4,8 +4,11 @@ output: html_document
 ---
 ###*Codes*
 ```{r, layout="l-body-outset", echo = FALSE}
-library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/themes_detailed.RDS"), options = list(cols.print=3))
+library(DT)
+datatable(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/themes_detailed.RDS"), options = list(
+  pageLength = 18
+  ))
+
 ```
 
 

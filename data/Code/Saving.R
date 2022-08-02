@@ -1,17 +1,27 @@
 # Saving all RDS objects for Website #
+library(dplyr)
+
 ####################################################################### SAVING
 # Save objects ---------
+
+# - codes
 saveRDS(themes, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/themes.RDS")
 saveRDS(themes_detailed, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/themes_detailed.RDS")
+
+# - top_terms_rename
+top_terms_rename <- top_terms_rename %>% select(Term, Topic, Beta)
 saveRDS(top_terms_rename, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/top_terms_rename.RDS")
+
+# - desc_tf_idf
+desc_tf_idf <- desc_tf_idf %>% rename(Word = word, Document = document,
+                                       Count = n, Term_Frequency = tf, Inverse_Document_Frequency = idf,
+                                      Term_Frequency_Inverse_Document_Frequency = tf_idf)
 saveRDS(desc_tf_idf, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS")
+
+# - cooccurence
+cooccurence <- cooccurence %>% rename(Word1 = item1, Word2 = item2, Count = n )
 saveRDS(cooccurence, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/cooccurence.RDS")
 
-#Things that need to be saved
-# - codes
-# - top_terms_rename
-# - desc_tf_idf
-# - cooccurence
 
 ####################################################################### SAVING
 
