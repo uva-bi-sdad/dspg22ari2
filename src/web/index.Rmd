@@ -11,6 +11,7 @@ The project used document analysis and natural language processing(NLP) techiniq
 
 #**Overview**  
 The project will inform and contextualize future quantitative modeling of Army performance. Through qualitative analysis and a thematic approach, we interpreted non-Army and Army documents to give meaning around a phenomena of interest and triangulated for credibility. These documents were tagged with codes related to our research question using a software called Dedoose. The goal was to reach a saturation of themes to a point where we are no longer seeing new emergent themes. These codes have been reformed and secondary coders have tested these codes for relative agreement. The findings of this qualitative analysis focus on specific qualities of leaders, individuals, and teams. In addition, there were several differences in the context between academic and army documents and what team success entailed.  Next, the triangulation process utilized natural language processing. A topic model and word co-occurrence map were done on all the analyzed documents with the goal to compare the qualitative analysis method to the natural language processing method and see any similarities or convergence in ideas. The findings of the NLP made it clear that the themes coded were repetitive and appeared many times throughout all the documents.
+
 # **Goal**
 Identify characteristics of individual Soldiers that contribute to unit performance to extend work to unit performance without requiring unit-level measurement
 
@@ -26,8 +27,8 @@ This project was sponsored by the Army Research Institute.
 A corpus of 10 documents, 8 Army and 2 from outside literature, regarding an individual's role in team performance was created.   
 
 # **Method**
-###*Document Analysis*  
 
+###*Document Analysis*  
 Document analysis is a “form of qualitative research in which documents are interpreted by the researcher to give voice and meaning around an assessment topic" (Bowen, 2009)  
 
 Our Approach: A Mixed Method Thematic Approach 
@@ -38,7 +39,6 @@ Our Approach: A Mixed Method Thematic Approach
 </p>  
 
 ###*Natural Language Processing*  
-
 Natural language processing (NLP) "strives to build machines that understand and respond to text data much the same way humans do" (IBM, 2022)  
   
 All NLP for this project was run on a corpus composed of the 10 documents on which document analysis was conducted. The documents were clean by removing stop words (i.e. the, and, of) and legitimatizing each word. Lemmatizing transforms each word to a common base word.
@@ -54,5 +54,5 @@ LDA is a Bayesian topic model that discovers the topics in a corpus of documents
 
 
 
-![ ](www/black-logo.png)
+[![ ](www/black-logo.png)](https://biocomplexity.virginia.edu/event/data-science-public-good-symposium-2022)
 
