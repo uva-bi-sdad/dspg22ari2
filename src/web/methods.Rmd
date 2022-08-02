@@ -57,17 +57,27 @@ Tests were conducted on Dedoose to measure inter-coder reliability. Readers outs
 </p>  
 
 To begin conducting Natural Language Processing(NLP) on the documents, the corpus was uploaded as text files into R Studio. All of the documents were cleaned by making all of the words lowercase, removing non-letter charters, and removing white space. It was then decided that stop words(i.e. the, and, of) and any word less than four letters should be removed. Last names that were commonly referenced in documents were also removed. Then, all of the documents were legitimatized. Legitimization groups together multiple forms of the same word so that they can be analyzed as a single concept. The cleaning steps can be found on our Github [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/cleaning.R).
-
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/cooccurence.RDS"))
+```
 #**8. Word Cooccurence Test**  
-The corpus was split into documents and then paragraphs. The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occurred in each paragraph were recorded and the highest occurrences were recorded. The specific code can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/analysis.R).  
-
+The corpus was split into documents and then paragraphs. The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occurred in each paragraph were recorded and the highest occurrences were recorded. The specific code can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/analysis.R). 
+. 
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"))
+```
 #**9. TF-IDF**  
-The term frequency, inverse document frequency was recorded for each document. This is calculated by multiplying the number of times each word appears in a given document and the inverse document frequency of the word in the corpus of documents. The final set of words shows which terms make each document unique from other documents in the corpus.The specific code can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/analysis.R).  
+The term frequency, inverse document frequency was recorded for each document. This is calculated by multiplying the number of times each word appears in a given document and the inverse document frequency of the word in the corpus of documents. The final set of words shows which terms make each document unique from other documents in the corpus.The specific code can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/analysis.R). 
 
 
+```{r, layout="l-body-outset", echo = FALSE}
+library(rmarkdown)
+paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
+```
 #**10. LDA**  
-Latent Dirichlet Allocation is a form of topic modeling that is used to show topics that emerge within the corpus of documents and what words are associated with each topic. For the purpose of this project, it was selected to create 18 topics as 18 codes were discovered when manually reading the documents. The specific code can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/analysis.R).  
-
+Latent Dirichlet Allocation is a form of topic modeling that is used to show topics that emerge within the corpus of documents and what words are associated with each topic. For the purpose of this project, it was selected to create 18 topics as 18 codes were discovered when manually reading the documents. The specific code can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/blob/main/data/Code/analysis.R). 
 
 #**11. Triangulation**  
 Based on the LDA model, codes were matched with the topics to see if the manually labeled documents coincided with the natural language processing.  
