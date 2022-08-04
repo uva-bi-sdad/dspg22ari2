@@ -385,52 +385,50 @@ div.tocify {
 
 <div id="bottom-line-up-front-bluf" class="section level1">
 <h1><strong>Bottom Line Up Front (BLUF)</strong></h1>
-<p>The project used document analysis and natural language processing(NLP) techiniques to analyze charcteristics of an individual that influence unit performance. NLP showed clearly that the themes found through document analysis were repetitive and relevant to the topic.</p>
+<p>The project used document analysis and natural language processing (NLP) techniques to identify characteristics of individual Soldiers that contribute to or influence unit performance. NLP validated the themes identified by the coders using qualitative analysis and highlight the degree to which specific themes (e.g., adaptability, commitment to serve) are associated with different word clusters.</p>
 </div>
 <div id="overview" class="section level1">
 <h1><strong>Overview</strong></h1>
-<p>The project will inform and contextualize future quantitative modeling of Army performance. Through qualitative analysis and a thematic approach, we interpreted non-Army and Army documents to give meaning around a phenomena of interest and triangulated for credibility. These documents were tagged with codes related to our research question using a software called Dedoose. The goal was to reach a saturation of themes to a point where we are no longer seeing new emergent themes. These codes have been reformed and secondary coders have tested these codes for relative agreement. The findings of this qualitative analysis focus on specific qualities of leaders, individuals, and teams. In addition, there were several differences in the context between academic and army documents and what team success entailed. Next, the triangulation process utilized natural language processing. A topic model and word co-occurrence map were done on all the analyzed documents with the goal to compare the qualitative analysis method to the natural language processing method and see any similarities or convergence in ideas. The findings of the NLP made it clear that the themes coded were repetitive and appeared many times throughout all the documents.</p>
-</div>
-<div id="goal" class="section level1">
-<h1><strong>Goal</strong></h1>
-<p>Identify characteristics of individual Soldiers that contribute to unit performance to extend work to unit performance without requiring unit-level measurement</p>
+<p>Using qualitative analysis and a thematic approach, we interpreted Army and non-Army documents to give meaning to our phenomena of interest (individual contributions to unit performance) and triangulated for credibility. We tagged the documents with codes related to our research question using a software called Dedoose. The goal was to reach a saturation of themes to a point where we no longer found new emergent themes. Having reached saturation, we reformulated our codes and had secondary coders test them for relative agreement. We identified 18 major interrelated themes that inform the way individuals can contribute to unit performance, such as the way people communicate, a focus on personal integrity, and building a shared vision across team members. We noted several differences in the themes emphasized by Army documents compared to academic literature. We further triangulated our findings using NLP to build a topic model and word co-occurrence map, which we compared against our qualitative analysis results. The findings from the NLP converged on the themes we identified through coding, demonstrating that these themes appeared many times throughout all the documents. Our results will inform and contextualize future quantitative modeling of Army performance.</p>
+<!---
+Dropping the Goal section because it's sufficiently covered by the BLUF & Overview.
+-->
 </div>
 <div id="sponsor" class="section level1">
 <h1><strong>Sponsor</strong></h1>
-This project was sponsored by the Army Research Institute.<br />
-
+U.S. Army Research Institute for the Behavioral and Social Sciences (ARI).
 <p align="center">
 <img src="www/ARI.png" style="width:40.0%" />
 </p>
 </div>
 <div id="data" class="section level1">
 <h1><strong>Data</strong></h1>
-<p>A corpus of 10 documents, 8 Army and 2 from outside literature, regarding an individual's role in team performance was created.</p>
+<p>A corpus of 10 documents – eight Army publications and two from academic literature – regarding an individual's role in team performance was created.</p>
 </div>
 <div id="method" class="section level1">
 <h1><strong>Method</strong></h1>
 <div id="document-analysis" class="section level3">
 <h3><em>Document Analysis</em></h3>
 <p>Document analysis is a “form of qualitative research in which documents are interpreted by the researcher to give voice and meaning around an assessment topic&quot; (Bowen, 2009)</p>
-<p>Our Approach: A Mixed Method Thematic Approach</p>
+<!---Our Approach: A Mixed Method Thematic Approach-->
 <p align="center">
 <img src="www/word_cloud.PNG" style="width:40.0%" />
 </p>
 </div>
 <div id="natural-language-processing" class="section level3">
 <h3><em>Natural Language Processing</em></h3>
-<p>Natural language processing (NLP) &quot;strives to build machines that understand and respond to text data much the same way humans do&quot; (IBM, 2022)</p>
-<p>All NLP for this project was run on a corpus composed of the 10 documents on which document analysis was conducted. The documents were clean by removing stop words (i.e. the, and, of) and legitimatizing each word. Lemmatizing transforms each word to a common base word.</p>
-<div id="cooccurance" class="section level4">
-<h4><em>Cooccurance</em></h4>
-<p>Cooccurance visualizes word pairs that occur together most frequently in the corpus.</p>
+<p>Natural language processing (NLP) &quot;strives to build machines that understand and respond to text data much the same way humans do&quot; (IBM, 2022).</p>
+<p>All NLP for this project was run on a corpus of the 10 documents on which document analysis was conducted. The documents were cleaned by removing stop words (e.g., the, and, of) and lemmatizing each word. Lemmatizing transforms each word to a common base word (e.g., running, runs to run).</p>
+<div id="co-occurrence" class="section level4">
+<h4><em>Co-occurrence</em></h4>
+<p>Co-occurrence visualizes word pairs that occur together most frequently in the corpus.</p>
 </div>
-<div id="term-frequency--inverse-document-frequency" class="section level4">
-<h4><em>Term Frequency- Inverse Document Frequency</em></h4>
+<div id="term-frequency--inverse-document-frequency-tf-idf" class="section level4">
+<h4><em>Term Frequency- Inverse Document Frequency (TF-IDF)</em></h4>
 <p>TF-IDF is a text classification method that reflects the importance of a word to a document in a corpus of documents.</p>
 </div>
-<div id="latent-dirichlet-allocation" class="section level4">
-<h4><em>Latent Dirichlet Allocation</em></h4>
+<div id="latent-dirichlet-allocation-lda" class="section level4">
+<h4><em>Latent Dirichlet Allocation (LDA)</em></h4>
 <p>LDA is a Bayesian topic model that discovers the topics in a corpus of documents and the concurrent probability that they will occur.</p>
 <p><a href="https://biocomplexity.virginia.edu/event/data-science-public-good-symposium-2022"><img src="www/black-logo.png" /></a></p>
 </div>
