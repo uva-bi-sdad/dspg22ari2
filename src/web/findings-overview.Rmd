@@ -3,7 +3,8 @@ title: "Overview"
 
 ---
 ##Overview  
-Through Qualitative Analysis and NLP of the corpus of documents, it became clear that some themes were incredibly relavent and repetitve. Many concepts such as rank and skill/ leadership development occuredly frequently in both methods. 
+We identified re-occurring language and underlying themes across both our qualitative and Natural Language Processing analyses that speak to what individual qualities (e.g., rank, skill, leadership) are most important to successful team performance in the Army.
+
 ## Qualitative Analysis
 
 ###*Codes*
