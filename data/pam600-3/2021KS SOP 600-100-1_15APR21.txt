@@ -1,0 +1,2209 @@
+          Kansas Army National Guard
+          Standard Operating Procedure 600-100-1
+
+
+
+
+          Personnel – Officer and Warrant Officer
+
+
+          Commissioned
+          Officer and
+          Warrant
+          Officer Career
+          Management
+          Program
+
+
+
+
+          Adjutant General’s Department
+          Headquarters, Kansas Army National Guard
+          Topeka, Kansas
+          15 April 2021
+
+
+
+UNCLASSIFIED
+SUMMARY OF CHANGE
+KSARNG 600-100-1 SOP 2021
+Officer and Warrant Officer Career Management Program
+
+
+This revision, dated 15 April 2021
+
+o   Updates References to Publications and Forms (Throughout)
+o   Added Enterprise Marketing & Behavioral Economics FA (58) to Operations Support Division (CH 2-
+    1.b.(1))
+o   Removed Electronic Warfare FA (29) from Information Dominance Division (FA 29 was rescinded
+    effective October 2018) (CH 2-1.d)
+o   Added SSC MSO information (CH 2-2.b.5)
+o   Clarifies requirement for Commander KSARNG Medical Detachment, KSARNG Senior TJAG, and
+    KSARNG Senior Chaplain to brief specialty branch officer assignments in conjunction with the LDAP
+    (CH 2-3.c)
+o   Specifies requirement to submit Officer Personnel Action Requests using the IPPS-A Customer
+    Relations Management Ticket System with IPPS-A (CH 2-4)
+o   Clarifies the authority of The Adjutant General and the LDAP to re-branch an officer without their
+    consent (CH 3-2)
+o   Adds responsibility for OPM to prepare annual accession and branching mission (CH 3-3.k.2a-b)
+o   Adds details and branch detailing to branch assignment process (CH 3-3.1.2.b-c)
+o   Modifies battalion command assignment consideration timeline (CH 3-6.i.(1)(a)(ii))
+o   Changes timeline for officer assignment projections by MSCs (CH 3-6.j)
+o   Adds annual suspense for T10 officers requesting consideration by the NGB Command Leadership
+    Program (CH 3-6.k(4))
+o   Revises Chapter 4 Promotions
+                 -CH 4-2.a: Updates language and policy for streamlined promotions
+                 -CH 4-2.b: Updates language and further defines BZ promotions and approval authority
+                 for DCoS-A to allow FRB to reconsider officer within 120 days of board
+                 -CH 4-4.c(2): Clarifies AGR DA Promotion Board Selection Delay
+                 -CH 4-4.h: Requires Specialty Branch Promotion to be published IAW LDAP cycle
+                 -CH 4-5.a: Adds languages and defines method of Warrant Officer promotions
+                 -Table 4-3: Updates policy on appointment and promotion to CW2 for enlisted personnel
+                 in the grade of E7
+                 -Table 4-4: Updates language based on new policy
+                 -CH 4-5.b: Updates CW5 Selection Board Procedures
+                 -CH 4-5.c: Adds section on Warrant Officer Civilian Education Requirements
+o   Adds requirement to submit joint discretionary points into Joint Qualification System within 12 months
+    of experience completion (CH 5-2.a)
+o   Removes references and requirements for DA Photos as part of KSARNG Board processes
+o   Updates Enclosure A Sample Memorandum to the President of the Board
+o   Updates Enclosure B Soldier Records Validation Memo
+o   Updates Enclosure C Officer Career Goal Planning Tool
+o   Updates Enclosure D Board Word Picture Scoring
+ Adjutant General’s Department                                             KS SOP 600-100-1
+ Headquarters, Kansas Army National Guard
+ Topeka, Kansas 66611-1287
+ 15 April 2021                                                 Effective Date: 15 April 2021
+
+
+                                         Personnel – General
+
+
+      Commissioned Officer and Warrant Officer Career Management Program
+
+
+                                                        Summary. This publication establishes
+By Order of the Commander,                              policies and procedures for Kansas Army
+KSARNG                                                  National Guard (KSARNG) Officer and
+                                                        Warrant Officer personnel management in
+ANTHONY V. MOHATT                                       accordance with Department of the Army and
+Brigadier General, Assistant Adjutant General           National Guard Bureau regulations and
+Kansas Army National Guard                              policies.
+
+Official:                                               Suggested improvements. The proponent of
+                                                        this publication is the KSARNG Director of
+                                                        Personnel (DOP). Users are invited to send
+                                                        comments and suggested improvements to
+J. MATTHEW OLEEN                                        The Adjutant General’s Department, ATTN:
+COL, GS, KSARNG                                         DOP, HQ, KSARNG, 2722 SW Topeka Blvd,
+Deputy Chief of Staff-Army                              Topeka, KS 66611-1287
+History. This printing publishes a revision of this     Distribution: B
+publication and supersedes all previous editions.
+
+
+
+
+Contents (Listed by paragraph and page number)
+
+Chapter 1
+Introduction, page 1
+Senior Leadership Philosophy • 1-1, page 1
+References • 1-2, page 1
+Responsibilities • 1-3, page 1
+General • 1-4, page 1
+Applicability • 1-5, page 2
+
+Chapter 2
+Officer Personnel Management, page 2
+Army Officer Personnel Management System • 2-1 page 2
+Officer Career Management Cycle • 2-2, page 3
+KSARNG Assignment process • 2-3, page 4
+Officer Actions • 2-4, page 6
+
+Chapter 3
+Officer Career Management, page 7
+Officer Career Management • 3-1, page 7
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                               i
+Contents — Continued
+Branch Transfers • 3-2, page 7
+Appointments • 3-3, page 8
+Counseling • 3-4, page 11
+Mentorship • 3-5, page 11
+Assignments/Reassignments • 3-6, page 12
+
+Chapter 4
+Promotions, page 16
+Promotions • 4-1, page 16
+Methods of Promotions • 4-2, page 16
+Slating Board Process • 4-3, page 18
+Promotion Considerations • 4-4, page 20
+Warrant Officer Promotions • 4-5, page 23
+Command Chief Warrant Officer Leadership Selection • 4-6, page 25
+General Officer Nominations • 4-7, page 26
+
+Chapter 5
+Joint Officer Management, page 26
+Joint Officer Management Overview • 5-1, page 26
+Joint Qualification Levels • 5-2, page 27
+Joint Duty Assignment List • 5-3, page 27
+State Joint Duty Assignment List • 5-4, page 28
+
+Appendix List
+Appendix A. References, page 32
+Appendix B. Leader Development Assignment Panel procedures, page 35
+
+Enclosure List
+Enclosure A. SAMPLE Memorandum to the President of the Board, page 39
+Enclosure B. Officer Soldier Records Validation Memo, page 40
+Enclosure C. Officer Career Goal Planning Tool, page 41
+Enclosure D. Word Picture Scoring (1 – 6), page 43
+
+Figure List
+Figure 2-1; KSARNG Commission Officer and Warrant Officer Career Cycle, page 3
+Figure 5-1; Path to Joint Qualification Level II, page 30
+Figure 5-2; Path to Joint Qualification Level III (JQO), page 30
+Figure 5-3; Path to Joint Qualification Level IV, page 31
+
+Table List
+Table 2-1; Company Grade Leader Development Assignment Panel; page 5
+Table 2-2; Field Grade Leader Development Assignment Panel; page 5
+Table 3-1; Time in Grade for Reserve Officers, page 9
+Table 4-1; Below the Zone, Primary Zone (PZ), and Above the Zone (AZ) Grade for Promotion, page 20
+Table 4-2; Minimum Active Federal Service Requirement(s), page 21
+Table 4-3; Warrant Officer Minimum Time in Grade for Promotion, page 24
+Table 4-4; Warrant Officer Educational Requirements for Current Grade and
+           Course Enrollment, page 24
+Table 5-1; KSARNG “34+1” Positions, page 29
+
+Glossary, page 45
+
+
+
+
+                          KSARNG SOP 600-100-1 • 15 April 2021                                   ii
+Chapter 1
+Introduction
+
+1-1. Senior Leadership Philosophy
+     a. KSANRG Officers should plan for a career that includes continuous learning and training along
+with challenging assignments aligned with the three pillars of leader development: education, training,
+and experience. They should also plan on service to the organization and not a set timeline or customary
+career path to their Mandatory Removal Date (MRD). This expectation allows officers to serve in a variety
+of ways and to lead Soldiers while operating at the national and state level as well as on state and federal
+missions. There is no greater responsibility than a balanced, systematic process that accesses capable
+officers, develops them for current requirements, and assigns them as future leaders.
+    b. Officer growth and development is managed by commanders at all levels. The KSARNG requires
+well-qualified, seasoned officers in every branch and rank. The KSARNG officer career management
+process is the means by which officers are measured against each other for assignment in challenging
+positions of greater responsibility and entrusted with leading organizational change.
+    c. Leaders set the standard for integrity and character, are confident and competent decision-
+makers in uncertain situations, prudent risk takers, innovative, empathetic, positive, professionally
+educated, and dedicated to life-long learning. Successful officers in the KSARNG apply these
+characteristics to lead change while maintaining a high level of energy and physical fitness.
+     d. KSARNG officers should not expect to take a “customary” career path. While 18 to 24 months in
+key positions has traditionally been optimal, performance and demonstrated potential in these positions is
+what is important. Selection for and performance in command and other key developmental (KD)
+assignments as a Captain (CPT), Major (MAJ), and Lieutenant Colonel (LTC) should be valued. The
+same is true for AGR officers that have been selected to serve in Battalion (BN) and Brigade (BDE)
+Administrative Officer (AO) positions. Assignments in multiple Major Subordinate Commands (MSC), to
+include quality experience at the division level (within the KSARNG and our total force partners) is optimal
+in an officer’s career prior to promotion to Colonel (COL).
+1-2. References. Required and related publications and prescribed and referenced forms are listed in
+appendix A.
+1-3. Responsibilities
+     a. The Deputy Chief of Staff-Army (DCoS-A) serves as the senior Army policy official for the Army
+officer and warrant officer career management program and provides Army supervision for policy
+formulation, procedures, goals, architecture, and standards.
+    b. The Judge Advocate General (TJAG), on request, reviews the KSARNG career management
+program to verify the legality of proposed changes and inquiries.
+1-4. General
+   a. This SOP provides specific guidance and information on the KSARNG Officer Career
+Management Program. The intent is to provide policy and guidance for program management to
+commanders, personnel managers at all levels, supervisors and soldiers.
+    b. This SOP describes a system of Officer Career Management based on the placement of “best
+qualified” officers to meet the force structure requirements. Best qualified officers are determined annually
+through the career management board process.
+    c. For the purposes of this SOP, the term “promotable” refers to officers who have been selected by
+the State of Kansas for promotion and meet all of the requirements to be promoted, to include, civilian
+and military education, height-weight, Army Physical Fitness Test (APFT)/Army Combat
+Fitness Test (ACFT), periodic health assessment (PHA) and TIG requirements.
+    d. Recommended changes to this SOP are forwarded to the DOP, KSARNG.
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                          1
+1-5. Applicability. This regulation applies to commissioned officers and warrant officers in the Kansas
+Army National Guard including Title 10 (T10) and Title 32 (T32) AGR officers and any field grade officers
+requesting appointment into the KSARNG. This SOP does not apply to general officer grades.
+
+
+Chapter 2
+Officer Personnel Management
+2-1. Officer Personnel Management
+The KSARNG manages officers through categories and groups with similar functions to facilitate the
+development of officer functional competencies required on the future battlefield. The design is not
+intended to reflect where officers serve on the battlefield, but to align the functions and skills required.
+The four functional categories and associated functional groups are:
+    a. Operations Division (OD). This functional category gathers maneuver branches and functional
+areas (FA) that have similar battlefield application or complementary roles. This grouping is comprised of
+the following functional groups, with the branches and FAs listed:
+        (1) Air Defense Artillery (14)
+        (2) Armor (19)
+        (3) Aviation (15)
+        (4) Chemical (74)
+        (5) Civil Affairs (38)
+        (6) Corps of Engineers (12)
+        (7) Field Artillery (13)
+        (8) Infantry (11)
+        (9) Military Police (31)
+        (10) Psychological Operations (37)
+        (11) Special Forces (18)
+     b. Operations Support Division (OSD): This functional category gathers two currently existing
+branches, Military Intelligence and Signal, with FAs that have similar battlefield applications or
+complementary roles. Also included in this functional category are the functions associated with force
+training, development and education that design, build, and train the force. The category is comprised of
+the following:
+        (1) Enterprise Marketing & Behavioral Economics FA (58)
+        (2) Force Management FA (50)
+        (3) Foreign Area Officer FA (48) (Active Component only)
+        (4) Information Networks Engineering FA (26)
+        (5) Military Intelligence (35)
+        (6) Nuclear and Counter proliferation FA (52)
+        (7) Operations Research/Systems Analysis FA (49)
+        (8) Public Affairs FA (46)
+        (9) Signal Corps (25)
+        (10) Simulation Operations FA (57)
+        (11) Space Operations FA (40)
+
+
+
+
+                                 KSARNG SOP 600-100-1 • 15 April 2021                                          2
+        (12) Strategic Intelligence FA (34)
+        (13) Strategist FA (59)
+        (14) United States Military Academy Professor FA (47)
+    c. Force Sustainment Division (FSD): This functional category includes an integrated Logistics
+Corps as well as the branches and FAs associated with resource and Soldier support functions. A part of
+force sustainment but separately managed are the AMEDD, Chaplain, and JAG Corps:
+        (1) Adjutant General (42)
+        (2) Army Acquisition Corps (51)
+        (3) Financial Management (36)
+        (4) Logistics Corps: Ordnance (91), Transportation (88), Quartermaster (92), Logistics (90)
+        (5) Special Branches: Army Medical Department (AMEDD) (Medical Corps [MC], Nurse Corps
+[AN], Dental Corps [DC], Veterinary Corps [VC], Medical Service Corps [MS], Medical Specialist Corps
+[SP]); Chaplain [CH] (56); Judge Advocate General [JAG] (27).
+    d. Information Dominance Division (IDD): This functional category gathers two currently existing FAs
+that have similar battlefield tasks or complementary functions along with the creation of a new branch.
+        (1) Cyber (17)
+        (2) Information Operations FA (30)
+2-2. Officer Career Management Cycle
+The KSARNG Career Management Cycle begins during the 1st Quarter (QTR) of each fiscal year. This
+cycle is divided into three separate and distinct phases designed to manage promotions, key
+developmental assignments, broadening assignments and competitive school selections.
+
+
+
+
+             Figure 2-1 KSARNG Commission Officer and Warrant Officer Career Cycle
+
+     a. Assess – The Assess phase begins 1st QTR and continues into the 2nd QTR of each FY by way
+of the KSARNG board process. The KSARNG Board Process consists of the Selective Retention Board
+(SRB), the Active Service Management Board (ASMB) and the Officer Career Management Board
+(OCMB). Results from the SRB and ASMB are used to determine officers not to be considered by the
+OCMB for slating. In addition, all officers who have a retirement request packet submitted to OPM prior to
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                      3
+the OCMB will not be boarded. The packet must be IAW the KSARNG IPPS-A Desk Reference Guide
+and accepted via the IPPS-A CRM Ticket process to be considered valid.
+        (1) SRB – The KSARNG annual SRB will be conducted in accordance with (IAW) National Guard
+Regulation (NGR) 635-102 (2018) and applies to all traditional Army National Guard (ARNG) officers and
+warrant officers including military technicians.
+        (2) ASMB – The KSARNG Annual ASMB will be conducted IAW Life Cycle Management (LCM)
+guidance and is applicable to T32 AGR officers with 20 or more years of qualifying service, and/or 18 or
+more years of active service (AS), and COLs, LTCs, CW5s, CSM/SGMs, and 1SG/MSG regardless of
+active service. The ASMB is coordinated and managed by the Human Resources Office (HRO).
+       (3) OCMB – The KSARNG OCMB will be conducted IAW with the slating board process
+discussed in Ch 4-3 of this SOP.
+     b. Plan – The Plan phase begins during 2nd QTR and continues through the 3rd QTR of each FY.
+During this phase, the KSARNG conducts its assignment and promotion selection process. Upon receipt
+of the results generated by the OCMBs, Leader Development Assignment Panels (LDAP) convene to
+develop slating rosters, discuss vacancies and potential assignments and make selections to fill current
+and projected vacancies. This process encompasses the assignments at the company and field grade
+levels and generates the following outputs:
+        (1) Promotion Selection List
+        (2) Command Selection List
+        (3) Next FY Assignments List
+        (4) Academic Year School Nominations (Army Command and General Staff College [CGSOC],
+Joint Professional Military Education [JPME], Dual Status Commander courses, etc.)
+NOTE: To be considered for resident CGSOC, Majors will not have more than two years TIG at the time
+of packet suspense to NGB. Exceptions to this policy will be submitted through the chain of command to
+ATAG for consideration. Captains must have a State promotion order with an effective date of promotion
+to Major on or prior to the LDAP convening date to be considered eligible.
+        (5) The KSARNG holds a Senior Service College (SSC) board each year in accordance with the
+National Guard Bureau (NGB) published guidance. All shortfall seat opportunities are managed by NGB
+and offered to states IAW their published guidance. Officers completing SSC will incur a 2-year military
+service obligation (MSO) with the KSARNG which begins upon course completion. The KSARNG will not
+consider an officer for an inter-state, inter-service, or inter-component transfer during the 2-year MSO with
+the exception of assignments in support of the Division Alignment for Training Model.
+     c. Execute – The Execute phase begins in the 3rd QTR and continues through 4th QTR of each FY.
+During this phase, officers selected for promotion are assigned IAW the selected position; assignment
+lists are published to facilitate future planning, and units update accordingly. The LDAPs reconvene to
+further refine and validate the items generated from the “Plan Phase;” LDAPs determine any final
+adjustments to the FY assignments as required or are determined to be “out of cycle” (i.e. retirements,
+resignations, or transfers [ISTs, transfers to USAR, etc.]).
+     d. Leader Development Assignment Panels are outlined in Table 2-1 and convene two times per FY
+(2nd and 4th QTRs).
+2-3. KSARNG Assignments process
+     a. Commanders of the Major Subordinate Commands (MSCs) designate a Point of Contact for
+officer management/assignments. Under current force structure this includes:
+        (1) 35th Infantry Division
+        (2) 69th Troop Command
+        (3) 130th Field Artillery Brigade
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                        4
+       (4) 235th Regiment
+       (5) 635th Regional Support Group
+
+
+
+Table 2-1
+
+                         COMPANY GRADE
+              LEADER DEVELOPMENT ASSIGNMENT PANEL
+                           MEMBERSHIP
+ President:         DCoS-A, KSARNG
+ Member:              CoS, 35th Infantry Division
+ Member:              BN Commanders
+ Member:              BDE Administrative Officers (AOs)
+ Member:              Deputy CDR , KSARNG Medical Detachment
+ Non-Voting Member:   G1, KSARNG (or Deputy)
+ Non-Voting Member:   G3, KSARNG (or Deputy)
+ Non-Voting Member:   G4, KSARNG (or Deputy)
+ Non-Voting Member:   Military Intelligence Senior Branch Mentor
+ Non-Voting Member:   Signal Corps Senior Branch Mentor
+ Admin:               OPM Representatives
+ Admin:               HRO Representative
+
+Table 2-2
+
+                          FIELD GRADE
+              LEADER DEVELOPMENT ASSIGNMENT PANEL
+                          MEMBERSHIP
+ President:           Commander, KSARNG
+ Member:                CoS, KSNG (If Army Officer)
+ Member:                DCoS-A, KSARNG
+ Member:                DCG (KS) 35th Division (CoS if DCG is non-KS officer)
+ Member:                BDE Commanders
+ Member:                Commander, KSARNG Medical Detachment
+ Non-Voting Member:     G1, KSARNG
+ Non-Voting Member:     G3, KSARNG
+ Non-Voting Member:     G4, KSARNG
+ Non-Voting Member:     G6, KSARNG
+ Non-Voting Member:     SAAO, KSARNG
+ Non-Voting Member:     DPW, KSARNG
+ Non-Voting Member:     State Surgeon, KSARNG
+ Admin:                 OPM Representatives
+ Admin:                 HRO Representative
+
+
+
+  b. Officer assignments are managed utilizing the results of the company grade and field grade
+OCMBs with input from company grade and field grade Leader Development Assignment Panels. LDAPs
+
+
+
+                            KSARNG SOP 600-100-1 • 15 April 2021                             5
+convene twice a year to determine future assignments for the current and next fiscal year. Priority of fill
+follows these general guidelines, but is ultimately based on projected vacancies, readiness and the needs
+of the organization:
+      (1) Modified Table of Organization and Equipment (MTOE) units (readiness and/or force
+management purposes)
+        (2) 235th Regiment (accreditation purposes)
+        (3) All other Table of Distribution and Allowances (TDA) elements
+     c. Specialty Branch Assignments – All AMEDD assignments are actioned IAW DA Pam 600-4
+(2018) and Army National Guard (ARNG) AMEDD Officer Personnel Management Guidance. The
+Commander, KSARNG Medical Detachment, is responsible for assisting the KSARNG DOP with the
+assignment process. KSARNG TJAG determines assignment selection for JAG officers and assists the
+KSARNG DOP with the assignment process of JAG officers. KSARNG Senior Chaplain determines
+assignment selection for CH officers and assists the KSARNG DOP with the assignment process of CH
+officers. The Commander KSARNG Medical Detachment, the KSARNG TJAG, and the KSARNG Senior
+Chaplain provide their recommended officer assignments to the Officer Personnel Manager twice a year
+in conjunction with the LDAP. Specialty Branch Assignments are briefed during the LDAP for final
+approval by the ATAG.
+2-4. Officer Actions – Requested through the MSC to the Officer Personnel Manager (OPM) utilizing the
+applicable OPM Checklist. All requests will be submitted using the Customer Relations Management
+Ticket System with IPPS-A.
+     a. Inter-state Transfers (IST) – ISTs are initiated by the officer through the MSC to the IST
+coordinator and processed by the officer personnel section. Officers wishing to IST coordinate through
+their chain of command and ensure all items on the appropriate checklist are completed to ensure timely
+processing of the request.
+    b. Intra-state Transfers – Transfers within the state are initiated by the MSC using the IPPS-A
+Customer Relations Management Ticket process IAW the results of the assignment selection lists
+generated by the LDAP. Any out-of-cycle moves are actioned by written request from the CoC, through
+the OPM, to the DCoS-A. Key to the success of these assignments is the forecasting by MSCs in
+preparation for the LDAP process selection.
+    c. Resignation – Soldiers desiring to resign their commission must do so in writing via memorandum
+through their chain of command to the Adjutant General. Resignations are actioned by the MSC and
+processed by the officer personnel section for separation orders and withdrawal of federal recognition.
+    d. Retirement – Soldiers desiring to retire must do so in writing via memorandum through the chain
+of command to the Adjutant General. Retirements are actioned by the MSC and processed by the officer
+personnel section for retirement orders and transfer to the retired reserves.
+    e. Specialty Requests (outlined below):
+         (1) Extension beyond MRD – Requests for Extension beyond MRD for age, years of
+commissioned service or AFS are requested through MSCs and considered by Deputy Chief of Staff-
+Army (DCoS-A) and Commander, KSARNG for submission to NGB for approval. Requests approved at
+the state level are forwarded to ARNG-Personnel and Readiness division (HRH) for final determination.
+         (2) Branch Transfer Request – Branch transfers are requested through OPM and actioned IAW
+NGR 600-100 (2020). Requests are considered during each year’s LDAP to ensure leader visibility as
+well as future assignment consideration.
+           (3) Functional Area (FA) Designation – FA designation requests are actioned IAW the annual
+LDAP cycle. Requests for FA designation are considered during each year’s LDAP to ensure leader
+visibility as well as future assignment consideration. Officers must recognize the limited number of FA
+assignments within the KSARNG and how that may impact the officer’s career.
+
+
+
+
+                            KSARNG SOP 600-100-1 • 15 April 2021                                          6
+Chapter 3
+Officer Career Management
+3-1. Officer Career Management
+The fundamental purpose of Officer Career Management is to provide qualified and capable officers for
+assignments and promotion within the force structure of the KSARNG. To accomplish this task,
+Commanders must provide officers with career guidance, timely training, and appropriate developmental
+assignments in order to advance the largest number of officers to their maximum demonstrated service
+potential.
+    a. Purpose: This process is designed to ensure each officer receives the opportunity to meet career
+progression requirements, or “gates”, in order to allow officers to serve at their fullest demonstrated
+potential within the limitations of the state’s force structure. This process allows as many officers as
+possible to advance through qualifying positions so that the state has access to the largest possible
+number of experienced officers.
+    b. Officer Development: An officer’s development includes education and assignments.
+          (1) Civilian Education: Leaders counsel subordinates as to their responsibility for completing
+mandatory education within established time frames. Commanders encourage and advise on continued
+civilian education opportunities via individual initiative, tuition assistance, Military Education equivalency,
+and trade schools.
+         (2) Military Education: Leaders counsel subordinates in regards to the completion of mandatory
+military education requirements for the officer’s current grade as well as advise them on the requirements
+for selection to the next higher grade.
+         (3) Assignments: Key development, branch development, and broadening assignments within
+the total force are fundamentally necessary within an officer’s career to ensure they develop desired skill
+sets in accordance with DA PAM 600-3.
+3-2. Branch Transfers
+Branch transfer requests can be initiated by and with the consent of the officer concerned, or without the
+consent of the officer concerned, and actioned with the authority of the Adjutant General, based on the
+recommendation of the appropriate LDAP and concurrence from the OPM. In some situations, the LDAP
+may recommend a branch transfer for the betterment of the KSARNG as well as the officer. Proponent
+approval is obtained via submission of a Branch Transfer Predetermination Request via E-Tracker to
+ARNG-HRH-O.
+    a. The role of the OPM in branch transfers is to manage assignments within the KSARNG and to
+properly assign officers by qualification, grade, and Area of Concentration (AOC) / FA that match the duty
+position requested.
+    b. Valid reasons for a branch transfer to occur:
+        (1) There are no qualified officers available to fill a vacancy
+        (2) To meet state needs and long term career development
+        (3) Changes in officer’s physical profile restrict serving in current branch
+        (4) Change in force structure requiring new branch and AOC
+    c. Standards for AOC and branch qualification can be found in both DA PAM 611-21
+(https://www.milsuite.mil/book/groups/smartbookdapam611-21/) and DA Pam 600-3
+(https://www.milsuite.mil/book/groups/smartbook-DA-PAM-600-3).
+     d. On a case-by-case basis the DOP may request pre-determination through NGB (ARNG-HRH-O)
+to the proponent of the branch to which the officer is being transferred, prior to assigning an officer to a
+branch qualifying position unless there is published guidance stating otherwise.
+
+
+
+
+                              KSARNG SOP 600-100-1 • 15 April 2021                                           7
+3-3. Appointments – Procedures for processing commissioned Officers for appointment. This includes:
+    a. National Guard Officers from another state (Interstate Transfer - IST) [Same Grade and Branch].
+   b. Army Reserve (USAR) Officers in active status or in the Individual Ready Reserve (IRR) [Same
+Grade and Branch].
+    c.   Reserve Officer Training Corps (ROTC) Officers.
+    d. Reappointment of Basic Branch Officers.
+    e. Active Duty (AD), USAR on AD, and Regular Army (RA) Officers [Same Grade and Branch].
+    f.   Appointment of Officers from another component (i.e. US Navy, US Air Force, etc).
+    g. Direct Appointments.
+    h. Early Commissioning Program Appointments.
+    i.   State Officer Candidate School (OCS) / Accelerated OCS Program Candidates / Federal OCS
+   j. AMEDD officer accessions are actioned IAW NGBs AMEDD Officer Personnel Management
+Guidance.
+    k.   Responsibilities:
+         (1) Recruiting and Retention - Officer Strength Manager (OSM):
+         (a) Responsible for completion of all packets appointment/accession packets
+         (b) Track prospective officer accessions
+        (c) Locate positions for applicants in coordination with MSC Personnel/Administrative Manager(s)
+(S1) and OPM
+         (d) Coordinate with the applicants to complete appointment packets
+      (e) Inform applicants they CANNOT PERFORM DUTY UNTIL PACKET HAS BEEN APPROVED
+BY OPM AND APPOINTMENT ORDERS HAVE BEEN ISSUED, except as noted in 3-3k(5)
+        (f) Coordinate with OPM on accession issues, determination of appointment type, and packet
+items. Submit correct and complete packets to OPM for appointment by the appropriate suspense date
+       (g) Ensure that any prior enlisted SM being appointed to the full time program has a Request for
+Personnel Action (Standard Form [SF] 52, 1993) created for the position they are to fill is forwarded by
+OPM to HRO for orders production
+        (h) Coordinate with the KSARNG incentives manager to determine if any bonuses apply toward
+the accession
+         (i) Complete and process all required accessions waivers
+         (2) Officer Personnel Manager (OPM):
+       (a) Prepare annual officer accession goal based on NGB annual End Strength Objective and
+Accession mission and historical separation trends
+       (b) Prepare annual assessment of branch strength based on MTOE and TDA authorization to
+determine accession branching objectives
+         (c) Coordinate with Recruiting and Retention (R&R) BN Commander to determine accession type and
+that the applicant meets the qualifications for appointment
+       (d) Coordinate with R&R BN Commander on any packet issues that may hinder or delay
+appointment
+         (e) Produce memorandum if officer isn’t selected for accession into the KSARNG to be given to
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                     8
+R&R for distribution
+        (f) Accept complete and correct packets for appointment from MSCs and R&R. Only complete
+and correct packets are accepted for the appointment process (i.e., state appointment order or Federal
+Recognition Board)
+        (g) Send appropriate documentation to HRO for appointment of full time former enlisted Soldiers
+for proper annotation in all pay systems
+    l. Considerations: The following issues should be taken under consideration prior to acceptance of
+an applicant into the Kansas Army National Guard:
+        (1) TIG: The applicant's time in grade should be taken into consideration when contemplating
+appointment. Officers who are senior in grade may be under DA Promotion Board consideration or
+already selected or non-selected for promotion. This impacts how long an officer may serve in the
+prospective position prior to consideration for a higher graded position. Promotion consideration table for
+reserve Officers is outlined in Table 3-1.
+
+
+
+Table 3-1
+Time in Grade for Reserve Officers
+  Promote to     Minimum TIG         DA Consideration +
+ 1LT            18 months          *
+ CPT            2 Years            **
+ MAJ            4 Years            **
+ LTC            4 Years            **
+ COL            3 Years            **
++ Active duty Officers not selected for promotion may be considered for appointment into the Kansas Army
+National Guard. Approval from the NGB is required for any Active Duty Officer twice non- selected
+for promotion.
+* A 2LT not qualified at 18 months may be extended up to 18 additional months, but only with approval
+from NGB. If still not qualified at 36 months, Officer will be separated.
+** Announced annually. Normal TIG is 4-6 years, subject to the needs of the Army
+
+
+        (2) Branch.
+        (a) Branch Qualification. Officers, other than initial appointments, are placed into positions in which
+they are qualified. KSARNG makes every effort to fill positions with qualified officers but for force
+management reasons may assign officers for broadening opportunities.
+        (b) Branch Assignment. Every effort will be made to assign officers to a branch of their choice
+when they are accessed into the KSARNG. However, needs of the organization based on overall officer
+strength and individual branch strength will be used to determine an officers branch. The OSM and
+OPM will ensure all commissioning sources can compete equitability for branching opportunities in the
+KSARNG.
+       (i) ROTC Graduates. Soldiers appointing as officers through ROTC are assigned branches
+IAW their class OML, “wish list”, and needs of the organization. Priority for branching may be given to
+ROTC candidates as an incentive to access into the KSARNG.
+        (ii) OCS Graduates. Soldiers appointing as officers through the KSARNG State OCS program
+are assigned branches IAW their class slating. The top 50% of the graduating class will be given their
+branch of choice within their home MSC unless that MSC does not have their branch. The bottom 50% of
+the class will be assigned a branch based on needs of the organization.
+        (c) Branch Detailing. In order to balance career satisfaction (wants of the officer) and needs of
+
+
+
+
+                              KSARNG SOP 600-100-1 • 15 April 2021                                           9
+the organization (individual branch strength), Cadets and Candidates accessing in the KSARNG may be
+offered the option of Branch Detailing. Branch Detailing gives the officer an opportunity to serve in one
+branch during the first four to six years of their career, then transfer to a different branch of functional area
+for the remainder of their career based on the requirements below.
+        (i) The Cadet/Candidate is requesting a branch in which there is limited career potential past O3
+and that branch has exceeded required strength objectives. This is determined on an annual basis by the
+OPM.
+          (ii) Is agreed to in writing by the Cadet/Candidate and the DOP using a Memorandum of
+Agreement IAW AR 25-50. The agreement will be placed in the Cadet/Candidates Official Military
+Personnel File. The agreement will list the detail branch (the branch the Cadet/Candidate will be
+accessed in) and the control branch (the branch/functional area the Cadet/Candidate will transition to) as
+well as criteria that would invalidate the agreement such as force structure changes, ineligibility of the
+officer, needs of the organization, etc.
+         (iii) Based on current force structure, AR, IN, MS, MI, SC, MP, and CM will not be considered for
+control branches when entering into a Branch Detail agreement with a Cadet/Candidate.
+       (3) ROTC Early Commissioning Program (ECP). ECPs from the ROTC program require
+completion of the letters of acceptance found in Figure 12-1 and Figure 12-2, NGR 600-100 (2020).
+ECPs may have an active duty obligation that requires the Officer to leave National Guard service upon
+completion of their college degree and attendance at Basic Officer Leadership Course (BOLC) Phases II
+& III.
+          (4) Field Grade Officers. Field Grade Officers (MAJ and above) require approval from the DOP
+and the MSC Commander prior to accession into the KSARNG. The officer’s file is immediately
+considered by the next scheduled meeting of the field grade LDAP to ensure assignment consideration
+is in the best interest of the officer, other officers, and the organization. Initial coordination is with the
+OSM. Following review of the officer’s records, if the MSC Command wishes to accept a field grade
+Officer, a written request must be submitted through the MSC Commander to the DOP for approval. The
+OSM coordinates the request with the OPM office. Officers approved for appointment must appear
+before the monthly Federal Recognition Board (FRB). The MSC Commander or Chief of Staff (35ID)
+endorses the letter of acceptance for submission in the accession packet. If approved, the officer is
+accessed into the KSARNG in the para/lin provided by the MSC.
+        (5) Performance of Duty. Applicants will not perform any duty with the gaining unit (unless by
+coordinated Split Unit Training Assembly (SUTA) with the losing organization) until OPM confirms that
+the Soldier has been loaded with IPPS-A). Applicants requiring a FRB will not perform duty until after
+approved FRB results are received by OPM. Units should not plan to have applicants perform
+Annual Training (AT) unless OPM has received and approved the packet 30 days prior to the start
+of AT. Exceptions to this policy require approval from the DOP.
+     m. Packet Guidelines:
+        (1) Packets are completed using standardized checklists provided by the officer personnel
+section appropriate for the applicant’s status.
+       (2) Packets contain ALL applicable items required from the checklist. The checklists are
+developed from the requirements for appointment required by NGB or by a FRB.
+        (3) The applicant is responsible for providing all checklist requirements. Assistance is provided
+by the OSM, as appropriate.
+        (4) To assist in determining status of Active Duty Officers, refer to DD Form 214, Block #2,
+Department, Component, Branch and Block #23, Type of Separation. Block #2 states either USAR on
+AD, or Army – RA.
+        (5) Officer and warrant officer appointments in the Kansas Army National Guard are subject to
+both state and federal regulations and are processed IAW NGR 600-100 (2020) or NGR 600-101 (2018).
+        (6) Federal recognition - In order for an officer to be concurrently appointed as a Reserve officer
+
+
+
+                              KSARNG SOP 600-100-1 • 15 April 2021                                           10
+of the Army, the State action must be federally recognized. Federal recognition is the process which
+ensures that officers appointed by the States meet the qualifications required for service in the Federal
+armed forces.
+     n. Temporary Federal recognition
+        (1) Temporary Federal recognition may be extended to an officer who has been found qualified
+by a FRB for appointment in the ARNG of a State, pending receipt of permanent Federal recognition and
+appointment as a Reserve officer of the Army. Temporary Federal recognition may be withdrawn when
+necessary at any time. Unless sooner withdrawn or official orders issued granting permanent Federal
+recognition, temporary Federal recognition automatically terminates six months after the effective date of
+the State appointment (Title 32, United States Code [USC] Section [§] 308). However, should the initial
+period of temporary Federal recognition expire due to administrative processing delays, through no fault
+of the applicant, a subsequent Federal Recognition Board must be convened to consider granting
+another six months period of temporary Federal recognition.
+        (2) Temporary Federal recognition is not applicable to the following:
+        (a) Army Reserve warrant officers in the same grade and MOS
+        (b) ARNG warrant officers transferring between States in the same grade and MOS
+        (c) Field Grade officers
+3-4. Counseling
+    n. The best discussion of leadership and counseling can be found in Army Doctrine Reference
+Publication (ADP) 6-22 (2019) and Army Techniques Publication (ATP) 6-22.1 (2014). The most
+fundamental of all requirements is that a leader must regularly counsel their officers. The leader who
+neglects counseling their subordinates is negligent in the performance of his or her duty.
+        (1) The principal focus of counseling is proficiency, competency, and Army Values. Counseling
+should cover values, character traits, knowledge, skills and behavior that an individual must improve to
+become a better officer.
+        (2) The primary tool for professional development is the proper use of the Officer Evaluation
+Support Form (DA Form 67-10-1A, 2019), located in the Evaluation Entry System (EES), as the rater
+and the rated officer develop performance expectations for the rated officer. Counseling sessions are
+conducted on a quarterly basis and should include the tasks to be performed, expected level of
+performance / standards, and any additional training or schooling required for success. It is the
+responsibility of the senior rater to ensure this counseling is meaningful.
+        (3) Quarterly counseling plays a significant role in the leader development process. Throughout
+the KSARNG Career Management Process, Soldiers and their raters have multiple opportunities to
+address strengths and weakness as they prepare for the annual slating board. Soldiers and leaders
+ensure counseling(s) are consistent with ATP 6-22.1.
+          (4) Officer Evaluation Report (OER) – OERs are completed IAW AR 623-3, 2019 and DA PAM
+623-3, 2019. Army evaluation reports are independent assessments of how well the rated Soldier met
+duty requirements and adhered to the professional standards of the Army’s Officer Corps within the
+period covered by the report. OERs are processed and profiled by HQDA and iPERM’d with
+electronically generated labels indicating the ratings have been profiled. Rating Chains will make every
+effort to complete evaluations within the timeline provided in AR 623-3 ensuring the officer’s file is
+current and up-to-date.
+3-5. Mentorship
+    a. Commanders at all levels are responsible for providing mentorship to their subordinates. This is
+best accomplished through the timely and complete execution of the current officer evaluation system and
+through unit S1/G1 personnel record management. The KSARNG is committed to the development of
+each officer and facilitates the developmental process by providing Senior Branch Mentors to each
+branch within the KSARNG force structure. A list of current Senior Branch Mentors is available by
+contacting the OPM.
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                           11
+     b. Commanders, branch advisors and individual officers are all encouraged to make use of the Army
+Career Tracker (ACT) to facilitate effective communication and dialogue. The ACT website can be found
+at https://actnow.army.mil. This web based tool enables the individual Officer to identify their individual
+career goals and the leaders and mentors to view that Officer’s career development plan and offer advice
+and mentorship.
+3-6. Assignments/Reassignments
+    a. The primary goal of the assignment process is to place the right officer in the right job at the right
+time, while developing the officer through a series of more demanding and enhancing duty positions. All
+assignment decisions need to be fair and equitable, while meeting the needs of the commander and
+looking to the future in regards to the development of the individual officer and the organization.
+     b. KSARNG officers benefit from a series of progressive duty positions of increasing responsibility
+and complexity to mature into seasoned leaders. Assignments are generated from the LDAP using the
+results from the annual OCMB. Assignments are actioned IAW the assignments list published annually in
+3rd QTR of and 4th QTR (if required) of each FY.
+     c. Officer personnel managers (OPM) help shape the force management posture in the state by
+advising leadership on force structure requirements and utilization of the available population of officers
+at their disposal. OPM works in conjunction with the DOP, Deputy G1 and MSC S1 personnel to ensure
+appropriate assignments for officer development.
+    d. The primary factors influencing an officer’s assignment are:
+        (1) Requirements (Grade, AOC, and military education level)
+        (2) Demonstrated capabilities and potential of the officer
+        (3) Professional development needs of the officer
+        (4) Personal preferences
+    e. Assignment Policies - IAW Chapter 4, NGR 600-100 (2020), the officer must become qualified
+and branch transfer within 18 months of assignment, a waiver may be obtained up to 24 months with
+TAG approval. Officers assigned for broadening opportunities are not required to seek branch
+qualification. The LDAP makes every effort to select officers for assignment in such a way to facilitate
+and sustain the unit readiness of the KSARNG.
+     f. Attachments/Detailing – The KSARNG supports attaching Soldiers to units for the purpose of
+unit readiness, training and career development. With respect to USR reporting, some soldiers may be
+attached rather than reassigned ensuring unit stability prior to available year. Such action requires
+monitoring by both organizations to ensure proper accountability of the officer for training and pay
+purposes.
+    g. Procedures – Officer assignments are generated through the LDAP process and are managed
+by the OPM. Transfers are initiated at the lowest level using the IPPS-A CRM Ticket system and
+published for action by the OPM. The OPM verifies all actions, ensure evaluations are addressed, and
+ensures an officer will not be negatively impacted by reassignment.
+    h. Assignment Opportunities
+        (1) Table of Organization and Equipment (TOE)/MTOE – Assignment to a TOE/MTOE unit is
+the top priority for the KSARNG to ensure the highest strength numbers and readiness rates for those
+units.
+NOTE: 35th ID primary warfighter leader (G-Staff) assignments are selected IAW the Division Council
+Memorandum of Agreement. The field grade LDAP nominates KSARNG officers to compete for these
+assignments early enough to ensure non-selects are not negatively impacted by non-selection.
+        (2) TDA – Officers assigned to a TDA unit may be transferred to a TOE/MTOE unit and
+attached back to a TDA for readiness purposes (refer to 3-5 e.)
+        (3) Title 32 – Traditional Guardsmen may apply for Title 32 One Time Occasional Tour
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                          12
+(OTOT)/Active Duty Operational Support (ADOS) positions within the KSARNG. Officers selected to fill
+T32 OTOT/ADOS positions are generally not eligible for promotion while on an OTOT order due to
+controlled grade limitations (promotions to 1LT and CPT are excepted as controlled grades are not
+required). As AGR promotions to MAJ through COL are managed by the CoS, KSNG, any exceptions to
+this policy regarding promotion of OTOT/ADOS officers that require a controlled grade will be addressed
+through the CoS, KSNG for approval.
+        (4) Title 10 – Officers may pursue T10 opportunities, but the KSARNG does not have authority
+to assign officers to these positions. T10 opportunities may be accommodated by:
+         (a) OTOT/ADOS – Officers may apply for T10 opportunities through the Tour of Duty (TOD)
+program managed by the KSARNG Mobilization Readiness Officer (MRO). This process facilitates unit
+approval through the DOP, DCoS-A, ATAG and TAG. A TAG release memorandum is provided to TOD
+prior to orders generation.
+         (b) T10/T32 Swap – AGR officers may apply for a swap with NGB. IAW PPOM 17-015 the
+TAG, or delegated authority, may also direct or require a T32 AGR officer to complete a swap as a NGB
+professional development (PD) tour. This program, voluntary or directed, is managed by the OPM with
+cooperation by KSARNG HRO and NGB Human Capital Management (HCM) for consideration at the
+CG or FG LDAP. Approved swaps or PD tours incur a minimum of two year Permanent Change of
+Station (PCS) assignment with NGB. T10 Officers coming to KS are slotted IAW the results of the annual
+OCMB and the T10 SWAP Memo is forwarded to HCM 4th QTR of each year.
+    i.   Assignment Limitations
+         (1) Operational
+         (a) Command Assignments. It is the responsibility of the senior leaders to select competent
+commanders with the requisite training, education, experience and mentoring to successfully
+command. All officers in the KSARNG are boarded annually through the career management board
+process and demonstrate all three pillars of leader development (education, training and experience) for
+command consideration. Command assignments are traditionally for two years but may be extended for
+a third year upon request by the Commander and his/her chain of command. Extensions are approved
+by the Commander, KSARNG and based on the needs of the organization. The Commander, KSARNG
+retains the authority to remove and replace Battalion Commander’s for cause or misconduct without
+convening the Field Grade LDAP.
+NOTE: Full-time (AGR/TECH) officers considered for an extension of a command are discussed with the
+HRO during the LDAP deliberations.
+        (i) Company Command. Considered twice a year through the company grade LDAP’s
+assignment selection process. Selections are approved by respective BN and BDE commanders and
+validated by the DCoS-Army. Company command team selectees should be notified at least six months
+in advance of the change of command. This affords the designee’s time to reflect, complete any
+additional Professional Military Education (PME), be pre-positioned at the higher HQ, complete change
+of command inventory, attend the Company Level Pre-Command Course (CLPCC) and prepare one’s
+command philosophy. This time allows the designee to become familiar with the company and higher
+headquarters.
+        (ii) Battalion Command. Considered by the field grade LDAP’s assignment selection process.
+Selections are approved by the respective BDE commanders and validated by the Commander,
+KSARNG.. To the greatest extent possible battalion command assignments will be considered by the
+Spring LDAP for slating during the following year. The following guidelines are provided for MTOE and
+TDA battalion commands. Battalion command team selectees should be notified at least nine months
+(preferably 12 months) in advance of the change of command. This affords the designees time to reflect,
+complete any additional PME (Pre-Command Course Phases [PCC]), functional training and prepare
+ones command philosophy. This time allows the designee to become familiar with the Battalion and
+higher headquarters.
+         (a) Education. O-5 commanders must be Military Education Level (MEL) 4/Joint Professional
+Military Education (JPME) I complete. Branch Officers must be ILE complete to include Advanced
+
+
+
+                            KSARNG SOP 600-100-1 • 15 April 2021                                       13
+Operations Course (AOC) for both MTOE and TDA commands. Functional commands (Medical
+Detachment) must have completed a MEL4/JPME I credentialing course. Credentialing courses include
+AOC, approved FA courses, and specialty branch schools (medical, dental, legal, et cetera).
+        (b) Experience and Training. Commanders must be qualified at the appropriate grade with
+successful assignment in one O-4/O-5 Key developmental (KD) position. KD assignments are defined
+IAW DA PAM 600-3 in order to determine qualification. Broadening assignment(s) enhance training and
+experience. Broadening assignments may include but are not limited to other primary staff assignment at
+the battalion and brigade levels, Division Staff, Regional Training Institute; or Troop Command.
+        (iii) Brigade Command – Considered semi-annually through the General Officer Steering
+Committee (GOSC). Selections are made by the Commander, KSARNG and approved by TAG. The
+following guidelines are provided for MTOE and TDA Brigade commands.
+        (a) Education. It is preferred and beneficial to the Force that O-6 MTOE command selectees
+complete MEL1 (SSC) prior to assuming command. All other functional command selectees at a
+minimum must have completed MEL 4/JPME I training and should be currently enrolled in the United
+States Army War College (USAWC) Department of Distance Education (DDE) program and 50%
+complete.
+         (b) Experience and Training. Brigade Commanders should have completed a minimum of 12
+months (preferably 18-24 months) of Battalion Command and must have successfully served in one O-
+5/O-6 KD position. KD assignments are defined IAW DA PAM 600-3 in order to determine branch
+qualification. Broadening assignments enhance training and experience. Broadening assignments may
+include but are not limited to other primary staff assignments at the brigade and primary and assistant
+staff assignments at the division levels, Regional Training Institute, Troop Command, and ADSW/
+ADOS/ARNG/T-10 Tours outside the KSARNG.
+NOTE: IAW ARNG Brigade and Battalion Pre-Command Course (PCC) Attendance Policy dated 11
+October 2018, starting in FY 2020 the ARNG will have sufficient quotas to accommodate all incoming
+command team members (commanders and CSMs) for each PCC phase. States should provide
+sufficient time between command selection and assumption of duties to accommodate up to 6-7 weeks
+of training for senior commanders. Attendance to the four PCC phases should be in accordance with the
+priority outlined in the policy. In addition, Brigade Commanders and Battalion Commanders with Special
+Court Martial Convening Authority (SPCMCA) authority must attend the Senior Officer Legal Orientation
+(SOLO) course at Charlottesville, VA prior to assuming command. The Director, ARNG is the approval
+authority for exceptions to this policy.
+          (b) Key Developmental (KD) (IAW DA PAM 600-3, 2019) – Officers must aggressively prepare
+for and seek the skills and experience necessary to prepare them for the next grade. KD assignments
+enable the officer to continue normal progression towards more coveted KD positions at the higher
+grade. This is especially important when considering officers with multiple branches. (e.g. An IN MAJ
+with a secondary branch of AG may be fully qualified to serve as a BDE S1. However, unless the officer
+has branch transferred to AG as his primary branch, the assignment does not qualify as KD. Additionally,
+if the officer was AG at the time of his assignment as BDE S1, he is not qualified to serve as commander
+of an Infantry battalion as he was not branch qualified as an IN MAJ.) Officers must fully understand the
+qualification requirements by branch and grade as discussed in DA PAM 600-3. KD assignments qualify
+officers by branch and are the building blocks for future KD assignment consideration conducted twice a
+year through the LDAP’s assignment selection process.
+        (c) Broadening – Broadening assignments are a purposeful expansion of a leader’s capabilities
+and understanding provided through opportunities internal and external to the Army. Broadening is
+accomplished across an officer’s full career through experiences and/or education in different
+organizational cultures and environments. The intent for broadening is to develop an officer’s capability
+to see, work, learn and contribute outside each one’s own perspective or individual level of
+understanding for the betterment of both the individual officer and the institution. Broadening
+assignments ensure continued development of the officer as their career progresses.
+        (d) Functional Areas – FAs are a grouping of officers by technical specialty or skills other than
+an arm, service, or branch that usually requires unique education, training, and experience. After
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                           14
+functional designation, officers may serve repetitive and progressive assignments within their FA. An
+officer may not be assigned to more than one FA at a time. KSARNG officers may apply for FA
+designation once promoted to captain. FAs allow Reserve Component (RC) officers to broaden the
+scope of their experience and enhance both their assignment and promotion potential. DA PAM 611-21
+and DA PAM 600-3 (outlines how officers transition to a FA. Officers who choose to designate in a FA
+are encouraged to continue to choose assignments that continue to build depth in their chosen specialty.
+NOTE: According to NGR 600-100 (2020), ARNG lieutenant colonels must have completed CGSOC to be
+assigned to battalion or higher command positions and brigade executive officer or S-3 positions.
+Additionally, lieutenant colonels with three years’ time in grade must have completed CGSOC to qualify
+for assignment to any principal staff position at brigade or higher level commands. FA Qualification does
+not qualify as CGSOC complete. According to Army policy, the credentialing course for Basic Branch
+officers to attend the SSC is the Advanced Operations Course. Officers must make a conscious decision
+when electing to transition to a FA. FA election may limit future career opportunities within the officer’s
+basic branch, should the officer elect to use their FA education rather than pursue the Advanced
+Operations Course (AOC) through the Command and General Staff College. However, the officer and the
+KSARNG OPM may validate AOC credit for the FA courses that qualify.
+        (2) Strategic – Command/Staff assignments at the O-6 level within the KSARNG are managed
+by the GOSC. Strategic assignments may also be available through occasional tours with National
+Guard Bureau or other T10 entities.
+     j. The DOP facilitates each LDAP meeting by providing a list of current vacancies as well as the
+projected vacancies/transitions provided by the MSCs in preparation for the LDAP. Assignment
+consideration (excluding KD selection and assignments resulting from promotion opportunities) looks at
+officers with 18 months of time in their current position. Projected moves must be forwarded to officer
+personnel IAW the LDAP MOI published 90 days before the LDAP; the forwarding of these projected
+moves assists the LDAP with selections and assignments to be published following each panel.
+    k.   Assignments Based on Grade
+       (1) Company Grade – Assignments for company grade officers are generated through the
+LDAP’s assignment selection process and validated by the CoS-Army.
+       (2) Field Grade – Assignments for field grade officers are generated through LDAP’s
+assignment selection process and validated by the Commander, KSARNG.
+NOTE: Promotion opportunities generated by assignment to the next higher grade are determined by
+placement on the state approved SLATING ROSTER generated by the annual OCMB.
+         (3) Warrant Officer.
+        (a) Warrant Officers are subject to career management at the MSC level and DOP to ensure
+optimal utilization.
+          (i) Technical Warrant Officers will be assigned to fill authorized Warrant Officer MTOE/TDA
+positions in federally recognized units of the ARNG. Prior to assignment, the DA MOS Proponent must
+certify the applicant as qualified in the MOS for which the vacancy exists; or that they are eligible for
+entry into the appropriate WOES and can qualify for certification within two-years of assignment.
+
+          (ii) Warrant Officers assigned to XZ coded positions may only be assigned if qualified company
+grade Officers are not available. When a rated company grade Officer becomes available Warrants,
+filling these positions under this policy, will be immediately reassigned. Assigning a Warrant Officers to a
+company grade officer position is not intended to replace the need for a rated company grade officer; the
+Warrant officer is filling a temporary need in the organization. These positions should be used for no
+longer than a three –year time frame. This guidance is also applicable when Commissioned Officers are
+filling Warrant Officer positions.
+         (4) Assignments are managed by the Senior (Sr) Warrant Officer in each branch. Sr Warrant
+Officer Selection and placement is subject to approval by the Command Chief Warrant Officer with
+oversight by the DCoS-A and the Commander, KSARNG
+
+
+
+
+                                KSARNG SOP 600-100-1 • 15 April 2021                                        15
+        (5) Title 10 Officers – Career management for the T10 officer is the responsibility of Human
+Capital Management at National Guard Bureau (NGB). KSARNG is responsible for administrative
+support. Officers requesting to compete for Command Leadership Program (CLP) opportunities must
+make their request in writing to KSARNG OPM NLT 28 February of each year for consideration at the
+FG LDAP.
+
+
+Chapter 4
+Promotions
+4-1. Promotions – Promotions for officers and warrant officers are actioned IAW NGR 600-100 (2020)
+and NGR 600-101 (2018). For the ranks of MAJ thru COL, promotions are managed at the State level
+through the appropriate LDAP/GOSC utilization of the annual officer career management board (Slating
+Board). All promotions are based on the needs of the organization as determined by existing
+requirements and guidance from senior leadership. Promotions from 1LT to CPT are achieved
+through BN/BDE Commander recommendation and boarded through the monthly FRB or Department of
+the Army mandatory promotion board. Officers selected for promotion are added to the State promotion
+selection list and promoted IAW assignment to the higher graded billet. Upon approval by the
+Commander, KSARNG, the promotion selection list is published to MSCs for distribution.
+4-2. Methods of Promotion
+  a. Streamlined Promotions – Streamlined promotions are managed at the 2LT to 1LT and WO1 to
+CW2 ranks. The following applies to all streamlined promotions.
+        (1) Basic branch officers and AMEDD officers (AOC 67J or MFA 70 appointed prior to 1 May
+1991) must attend a Basic Officer Leaders Course (BOLC) in residence within 18 months of appointment.
+All AMEDD officers (except for AOC 67J or MFA 70) will attend an appropriate AMEDD BOLC within 24
+months of appointment. The unit must consider all 2LTs for promotion and complete an NGB Form 78
+(Recommendation for Promotion to 1LT/CW2) at 18 months, regardless if the 2LT is qualified and
+recommended for promotion. If a 2LT is not recommended for promotion at 18 months, the commander
+must submit an NGB Form 78 to OPM with a request for separation or a request for TAG of the State to
+grant an extension to 24 months. If the officer was retained but not promoted at 18 months, the unit
+commander must submit another NGB Form 78 at 24 months. If the officer is still not recommended at 24
+months, the unit commander must forward a completed NGB Form 78 with a request for separation or a
+request for extension through the State G1 for TAG approval to 36 months. By statute (10 USC 630 and
+10 USC CH 1407, SEC 14503), no extensions beyond 36 months are authorized. This process is
+required regardless of the reason for the officer being found not qualified for promotion. The officer’s may
+be separated at any time after 18 months per 10 USC 14503. If the officer has not completed BOLC by 36
+months commissioned service, separation proceedings must be initiated (10 USC 630).
+       (2) ARNG Aviation 2LTs who have not graduated from an OBC/BOLC may be promoted at 24
+months of commissioned service if currently enrolled in Flight School XX1/OBC/BOLC and not flagged
+(NGR 600-100, 2020).
+        (3) ARNG WO1 to CW2 is two years TIG with WOBC completed (NGR 600-101, 2018).
+       (4) Early Commission Program (ECP) 2LT may be promoted to 1LT without BOLC complete at
+24 months TIG (NGR 600-100, 2020).
+         (5) AMEDD officers, regardless of grade in which appointed, other than Specialized Training
+Assistance Program (STRAP) participants and MS officers with MFA 70 or AOC 67J, appointed on and
+after 1 June 1986 are required to complete the AMEDD resident RC BOLC within 24 months. They may
+be retained up to three years after appointment upon approval by the TAG. If the officer has not
+completed BOLC by 36 months commissioned service, separation proceedings must be initiated (10 USC
+630). STRAP participants do not have to complete the AMEDD resident RC OBC until three years after
+the completion of their STRAP training program (AR 135-155, 2004).
+       (6) JAG officers must complete JAG BOLC within 12 months of the date of appointment (AR
+135-100, 1994).
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                        16
+         (7) Chaplain (56A) and Chaplain Candidate (56X) promotions to 1LT and Captain are managed
+ IAW PPOM 17-018 (ARNG Chaplain Captain Certification Review (CCCR) Implementation Instructions).
+ Unit Vacancy promotions to Captain are not authorized and must be submitted to NGB for the CCCR
+ board process. Chaplains must complete Chaplain BOLC within three years of commissioning (AR 165-
+ 1, 2015).
+      b. Unit Vacancy – All promotions are achieved by utilization of a valid vacancy. The intent of a Unit
+ Vacancy Promotion (UVP) is to fill vacant positions with eligible officers in order to improve personnel
+ readiness of the KSARNG. Special consideration should be made to the position and the officer being
+ assigned to that position. Once assigned, the officer is not to be moved until Federal Recognition is
+ granted at the next grade. For the purpose of this SOP, a Unit Vacancy Promotion (UVP) is referred to as
+ a below the zone (BZ) promotion and should be limited to the officers demonstrating the highest levels of
+ proficiency and consistently evaluated above their peers. Examples of demonstrated proficiency include,
+ but are not limited to, strong potential statements such as “Promote ahead of Peers” or “Promote Now”,
+ officers in the top 1/3 of their rank group IAW the year’s Officer Career Management Board slate, officer’s
+ selected for Command by the Company Grade or Field Grade LDAP, or officers with strong
+ recommendations by their current chain-of-command up to including the DCoS Army or ATAG outlining
+ the needs of the organization and potential of the officer. While physical fitness and height-weight are
+ elements of proficiency, they should not be sole basis for determining eligibility for UVP if the officer
+ meets fitness and body composition standards at the time they are recommended for promotion.
+         (1) Procedures for requesting Unit Vacancy Promotions:
+         (a) Unit determines if the individual is eligible for promotion. The Officer must meet all
+requirements for promotion to the next higher grade and be recommended by the MSC commander. This
+recommendation must be IAW the promotion selection lists generated by the LDAP. For promotions to 1LT
+and CPT, packets are submitted based on BN and BDE recommendation. Soldiers in the DA Cycle are not
+considered by the FRB since their packet is being considered by a mandatory DA board.
+         (b) Unit prepares the packet IAW the checklist provided by the KSARNG Officer Personnel
+section and forwards for endorsement through command channels. Officers are not to be boarded by the
+FRB prior to meeting the minimum time in grade eligibility for promotion. Officers currently being
+considered by a DA Promotion Board are not eligible for unit vacancy promotions. Refer to DA Board
+schedule for cut-off dates.
+        (c) Promotion recommendation memorandums require the signature of the BN/BDE (O-5 or
+above) commander to ensure that the officer meets the highest of standards and is best qualified for a unit
+vacancy promotion.
+         (2) Actions by the KSARNG Officer Personnel Section:
+         (a) Conduct suitability screening prior to FRB to determine if officer requires endorsement from
+ the Adjutant General. A complete review of the officer’s file is conducted to determine if any derogatory
+ information exists which would preclude NGB from approving the packet (eg. DUI, Referred OER, civil
+ conviction waiver, etc.).
+           (b) Conduct Federal Recognition Board. Promotions which are disapproved by the FRB are
+ returned to the MSC with a memorandum from the president of the board stating the reasons for
+ promotion denial. If an officer’s packet is disapproved by a KSARNG FRB the officer must wait a
+ minimum of 120 days before his/her packet may be resubmitted for FRB action; should an officer’s packet
+ be submitted for a second consideration by the FRB, the officer is required to appear wearing the Army
+ Service Uniform (ASU) at the discretion of the Senior Army Advisor. The DCoS-Army may approve an
+ officer’s reappearance at the FRB within the 120 day period upon written request from the chain-of-
+ command.
+          (c) Forward complete packet to NGB for further processing with a copy of the FRB proceedings
+ (NGB Form 89-1) and a copy of the State promotion validation memorandum. The officer may not wear
+ the new rank on his/her uniform until receipt of the Federal Recognition order (NGB O122E) authorizing
+ the promotion; frocking is NOT authorized IAW Paragraph 2-4 of NGR 600-100 (2020). The identification
+ of “(P)” after the Officers rank in his/her signature block or other official document or format is not
+
+
+
+
+                              KSARNG SOP 600-100-1 • 15 April 2021                                       17
+authorized, except as explicitly detailed for evaluations purposes only (AR 623-3, 2019; DA PAM 623-3,
+2019; AR 25-50, 2020).
+        (d) Upon receipt of Federal Recognition orders (NGB O122E) OPM ensures promotion effective
+date and grade are entered into IPPS-A.
+    c. DA Select – A DA Selection status does not equal automatic promotion in the KSARNG. Being
+DA Select by a mandatory promotion board exempts the officer from the scrolling process and from the
+FRB examination. To be promoted in Kansas (T10 AGR excluded see 4-4 g.), the officer must be on the
+state promotion selection list (MAJ – COL), assigned to a qualifying duty position as required by NGR
+600-100 (2020), remain in an active status, be medically qualified for retention, have a passing
+APFT/ACFT, and meet the standards of the Army Body Composition Program in AR 600-9 (2019). If a
+Soldier’s file appears before a DA mandatory promotion board, the Soldier is prohibited from being
+considered by the unit vacancy promotion process. Officers selected for promotion by the KSARNG
+Promotion Selection Board who are also selected through the DA mandatory board processes are
+promoted in accordance with the following.
+         (1) OPM verifies if a DA Board has selected the officer for promotion at
+https://www.hrc.army.mil/TAGD/Officer%20and%20WO%20Selections%20and%20Promotions
+      (2) OPM determines if the officer meets all eligibility requirements for promotion. IF AN OFFICER
+IS NON-SELECTED BY THE DA PROMOTION BOARD, THE STATE HAS NO AUTHORITY TO
+PROMOTE. Officer must be boarded a second time by the Department of the Army.
+       (3) Unit prepares the packet IAW the OPM checklist and submits to OPM using the IPPS-A CRM
+module IAW the KSARNG IPPS-A Desk Reference.
+NOTE: The promotion recommendation memorandum must be signed by the BN/BDE (O-5 or above)
+commander.
+        (4) OPM reviews the packet for completeness, produces a promotion validation memorandum,
+and forwards the packet to NGB for federal recognition orders. State promotion orders have an effective
+date based on the date the officer was fully qualified and in a qualifying positoin.
+        (5) OPM forwards federal recognition orders (NGB Form 0122E) through the MSC to the unit
+once they are received from NGB.
+    d. AMEDD Promotions – All AMEDD promotion packets are actioned IAW DA PAM 600-4 (2020)
+and ARNG AMEDD Officer Personnel Management Guidance. Packets are reviewed by the KSARNG
+DOP and forwarded to NGB for Federal Recognition; MAJ through COL promotions are IAW the LDAP
+selections and require the recommendation of the Medical Detachment Commander for processing.
+NOTE: AGR AMEDD officers selected for promotion MAJ through COL must be on the annual promotion
+selection list due to the limited number of controlled grades available; the KSNG CoS and the DCoS-
+Army are the decision authority for control grade allocation to officers on the promotion selection list.
+4-3. Slating Board Process
+    a. The KSARNG conducts career management boards, by grade, each year during the first full
+week of December unless otherwise indicated by official board announcement signed by the DOP. The
+boards are part of the OCMB process and considers the files of company grade and field grade officers
+assigned to the KSARNG.
+        (1) Company Grade files consist of 1LTs with 12 months TIG as of 31 December of the current
+year and CPTs. The OCMB generates a slating roster based on the officer’s file using guidance provided
+by the Commander, KSARNG and the word picture scoring found in Enclosure D. CPTs on the state
+promotion selection list to MAJ are moved to the field grade OCMB for consideration.
+        (2) Field Grade files consist of CPTs on the state promotion selection list, MAJs and LTCs. The
+OCMB generates a slating of all MAJs and LTCs using guidance provided by the Commander, KSARNG
+and the word picture scoring found in Enclosure D. LTCs selected on the previous year’s promotion
+selection list are considered by the General Officer Steering Committee.
+
+
+
+
+                            KSARNG SOP 600-100-1 • 15 April 2021                                       18
+       (3) AMEDD files consist of 1LTs with 12 months TIG as of 31 December of the current year to
+LTCs. The OCMB generates a slating based on the officer’s file.
+     b. The DOP, KSARNG is responsible for the composition of the OCMB. Every effort is made to
+ensure quality representation of branch (Operations Division [OD], Operations Support Division [OSD],
+Force Sustainment Division [FSD]) from each and minority representation regardless of the demographic
+of the officers being considered. A balanced mix of “Traditional” and full-time unit support (FTUS)
+KSARNG is maintained to the fullest extent possible.
+    c. The DOP, KSARNG prepares the recommended list of board members and presents the list to
+the Commander, KSARNG for approval. The DOP, KSARNG notifies the approved board members and
+prepares a letter of instruction based on the commander’s guidance.
+    d. Board Composition – OCMBs are composed of an odd number of board members, not including
+the board recorder(s). The following applies to each board:
+        (1) Company grade boards consist of a minimum of seven board members.
+        (2) Field grade boards consist of a minimum of nine board members.
+        (3) OCMB members must be at least one pay grade higher than those officers being considered.
+         (4) Board members may be members of a different state’s Army National Guard, ARNG T10
+officers, or officers from a different component.
+       (5) The Board President must be a member of the KSARNG. For both the Company Grade
+Board promotable 1LT to CPT) and the Field Grade Board (MAJ to LTC Board), the Board President must
+have obtained the rank of COL.
+        (6) The recorder(s) may be of any rank.
+        (7) The following officers are NOT to sit as members of a board
+        (a) An officer with a Suspension of Favorable Personnel Actions (Flag) for any reason.
+        (b) An officer who may be considering the file of their spouse, child, or sibling.
+        (c) An officer being considered by the board.
+        (d) An officer who served as a member of the previous year's Company Grade OCMB (the intent
+being no individual officer sits the same board for two consecutive years). The Field Grade board is
+exempt from this requirement due to the limited number of COLs available each year.
+        (e) The DOP, KSARNG or any officer assigned to that section, an assigned IG officer or a
+Specialty Branch officer (AMEDD, JAG, and Chaplain).
+    e. Promotion Selection List – Upon identification of the number of positions to be filled, the OCMB
+results are provided to the LDAP for consideration. The LDAPs (Company grade and Field Grade) make
+consideration of the projected vacancies and make selections according to the positions to be filled.
+Selection is based on current/projected vacancies and the needs of the organization. A slating roster is
+populated by the officers selected from the OCMB results then listed alphabetically and presented to the
+Commander, KSARNG for approval and distribution. The promotion selection list is executed IAW
+assignment to the higher graded billet. Officers occupying the higher grade position prior to the convening
+date of the LDAP will have their packets submitted immediately. All other packets will be processed by
+DOR.
+NOTE: The promotion list will not be delayed due to an officer not having a valid position for assignment.
+Should the position be occupied or the transfer delayed, the officer will be bypassed. Upon assignment to
+an appropriate para/lin, the packet will be processed for promotion.
+    f. Post Board Process and Actions – After each board the results are maintained and safeguarded
+by the DOP and subsequently presented to the appropriate LDAPs for slating roster selection. OPM
+consolidates all documents from the board (results, AAR, declination memos, etc.). The DOP, OPM and
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                       19
+the President of the Board schedules an appointment with the Commander, KSARNG to provide a verbal
+after action report (AAR). The AAR at a minimum consists of:
+        (1) Any anomalies in the board which could cause the board to be voided.
+        (2) Situations or issues which caused a file to be re-voted more than twice.
+         (3) Any possible "show cause" files (substandard performance, misconduct, moral/professional
+dereliction, or actions inconsistent w/national security [Department of Defense Instruction 1332.30, 2008])
+        (4) A review of the results.
+NOTE: The results of the OCMB are not to be published! Aspects, such as comments for the officer and
+relative standing, may be released for mentorship purposes and career development, but the actual
+slating is not be released except to proper authorities. The OCMB results are a tool for LDAP
+consideration when selecting for promotion, command, KD assignments, schools selection, etc.
+4-4. Promotion Considerations
+     a. Zone of Consideration – The LDAP considers all eligible officers with a minimum TIG ending the
+last day of the month proceeding the month of official release. The Commander, KSARNG may limit the
+number of promotions from specific zones (Below the Zone, Primary Zone, Above the Zone) in order to
+balance the needs of the organization by managing the force through the promotion process.
+    b. The GOSC is the recommendation authority for LTC to COL promotions. Officers selected for
+promotion to COL are removed from LDAP consideration and counseled by the commander, KSARNG
+regarding the promotion, career management, and proposed retirement dates. This enables KSARNG
+senior leaders the ability to actively manage the assigned COLs within the KSARNG.
+    c. Officers selected for promotion who are not eligible for promotion IAW NGR 600-100 (2020) are
+not promoted until the officer has met the necessary requirements for promotion. Factors such as flagging
+action(s), lack of appropriate military education, and expired physical, awaiting administrative review by a
+Department of the Army Stand-by Board prevent assignment of the officer to positions in the next higher
+grade. If an officer is in command and requires a change of command validation, the DOP may bypass
+the officer to prevent unnecessary stoppages of the promotion process. When the officer is transferred to
+the appropriate higher graded position, the promotion packet is processed immediately.
+NOTE: Officers selected for promotion must be in a valid MTOE or TDA position of the next higher grade
+prior to packet submission for Federal Recognition. If the officer is a below the zone selection, the LDAP
+must make every effort to facilitate the assignment prior to unit vacancy submission cut off determined by
+the annual DA Boards Schedule.
+
+
+Table 4-1
+Below the Zone, Primary Zone (PZ), and Above the Zone (AZ) Grade for Promotion
+                   Minimum Years in lower         Average Years in lower       Maximum Years in lower
+ From       To
+                    grade for promotion            grade for promotion          grade for promotion
+                               BZ                            PZ                           AZ
+  CPT      MAJ                  4                             5                             7
+  MAJ      LTC                  4                             5                             7
+  LTC      COL                  3                             4                        Until MRD
+
+  Two years prior to an ARNG officers maximum TIG, they enter the DA Mandatory promotion process
+   similar to USAR officers
+  120-days (O5 & below)/180-days (O6) prior to the convene date of the DA Mandatory board, the
+   State can no longer utilize the UVP (NGR 600-100 (2020))
+  2LTs commissioned through the Early Commissioning Program are eligible for promotion to 1LT at
+   24 months’ time in grade without the requirement to complete a BOLC (NGR 600-100 (2020))
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                        20
+        (1) Promotion Declination – KSARNG officers who decline a promotion must do so by
+submission of a memorandum of declination through the chain of command to the DOP, KSARNG 2722
+SW Topeka, Blvd, Topeka, KS 66611-1287. Declinations have the effect of removing them from
+promotion consideration until the next FY board results are published. An officer’s decision to decline
+consideration does not adversely impact the officer’s potential for future selection.
+        (2) Promotion Delay – KSARNG officers may elect to delay promotion for the purpose of fulfilling
+OTOT or for assignment considerations for an AGR officer. Officers may delay promotion for a period not
+to exceed three years (delay period requested in 12 month increments) from the date of promotion
+selection. AGR officers are granted an indefinite delay due to controlled grade limitations. The delay
+enables the officer to remain on the selection list until such time as the promotion opportunity is made
+available. If the officer is not promoted at the end of three years, the officer’s file appears before the next
+promotion Selection Board for promotion consideration.
+    d. AGR Promotions – The CoS, KSNG and the DCoS-A have oversight and responsibility for all
+AGR assignments and promotions as determined by the projected vacancies available for the
+assignment. The CoS and the DCoS-A participate in the LDAP in order to assist with assignments
+resulting in AGR and Technician promotions. The full time manning document restricts the placement and
+grade of officers in AGR status. The KSARNG AGR manager validates and documents the number and
+placement of AGR controlled grades for officers. The CoS, with the assistance of the DOP and AGR
+Manager, determines placement of these AGR controlled grades based on organizational need with input
+from the appropriate LDAP. There are six factors considered when placing AGR officers:
+        (1) Controlled grade availability
+        (2) Slating Roster position
+        (3) Basic branch or functional area qualification
+        (4) Amount of AFS
+        (5) Command Leadership Assignment Program (CLASP)
+        (6) National level T10/T32 swap assignment
+     e. AGR AFS Requirement – Consideration of AFS is a critical factor in the management of the full
+time force. In order to prevent officers from occupying senior control grades for an excessive number of
+years, advancement must be congruent with years of AFS. This provides a larger group of qualified
+officers’ greater opportunity for upward mobility. The following AFS guidelines must be met by existing
+and newly hired AGR personnel. Exceptions to the AFS requirement are approved for key developmental
+assignments (Full-time or M-Day; examples BN/BDE AO, Command) or organizational need and
+recommended by the LDAP to the Commander, KSARNG for approval. Minimum AFS Requirements are
+listed below in Table 4-2.
+
+
+
+Table 4-2
+Minimum Active Federal Service Requirement(s)
+    Promotion to the GRADE            MINIMUM TIG REQUIREMENTS            MINIMUM AFS REQUIREMENT
+ O-4 – MAJOR                                4 Years at CPT                       6 Years AFS
+ O-5 – LIEUTENANT COLONEL                   4 Years at MAJ                      11 Years AFS
+ O-6 – COLONEL                              3 Years at LTC                       16 Years AFS
+
+
+
+
+      f. Upon completion of the assignment selection process and placement on an approved promotion
+list, an AGR officer may be projected for the appropriate controlled grade, Support Personnel Manning
+Document (SPMD) vacant position, and MTOE or TDA position of the higher grade. Once the AGR officer
+receives a controlled grade and is placed in the proper SPMD position, their federal recognition packet, if
+
+
+
+
+                              KSARNG SOP 600-100-1 • 15 April 2021                                          21
+not in the DA Cycle, is presented before the FRB and forwarded for scrolling. Soldiers may not be
+promoted into a military grade that exceeds the grade of their SPMD position.
+NOTE: If a controlled grade is not available for the AGR officer, the DOP may slot the officer accordingly
+and bypasses the AGR officer until such time as a controlled grade is available as determined by the
+KSARNG AGR manager. Upon verification of a valid controlled grade, the AGR Officer’s packet is
+forwarded for federal recognition immediately. Upon promotion the officer will receive a promotion
+eligibility date (PED) equivalent to the date they were assigned to the higher graded position, and a DOR
+equivalent to the actual promotion date (10 USC §14311).
+NOTE: The LDAP considers the results of the ASMB when reviewing files of AGR officers for the
+purpose of evaluating the officers’ ability to advance within the KSARNG as well as their ability to
+achieve 20 years of AFS.
+     g. Promotion for Title 10 Officers – T10 officers are members of the KSARNG; however, they do not
+impact KSARNG promotions because they do not compete for or fill positions within Kansas. T10
+promotions and assignments are managed by NGB. As such, T10 officers are not considered by the
+KSARNG promotion Selection Board, and therefore not subject to the requirements of this policy. Upon
+notification from NGB and receipt of the promotion voucher memorandum, OPM prepares and processes
+the promotion packet for consideration in accordance with the promotion packet guidelines.
+     h. Promotion of Specialty Branch – Specialty Branch promotions are managed internally and require
+endorsement by the appropriate Senior Specialty Branch officer within the KSARNG. Specialty branch
+officers (AMEDD, JAG, and Chaplain) are not selected for promotion through LDAP promotion selection
+process, however they are promoted on the same cycle and Specialty Branch promotion selections will
+be published per paragraph 4-3.e above . These officers are not required to compete with basic branch
+officers for positions within the KSARNG and are therefore directly managed by the KSARNG branch
+manager for AMEDD, JAG, and Chaplain branch(s). Medical professionals do not require Intermediate
+Level Education (ILE) for promotion. All other specialty branches must meet military education
+requirements in order to be promoted.
+    i. Promotions with respect to “Fenced” positions – “Fenced” positions are Full Time Support (FTS)
+authorizations allocated to fill statutorily mandated ARNG FTS positions or units at 100% of FTS
+requirements. Fenced authorizations are subject to change based on statutory guidance found in The
+National Defense Authorization Act (NDAA) and CNGB and DARNG priorities for full time support within
+the ARNG. KSARNG officers assigned to “Fenced” positions are not automatically promoted if the
+position is of the higher grade. To be promoted in a “Fenced” position, the officer must be on the
+promotion selection list and have a valid controlled grade to be promoted. Assignment to a “Fenced”
+position does not alleviate the normal promotion requirements for AGR officers.
+    j. Promotions for Mobilized Officers – Mobilized officers are promoted in accordance with DA policy
+and NGR 600-100 (2020) A position vacancy for which the officer is otherwise qualified must exist and
+remain vacant for the duration of the mobilization. Within 180 days after release from active duty
+(REFRAD), the officer must be assigned to that position. The officer must be qualified for the position
+considered and be on the KSARNG promotion selection list in order to be promoted.
+     k. Exhausted List – Should the list be exhausted and additional slots become available due to non-
+forecasted vacancies, the Commander, KSARNG may elect to open the slating roster for additional
+promotions. Additions are added to the promotion selection list through discussions with the LDAP during
+4th quarter. If more than one officer is selected, these officers are promoted IAW their assignment to the
+higher graded billet, but not ahead of officers on the initial list. If an officer is not promoted prior to the
+publication of the following year’s promotion selection list, the officer is positioned at the top of the
+following year’s list. Multiple officers carried over from the previous year are positioned at the top of the
+next year’s promotion list.
+   l. Officers waiting on the results of a DA Selection Board lAW with Reserve Officer Personnel
+Management Act of 1996 (ROPMA) may not be promoted (even if recommended by a state Selection
+Board) until the results of the DA Selection Board are released. Should the officer not be selected by the
+DA board, the officer is not eligible for promotion.
+
+
+
+
+                              KSARNG SOP 600-100-1 • 15 April 2021                                          22
+     m. Officers who are the subject of a pending investigation per AR 15-6 (2016), are not to be placed
+in promotion opportunity vacancies until a command review is completed and flags removed per AR 600-
+8-2 (2016)). The DOP and SJA review the pending investigation and brief the Commander, KSARNG.
+4-5. Warrant Officer Promotions
+   a. Promotion to Chief Warrant Officer Two (CW2), Chief Warrant Officer Three (CW3), and Chief
+Warrant Officer 4 (CW4) are non-competitive and warrant officers are not subject to DA Promotion
+Boards.
+         (1) Promotion to CW2 is a streamlined promotion. Once the WO1 has reached minimum TIG,
+the unit submits an NGB 78 recommending the warrant officer for promotion or requests a six month TAG
+waiver to retain the Warrant Officer to 24 months.
+         (2) Promotion to CW3 and CW4 are subject to the Federal Recognition Board (FRB). Federal
+recognition board appearance is the only method of warrant officer promotions to the rank of CW3 or
+CW4. As such, a Warrant Officer promotions are not limited or reserved for “below zone” officers (zones
+of consideration are not used for COMPO 2 Warrant Officer Career Management). The provisions of
+Chapter 4-2.b of this SOP do not apply. There is no civilian education requirement for Warrant Officer
+promotions. Warrant Officers must achieve even higher levels of education as equipment, systems,
+training, and missions become more sophisticated. Given the complexity of the operational environment
+and their highly specialized role, Warrant Officers must commit to continuous self-development and life-
+long learning to remain current, and improve their knowledge base.
+        (3) Promotions for Warrant Officers. These promotions are based on needs of the KSARNG and
+the recommendation of Warrant Officer’s first O5 commander. Warrant Officer’s recommended for
+promotion must meet requirements IAW NGB 600-101 (2018). To be considered for Federal Recognition
+following the KSARNG promotion to fill a unit vacancy, a KSARNG Warrant Officer must—
+        (a) Be in an active status and DMOS qualified (see subparagraphs d and e below for
+exceptions).
+        (b) Be medically fit in accordance with AR 40-501 (2019)
+        (c) Meet the height and weight standards prescribed in AR 600-9 (2019).
+        (d) Have completed the minimum years of promotion service indicated in table 4-3.
+        (e) Have completed the minimum military education requirements prescribed in table 4-4.
+        (f) Have passed an APFT/ACFT within the time frame prescribed below
+        (i) Six-months from promotion effective date for AGR Soldiers per AR 350-1 (2017).
+        (ii) Twelve-months from promotion effective date for non-AGR Soldiers per AR 350-1 (2017)
+NOTE: A Warrant Officer who has failed the APFT/ACFT or failed to take the APFT/ACFT should be
+flagged in accordance with AR 600-8-2 (2016). A Warrant Officer is not eligible for promotion and may not
+request Federal Recognition until successfully completing an APFT/ACFT and documentation (standard
+or an alternate) has been provided.
+        (g) Must be recommended by the Warrant Officer's fist O5 commander. Additional
+recommendations from the CCWO, DCoS Army, or ATAG may be included outlining the organizational
+need for promotion or the potential of the Warrant Officer.
+        (4) Warrant Officers accessed from other components or services must meet the promotion
+requirements of NGR 600-101 (2018), regardless of their promotion eligibility prior to their Federal
+Recognition in the ARNG.
+         (5) An ARNG Warrant Officer who has been appointed from the USAR serving in an inactive
+status is not to be considered for promotion to the next higher grade until at least one year (12-months)
+after the date of return to an active status, regardless to time in grade served. (NOTE: USAR
+Reinforcement is not considered inactive status.)
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                       23
+Table 4-3
+Warrant Officer Minimum and Maximum Time in Grade for Promotion
+     Grade       Minimum Years in Lower Grade
+ WO1 to CW2                     2 years
+ CW2 to CW3                     4 years
+ CW3 to CW4                     5 Years
+ CW4 to CW5                     5 Years
+
+NOTE: IAW NGR 600-101 (2018) Enlisted personnel in the grade of E7, with a minimum of two-years TIG
+on the date of appointment as a WOC, may be appointed to WO1 upon completion of WOCS, and upon
+completion of WOBC may be promoted to CW2.
+
+
+
+
+Table 4-4
+Warrant Officer Educational Requirements for Current Grade and Course Enrollment
+
+
+ FOR PROMOTION
+                                          MILITARY EDUCATION REQUIREMENT
+       TO
+
+                       Warrant Officer Basic Course (WOBC), or equivalent DA MOS Proponent
+        CW2
+                       certification within 2-years of date of initial appointment as WO1
+
+        CW3            Warrant Officer Basic Course (WOBC)
+
+        CW4            Warrant Officer Advanced Course (WOAC)
+
+                       Warrant Officer Intermediate Level Education (WOILE) & Warrant Officer
+        CW5
+                       Senior Service Education (WOSSE)
+NOTE: Minimum time-in-grade does not exist for warrant officer PME attendance; warrant officers cannot
+attend more than one PME course within a 12-month period. The 12-month separation does not apply to
+WOILE and WOSSE follow-on courses.
+
+
+       (6) Provided all education requirements of the previous MOS have been met, Warrant Officers
+who require re-designation into a new MOS due to reorganization or inactivation remain MOS qualified for
+promotion purposes for a period of one year from the effective date of the reorganization or inactivation.
+         (7) Warrant Officers assigned IAW paragraph 4-3b (NGR 600-101, 2018) to XZ coded positions
+may only be assigned if qualified company grade Officers are not available. When a rated company grade
+Officer becomes available Warrants filling these positions under this policy, will be immediately
+reassigned. Assigning a Warrant Officers to a company grade officer position is not intended to replace
+the need for a rated company grade officer; the Warrant officer is filling a temporary need in the
+organization. These positions should be used for no longer than a three year time frame. This guidance is
+also applicable when Commissioned Officers are filling Warrant Officer positions.
+        (8) Former Commissioned Officers in the rank below CPT, appointed as a WO1, not certified by
+DA MOS Proponent for the appropriate Warrant Officer Basic Course (WOBC), must complete the WOBC
+for specified MOS and must complete the required time in grade of 24-months, according (refer to Table
+4-3). Former commissioned officer in the rank below CPT, certified by DA MOS Proponent, prior to
+appointment, not needing WOBC are promoted to CW2 IAW military education requirements (refer to
+Table 4-4).
+
+
+
+
+                            KSARNG SOP 600-100-1 • 15 April 2021                                       24
+    b. Promotion to Chief Warrant Officer Five (CW5) requires a centralized Selection Board process,
+where the Selection Board determines the Warrant Officers eligibility for promotion. Promotion Selection
+Boards for the rank of CW5 are only to be conducted based on the needs of the organization and a
+standing promotion list is not to be maintained.
+         (1) The Warrant Officer Selection Board evaluates suitability for military service in the grade and
+MOS for which Federal Recognition is being applied for by considering documents located within
+iPERMS; outlined with NGR 600-101 (2018) to include any letter to the President of the Board (an
+example letter can be found in Enclosure A), Letters of Recommendation, and Officer Record Brief
+(ORB). Additional documents may be considered to determine the suitability of an applicant for
+promotion (flight records, civilian certifications, evidence of training, etc). Applicants must be notified of
+the inclusion of any documents not located within iPerms.
+        (2) The zone of consideration for promotion to CW5 is CW4s with four years time in grade and
+MOS qualification on the first day of the month the board action is scheduled to occur. All CW4s with the
+required MOS and within the zone are to be reviewed by the board.
+        (3) The DOP, KSARNG:
+        (a) Notifies all eligible CW4s at least 60 days prior to the Selection Board proceedings.
+     (b) Prepares a recommended list of CW5 Selection Board members (must be approved by the
+Commander, KSARNG) to review all eligible CW4 files up for consideration.
+        (i) The recommended list of board members is comprised of at least five members; President of
+the Board must have obtained the rank of COL, two voting members who have obtained the rank of COL,
+and 2 members who have obtained the rank of CW5 in the Duty-MOS (DMOS) considered.
+Note: At a minimum board members are not to serve on consecutive Selection Board or have been
+flagged.
+        (4) The Officer Personnel Section, KSARNG:
+        (a) Does not prescreen CW4 files prior to the Selection Board review.
+Note: Warrant Officers are strongly encouraged to review their personnel files prior to the board
+proceedings in an effort to address any concerns or items which require correction. .
+       (b) Notifies CW5 Selection Board members of their participation in the CW5 Selection Board
+proceedings, provides a letter of instruction based on the guidance received by the Commander,
+KSARNG.
+Note: Members selected to participate in the CW5 Selection Board process are not released to
+personnel (outside the Selection Board processes) until all board actions have been completed.
+4-6. Command Chief Warrant Officer Leadership Selection
+   a. The KSARNG Leadership Selection Board for the purpose of selecting the Command Chief
+Warrant Officer (CCWO is a formal appearance/interview board that occurs at the discretion of the TAG).
+    b. The board is composed of five members: The Commander, KSARNG, the DCoS-A (or O-6
+equivalent), and three CCWOs from adjacent states (if possible). The current Kansas CCWO may sit on
+the board as a non-voting member. The OPM notifies the approved CCWO Selection Board members
+and prepares a letter of instructions based on the guidance provided by the Commander, KSARNG.
+CCWO Selection Board members are not to be released (outside the Selection Board processes) until
+after the actions of the CCWO Selection Board has been completed. At a minimum board members will
+not serve on consecutive CCWO Selection Boards and are not to have flag(s) within their personnel file.
+    c. The board selects the best-qualified CCWO, recognizing that this assignment requires significant
+knowledge, experience, judgement, communication skills, and strengths as a primary advisor to TAG in
+regard to all actions effecting Warrant Officer accessions, career management, and leadership
+development.
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                           25
+    d. The zone of consideration for CCWO is comprised of Warrant Officers in the grade of CW4 with 12
+months TIG (first day of the month of the scheduled CCWO Selection Board) and current CW5s. The
+DOP, KSARNG notifies eligible CW4-CW5s at least 60 days prior to the Selection Board proceedings.
+The CCWO Selection Board evaluates suitability for military service as the CCWO reviewing documents
+located within iPERMS; outlined with NGR 600-101 (2018) to include any biographical summary, letter to
+the President of the Board (an example letter can be found in Enclosure A), and Officer Record Brief
+(ORB).
+4-7. General Officer Nominations
+   a. General Officer Promotions are processed IAW AR 135-156 Reserve Component General Officer
+Management (2007), NGR 600-100 (2020) and the General Officer Federal Recognition (GOFRB)
+Guidebook published annually by NGB Senior Leader Management Office (NGB-SL).
+    b. The nomination process occurs at the Adjutant General level and is reviewed annually through the
+GOSC. The GOSC supports this process through recommendation relative to the officers eligible for
+consideration and concludes with TAG nomination. This process is closely coordinated with the Executive
+Officer to the Adjutant General and submitted to NGB-SL IAW with published suspense dates in the
+GOFRB guidebook.
+     c. Officers appearing before a GOFRB with a pending MRD may be assigned to a GO position prior
+to the officer’s MRD, in order to be held in abeyance and avoid removal from active status. Upon transfer
+to the GO position, OPM forwards a copy of the assignment order to NGB-SL at which point the officer is
+assigned against the Headspace wait list until a GO voucher is authorized for the officer’s promotion. All
+assignment orders for a GO billet are forwarded to NGB-SL upon publication to expedite the Headspace
+wait time. Certificate of Eligibility (COE) publication is not a requirement for assignment order submission;
+failure to submit the assignment order to NGB-SL delays the promotion timeline.
+    d. Unless otherwise indicated, KS submits all nominations as General Officer of the Line (GOL) to
+allow for assignment flexibility.
+
+
+Chapter 5
+Joint Officer Management
+5-1. Joint Officer Management Overview
+
+    a. The Joint Officer program is managed IAW 10 U.S.C. Chapter 38 – Joint Officer Management,
+Department of Defense Instruction (DoDI) 1300.19 – DoD Joint Officer Management (JOM) Program
+(2018), Chief National Guard Bureau Instruction (CNGBI) 1704.01 – National Guard Joint Officer
+Management Program (2016), and CNGBI 1001.01 – National Guard Joint Force Headquarters-State
+(2016).
+
+    b. Current federal law (10 U.S.C. Chapter 38) does not require National Guard officers to become a
+Joint Qualified Officer (JQO) prior to promotion to General Officer. However, federal law can be changed
+by act of U.S. Congress and the President of the United States.
+
+     c. National Guard Policy effective 01 October 2020 is that only officers with significant joint
+experience will be nominated or appointed to NG General Officer T10 assignments (CNGBI 1704.01,
+2016). Significant joint experience is defined as completion of JPME Level II or Advanced Joint
+Professional Military Education and no less than 50% of the joint experience points required to achieve
+joint qualification level III.
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                         26
+5-2. Joint Qualification Levels
+
+    a. There are four levels of Joint Qualification. Each joint qualification level consists of an education
+and experience component. Experience points are accrued through a Joint Duty Assignment List (JDAL)
+position, discretionary points, or self-nomination of joint experience. A maximum of six (6) discretionary
+points can be awarded to an officer. All discretionary points (obtained through joint approved exercises
+and courses) must be entered into Joint Qualification System (https://milconnect.dmdc.osd.mil/) within 12
+months of experience completion.
+
+    b. Joint Qualification level I is obtained by completion of the Basic Officer Leader Course. There is
+not an experience requirement for this level.
+
+     c. Joint Qualification level II requires 12 joint experience points and completion Joint Professional
+Military Education (JPME) Level I. JPME I is awarded with the completion of the Advanced Operations
+Course (AOC). See figure 5-1, Path to Joint Qualification Level II for a graphical representation.
+
+    d. Joint Qualification level III, also referred to as a Joint Qualified Officer (JQO), requires 24 joint
+experience points and completion of JPME II. JPME II is awarded through resident Senior Service
+College of any United States Service School or Joint Combined Warfighting School (JCWS) / JCWS-
+Hybrid. See figure 5-2, Path to Joint Qualification Level III (JQO) for a graphical representation.
+
+        (1) Completion of a JDAL assignment in the grades of MAJ – COL awards the officer the
+Additional Skill Identifier (ASI) of 3A.
+
+        (2) When awarded the JQO designation, the officer is awarded the ASI of 3L.
+
+     e. Joint Qualification level IV is only for General Officers (GO). It requires 24 experience points as a
+GO and the CAPSTONE military education course. The experience points can be accrued through a GO
+JDAL position, discretionary points, or self-nomination all of which must be as a GO. If the GO is selected
+for a JDAL position they must server at least 14 months in the position for full credit of the experience
+requirements with an approved tour length waiver (DoDI 1300.19, 2018). See figure 5-3, Path to Joint
+Qualification Level IV for a graphical representation.
+
+5-3. Joint Duty Assignment List
+
+     a. Designation of a position as a JDAL position requires approval by the Chairman Joint Chief of Staff
+(CJCS) and must be re-validated every five (5) years. States are authorized to submit positions to NGB
+for consideration by CJCS. Approved State-JDAL positions provide joint credit the same as the T10
+JDAL positions.
+
+    b. Assignment to a Joint Duty Assignment (JDA) position is through either the NGB T10 or State
+JDAL programs. NGB T10 positions require a TAG nomination of DA Select Majors through Colonel.
+The one exception to the T10 program is the state managed Bi-Lateral Affairs Officer (BAO) for Armenia
+in support of the State Partnership Program (SPP). State JDAL positions are managed through the LDAP
+process.
+
+     c. Assignment length of a Service-JDA (S-JDA) position is at least 24 months. The only approved
+early release criteria that give the officer joint credit points for months served are reassignment to a
+centralized command selection (BN-BDE), selection to attend resident SSC, or promotion to Brigadier
+General (DoDI 1300.19, 2018). A tour length waiver must still be submitted for the officer to receive the
+joint credit for months served.
+
+    d. JDA tour length waivers must be submitted to CJCS from NGB at least 90 days prior to the desired
+departure date IAW DoDI 1300.19 (2018). The officer is not authorized to vacate the JDA position until
+the waiver is approved by CJCS.
+
+
+
+
+                              KSARNG SOP 600-100-1 • 15 April 2021                                             27
+   e. JDA tour length exclusions that allow for the officer to be reassigned without receiving joint credit
+IAW DoDI 1300.19 (2018) are:
+
+        (1) Serving in overseas S-JDAs that the tour length is less than 2 years IAW DoDI 1315.18
+
+        (2) Less than full-time RC officers.
+
+       (3) Reassigned for unusual personal reasons, including extreme hardship and medical conditions
+beyond the control of the officer or the Military Service concerned.
+
+        (4) Retired or released from active duty.
+
+        (5) Suspended from duty and reassigned from the Joint Staff or a Combatant Command (CCMD)
+pursuant to Section 155(f)(2) or 164(g) of Title 10, U.S.C. A suspension from duty that is a result of an
+adverse action should be documented in the officer’s personnel record and in writing to the Military
+Service concerned.
+
+5.4. State Joint Duty Assignment List
+
+    a. Each state is authorized a State-Joint Force Headquarters section IAW CNGBI 1001.01 (2016).
+The positions authorized are referred to as the “31+4” requirements. The state is not authorized to grow
+force structure when creating their Joint Staff.
+
+   b. State Joint Element positions can be nominated to CJCS for approval as a JDAL position. If
+approved, officers assigned to a State-JDA positions receive the same joint credit as a T10 position.
+
+Table 5-1 depicts positions within Joint Force Headquarters that may qualify an officer to receive joint
+credit.
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                          28
+Table 5-1
+KSARNG “34+1” Positions
+                                                                                     Army Position
+      Directorate                Position Title           Maximum Grade                 Code
+      TAG Office                      TAG                        O8                      00B00
+      TAG Office                  ATAG Army                      O8                      00B00
+ Director of Joint Staff     Director of Joint Staff             O7                     01A/01B
+           J1                          J1                        O6                      01A00
+           J1                      Deputy J1                     O5                      01A00
+           J2                          J2                        O6                      01A00
+           J3              Director of Military Support          O6                      01A00
+           J3                  Operations Officer                O5                      01A00
+           J3                 Counter Drug Officer               O5                      01A00
+           J3                  Protection Officer                O5                       31A
+          J3                    Training Officer                 O4                      01A00
+   Joint Operations         Joint Operations Center
+                                                                 O4                      01A00
+        Center                      Officer
+           J4                          J4                        O6                      01A00
+           J5                          J5                        O6                      01A00
+                           State Partnership Program
+           J5                                                    O5                      01A00
+                                     Officer
+           J6                          J6                        O6                      01A00
+           J6               Plans and Policy Officer             O5                      25A00
+           J7                          J7                        O6                      01A00
+           J8                          J8                        O6                      01A00
+
+NOTE: The determination to use existing Army Force Structure within the Army Staff Element to populate
+the Joint Staff Element is at the discretion of the TAG and must be documented during the annual
+Command Plan Process.
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                  29
+Figure 5-1
+Path to Joint Qualification Level II
+
+
+
+
+Figure 5-2
+Path to Joint Qualification Level III (JQO)
+
+
+
+
+                            KSARNG SOP 600-100-1 • 15 April 2021   30
+Figure 5-3
+Path to Joint Qualification Level IV
+
+
+
+
+                           KSARNG SOP 600-100-1 • 15 April 2021   31
+Appendix A
+References
+
+Unless otherwise stated, all publications are available at:
+Office of Law Revision Counsel United States Code; http://uscode.house.gov/
+Army Publishing Directorate; http://www.apd.army.mil/
+National Guard Bureau Publications and Forms Library; https://www.ngbpmc.ng.mil/
+Army National Guard Personnel Policy Division; https://www.milsuite.mil/book/groups/personnel-policy-
+division-arng-hrh
+Kansas National Guard - Guard Knowledge Online;
+https://states.gkoportal.ng.mil/states/KS/ePubs/default.aspx
+
+Required Publications
+
+AR 623-3
+Evaluation Reporting System (06 June 2019)
+
+DA PAM 600-3
+Officer Professional Development and Career Management (03 April 2019)
+Smartbook DA PAM 600-3 located at https://www.milsuite.mil/book/groups/smartbook-DA-PAM-600-3
+
+
+Chapter I
+Required Publications Not Applicable
+
+
+Chapter II
+Required Publications
+
+DA PAM 600-4
+Army Medical Department Officer Development and Career Management (30 March 2020)
+
+NGR 635-102
+Officers and Warrant Officers Selective Retention (01 September 2018)
+
+
+Chapter III
+Required Publications
+
+Title 32, USC, § 308
+Federal Recognition of Officers: Temporary Recognition (10 Aug 1956; 28 Jan 2008)
+
+ADP 6-22
+Army Leadership (31 July 2019)
+
+DA PAM 611-21
+Military Occupational Classification and Structure (19 July 2018)
+Smartbook DA PAM 611-21 located at https://www.milsuite.mil/book/groups/smartbookdapam611-21
+
+
+
+
+                             KSARNG SOP 600-100-1 • 15 April 2021                                       32
+Chapter III
+Required Publications Continued
+
+NGR 600-100
+Commissioned Officers Federal Recognition and Related Personnel Actions (06 July 2020)
+
+NGR 600-101
+Warrant Officers Federal Recognition and Related Personnel Actions (10 September 2018)
+
+PPOM 17-105
+Army National Guard (ARNG) Policy for the State Recall Request for Title 10 (T-10) Active Guard
+Reserve (AGR) Soldiers Called to Mobilization, Professional Development, and T-10/T-32 Exchange
+Program (ARNG-HRH Policy Memo)
+
+
+Chapter IV
+Required Publications
+
+Department of Defense Instruction 1332.30
+Separation of Regular and Reserve Commissioned Officers (11 December 2008)
+
+AR 15-6
+Procedures for Administrative Investigations and Boards of Officers (01 April 2016)
+
+AR 40-501
+Standards of Medical Fitness (27 June 2019)
+
+AR 25-50
+Preparing and Managing Correspondence (10 November 2020)
+
+AR 135-100
+Appointment of Commissioned and Warrant Officers of the Army (1 September 1994)
+
+AR 135-155
+Promotion of Commissioned Officers and Warrant Officers Other Than General Officers (13 July 2004)
+
+AR 165-1
+Army Chaplain Corps Activities (23 June 2015)
+
+AR 350-1
+Army Training and Leader Development (10 December 2017)
+
+AR 600-8-2
+Suspension of Favorable Personnel Actions (Flag) (11 May 2016)
+
+AR 600-9
+The Army Body Composition Program (16 July 2019)
+
+AR 623-3
+Evaluation Reporting System (14 June 2019)
+
+DA PAM 623-3
+Evaluation Reporting System (27 September 2019)
+
+DA PAM 600-4
+Army Medical Department Officer Development and Career Management (30 March 2020)
+
+
+
+                            KSARNG SOP 600-100-1 • 15 April 2021                                     33
+NGR 600-100
+Commissioned Officers Federal Recognition and Related Personnel Actions (06 July 2020)
+
+
+Chapter IV
+Required Publications Continued
+
+NGR 600-101
+Warrant Officers Federal Recognition and Related Personnel Actions (10 September 2018)
+
+PPOM 17-018
+ARNG Chaplain Captain Certification Review (CCCR) Implementation Instructions (28 March 2017)
+
+PPOM 19-029
+Modification to NGR 600-101 TIG Promotion Eligibility (04 June 2019)
+
+PPOM 19-042
+Revision of Minimum Warrant Officer Education System (WOES) Requirements for Promotion Eligibility
+(22 November 2019)
+
+
+Chapter V
+Required Publications
+
+10 U.S.C. Chapter 38
+Joint Officer Management
+
+DoDI 1300.19
+DoD Joint Officer Management (JOM) Program (03 April 2018)
+
+CNGBI 1704.01
+National Guard Joint Officer Management Program (19 October 2016)
+
+CNGBI 1001.01
+National Guard Joint Force Headquarters-State (29 June 2016)
+
+
+
+
+                           KSARNG SOP 600-100-1 • 15 April 2021                                  34
+Appendix B
+Leader Development Assignment Panel Procedures
+
+1-1. Introduction – ADRP 6-22 defines leadership as "influencing people by providing purpose,
+direction, and motivation while operating to accomplish the mission and improving the organization."
+Leader development is the deliberate, continuous, sequential, and progressive process and is achieved
+through the lifelong synthesis of the knowledge, skills, and experiences gained through institutional
+training and education, operational (on the job) experiences, and self-development.
+1-2. Responsibilities
+    a. The Commander, KSARNG serves as the senior Army policy official for the Leader Development
+Assignment Panels (LDAP) management program and provides Army supervision of the policy
+formulation, procedures, goals, architecture, and standards.
+    b. The Judge Advocate General (TJAG), on request, reviews the KSARNG career management
+program to verify the legality of proposed changes and inquiries.
+    c. Final decision authority rests with the Commander, Kansas Army National Guard for all LDAP
+selections/assignments.
+1-3. General – This appendix provides specific guidance for LDAP conduct and associated outputs.
+    a. LDAPs convene twice a year to develop and refine a centralized selection list for officers
+assigned to the KSARNG. Upon receipt of the results generated by the OCMBs, Leader Development
+Assignment Panels (LDAP) convene to develop slating rosters, select for promotion, make selections for
+command, key developmental (KD) assignments, broadening assignments and academic year school
+selections.
+NOTE: LDAP members are required to attend the LDAP sessions. Members unavailable for participation
+must request in writing to the Commander, KSARNG for permission to have XO participate with full
+authority. 100% LDAP representation is mandatory.
+     b. During 4th quarter (fall) LDAPs reconvene to further refine and validate the outputs generated
+from the Assignment Selection & Promotion Process conducted in 2nd quarter (spring). In the event one of
+the lists needs to be amended, the appropriate LDAP considers any new or additional information and
+makes final adjustments to the list.
+   c. This LDAP process encompasses the assignments at the company and field grade levels and
+generates the following outputs:
+       (1) Promotion Selection List
+       (2) Command Selection List
+       (3) Next FY Assignments List
+       (4) Academic Year School Selections (CGSOC, Dual Status Commander courses, etc)
+1-4. LDAP Responsibilities
+    a. OPM
+       (1) Establish LDAP suspense dates
+       (2) Notify MSCs and coordinate meeting to scrub rosters IAW published LDAP MOI
+       (3) Draft guidance for Commander, KSARNG
+       (4) LDAP appointment order
+       (5) Provide OCMB Results
+       (6) Projected promotion opportunities by grade
+
+
+
+
+                            KSARNG SOP 600-100-1 • 15 April 2021                                     35
+      (7) Roster of current vacancies as well as projected vacancies by MSC with the list of eligible
+personnel (e.g. Rank, Branch, Status, etc.)
+         (8) Expertise on discussions focused on functional and branch qualifying assignments
+         (9) Generate results and publish upon approval from Commander, KSARNG
+         (10) Facilitate AAR for process improvement
+    b. MSCs – (S: TBD by the DOP each year)
+         (1) Meet with OPM to verify roster of assigned officers
+      (2) Consolidate additional documents for board review (Career Goal Planning Tool found in
+Enclosure C)
+         (3) Provide projected command opportunities 12 to 18 months out
+NOTE: It is customary for battalion commanders and brigade AOs to consult their brigade commanders
+regarding command and other key developmental nominations prior to the LDAP. This is intended to
+facilitate total command involvement in the nomination process as well as to ensure a consistent
+message is presented to the LDAP during command selection.
+         (4) Be prepared to discuss requests for command extensions 12 to 18 months out
+         (5) Provide list of KD opportunities 12 to 18 months out (IAW DA PAM 600-3)
+        (6) Provide list of broadening opportunities (as applicable to the positions within the KSARNG
+force structure)
+       (7) Provide list of pending transfers, retirements, ISTs etc. This serves to provide the LDAP
+accurate information for the assignment/selection process by each LDAP
+1-5. LDAP Conduct
+   a. When a board is convened, the board members shall take an oath. The oath articulates the board
+member responsibilities and precludes them from divulging the proceedings and results of the board
+except to proper authorities.
+     b. If determined necessary by the President of the Board, the Recorder provides a briefing to
+explain the consideration process. The President may provide additional guidance and clarify selection
+criteria for assignment selection.
+    c.    Company Grade LDAP outputs
+         (1) Action 1: TOE Command Selection
+         (2) Action 2: TDA Command Selection
+         (3) Action 3: Primary Staff Assignments (S1, S2, S6, etc)
+         (4) Action 4: Broadening Opportunities
+         (5) Action 5: Specialty Selections (Broadening Opportunities if available)
+    d. Field Grade LDAP outputs
+         (1) Action 1: Promotion Selection List (MAJ - LTC)
+         (2) Action 2: MTOE BN Command Selection
+         (3) Action 3: TDA BN Command Selection
+         (4) Action 4: MTOE BDE KD Assignments (S3, XO, SPO)
+         (5) Action 5: MTOE BDE KD Assignments (Staff – S1, S2, S4, S6)
+         (6) Action 6: TDA BDE KD Assignments (S3, XO)
+         (7) Action 7: TDA BDE KD Assignments (Staff – S1, S2, S4, S6)
+
+
+
+                              KSARNG SOP 600-100-1 • 15 April 2021                                       36
+       (8) Action 8: Broadening Opportunities (TDA, T10, Total Force assignments)
+       (9) Action 9: Academic Year School Selections (Resident CGSOC)
+       (10) Action 10: Specialty Selections (Broadening Opportunities if available)
+       (11) Action 11: T32/10 SWAP opportunities and designation
+    e. Post Board Process and Actions – Upon completion of the LDAP selection process, the outputs are
+presented to the Commander, KSARNG for approval. The results are maintained within the G1 and
+presented to KSARNG Senior Leaders for review. OPM consolidates all documents and schedule an
+appointment with the Adjutant General to provide a verbal after action report (AAR).
+    f. Authorizations resulting from mobilizations – In the event LDAP members are unable to participate
+in the LDAP process due to mobilization, the board president may delegate or approve suggested
+representation or assign the DOP to serve as proxy for the deployed member.
+
+
+
+
+                            KSARNG SOP 600-100-1 • 15 April 2021                                     37
+1-6. Leader Development Assignment Panels Member Composition
+
+
+                         COMPANY GRADE
+              LEADER DEVELOPMENT ASSIGNMENT PANEL
+                           MEMBERSHIP
+ President:          DCoS-A, KSARNG
+ Member:              CoS, 35th Infantry Division
+ Member:              BN Commanders
+ Member:              BDE Administrative Officers (AOs)
+ Member:              Deputy CDR , KSARNG Medical Detachment
+ Non-Voting Member:   G1 KSARNG (or deputy)
+ Non-Voting Member:   G3, KSARNG (or deputy)
+ Non-Voting Member:   G4, KSARNG (or deputy)
+ Non-Voting Member:   Military Intelligence Senior Branch Mentor
+ Non-Voting Member:   Signal Corps Senior Branch Mentor
+ Admin:               OPM Representatives
+ Admin:               HRO Representative
+
+
+                          FIELD GRADE
+              LEADER DEVELOPMENT ASSIGNMENT PANEL
+                          MEMBERSHIP
+ President:          Commander, KSARNG
+ Member:              CoS, KSNG (If Army Officer)
+ Member:              DCoS-A, KSARNG
+ Member:              DCG (KS) 35th Division (CoS if DCG is non-KS officer)
+ Member:              BDE Commanders
+ Member:              Commander, KSARNG Medical Detachment
+ Non-Voting Member:   G1, KSARNG
+ Non-Voting Member:   G3, KSARNG
+ Non-Voting Member:   G4, KSARNG
+ Non-Voting Member:   G6, KSARNG
+ Non-Voting Member:   SAAO, KSARNG
+ Non-Voting Member:   DPW, KSARNG
+ Non-Voting Member:   State Surgeon, KSARNG
+ Admin:               OPM Representatives
+ Admin:               HRO Representative
+
+
+
+
+                       KSARNG SOP 600-100-1 • 15 April 2021                   38
+Enclosure A – SAMPLE Memorandum to the President of the Board
+.
+
+
+
+
+                    KSARNG SOP 600-100-1 • 15 April 2021        39
+Enclosure B – Soldier Records Validation Memo
+
+
+
+
+                    KSARNG SOP 600-100-1 • 15 April 2021   40
+Enclosure C – Officer Career Goal Planning Tool
+
+
+
+
+                     KSARNG SOP 600-100-1 • 15 April 2021   41
+KSARNG SOP 600-100-1 • 15 April 2021   42
+Enclosure D – Word Picture Scoring
+
+
+
+                                 FIELD GRADE
+
+
+
+
+                    KSARNG SOP 600-100-1 • 15 April 2021   43
+          COMPANY GRADE
+
+
+
+
+KSARNG SOP 600-100-1 • 15 April 2021   44
+Glossary
+Abbreviations
+
+1LT             First Lieutenant
+2LT             Second Lieutenant
+AAR             after action report
+AD              Active Duty
+ADC             Assistant Division Commander
+ADOS            Active Duty Operational Support
+ADRP            Army Doctrine Reference Publication
+AFS             Active Federal Service
+AGR             Active Guard Reserve
+AMEDD           Army Medical Department
+AN              Nurse Corps
+AO              Administrative Officer
+AOC             Area of Concentration, Advanced Operations Course
+ACFT            Army Combat Fitness Test
+APFT            Army Physical Fitness test
+AR              Army Regulation
+ARNG            Army National Guard
+ARNG-HRH-W      Army National Guard Warrant Officer Branch
+ASI             Additional Skill Identifier
+ASMB            Active Service Management Board
+ASU             Army Service Uniform
+AT              Annual Training
+ATAG            Assistant Adjutant General - Army
+BAO             Bi-Lateral Affairs Officer
+BDE             Brigade
+BN              Battalion
+BOLC            Basic Officer Leadership Course
+BZ              below the zone
+CCWO            Command Chief Warrant Officer
+CEO             Certificate of Eligibility
+CGSOC           Command and General Staff Officer Course
+CJCS            Chairman Joint Chief of Staff
+CLASP           Command Leadership Assignment Program
+CLPCC           Company Level Pre-Command Course
+CNGBI           Chief National Guard Bureau Instruction
+COL             Colonel
+CoS             Chief of Staff
+CPT             Captain
+CSA             Chief of Staff Army
+CRM             Customer Relations Management
+CW2             Chief Warrant Officer Two
+CW2             Chief Warrant Officer Two
+CW3             Chief Warrant Officer Three
+CW3             Chief Warrant Officer Three
+CW4             Chief Warrant Officer Four
+CW4             Chief Warrant Officer Four
+CW5             Chief Warrant Officer Five
+
+
+
+
+                        KSARNG SOP 600-100-1 • 15 April 2021        45
+CW5      Chief Warrant Officer Five
+DA       Department of the Army
+DA PAM   Department of the Army Pamphlet
+DC       Dental Corps
+DCoS-A   Deputy Chief of Staff-Army
+DDE      Department of Defense Education
+DoDI     Department of Defense Instruction
+DOP      Director of Personnel
+DOR      Date of Rank (Known as Grade Entry Date in IPPS-A)
+EES      Evaluation Entry System
+E-JDA    Experience - Joint Duty Assignment
+FAO      Foreign Affairs Officer
+FAO      Functional Area
+FLAG     Suspense Of Favorable Personnel Actions
+FRB      Federal Recondition Board
+FS       Force Sustainment
+FSD      Force Sustainment Division
+FTUS     full-time unit support
+FY       Fiscal Year
+GOSC     General Officer Steering Committee
+HCM      Human Capital Management
+HRH      Personnel and Readiness Division
+HRO      Human Resources Office
+IAW      In Accordance With
+IPPS-A   Integrated Personnel and Pay System—Army
+IRR      Individual ready Reserve
+ISR      Intelligence, Surveillance, and Reconnaissance
+JAG      Judge Advocate Corps
+JCWS     Joint Combined Warfighting School
+JDA      Joint Duty Assignment
+JDAL     Joint Duty Assignment List
+JOM      Joint Officer Management
+JDA      Joint Duty Assignment
+JPME     Joint Military Education Level
+KD       Key Developmental
+KSARNG   Kansas Army National Guard
+LCM      Life Cycle Management
+LDAP     Leader Development Assignment Panels
+LOA      Letter of Acceptance
+LTC      Lieutenant Colonel
+MAJ      Major
+MC       Medical Corps
+MEL      Military Education Level
+OD       Operations Division
+MOS      Military Occupational Specialty
+MRD      Mandatory Removal Date
+MRO      Mobilization Readiness Officer
+MS       Medical Service Corps
+MSC      Major Subordinate Command
+MTOE     Modified Table of Organization and Equipment
+
+
+
+
+                 KSARNG SOP 600-100-1 • 15 April 2021         46
+NG        National Guard
+NGB       National Guard Bureau
+NGB-GO    National Guard Bureau - General Officer
+NLT       no later than
+OCMB      Officer Career Management Board
+OCS       Officer Candidate School
+OD        Operational Division
+OPM       Officer Personnel Management
+OS        Operations Support
+OSD       Operational Support Division
+OSM       Officer Strength Manager
+OTOT      One Time Occasional Tour
+PAR       Personnel Action Requests
+PCC       Pre-Command Course
+PHA       Periodic Health Assessment
+PISB      Personnel Information Service Branch
+PME       Professional Military Education
+PPOM      Personnel Policy Operational Memorandum
+QTR       Quarter
+R&R       Recruiting and Retention
+RA        Regular Army
+RC        Reserve Component
+REFRAD    release from active duty
+ROPMA     Reserve Officer Personnel Management Act
+ROTC      Reserve Officer Training Corps
+S1        Personnel/Administration
+SF        Standard Form
+SIDPERS   Standard Installation/Division Personnel System
+S-JDA     Standard - Joint Duty Assignment
+SP        Medical Specialty Corps
+SPMD      Support Personnel Manning Document
+SPP       State Partnership Program
+Sr        Senior
+SRB       Selective Retention Board
+SSC       Senior Service College
+SUTA      Split Unit Training Assembly
+T10       Title 10
+TAG       The Adjutant General
+TDA       Table of Distribution and Allowances
+TIG       Time in Grade
+TJAG      The Judge Advocate General
+TOE       Table of Organization and Equipment
+TRADOC    Training and Doctrine Command
+USAR      Army Reserve
+USAWC     United States Army War College
+USR       Unit Status Report
+UVP       Unit Vacancy Promotion
+VC        Veterinary Corps
+WO1       Warrant Officer One
+WOBC      Warrant Officer Basic Course
+
+
+
+
+                  KSARNG SOP 600-100-1 • 15 April 2021      47
+             UNCLASSIFIED
+
+
+
+
+ THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+KSARNG SOP 600-100-1 • 15 April 2021   48
+
