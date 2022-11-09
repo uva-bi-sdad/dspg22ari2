@@ -5,7 +5,7 @@ saveRDS(sentimentWords, "sentimentWords.rds")
 fullCombine <-cbind(sentiment_words$document, sentiment_words$word, sentimentWords)
 names(fullCombine)[names(fullCombine)=="strtoi(sentiment_words$document)"]<- "document"
 
-  sentimentList = list( '1987', '2005', '2007', '2010', '2014', '2019', '2021','blank' )
+  sentimentList = list( '1998.10','2005.10','2005.12','2007.11','2007.12','2010.02','2014.12','2017.06','2019.04')
   maleCodedWords = c('agressive','analyze','analytical','challenge', 'champion', 'competent','compete','competitive','courage','courageous',
                      'decision','decisive','dominate','driven','fearless','indivdual','leader','leadership','objective','outspoken','principle','strong','strength')
   femaleCodedWords = c('collaborate', 'collaborative','compassion', 'compassionate','connect','connection','dependable',
@@ -122,26 +122,30 @@ joyplot <- ggplot(newFrame2, aes(x=years, y = joyVec)) + geom_point()
 sadplot <- ggplot(newFrame2, aes(x=years, y = sadVec)) + geom_point()
 trustplot <- ggplot(newFrame2, aes(x= years, y = trustVec)) + geom_point()
 sentimentPlot <-plot_grid(angplot, antplot, displot, fearplot, joyplot, sadplot, trustplot)
-
+sentimentPlot
 saveRDS(sentimetPlot, "sentimentPlot.RDS")
 
 negativeplot <- ggplot(newFrame2, aes(x = years, y = negativeVec)) + geom_point()
 positiveplot <- ggplot(newFrame2, aes(x = years, y = postitiveVec)) + geom_point()
 posNegPlot <- plot_grid(negativeplot, positiveplot)
+posNegPlot
 
 femalepronounplot <- ggplot(newFrame2, aes(x = years, y= femalePronoutVec)) + geom_point()
 malepronounplot <- ggplot(newFrame2, aes(x = years, y = malePronounVec)) + geom_point()
 neutralpronountplot <- ggplot(newFrame2, aes( x= years, y = neutralPronounVec)) + geom_point()
 pronounPlot <- plot_grid(femalepronounplot, malepronounplot, neutralpronountplot)
+pronounPlot
 
 femalecodeplot <- ggplot(newFrame2, aes(x= years, y = femaleCodeVerb)) + geom_point()
 malecodeplot <- ggplot(newFrame2, aes(x = years, y = maleCodeVerb)) + geom_point()
 codedPlot <- plot_grid(femalecodeplot, malecodeplot)
+codedPlot
 
 femaleNounPlot <- ggplot(newFrame2, aes (x =years, y = femaleNounVec)) + geom_point()
 maleNounPlot <- ggplot (newFrame2, aes (x = years, y = maleNounVec)) + geom_point()
 neutralNounPlot <- ggplot( newFrame, aes( x= years, y = neutralNounVec)) + geom_point()
 nounPlot <- plot_grid(femaleNounPlot, maleNounPlot, neutralNounPlot)
+nounPlot
 
 
 # https://www.nato.int/nato_static_fl2014/assets/pictures/images_mfu/2021/5/pdf/210514-GIL-Manual_en.pdf
