@@ -1,0 +1,149 @@
+---
+title: "quarterly report figures"
+author: "Joanna Schroeder"
+date: "11/16/2022"
+output: html_document
+---
+
+```{r}
+ggplot(newFrame, aes(x = rowname, y = colname, fill = value)) +
+  geom_tile()
+
+uva_color_palette <- 
+c("#232D4B", #space cadet
+  "#2C4F6B", #indigo dye
+  "#0E879C", #blue munsell
+  "#60999A", #cadet blue
+  "#D1E0BF", #tea green
+  "#D9E12B", #pear
+  "#E6CE3A", #citrine
+  "#E6A01D", #marigold
+  "#E57200" #princeton orange
+)
+```
+
+```{r, fig.width=30}
+n_desc_tf_idf %>% dplyr::filter(!(str_detect(document, ".rds"))) %>%
+  group_by(document) %>%
+  slice_max(tf_idf, n = 13) %>%
+  ungroup() %>%
+  ggplot(aes(tf_idf, fct_reorder(word, tf_idf), fill = document, label = word)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~document, ncol = 9, scales = "free", labeller = as_labeller(c("1998.10.txt" = "10-1998", 
+                                                                            "2005_10.txt" = "10-2005", 
+                                                                            "2005_12.txt" = "12-2005", 
+                                                                            "2007.11.txt" = "11-2007", 
+                                                                            "2007.12.txt" = "12-2007", 
+                                                                            "2010.02.txt" = "02-2010", 
+                                                                            "2014.12.txt" = "12-2014", 
+                                                                            "2017.06.txt" = "06-2017", 
+                                                                            "2019.04.txt" = "04-2019"))) +
+  geom_label(fill = "white", hjust = "inward", size = 7) +
+  labs(x = "TF-IDF", y = NULL) +
+  scale_fill_manual(values = c("#232d4b","#2c4f6b","#0e879c","#60999a","#d1e0bf","#d9e12b","#e6ce3a","#e6a01d","#e57200")) +
+  theme_classic() +
+  theme(text = element_text(size = 25), axis.text.y = element_blank(), axis.text.x = element_blank())
+
+n_desc_tf_idf %>% dplyr::filter(!(str_detect(document, ".rds"))) %>%
+  group_by(document) %>%
+  slice_max(tf_idf, n = 5) %>%
+  ungroup() %>%
+  ggplot(aes(tf_idf, fct_reorder(word, tf_idf), fill = document, label = word)) +
+  geom_col(show.legend = FALSE) +
+  facet_wrap(~document, ncol = 9, scales = "free", labeller = as_labeller(c("1998.10.txt" = "10-1998", 
+                                                                            "2005_10.txt" = "10-2005", 
+                                                                            "2005_12.txt" = "12-2005", 
+                                                                            "2007.11.txt" = "11-2007", 
+                                                                            "2007.12.txt" = "12-2007", 
+                                                                            "2010.02.txt" = "02-2010", 
+                                                                            "2014.12.txt" = "12-2014", 
+                                                                            "2017.06.txt" = "06-2017", 
+                                                                            "2019.04.txt" = "04-2019"))) +
+  geom_label(fill = "white", hjust = "inward", size = 7) +
+  labs(x = "TF-IDF", y = NULL) +
+  scale_fill_manual(values = c("#232d4b","#2c4f6b","#0e879c","#60999a","#d1e0bf","#d9e12b","#e6ce3a","#e6a01d","#e57200")) +
+  theme_classic() +
+  theme(text = element_text(size = 25), axis.text.y = element_blank(), axis.text.x = element_blank())
+```
+
+```{r, fig.width = 14}
+newFrame2[1:9,] %>% separate(V1, c("year", "month")) %>% mutate(date = as.character(paste0("01-", month, "-", year)), date = lubridate::dmy(date)) %>% select(date, angerVec, anticipationVec, disgustVec, fearVec, joyVec, sadVec, trustVec) %>% pivot_longer(cols = 2:8) %>%
+  ggplot(aes(x = date, y = as.numeric(value), color = name)) +
+  geom_point() +
+  geom_smooth(method = "loess", se = FALSE) +
+  labs(x = "", y = "% of Corpus with Words of Sentiment") +
+  scale_color_manual(labels=c("Anger", "Anticipation", "Disgust", "Fear", "Joy", "Sad", "Trust"),
+                       values = c(uva_color_palette[c(1, 3, 5, 7, 9)], "forest green", "red")) +
+  guides(color = guide_legend(title = "Sentiment")) +
+  theme_classic() +
+  theme(text = element_text(size = 25))
+  
+  
+
+angplot<- ggplot(newFrame2,aes(x=years, y =angerVec)) + geom_point()
+antplot <-ggplot(newFrame2, aes(x= years, y = anticipationVec)) + geom_point()
+displot <- ggplot(newFrame2, aes(x=years, y = disgustVec)) + geom_point()
+fearplot <- ggplot(newFrame2, aes(x=years, y = fearVec)) + geom_point()
+joyplot <- ggplot(newFrame2, aes(x=years, y = joyVec)) + geom_point()
+sadplot <- ggplot(newFrame2, aes(x=years, y = sadVec)) + geom_point()
+trustplot <- ggplot(newFrame2, aes(x= years, y = trustVec)) + geom_point()
+sentimentPlot <-plot_grid(angplot, antplot, displot, fearplot, joyplot, sadplot, trustplot)
+sentimentPlot
+#saveRDS(sentimetPlot, "sentimentPlot.RDS")
+```
+
+```{r, fig.width = 14}
+newFrame2[1:9,] %>% separate(V1, c("year", "month")) %>% mutate(date = as.character(paste0("01-", month, "-", year)), date = lubridate::dmy(date)) %>% select(date, negativeVec, positiveVec) %>% pivot_longer(cols = 2:3) %>%
+  ggplot(aes(x = date, y = as.numeric(value), color = name)) +
+  geom_point() +
+  geom_smooth(method = "loess", se = FALSE) +
+  labs(x = "", y = "% of Corpus with Words of Sentiment") +
+    scale_color_manual(labels=c("Negative", "Positive"),
+                       values = c(uva_color_palette[c(1, 9)])) +
+  guides(color = guide_legend(title = "Sentiment")) +
+  theme_classic() +
+  theme(text = element_text(size = 25))
+
+negativeplot <- ggplot(newFrame2, aes(x = years, y = negativeVec)) + geom_point()
+positiveplot <- ggplot(newFrame2, aes(x = years, y = postitiveVec)) + geom_point()
+posNegPlot <- plot_grid(negativeplot, positiveplot)
+posNegPlot
+```
+
+```{r, fig.width = 14}
+newFrame2[1:9,] %>% separate(V1, c("year", "month")) %>% mutate(date = as.character(paste0("01-", month, "-", year)), date = lubridate::dmy(date)) %>% select(date, femalePronoutVec, malePronounVec, neutralPronounVec) %>% pivot_longer(cols = 2:4) %>%
+  ggplot(aes(x = date, y = as.numeric(value), color = name)) +
+  geom_point() +
+  geom_smooth(method = "loess", se = FALSE) +
+  labs(x = "", y = "% of Corpus with Pronouns of Type") +
+  scale_color_manual(labels=c("Female (e.g. she)", "Male (e.g. he)", "Neutral (e.g. they)"),
+                       values = c(uva_color_palette[c(1, 4, 9)])) +
+  guides(color = guide_legend(title = "Pronoun Type")) +
+  theme_classic() +
+  theme(text = element_text(size = 25))
+
+  
+
+femalepronounplot <- ggplot(newFrame2, aes(x = years, y= femalePronoutVec)) + geom_point()
+malepronounplot <- ggplot(newFrame2, aes(x = years, y = malePronounVec)) + geom_point()
+neutralpronountplot <- ggplot(newFrame2, aes( x= years, y = malePronounVec)) + geom_point()
+pronounPlot <- plot_grid(femalepronounplot, malepronounplot, neutralpronountplot)
+pronounPlot
+```
+
+```{r}
+femalecodeplot <- ggplot(newFrame2, aes(x= years, y = femaleCodeVerb)) + geom_point()
+malecodeplot <- ggplot(newFrame2, aes(x = years, y = maleCodeVerb)) + geom_point()
+codedPlot <- plot_grid(femalecodeplot, malecodeplot)
+codedPlot
+```
+
+```{r}
+femaleNounPlot <- ggplot(newFrame2, aes (x =years, y = femaleNounVec)) + geom_point()
+maleNounPlot <- ggplot (newFrame2, aes (x = years, y = maleNounVec)) + geom_point()
+neutralNounPlot <- ggplot( newFrame, aes( x= years, y = neutralNounVec)) + geom_point()
+nounPlot <- plot_grid(femaleNounPlot, maleNounPlot, neutralNounPlot)
+nounPlot
+
+```
+
