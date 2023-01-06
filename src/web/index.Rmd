@@ -1,15 +1,15 @@
 ---
-title: "Soldier Charcteristics that Contribute to Unit Performance: A Qualitative Analysis"
+title: "Soldier Characteristics that Contribute to Unit Performance: A Qualitative Analysis"
 output:
   html_document:
     includes:
       in_header: hero-image.html
 ---
 
-#**Bottom Line Up Front (BLUF)**
-The project used document analysis and natural language processing(NLP) techiniques to analyze charcteristics of an individual that influence unit performance. NLP showed clearly that the themes found through document analysis were repetitive and relevant to the topic.  
+# **Bottom Line Up Front (BLUF)**
+The project used document analysis and natural language processing(NLP) techniques to analyze characteristics of an individual that influence unit performance. NLP showed clearly that the themes found through document analysis were repetitive and relevant to the topic.  
 
-#**Overview**  
+# **Overview**  
 The project will inform and contextualize future quantitative modeling of Army performance. Through qualitative analysis and a thematic approach, we interpreted non-Army and Army documents to give meaning around a phenomena of interest and triangulated for credibility. These documents were tagged with codes related to our research question using a software called Dedoose. The goal was to reach a saturation of themes to a point where we are no longer seeing new emergent themes. These codes have been reformed and secondary coders have tested these codes for relative agreement. The findings of this qualitative analysis focus on specific qualities of leaders, individuals, and teams. In addition, there were several differences in the context between academic and army documents and what team success entailed.  Next, the triangulation process utilized natural language processing. A topic model and word co-occurrence map were done on all the analyzed documents with the goal to compare the qualitative analysis method to the natural language processing method and see any similarities or convergence in ideas. The findings of the NLP made it clear that the themes coded were repetitive and appeared many times throughout all the documents.
 # **Goal**
 Identify characteristics of individual Soldiers that contribute to unit performance to extend work to unit performance without requiring unit-level measurement
@@ -26,7 +26,7 @@ This project was sponsored by the Army Research Institute.
 A corpus of 10 documents, 8 Army and 2 from outside literature, regarding an individual's role in team performance was created.   
 
 # **Method**
-###*Document Analysis*  
+### *Document Analysis*  
 
 Document analysis is a “form of qualitative research in which documents are interpreted by the researcher to give voice and meaning around an assessment topic" (Bowen, 2009)  
 
@@ -37,19 +37,19 @@ Our Approach: A Mixed Method Thematic Approach
 ![ ](www/word_cloud.PNG){width=40% }  
 </p>  
 
-###*Natural Language Processing*  
+### *Natural Language Processing*  
 
 Natural language processing (NLP) "strives to build machines that understand and respond to text data much the same way humans do" (IBM, 2022)  
   
 All NLP for this project was run on a corpus composed of the 10 documents on which document analysis was conducted. The documents were clean by removing stop words (i.e. the, and, of) and legitimatizing each word. Lemmatizing transforms each word to a common base word.
   
-####*Cooccurance*  
-Cooccurance visualizes word pairs that occur together most frequently in the corpus.  
+####*Co-occurrence*  
+Co-occurrence visualizes word pairs that occur together most frequently in the corpus.  
 
 ####*Term Frequency- Inverse Document Frequency*  
 TF-IDF is a text classification method that reflects the importance of a word to a document in a corpus of documents.  
   
-####*Latent Dirichlet Allocation*  
+#### *Latent Dirichlet Allocation*  
 LDA is a Bayesian topic model that discovers the topics in a corpus of documents and the concurrent probability that they will occur.   
 
 

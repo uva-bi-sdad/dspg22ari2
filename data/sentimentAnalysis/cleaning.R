@@ -13,8 +13,8 @@ for(file in files){
   #cleaning document
   doc01 <- gsub(pattern="\\W" , replace = " ", doc01)%>% gsub(pattern = "\\d", replacement = " ", doc01)
   doc01<-tolower(doc01)
-  doc01<- lemmatize_strings(doc01)
-  doc01 <- rm_nchar_words(doc01, "1,3")
+  #doc01<- lemmatize_strings(doc01)
+  #doc01 <- rm_nchar_words(doc01, "1,3")
   # doc01 <- gsub('\\b\\w{1,3}\\b','',doc01)
   doc01 <- stripWhitespace(doc01)
   doc01 <- stringi::stri_remove_empty(doc01) # remove blank paragraphs
