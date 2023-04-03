@@ -1,0 +1,1232 @@
+ATP 6-22.1
+
+The Counseling Process
+
+July 2014
+
+DISTRIBUTION RESTRICTION. Approved for public release; distribution unlimited.
+
+Headquarters, Department of the Army
+
+This publication is available at Army Knowledge Online
+(https://armypubs.us.army.mil/doctrine/index.html).
+To receive publishing updates, please subscribe at
+http://www.apd.army.mil/AdminPubs/new_subscribe.asp.
+
+*ATP 6-22.1(FM 6-22)
+Headquarters
+Department of the Army
+Washington, DC, 1 July 2014
+
+Army Techniques Publication
+No. 6-22.1
+
+The Counseling Process
+Contents
+Page
+
+PREFACE...............................................................................................................ii
+INTRODUCTION ...................................................................................................iii
+Chapter 1
+
+COUNSELING .................................................................................................... 1-1
+Types of Developmental Counseling.................................................................. 1-1
+
+Chapter 2
+
+COUSELING FUNDAMENTALS ....................................................................... 2-1
+The Leader as Counselor ................................................................................... 2-1
+The Qualities of the Counselor ........................................................................... 2-1
+Counseling Skills ................................................................................................ 2-1
+Counseling Practices .......................................................................................... 2-3
+Accepting Limitations.......................................................................................... 2-3
+Addressing Resistance ....................................................................................... 2-3
+The Four-Stage Counseling Process ................................................................. 2-4
+Summary – The Counseling Process at a Glance ........................................... 2-10
+GLOSSARY .......................................................................................... Glossary-1
+REFERENCES .................................................................................. References-1
+INDEX .......................................................................................................... Index-1
+
+Figures
+Figure 2-1. Example of a counseling outline .......................................................................... 2-6
+Figure 2-2. Example counseling session................................................................................ 2-9
+
+Tables
+Table 2-1. Counseling approach summary ............................................................................ 2-7
+Table 2-2. A summary of counseling .................................................................................... 2-10
+
+Distribution Restriction: Approved for public release; distribution unlimited.
+*This publication supersedes Appendix B, “Counseling,” except paragraph B-2, of FM 6-22, dated 12
+October 2006.
+i
+
+Preface
+Army Techniques Publication (ATP) 6-22.1 provides doctrinal guidance for all leaders, military and civilian,
+responsible for planning, preparing, executing, and assessing counseling actions. Trainers and educators
+throughout the Army will also use this publication.
+Commanders, staffs, and subordinates ensure their decisions and actions comply with applicable U.S.,
+international, and, in some cases, host-nation laws and regulations. Commanders at all levels ensure their
+Soldiers operate in accordance with the law of war and the rules of engagement. (See Field Manual [FM] 2710.)
+ATP 6-22.1 applies to the Active Army, Army National Guard/Army National Guard of the United States, and
+United States Army Reserve unless otherwise stated. For specifics in addressing Army Civilian counseling
+requirements, leaders should contact the servicing civilian personnel office.
+The proponent of ATP 6-22.1 is Headquarters, U.S. Army Training and Doctrine Command. The preparing
+agency is the Center for Army Leadership, Mission Command Center of Excellence, United States Army
+Combined Arms Center. Send comments and recommendations on DA Form 2028 (Recommended Changes to
+Publications and Blank Forms) to Center for Army Leadership ATTN: ATZL-MCV-R (ATP 6-22.1), 290
+Stimson Avenue, Fort Leavenworth, KS 66027-1293 or electronically to usarmy.leavenworth.tradoc.mbx.622@mail.mil.
+
+ii
+
+ATP 6-22.1
+
+1 July 2014
+
+Introduction
+ATP 6-22.1 provides a doctrinal framework for counseling subordinates. ATP 6-22.1 consists of two chapters:
+
+Chapter 1 addresses the types of developmental counseling: event, performance, and
+professional growth.
+
+Chapter 2 addresses counseling fundamentals supporting effective counseling:
+
+Counselor qualities.
+
+Counseling skills.
+
+Counseling practices.
+
+Accepting limitations.
+
+Addressing resistance.
+
+The four-stage counseling process.
+
+Counseling approaches and techniques.
+Based on current doctrinal changes, counseling is no longer a formally defined doctrinal term.
+
+1 July 2014
+
+ATP 6-22.1
+
+iii
+
+This page intentionally left blank.
+
+Chapter 1
+
+Counseling
+Counseling is the process used by leaders to review with a subordinate the
+subordinate’s demonstrated performance and potential. Counseling, one of the most
+important leadership and professional development responsibilities, enables Army
+leaders to help Soldiers and Army Civilians become more capable, resilient, satisfied,
+and better prepared for current and future responsibilities. Counseling is required of
+leaders and occurs at prescribed times. The related developmental processes of
+coaching and mentoring are done voluntarily. The Army’s future and the legacy of
+today’s Army leaders rests on the shoulders of those they help prepare for greater
+responsibility.
+
+TYPES OF DEVELOPMENTAL COUNSELING
+1-1. Regular developmental counseling is the Army’s most important tool for developing future leaders at
+every level. Counseling responsibilities are inherent in leadership. Leaders at all levels must understand the
+counseling process. More importantly, Army leaders must understand that effective counseling helps
+achieve desired goals and effects, manages expectations, and improves the organization. Leaders should
+emphasize routine counseling to reinforce positive behavior and superior performance. Regular counseling
+provides leaders with opportunities to:
+
+Demonstrate genuine interest in subordinates.
+
+Help subordinates understand their role in accomplishing the unit’s mission.
+
+Acknowledge and reinforce exceptional work or dedication.
+
+Evaluate subordinates’ potential for development.
+
+Provide subordinates with assistance or resources to address issues or further strengths.
+
+Empower subordinates to identify and solve issues on their own so they are more self-reliant.
+
+Identify issues before they become significant problems.
+
+Identify and pre-empt causes of sub-standard performance.
+1-2. Developmental counseling is categorized by the purpose of the session. Understanding the purpose
+and types of counseling enables the leader to adapt the counseling session to the individual subordinate’s
+needs in order to achieve desired outcomes and manage expectations. Counseling is not a one-size-fits-all
+endeavor; it is a shared effort between the leader and subordinate.
+1-3. The three major categories of developmental counseling are:
+
+Event counseling.
+
+Performance counseling.
+
+Professional growth counseling.
+1-4. While these categories can help organize and focus counseling sessions, they should not be viewed as
+separate or exhaustive. For example, a counseling session that focuses on resolving an issue may also
+address improving duty performance. A session focused on performance often includes a discussion on
+opportunities for professional growth. Regardless of the purpose or topic of the counseling session, leaders
+should follow a basic format for preparation, execution, and follow-up. DA Form 4856 (Developmental
+Counseling Form) provides a useful framework to prepare for counseling. It helps organize the relevant
+issues to discuss during counseling sessions.
+
+1 July 2014
+
+ATP 6-22.1
+
+1-1
+
+Chapter 1
+
+EVENT COUNSELING
+1-5. Event-oriented counseling involves a specific event or situation. It may precede events such as
+participating in promotion boards, attending training courses, and preparing for deployment or
+redeployment. It also addresses events such as noteworthy duty performance, an issue with performance or
+mission accomplishment, or a personal issue. Examples of event-oriented counseling include, but are not
+limited to:
+
+Specific instances of superior or substandard performance.
+
+Reception and integration counseling.
+
+Crisis counseling.
+
+Referral counseling.
+
+Promotion counseling.
+
+Transition counseling.
+
+Adverse separation counseling.
+
+Specific Instances of Superior or Substandard Performance
+1-6. Often counseling is tied to specific instances of superior or substandard duty performance. The leader
+uses the counseling session to convey to the subordinate whether or not the performance met the standard
+and what the subordinate did right or wrong. Successful counseling for specific performance occurs as
+close to the event as possible. Leaders should counsel subordinates for exceptional as well as substandard
+duty performance.
+1-7. Leaders should always counsel subordinates who do not meet the standard. If performance is
+unsatisfactory because of a lack of knowledge or ability, leader and subordinate can develop a plan for
+improvement. Corrective training helps ensure that the subordinate knows and consistently achieves the
+standard. When counseling a subordinate for specific performance, leaders take the following actions:
+
+Explain the purpose of the counseling—what was expected and how the subordinate exceeded or
+failed to meet the standard.
+
+Remain neutral.
+
+Address and explain the specific behavior or action—do not address the subordinate’s character.
+
+Explain the effect of the behavior, action, or performance on the rest of the organization.
+
+Actively listen to the subordinate’s responses (see Chapter 2).
+
+If failing to meet the standard, teach the subordinate how to meet the standard and recognize
+patterns of behavior that may keep the subordinate from meeting the standard.
+
+Be prepared to conduct personal counseling, since a failure to meet the standard may be the
+result of an unresolved personal issue.
+
+Explain to the subordinate how developing an individual development plan will improve
+performance and identify specific responsibilities in implementing the plan. Continue to assess
+and follow up on the subordinate’s progress. Adjust the plan as necessary.
+
+Reception and Integration Counseling
+1-8. Army leaders should counsel all new team members when they join the organization. Reception and
+integration counseling serves two important purposes:
+
+It identifies and helps alleviate any issues or concerns that new members may have, including
+any issues resulting from the new duty assignment.
+
+It familiarizes new team members with organizational standards, roles, and assignments.
+1-9. Reception and integration counseling should include but is not limited to the following areas:
+
+Organizational history, structure, and mission.
+
+Organizational standards (such as discipline, maintenance, training, and fitness).
+
+Organizational policies.
+
+Chain of command familiarization.
+
+1-2
+
+ATP 6-22.1
+
+1 July 2014
+
+Counseling
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NCO support channel familiarization.
+Key leader contact information.
+Soldier programs within the organization, such as Soldier of the Month/Quarter/Year and
+educational and training opportunities.
+Security and safety issues.
+On- and off-duty conduct.
+Off-limits and danger areas.
+Personnel procedures.
+Initial and special clothing issue.
+On- and off-post recreational, educational, cultural, and historical opportunities.
+Support activities functions and locations.
+Foreign nation or host nation orientation, as applicable.
+Other items of interest as determined by the leader or organization.
+
+Crisis Counseling
+1-10. Crisis counseling focuses on the subordinate’s immediate short-term needs and assists a Soldier or
+employee through a period of shock after receiving negative news, such as the notification of the death of a
+loved one. Leaders may assist by listening and providing appropriate assistance. Assistance may include
+coordinating for external agency support, such as obtaining emergency funding for transportation or putting
+them in contact with a chaplain.
+
+Referral Counseling
+1-11. Referral counseling occurs when issues are beyond the capability or expertise of a subordinate’s
+leaders. Referral counseling helps subordinates work through personal situations that may affect
+performance. It may or may not follow crisis counseling. Referral counseling aims at preventing a
+challenge or issue from becoming unmanageable for the subordinate. Army leaders assist by identifying
+issues in time and referring the subordinate to the appropriate outside resources, such as Army Community
+Services, a chaplain, or an alcohol and drug counselor.
+
+Promotion Counseling
+1-12. Army leaders must conduct promotion counseling for all specialists, corporals, and sergeants who are
+eligible for advancement without waivers (see AR 600-8-19). Army regulations require that Soldiers within
+this category receive initial (event-oriented) counseling when they attain full promotion eligibility and then
+periodic (performance/professional growth) counseling thereafter. Soldiers not recommended for
+promotion must be counseled as to why they were not recommended and should address these
+shortcomings and plans of action to overcome the identified shortcomings.
+
+Transition Counseling
+1-13. Transition counseling assists Soldiers who are demobilizing, separating, or retiring from active duty.
+Transition counseling prepares subordinates for employment, education, and other post-service
+opportunities and benefits. Transition requires planning throughout the individual’s service starting with
+identifying military and long-term goals at the first unit of assignment. Leaders and subordinates should
+review and revise these goals as necessary during subsequent professional development counseling
+sessions.
+1-14. Leaders will assist subordinates with transition activities in concert with the servicing Army Career
+and Alumni Program (ACAP) office and other transition assistance resources (see AR 600-8).
+
+1 July 2014
+
+ATP 6-22.1
+
+1-3
+
+Chapter 1
+
+Adverse Separation Counseling
+1-15. Adverse separation counseling may involve informing the Soldier of the administrative actions
+available to the commander in the event substandard performance continues and of the consequences
+associated with those administrative actions (see AR 635-200).
+1-16. Developmental counseling may not apply when an individual has engaged in serious acts of
+misconduct. In those situations, leaders should refer the matter to the commander and the servicing staff
+judge advocate. When rehabilitative efforts fail, counseling with a view toward separation is required. It is
+an administrative prerequisite to many administrative discharges. It is advisable to involve the chain of
+command as soon as it is determined that adverse separation counseling might be required. A unit first
+sergeant or the commander should inform the Soldier of such proceedings based on the notification
+requirements outlined in AR 635-200.
+
+PERFORMANCE COUNSELING
+1-17. Performance counseling is the review of a subordinate’s duty performance during a specified period.
+The leader and the subordinate jointly establish performance objectives and clear standards for the next
+counseling period. The counseling focuses on the subordinate’s strengths, areas to improve, and potential.
+Effective counseling includes providing specific examples of strengths and areas needing improvement and
+providing guidance on how subordinates can improve their performance. Performance counseling is
+required under the officer, noncommissioned officer, and Army Civilian evaluation reporting systems (see
+AR 623-3 or AR 690-400 for specifics).
+1-18. During performance counseling, leaders conduct a review of a subordinate’s duty performance over a
+certain period. Simultaneously, leader and subordinate jointly establish performance objectives and
+standards for the next period.
+1-19. Counseling at the beginning of and during the evaluation period ensures the subordinate’s personal
+involvement in the evaluation process. Performance counseling communicates standards and is an
+opportunity for leaders to establish and clarify the expected values, attributes, and competencies. Army
+leaders ensure that performance objectives and standards focus on the organization’s objectives and the
+individual’s professional development. They should also echo the objectives on their leader’s support form
+as a team member’s performance contributes to mission accomplishment.
+
+PROFESSIONAL GROWTH COUNSELING
+1-20. Professional growth counseling includes planning for the accomplishment of individual and
+professional goals. During the counseling, leader and subordinate conduct a review to identify and discuss
+the subordinate’s strengths and weaknesses and to create an individual development plan that builds upon
+those strengths and compensates for (or eliminates) shortcomings. Leaders can assist subordinates in
+prioritizing development efforts based upon those perceived strengths and weaknesses.
+1-21. As part of professional growth counseling, the leader and subordinate may choose to develop a
+pathway to success with short- and long-term goals and objectives. The discussion includes opportunities
+for civilian or military schooling, future duty assignments, special programs, available training support
+resources, reenlistment options, and promotion opportunities and considerations. Documentation of this
+discussion results in an individual development plan. Each individual development plan will vary as every
+person’s needs and interests are different.
+
+1-4
+
+ATP 6-22.1
+
+1 July 2014
+
+Chapter 2
+
+Counseling Fundamentals
+THE LEADER AS COUNSELOR
+2-1. To be effective, counseling must be a shared effort. Leaders assist their subordinates in identifying
+strengths and weaknesses and creating plans of action. Once an individual development plan is agreed
+upon, leaders support their Soldiers and Army Civilians throughout implementation and continued
+assessment. To achieve success, subordinates must be forthright in their commitment to improve and
+candid in their own assessments and goal setting.
+2-2. Army leaders evaluate Army Civilian job performance using procedures prescribed under civilian
+personnel policies. Use of DA Form 4856 is appropriate to counsel Army Civilians on professional growth
+and career goals. The servicing civilian personnel office should be consulted when using a DA Form 4856
+to counsel an Army Civilian concerning misconduct or poor performance.
+2-3. Army leaders conduct counseling to help subordinates become better team members, maintain or
+improve performance, and prepare for the future. While it is not easy to address every possible counseling
+situation, leader self-awareness and an adaptable counseling style focusing on key characteristics will
+enhance personal effectiveness as a counselor. These key characteristics include:
+
+Purpose: Clearly define the purpose of the counseling.
+
+Flexibility: Adapt the counseling approach to each subordinate, situation, and relationship.
+
+Respect: View subordinates as unique, complex individuals with distinct values, beliefs, and
+attitudes.
+
+Communication: Establish open, two-way communication with subordinates using verbal and
+nonverbal actions (such as body language or gestures). Effective counselors listen more than
+they speak.
+
+Support: Encourage subordinates through direction, guidance, and supportive actions.
+
+THE QUALITIES OF THE COUNSELOR
+2-4. Army leaders must demonstrate certain qualities to be effective counselors. These qualities include
+respect for subordinates, self-awareness, cultural awareness, empathy, and credibility.
+2-5. One challenging aspect of counseling is selecting the proper approach to a specific situation. To
+counsel effectively, the technique used must fit the situation, leader capabilities, and subordinate
+expectations. Sometimes, leaders may only need to give information or listen, while in other situations a
+subordinate’s improvement may call for a brief word of praise. Difficult circumstances may require
+structured counseling followed by definite actions, such as referrals to outside agencies.
+2-6. Self-aware Army leaders consistently develop and improve their own counseling abilities. They do
+so by studying human behavior, understanding the kinds of problems that affect their subordinates, and
+developing their interpersonal skills. The techniques needed to provide effective counseling vary from
+person to person and session to session. However, general skills that leaders will need in almost every
+situation include active listening, responding, and appropriate questioning.
+
+COUNSELING SKILLS
+2-7. Military leaders are trained to analyze missions, identify required tasks, and take appropriate actions.
+Some of these skills apply to counseling as leaders use problem-solving and decisionmaking skills to
+identify and apply the proper counseling techniques to specific counseling situations.
+
+1 July 2014
+
+ATP 6-22.1
+
+2-1
+
+Chapter 2
+
+2-8. To be effective, counselors must have these basic counseling skills:
+
+Active listening.
+
+Responding.
+
+Appropriate questioning.
+
+ACTIVE LISTENING
+2-9. Active listening implies listening thoughtfully and deliberately to capture the nuances of the
+subordinate’s language. Stay alert for common themes. A subordinate’s opening and closing statements as
+well as recurring references may indicate personal priorities. Inconsistencies and gaps may indicate an
+avoidance of the real issue. Certain inconsistencies may suggest additional questions by the counselor.
+2-10. Active listening communicates that the leader values the subordinate and enables reception of the
+subordinate’s message. To capture and understand the message fully, leaders listen to what is said and
+observe the subordinate’s mannerisms. Key elements of active listening include:
+
+Eye contact. Maintaining eye contact without staring helps show sincere interest. Occasional
+breaks of eye contact are normal and acceptable, while excessive breaks, paper shuffling, clockwatching, and repeated mobile telephone checks may indicate a lack of interest or concern.
+
+Body posture. Being relaxed and comfortable will help put the subordinate at ease. However, an
+overly relaxed position or slouching may be interpreted as a lack of interest.
+
+Head nods. Occasional nodding indicates attention and encourages the subordinate to continue.
+
+Facial expressions. Keep facial expressions natural and relaxed to signal a sincere interest.
+
+Verbal expressions. Refrain from talking too much and avoid interrupting. Let the subordinate
+do the talking, while keeping the discussion on the counseling subject.
+
+Check for understanding. Paraphrase or summarize points back to the subordinate for
+confirmation; for example, “What I heard was…”.
+2-11. Leaders pay attention to the subordinate’s gestures to understand the complete message. By watching
+a subordinate’s actions, leaders identify the emotions behind the words. Not all actions are proof of feelings
+but they should be considered. Nonverbal indicators of leader and subordinate attitude include:
+
+Interest, friendliness, and openness. Be aware that counselor actions must be context and
+situation specific. For example, leaning toward the subordinate may be considered as expressing
+interest or being aggressive—the counselor must be able to understand how the subordinate will
+interpret this action.
+
+Self-confidence. Standing tall, leaning back with hands behind the head, and maintaining steady
+eye contact.
+
+Anxiety. Sitting on the edge of the chair with arms uncrossed and hands open.
+
+Boredom. Drumming on the table, doodling, clicking a ballpoint pen, or resting the head in the
+palm of the hand.
+
+Defensiveness. Pushing deeply into a chair, glaring, or making sarcastic comments as well as
+crossing or folding arms in front of the chest.
+
+Frustration. Rubbing eyes, pulling on an ear, taking short breaths, wringing the hands, or
+frequently changing total body position.
+2-12. Leaders consider each indicator carefully. Although each may reveal something about the
+subordinate, do not judge too quickly. When unsure, leaders look for reinforcing indicators or check the
+subordinate to understand the behavior, determine what underlies it, and allow the subordinate to
+understand the conditions that led to the behavior and to take responsibility.
+
+RESPONDING
+2-13. A leader responds verbally and nonverbally to show understanding of the subordinate. Verbal
+responses consist of summarizing, interpreting, and clarifying the subordinate’s message. Nonverbal
+responses include eye contact and occasional gestures such as a head nod. A counselor’s responses should
+encourage the subordinate to continue.
+
+2-2
+
+ATP 6-22.1
+
+1 July 2014
+
+Counseling Fundamentals
+
+APPROPRIATE QUESTIONING
+2-14. Although focused questioning is an important skill, counselors should use it with caution. During
+professional growth counseling, leaders should ask open-ended questions to obtain information or to get the
+subordinate to think deeper about a particular situation. Questions should evoke more than a yes or no
+answer and not lead toward a specific answer or conclusion. Well-posed questions deepen understanding,
+encourage further discussion, and create a constructive experience. Too many questions can aggravate the
+power differential between a leader and a subordinate and place the subordinate in a passive mode. The
+subordinate may also react to excessive questioning, especially if it resembles an interrogation, as an
+intrusion of privacy and become defensive.
+
+COUNSELING PRACTICES
+2-15. Dominating the session by talking too much, giving unnecessary or inappropriate advice, not truly
+listening, and projecting biases and prejudices all interfere with effective counseling. Competent leaders
+avoid rash judgments, stereotyping, losing emotional control, inflexible counseling methods, or improper
+follow-up. Leaders should be open to new ideas and thoughts.
+2-16. Leaders conduct effective counseling sessions and improve their counseling skills when they follow
+these general guidelines:
+
+Determine the subordinate’s role in the situation and what has been done to resolve the issue.
+
+Focus attention on the subordinate. Listen to what is said and how it is said to understand what
+the subordinate says and feels.
+
+Encourage the subordinate to take the initiative and speak aloud.
+
+Remain objective; avoid confirming a subordinate’s prejudices.
+
+Display empathy when discussing the issue. Be receptive to the subordinate’s emotions without
+feeling responsible.
+
+Ask open-ended questions for relevant information; avoid interrogating the subordinate.
+
+Listen more and talk less; avoid interrupting.
+
+Keep personal experiences out of the counseling session.
+
+Draw conclusions based on all available information, not just the subordinate’s statement.
+
+Enable the subordinate to help himself or herself.
+
+Know what information to keep confidential and what to present to the chain of command, if
+necessary.
+
+ACCEPTING LIMITATIONS
+2-17. Army leaders cannot help everyone in every situation. Army leaders should recognize their personal
+limitations and seek outside assistance when required. When necessary, leaders refer a subordinate to an
+agency more qualified to help.
+2-18. Although it is generally in an individual’s best interest to begin by seeking help from his or her firstline leaders, leaders should respect an individual’s preference to contact outside support agencies.
+
+ADDRESSING RESISTANCE
+2-19. Resistance in counseling may stem from either the leader or subordinate and may occur in several
+ways. Identifying and understanding the possible forms of resistance is essential. A leader may be reluctant
+to counsel subordinates because the leader has not been counseled, has had no effective role modeling for
+what is involved in the process, or does not understand how to conduct counseling. Additionally, leaders
+may feel there is no time to do counseling, counseling will not be a constructive use of time, or counseling
+will violate a regulation or policy. They may associate counseling with only negative issues such as
+dispensing punishment or correcting poor performance. Further, leaders may not want to confront a
+subordinate. Other typical reasons for leader reluctance involve a lack of respect for the subordinate,
+believing the subordinate lacks potential, or encountering constant issues with the subordinate.
+
+1 July 2014
+
+ATP 6-22.1
+
+2-3
+
+Chapter 2
+
+2-20. Subordinate resistance often occurs as a reaction to the purpose or message of the counseling session.
+They may be embarrassed, misunderstand the intention of the counseling session, or disagree with the
+leader’s assessment of the situation. Subordinates may not want to change, may blame the leader for the
+issue or behavior at hand, may dislike being held accountable, or may defy being disciplined. In some
+cases, the subordinate may not respect or trust the leader.
+2-21. Leaders may preempt potential subordinate resistance by opening the counseling session with a
+discussion of the purpose of the session, expectations of the session, and how they relate to the
+subordinate’s short- and long-term goals. Through regular periodic counseling, leaders should understand
+and be aware of the subordinate’s goals. For the session to be effective, leaders must focus on the issue and
+adapt the counseling to the subordinate’s needs and understanding.
+2-22. Once a leader understands that counseling subordinates is a significant leader responsibility in
+developing subordinates’ potential, leader reluctance to counsel can be overcome through preparation and
+improving counseling skills. Leaders successfully overcome subordinate resistance by applying positive
+counseling practices. After the leader identifies the source of a subordinate’s resistance, then the counseling
+process can be adapted to accommodate and overcome the resistance.
+2-23. To overcome resistance in counseling, leaders can employ several techniques to redirect the
+subordinate:
+
+Reconfirm the counseling session purpose—be specific and keep focused on the details (such as
+conditions, triggers, and outcomes) of the situation; refrain from any personal attacks on the
+subordinate.
+
+Keep the discussion professional and balanced in tone—do not argue or place blame on any
+party.
+
+Discuss the suspected resistance openly with the subordinate and respect his or her response.
+
+Slow the tempo of the session—rely on pertinent open-ended questions to give the subordinate
+the appropriate time and ability to reveal information and be an active participant in the
+counseling session.
+
+Focus on one specific behavior, its effect, and the consequences to minimize overwhelming the
+subordinate. It may be necessary to divide the session into multiple meetings to address each
+area adequately. Further, the leader should prioritize these discussions based on the needs of the
+individual and unit.
+
+THE FOUR-STAGE COUNSELING PROCESS
+2-24. Effective Army leaders use a four-stage counseling process:
+
+Identify the need for counseling.
+
+Prepare for counseling.
+
+Conduct the counseling session.
+
+Follow-up.
+
+STAGE 1: IDENTIFY THE NEED FOR COUNSELING
+2-25. The success of counseling depends on the preparatory steps that the counselor takes before the
+counseling session (formal or informal) occurs. The counselor must develop a clear purpose, have an
+assessment of the situation, and an idea of possible outcomes that are desired. However, counseling is an
+interactive and dynamic process where assessments and follow-on actions come from a trusted exchange
+between the counselor and individual receiving counseling. The counselor must consider desired outcomes
+during preparation or before conducting a counseling session. Counseling requires the leader to be
+informed and prepared for contingencies that may arise during the counseling session.
+2-26. Army and organizational policies may direct the timing or focused elements of a counseling session,
+such as performance counseling associated with an evaluation or professional growth counseling. Leaders
+may conduct developmental counseling whenever the need arises for focused, two-way open
+communication aimed at a subordinate’s development. Developing subordinates consists of observing the
+
+2-4
+
+ATP 6-22.1
+
+1 July 2014
+
+Counseling Fundamentals
+
+subordinate’s performance, comparing it to established standards, and providing feedback through
+counseling. For event counseling, the leader must confirm or seek new information and remain open to new
+assessments of the event and related goals or corrections.
+
+STAGE 2: PREPARE FOR COUNSELING
+2-27. Successful counseling requires preparation in the following areas:
+
+Select a suitable place.
+
+Schedule the time.
+
+Notify the subordinate well in advance.
+
+Outline the components of the counseling session.
+
+Organize information and draft a plan of action.
+
+Plan the counseling strategy.
+
+Establish the right atmosphere.
+
+Select a Suitable Place
+2-28. Conduct the counseling session in an environment that minimizes interruptions and is free from
+distracting sights and sounds. The location should allow for privacy as the counseling session may cover
+personal issues not intended for public knowledge. In addition, the selected location needs to provide the
+right atmosphere appropriate for the counseling session.
+
+Schedule the Time
+2-29. When possible, leaders should formally counsel a subordinate during the duty day. Counseling after
+duty hours may be rushed or perceived as unfavorable. Select a time free from competition with other
+activities. Leaders should consider that important events occurring after the session could distract a
+subordinate from concentrating on the counseling session. The scheduled time for counseling should also
+be appropriate for the complexity of the issue at hand. Generally, counseling sessions should last less than
+an hour.
+
+Notify the Subordinate Well in Advance
+2-30. Counseling is a subordinate-centered, two-person effort for which the subordinate must have
+adequate time to prepare. The person being counseled should know why, where, and when the counseling
+takes place. Counseling tied to a specific event should happen as closely to the event occurrence as
+possible. For performance or professional development counseling, subordinates may need a week or more
+to prepare or review specific documents and resources, including evaluation support forms or counseling
+records.
+
+Outline the Components of the Counseling Session
+2-31. Using the available information, leaders determine the focus and specific topics for the counseling
+session. Leaders should identify what prompted the counseling requirement, aims our outcomes, and their
+role as counselor. In addition, leaders should identify possible comments and questions to keep the
+counseling session subordinate-centered and guide the subordinate through the session’s stages. As
+subordinates may be unpredictable during counseling, a written outline can help keep the session on track
+and enhances the chances for success (see figure 2-1 on page 2-6).
+
+1 July 2014
+
+ATP 6-22.1
+
+2-5
+
+Chapter 2
+
+Counseling Outline
+Type of counseling: Initial NCOER counseling for SFC Taylor, a recently promoted
+new arrival to the unit.
+Place and time: The platoon office, Tuesday at 1500.
+Time to notify the subordinate: Notify SFC Taylor one week in advance of the
+counseling session.
+Subordinate preparation: Instruct SFC Taylor to develop a list of goals and
+objectives to complete over the next 90 to 180 days. Review the values, attributes,
+and competencies of ADRP 6-22.
+Counselor preparation:
+Review the NCO Counseling Checklist/Record.
+Update duty description; fill out the rating chain and duty description on a working
+copy of the NCOER.
+Review each of the values and responsibilities in NCOER Part IV and the values,
+attributes, and competencies in ADRP 6-22. Review how each applies to SFC
+Taylor’s duties.
+Review the actions necessary for a success or excellence rating in each area.
+Make notes on relevant parts of the NCOER to assist in counseling.
+Role as a counselor: Help SFC Taylor to understand the expectations and
+standards associated with the platoon sergeant position. Assist SFC Taylor in
+developing the values, attributes, and competencies that enable him to achieve his
+performance objectives consistent with those of the platoon and company. Resolve
+any aspects of the job that SFC Taylor does not clearly understand.
+Session outline: Complete an outline following the counseling session components
+based on the draft duty description on the NCOER. This should happen two to three
+days prior to the actual counseling session.
+Figure 2-1. Example of a counseling outline
+
+Organize Information and Draft a Plan of Action
+2-32. The counselor should review all pertinent information, including the purpose of the counseling, facts,
+and observations about the person to be counseled, identification of possible issues, and main points of
+discussion with possible questions to pose to the subordinate. In addition, as part of organizing information,
+the counselor should assess the situation and consider the subordinate’s performance and any prior issues.
+The counselor can outline a possible plan of action with clear obtainable goals as a basis for the final plan
+development between counselor and the Soldier or Army Civilian.
+
+Plan the Counseling Strategy
+2-33. Leaders plan each counseling session, tailoring the counseling session to the individual and situation.
+Part of the planning process includes identifying the counseling approach, assessing the individual’s
+situation and reputation, and identifying any anticipated resistance.
+2-34. An effective leader approaches each subordinate as an individual. Different people and different
+situations require different counseling approaches—counseling is not a one-size-fits-all endeavor. Army
+leaders may employ three major approaches to counseling: nondirective, directive, or combined.
+2-35. The Army leader can select from several techniques when counseling subordinates. These techniques
+may cause subordinates to change behavior and improve their performance. Counseling techniques leaders
+may explore during the nondirective or combined approaches include:
+
+Suggesting alternatives. Discuss alternative actions the subordinate may take. Leader and
+subordinate together decide which course of action is most appropriate.
+
+Recommending. Recommend one course of action but leave the decision to accept it to the
+subordinate.
+
+2-6
+
+ATP 6-22.1
+
+1 July 2014
+
+Counseling Fundamentals
+
+
+
+
+
+Persuading. Persuade the subordinate that a given course of action is best, but leave the final
+decision to the subordinate. Successful persuasion depends on the leader’s credibility, the
+subordinate’s willingness to listen, and mutual trust.
+Advising. Advise the subordinate that a given course of action is best. This is the strongest form
+of influence not involving command.
+
+2-36. Techniques to use during the directive approach to counseling include:
+
+Corrective training. Teach and assist the subordinate in attaining and maintaining the required
+standard. A subordinate completes corrective training once consistently meeting standards.
+
+Commanding. Order the subordinate to take a given course of action in clear, precise words. The
+subordinate will face consequences for failing to execute.
+2-37. While these approaches differ in specific techniques, the major difference between the approaches is
+the degree to which the subordinate participates and interacts during a counseling session. Table 2-1
+identifies the advantages and disadvantages of each approach.
+Table 2-1. Counseling approach summary
+Advantages
+
+Disadvantages
+
+Nondirective
+
+Encourages maturity.
+Encourages open communication.
+Develops personal responsibility.
+
+More time-consuming.
+Requires greatest counselor skills.
+
+Combined
+
+Moderately quick.
+Encourages maturity.
+Encourages open communication.
+Allows counselors to use their
+experience.
+
+May take too much time for some
+situations.
+
+Directive
+
+Quickest method.
+Good for those needing clear,
+concise direction.
+Allows counselors to use their
+experience.
+
+Does not encourage subordinates to be
+part of the solution.
+Treats symptoms, not issues.
+Tends to discourage subordinates from
+talking freely.
+Solution is the counselor’s, not the
+subordinate’s.
+
+Establish the Right Atmosphere
+2-38. The right atmosphere promotes open, two-way communication between a leader and subordinate. To
+establish a more relaxed atmosphere, leaders may offer the subordinate a seat or a cup of coffee. If
+appropriate, choose to sit in a chair next to or facing the subordinate since a desk can serve as a barrier.
+2-39. Some situations require formal settings. During counseling to correct substandard performance,
+leaders seated behind a desk may direct the subordinate to remain standing. This reinforces the leader’s role
+and authority and underscores the severity of the situation.
+
+STAGE 3: CONDUCT THE COUNSELING SESSION
+2-40. Army leaders use a balanced mix of formal and informal counseling and learn to take advantage of
+daily events to provide Soldiers and Army Civilians with feedback. Figure 2-2 on page 2-9 portrays an
+example of a formal counseling session. Even during informal counseling, leaders should address the four
+basic components of a counseling session:
+
+Open the session.
+
+Discuss the issues.
+
+Develop a plan of action.
+
+Record and close the session.
+
+1 July 2014
+
+ATP 6-22.1
+
+2-7
+
+Chapter 2
+
+Open the Session
+2-41. In opening, the leader makes the purpose clear and establishes a subordinate-centered setting as
+appropriate for the situation. The counselor establishes an atmosphere of shared purpose by inviting the
+subordinate to speak and acknowledge the purpose. An appropriate purpose statement might be “SFC
+Taylor, the purpose of this counseling is to discuss your duty performance over the past month and to create
+a plan to enhance performance and attain performance goals.” If applicable, start the counseling session by
+reviewing the status of the current plan of action.
+
+Discuss the Issues
+2-42. The leader and counseled individual should attempt to develop a mutual and clear understanding of
+the counseling issues. Use active listening and invite the subordinate to do most of the talking—encourage
+the subordinate to participate fully in the session. Leaders respond and ask questions without dominating
+the conversation but help the subordinate better understand the subject of the counseling session, such as
+duty performance, a situation and its effects, or potential areas for growth. Leaders must be open to
+adjusting their understanding of the situation based on the subordinate’s input.
+2-43. To reduce the perception of bias or early judgment, both leader and subordinate should provide
+examples or cite specific observations. When the issue is substandard performance, the leader must be clear
+what did not meet the standard. During the discussion, the leader must clearly establish what the
+subordinate must do to meet the standard. It is very important that the leader frames the issue at hand as
+substandard performance and prevents the subordinate from labeling the issue as unreasonable. An
+exception would occur if the leader considers the current standard as negotiable or is willing to alter the
+conditions under which the subordinate can meet the standard.
+
+Develop a Plan of Action
+2-44. A plan of action identifies a method and pathway for achieving a desired result, limited to one or two
+realistic goals tied to work or life events with milestones that allow for monitoring progress. Before
+developing the plan of action, the leader must assess whether the counseled subordinate understands the
+purpose and any related issues. The plan of action must be appropriate and specific, showing the
+subordinate how to modify or maintain specific behaviors to reach goals set during the counseling session.
+For example: “PFC Miller, next week you’ll attend the map reading class with 1st Platoon. After class,
+SGT Dixon will coach you through the land navigation course and help you develop your compass skills.
+After observing you going through the course with SGT Dixon, I will meet with you again to determine if
+you need additional training.”
+
+Record and Close the Session
+2-45. Although requirements to record counseling sessions vary, a leader always benefits from
+documenting the main points of a counseling session, even informal ones. Documentation serves as a ready
+reference for the agreed-upon plan of action and helps the leader track the subordinate’s accomplishments,
+personal preferences, or issues. A good record of counseling enables the leader to make proper
+recommendations for professional development, promotions, and evaluations. DA Form 4856 is designed
+to help Army leaders conduct and record counseling sessions. Leaders must decide when counseling,
+additional training, rehabilitation, reassignment, or other developmental options have been exhausted.
+2-46. Army regulations require specific written records of counseling for certain personnel actions, such as
+barring a Soldier from reenlisting, processing an administrative separation or placing a Soldier in the
+overweight program. When a Soldier faces involuntary separation, the leader must maintain accurate
+counseling records. Documentation of substandard actions often conveys a strong message to subordinates
+that a further slip in performance or discipline could require more severe action or punishment.
+2-47. Leaders should close the session by asking the counseled subordinate to summarize key points and
+expectations based on the proposed plan of action. Leaders should establish any necessary follow-up
+measures with the subordinate to support the successful implementation of the plan of action. Follow-up
+measures may include providing the subordinate with specific resources and time, periodic assessments of
+the plan and additional referrals. If possible, schedule future meetings before dismissing the subordinate.
+
+2-8
+
+ATP 6-22.1
+
+1 July 2014
+
+Counseling Fundamentals
+
+Example of a Counseling Session
+Prepare for the Session
+• Identify the purpose and type of counseling, reflect on the situation, and consider
+appropriate ways to address the session.
+Open the Session
+• To establish a relaxed environment for open exchange, explain that discussing
+and understanding the importance of the Army Values, leader attributes and
+competencies makes it easier to develop and incorporate them for success into
+an individual leadership style.
+• State the purpose of the initial counseling: what SFC Taylor must do to be a
+successful platoon sergeant. Agree on the duty description and specific
+performance requirements. Discuss related values, competencies, and standards
+for success. Explain subsequent counseling will address developmental needs
+and how well performance objectives are met. Urge SFC Taylor to identify
+developmental needs during the next quarter.
+• Ensure that SFC Taylor knows the rating chain. Resolve any questions about the
+duty position and associated responsibilities. Discuss the close relationship that
+must exist between a platoon leader and a platoon sergeant including the
+importance of honest, two-way communication.
+Discuss the Issues
+• Jointly review the draft duty description including all associated responsibilities
+such as maintenance, training, and Soldier welfare. Relate the responsibilities to
+leader competencies, attributes, and values noted in ADRP 6-22. Revise the duty
+description, if needed. Highlight areas of special emphasis and additional duties.
+• Explain that character, presence, and intellect are the basis for competent
+leadership; developing the desired leader attributes requires that Army leaders
+adopt them through self-awareness and lifelong learning. Emphasize that the plan
+of action to accomplish major performance objectives must include the
+appropriate values, attributes, and competencies.
+Assist in Developing a Plan of Action (During the Counseling Session)
+• Ask SFC Taylor to identify tasks to accomplish the performance objectives.
+Describe each by using the values, responsibilities, and competencies found in
+ADRP 6-22. Discuss specific examples of success and excellence in each area.
+Ask for suggestions to make the goals objective, specific, and measurable.
+• Ensure that SFC Taylor has at least one example of a success or excellence
+statement for each area. Discuss SFC Taylor’s promotion goals and ask what he
+considers as strengths and weaknesses. Obtain the last two master sergeant
+selection board results and compare stated goals and objectives.
+Close the Session
+• Verify SFC Taylor understands the duty description, performance objectives, and
+expectation to assist in your development as a platoon leader.
+• Stress the importance of teamwork and two-way communication.
+• Remind SFC Taylor to perform a self-assessment during the next quarter.
+• Set a tentative date during the next quarter for the follow-up counseling.
+Figure 2-2. Example of a counseling session
+
+1 July 2014
+
+ATP 6-22.1
+
+2-9
+
+Chapter 2
+
+STAGE 4: FOLLOW-UP
+Leader Responsibilities
+2-48. The counseling process does not end with the initial counseling session. It continues throughout the
+implementation of the plan of action consistent with the observed results. Sometimes the initial plan of
+action will require modification to meet the desired outcomes. Leaders must consistently support their
+subordinates in implementing the plan of action by teaching, coaching, mentoring, or providing additional
+time, referrals and other appropriate resources. Additional measures may include more focused follow-up
+counseling, informing the chain of command, or taking more severe corrective measures if appropriate.
+
+Assess the Plan of Action
+2-49. During assessment, the leader and the subordinate jointly determine if the desired results happened.
+They should determine the date for their initial assessment during the initial counseling session. The plan of
+action assessment provides useful information for future follow-up counseling sessions.
+
+SUMMARY – THE COUNSELING PROCESS AT A GLANCE
+2-50. Use Table 2-2 as a quick reference whenever counseling Soldiers or Army Civilian team members.
+Table 2-2. A summary of counseling
+Leaders must demonstrate these qualities to
+counsel effectively:
+•
+•
+•
+•
+
+Respect for subordinates.
+Self and cultural awareness.
+Credibility.
+Empathy.
+
+•
+•
+•
+•
+•
+•
+
+Leaders must employ these counseling
+skills appropriately:
+•
+•
+•
+
+Active listening.
+Responding.
+Appropriate questioning.
+
+Effective leaders avoid common counseling
+mistakes. Leaders should avoid:
+•
+•
+•
+•
+•
+•
+
+Personal bias.
+Rash judgments.
+Stereotyping.
+Losing emotional control.
+Inflexible counseling methods.
+Improper follow-up.
+
+The Counseling Process
+Identify the need for counseling.
+Prepare for counseling:
+
+•
+•
+
+Conduct the counseling session:
+•
+•
+•
+•
+
+Open the session.
+Discuss the issue.
+Develop a plan of action (to include the
+leader’s responsibilities).
+Record and close the session.
+
+Follow-up:
+•
+•
+
+2-10
+
+Select a suitable place.
+Schedule the time.
+Notify the subordinate well in advance.
+Organize information.
+Identify possible outcomes.
+Outline the components of the counseling
+session.
+Plan counseling strategy.
+Establish right atmosphere.
+
+ATP 6-22.1
+
+Support plan of action implementation.
+Assess the plan of action.
+
+1 July 2014
+
+Glossary
+ACRONYMS AND ABBREVIATIONS
+ACAP
+
+Army Career and Alumni Program
+
+ADRP
+
+Army doctrine reference publication
+
+AR
+
+Army regulation
+
+ATP
+
+Army techniques publication
+
+DA
+
+Department of the Army
+
+FM
+
+field manual
+
+NCO
+
+noncommissioned officer
+
+NCOER
+
+1 July 2014
+
+noncommissioned officer evaluation report
+
+PFC
+
+private first class
+
+SFC
+
+sergeant first class
+
+SGT
+
+sergeant
+
+U.S.
+
+United States
+
+ATP 6-22.1
+
+Glossary-1
+
+This page intentionally left blank.
+
+References
+REQUIRED PUBLICATIONS
+
+These documents must be available to intended users of this publication.
+Joint publications are available online at http://www.dtic.mil/doctrine/new_pubs/jointpub.htm.
+ADRP 1-02. Terms and Military Symbols. 24 September 2013.
+JP 1-02. Defense Dictionary of Military and Associated Terms. 08 November 2010.
+
+RELATED PUBLICATIONS
+
+These sources contain relevant supplemental information.
+Most Army publications are available online at http://www.apd.army.mil.
+ADRP 6-22. Army Leadership. 1 August 2012.
+AR 600-8. Military Personnel Management. 1 October 1989.
+AR 600-8-19. Enlisted Promotions and Reductions. 30 April 2010.
+AR 623-3. Evaluation Reporting System. 5 June 2012.
+AR 635-200. Active Duty Enlisted Administrative Separations. 6 June 2005.
+AR 690-400. Chapter 4302 Total Army Performance Evaluation System. 16 October 1998.
+FM 27-10. The Law of Land Warfare. 18 July 1956.
+
+PRESCRIBED FORMS
+
+Unless otherwise indicated, DA Forms are available on the Army Publishing Directorate web site
+(www.apd.army.mil).
+DA Form 4856. Developmental Counseling Form.
+
+REFERENCED FORMS
+
+Unless otherwise indicated, DA Forms are available on the Army Publishing Directorate web site
+(www.apd.army.mil).
+DA Form 2028. Recommended Changes to Publications and Blank Forms.
+
+RECOMMENDED FORMS
+Unless otherwise indicated, DA Forms are available on the Army Publishing Directorate web site
+(www.apd.army.mil).
+DA Form 67–9. Officer Evaluation Report.
+DA Form 67–9–1. Officer Evaluation Report Support Form.
+DA Form 67–9–1A. Developmental Support Form.
+DA Form 1059. Service School Academic Evaluation Report.
+DA Form 1059–1. Civilian Institution Academic Evaluation Report.
+DA Form 2166–8. NCO Evaluation Report.
+DA Form 2166–8–1. NCOER Counseling and Support Form.
+DA Form 7222. Senior System Civilian Evaluation Report.
+DA Form 7222-1. Civilian Evaluation Report Support Form.
+DA Form 7223. Base System Civilian Evaluation Report.
+DA Form 7223-1. Base System Civilian Performance Counseling Checklist /Record.
+
+RECOMMENDED READINGS
+AR 635-8. Separation Processing and Documents. 10 February 2014.
+
+1 July 2014
+
+ATP 6-22.1
+
+References-1
+
+References
+
+RECOMMENDED WEB SITES
+
+All URLs were accessed on 14 March 2014.
+Army 360 Multi-Source Assessment and Feedback (MSAF) Program. Available at
+https://msaf.army.mil.
+Army Career & Alumni Program (ACAP). Available at https://www.acap.army.mil.
+Army Career Tracker (ACT). Available at https://actnow.army.mil.
+Army G1 Mentorship Program. Available at http://www.armyg1.army.mil/hr/mentorship.
+Army Suicide Prevention Program. Available at http://www.armyg1.army.mil/hr/suicide.
+Comprehensive Soldier Fitness Program. Available at http://www.army.mil/csf/index.html.
+Military OneSource. Available at www.militaryonesource.mil.
+Resilience Training. Available at https://www.resilience.army.mil.
+U. S. Army Combat Readiness/Safety Center. Available at https://safety.army.mil/Default.aspx.
+
+References-2
+
+ATP 6-22.1
+
+1 July 2014
+
+ATP 6-22.1
+1 July 2014
+
+By order of the Secretary of the Army:
+
+RAYMOND T. ODIERNO
+General, United States Army
+Chief of Staff
+
+Official:
+
+GERALD B. O’KEEFE
+Administrative Assistant to the
+Secretary of the Army
+1411105
+
+DISTRIBUTION:
+Active Army, Army National Guard, and United States Army Reserve: Distributed in electronic media only
+(EMO).
+
+This page intentionally left blank.
+
+PIN: 104195-000
+
+
