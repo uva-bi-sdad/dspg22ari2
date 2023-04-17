@@ -4,6 +4,118 @@ author: "Joanna Schroeder"
 date: "4/10/2023"
 output: html_document
 ---
+```{r}
+setwd("~/git/dspg22ari2/BERT_Analysis/Docs")
+
+
+
+# Get file names in "docs" folder
+file_names <- list.files()
+
+# Write file names to "document_names.txt"
+write.table(file_names, "~/git/dspg22ari2/BERT_Analysis/Analysis/document_names.txt", row.names = FALSE, col.names = FALSE, quote = FALSE)
+
+```
+
+```{r fig.height = 20}
+library(tidyverse)
+library(lsa)
+
+# Load the document vectors
+matrix <- read.csv("output_vectors.csv")
+
+# Load the document names
+
+doc_names <- readLines("document_names.txt") 
+
+# Compute the cosine similarities for all pairs of documents
+cosine <- cosine(t(matrix)) %>%
+  as.data.frame() %>%
+  rownames_to_column(var = "doc_one") %>%
+  pivot_longer(cols = -doc_one, names_to = "doc_two", values_to = "cosine_similarity") %>%
+  mutate(doc_one = ifelse(!is.na(match(as.character(doc_one), as.character(doc_names))), 
+                        doc_names[match(as.character(doc_one), as.character(doc_names))], 
+                        as.character(doc_one)),
+       doc_two = ifelse(!is.na(match(as.character(doc_two), as.character(doc_names))), 
+                        doc_names[match(as.character(doc_two), as.character(doc_names))], 
+                        as.character(doc_two)))
+
+
+
+
+
+# Loop through each document and create a cosine similarity graph against all other documents
+for (doc_name in doc_names) {
+  cosine_doc <- cosine %>%
+    filter(doc_one == doc_name) %>%
+    ggplot(aes(x = factor(doc_one), y = reorder(factor(doc_two), -cosine_similarity), fill = cosine_similarity)) +
+    geom_tile() +
+    geom_text(aes(label = round(cosine_similarity, 3)), size = 2) +
+    scale_x_discrete(position = "top") +
+    scale_y_discrete(limits = rev) +
+    scale_fill_gradient(low = "white", high = "#E57200") +
+    theme(legend.position="bottom", panel.background = element_blank(),
+          plot.title = element_text(face = "bold"), text = element_text(size = 15),
+          legend.key.width = unit(4,"line")) +
+    labs(fill = "Cosine Similarity",
+         y = "Doc Y",
+         x = "Doc X") +
+    guides(fill = guide_colorbar(title.position = "top"))
+  
+  ggsave(paste0(doc_name, "_cosine_similarity.png"), cosine_doc, width = 10, height = 10)
+}
+
+```
+
+```{r fig.height = 20}
+library(tidyverse)
+library(lsa)
+
+matrix <- read.csv("output_vectors.csv")
+
+doc_names <- readLines("document_names.txt") %>% str_remove(".txt")#assuming document names are stored in a file called "document_names.txt", removing ".txt" extension and shortening the names
+
+cosine <- cosine(t(matrix)) %>%
+  as.data.frame() %>%
+  rownames_to_column(var = "doc_one") %>%
+  pivot_longer(cols = -doc_one, names_to = "doc_two", values_to = "cosine_similarity") %>%
+  mutate(doc_two = str_remove(doc_two, "V")) %>% #remove the "V" prefix from doc names
+  mutate(doc_one = doc_names[as.numeric(doc_one)],
+         doc_two = doc_names[as.numeric(doc_two)]) #assign document names to doc_one and doc_two
+
+cosine %>%
+  ggplot(aes(x = reorder(doc_one, as.numeric(doc_one)),
+             y = reorder(doc_two, as.numeric(doc_two)),
+             fill = cosine_similarity)) +
+  geom_tile() +
+ # geom_text(aes(label = round(cosine_similarity, 3)), size = 2) +
+  scale_x_discrete(position = "top") +
+  scale_y_discrete(limits = rev) +
+  scale_fill_gradient(low = "white", high = "#E57200") +
+  theme(legend.position="bottom", panel.background = element_blank(),
+        plot.title = element_text(face = "bold"), text = element_text(size = 15),
+        legend.key.width = unit(4,"line")) +
+  labs(fill = "Cosine Similarity",
+       y = "Doc Y",
+       x = "Doc X") +
+  guides(fill = guide_colorbar(title.position = "top"))
+
+cosine %>% filter(doc_one == doc_names[1]) %>%
+  ggplot(aes(x = factor(doc_one), y = reorder(factor(doc_two), -cosine_similarity), fill = cosine_similarity)) +
+  geom_tile() +
+  geom_text(aes(label = round(cosine_similarity, 3)), size = 2) +
+  scale_x_discrete(position = "top") +
+  scale_y_discrete(limits = rev) +
+  scale_fill_gradient(low = "white", high = "#E57200") +
+  theme(legend.position="bottom", panel.background = element_blank(),
+        plot.title = element_text(face = "bold"), text = element_text(size = 15),
+        legend.key.width = unit(4,"line")) +
+  labs(fill = "Cosine Similarity",
+       y = "Doc Y",
+       x = "Doc X") +
+  guides(fill = guide_colorbar(title.position = "top"))
+
+```
 
 ```{r fig.height = 20}
 library(tidyverse)
