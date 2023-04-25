@@ -7,8 +7,6 @@ output: html_document
 ```{r}
 setwd("~/git/dspg22ari2/BERT_Analysis/Docs")
 
-
-
 # Get file names in "docs" folder
 file_names <- list.files()
 
@@ -73,7 +71,7 @@ library(lsa)
 
 matrix <- read.csv("output_vectors.csv")
 
-doc_names <- readLines("document_names.txt") %>% str_remove(".txt")#assuming document names are stored in a file called "document_names.txt", removing ".txt" extension and shortening the names
+doc_names <- readLines("document_names.txt") %>% str_remove(".txt") %>% str_remove(".pdf")#assuming document names are stored in a file called "document_names.txt", removing ".txt" extension and shortening the names
 
 cosine <- cosine(t(matrix)) %>%
   as.data.frame() %>%
@@ -83,9 +81,11 @@ cosine <- cosine(t(matrix)) %>%
   mutate(doc_one = doc_names[as.numeric(doc_one)],
          doc_two = doc_names[as.numeric(doc_two)]) #assign document names to doc_one and doc_two
 
-cosine %>%
-  ggplot(aes(x = reorder(doc_one, as.numeric(doc_one)),
-             y = reorder(doc_two, as.numeric(doc_two)),
+cosine <- cosine %>% mutate(year1 = str_extract(doc_one, "[:digit:]{4}$"), year2 = str_extract(doc_two, "[:digit:]{4}$"))
+
+cosine %>% dplyr::filter(!is.na(doc_one), !is.na(doc_two), doc_two != "document_names", doc_one != "document_names") %>%
+  ggplot(aes(x = reorder(doc_one, as.numeric(year1)),
+             y = reorder(doc_two, as.numeric(year2)),
              fill = cosine_similarity)) +
   geom_tile() +
  # geom_text(aes(label = round(cosine_similarity, 3)), size = 2) +
@@ -94,11 +94,12 @@ cosine %>%
   scale_fill_gradient(low = "white", high = "#E57200") +
   theme(legend.position="bottom", panel.background = element_blank(),
         plot.title = element_text(face = "bold"), text = element_text(size = 15),
-        legend.key.width = unit(4,"line")) +
+        legend.key.width = unit(4,"line"),
+        axis.text.x = element_text(angle = 45, hjust=0)) +
   labs(fill = "Cosine Similarity",
        y = "Doc Y",
        x = "Doc X") +
-  guides(fill = guide_colorbar(title.position = "top"))
+  guides(fill = guide_colorbar(title.position = "top")) 
 
 cosine %>% filter(doc_one == doc_names[1]) %>%
   ggplot(aes(x = factor(doc_one), y = reorder(factor(doc_two), -cosine_similarity), fill = cosine_similarity)) +
@@ -117,7 +118,7 @@ cosine %>% filter(doc_one == doc_names[1]) %>%
 
 ```
 
-```{r fig.height = 20}
+```{r fig.height = 20, fig.width = 10}
 library(tidyverse)
 library(lsa)
 
@@ -146,8 +147,8 @@ cosine %>%
          x = "Document X") +
     guides(fill = guide_colorbar(title.position = "top"))
 
-cosine %>% filter(doc_one == 1) %>%
-  ggplot(aes(x = factor(doc_one), y = reorder(factor(doc_two), -cosine_similarity), fill = cosine_similarity)) + 
+cosine %>% filter(doc_one == "ADP_6.22_07_2019", !is.na(doc_two), doc_two != "document_names") %>%
+  ggplot(aes(x = factor(doc_one), y = reorder(doc_two, as.numeric(year2)), fill = cosine_similarity)) + 
     geom_tile() +    
     geom_text(aes(label = round(cosine_similarity, 3)), size = 6) +  
     scale_x_discrete(position = "top") + 
@@ -160,5 +161,7 @@ cosine %>% filter(doc_one == 1) %>%
          y = "Document Y",       
          x = "Document X") +
     guides(fill = guide_colorbar(title.position = "top"))
+
+cosine %>% group_by(doc_one) %>% mutate(mean = mean(cosine_similarity)) %>% distinct(doc_one, mean) %>% arrange(mean)
 ```
 
