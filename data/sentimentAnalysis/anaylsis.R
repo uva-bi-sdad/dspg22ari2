@@ -2,6 +2,7 @@ library(Dict); library(topicmodels);library(tidytext);library(ggplot2);library(d
 tfidf_words <-pull(sentiment_words, word)
 sentimentWords <- get_nrc_sentiment(tfidf_words)
 #saveRDS(sentimentWords, "sentimentWords.rds")
+
 fullCombine <-cbind(sentiment_words$document, sentiment_words$word, sentimentWords)
 names(fullCombine)[names(fullCombine)=="strtoi(sentiment_words$document)"]<- "document"
 
@@ -27,6 +28,7 @@ sentimentLabels = c('word','year','anger','anticiaption','disgust','fear','joy',
 indivWords<-NULL
 for (file in sentimentSplit){
   malecount<- 0; femalecount <-0; neutralcount <-0; femaleCodedCount <- 0; maleCodedCount <- 0; femaleNCOunt <- 0; maleNCount <-0; neutralNCount <- 0; singleNCount <- 0; pluralNCount <- 0;
+
   count <- nrow(file)
   year<-file$`sentiment_words$document`
   anger<-sum(file$anger == 1) / count
@@ -109,7 +111,12 @@ for (file in sentimentSplit){
 }
 
 
-testFrame <- data.frame(cbind(unlist(sentimentList), angerVec[-c(10:12)], anticipationVec[-c(10:12)], disgustVec[-c(10:12)], fearVec[-c(10:12)], joyVec[-c(10:12)], sadVec[-c(10:12)], surpriseVec[-c(10:12)], trustVec[-c(10:12)], negativeVec[-c(10:12)], positiveVec[-c(10:12)], femalePronoutVec[-c(10:12)], malePronounVec[-c(10:12)], neutralPronounVec[-c(10:12)]), singleNounVec[-c(10:12)], pluralNounVec[-c(10:12)])
+
+testFrame <- data.frame(cbind(sentimentList, angerVec, anticipationVec, disgustVec, fearVec, joyVec, sadVec, surpriseVec, trustVec, negativeVec, positiveVec, femalePronoutVec, malePronounVec, neutralPronounVec,femaleCodeVerb,maleCodeVerb, femaleNounVec, maleNounVec, neutralNounVec))
+rowNames <- testFrame[,-1]
+rownames(testFrame)<- testFrame[,1]
+testFrame$sentimentList<- NULL
+#testFrame <- data.frame(cbind(unlist(sentimentList), angerVec[-c(10:12)], anticipationVec[-c(10:12)], disgustVec[-c(10:12)], fearVec[-c(10:12)], joyVec[-c(10:12)], sadVec[-c(10:12)], surpriseVec[-c(10:12)], trustVec[-c(10:12)], negativeVec[-c(10:12)], positiveVec[-c(10:12)], femalePronoutVec[-c(10:12)], malePronounVec[-c(10:12)], neutralPronounVec[-c(10:12)]), singleNounVec[-c(10:12)], pluralNounVec[-c(10:12)])
 #testFrame <- data.frame(cbind(angerVec, anticipationVec, disgustVec, fearVec, joyVec, sadVec, surpriseVec, trustVec, negativeVec, positiveVec, femalePronoutVec, malePronounVec, neutralPronounVec,femaleCodeVerb,maleCodeVerb, femaleNounVec, maleNounVec, neutralNounVec))
 rowNames <- testFrame[,-1]
 rownames(testFrame)<- testFrame[,1]

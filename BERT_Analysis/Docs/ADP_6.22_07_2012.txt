@@ -1,0 +1,717 @@
+ADP622
+ARMYLEADERSHI
+P
+
+AUGUST201
+2
+
+DI
+STRI
+BUTI
+ONRESTRI
+CTI
+ON:
+
+Appr
+ov
+edf
+orpubl
+i
+cr
+el
+eas
+e;di
+s
+t
+r
+i
+but
+i
+oni
+sunl
+i
+mi
+t
+ed.
+
+HEADQUARTERS,DEPARTMENTOFTHEARMY
+
+This publication is available at Army Knowledge Online
+(https://armypubs.us.army.mil/doctrine/index.html).
+
+Foreword
+Leadership is paramount to our profession. It is integral to our institutional success today
+and tomorrow. As we transition to meet the challenges of an increasingly complex and
+uncertain environment, our Army requires intelligent, competent, physically and mentally
+tough leaders of character. Decentralized operations require leaders at all levels that
+understand their environment, learn quickly, make sound decisions, and lead change.
+Because there are no predetermined solutions to problems, Army leaders must adapt their
+thinking, formations, and employment techniques to the specific situation they face. This
+requires an adaptable and innovative mind, a willingness to accept prudent risk in
+unfamiliar or rapidly changing situations, and an ability to adjust based on continuous
+assessment.
+General of the Army Omar Bradley once remarked: “Leadership in a democratic army
+means firmness, not harshness; understanding, not weakness; generosity, not selfishness;
+pride, not egotism.”
+His words continue to resonate today in both peace and war. This requires personal
+commitment, constant learning, self assessment, and passion for your Soldiers and units.
+Being a leader is not about giving orders, it’s about earning respect, leading by example,
+creating a positive climate, maximizing resources, inspiring others, and building teams to
+promote excellence. Along the way, you will make honest mistakes. You will face difficult
+decisions and dilemmas. This is all part of the process of learning the art of leadership. You
+must internalize the Army’s values, demonstrate unimpeachable integrity and character,
+and remain truthful in word and deed. Soldiers trust their leaders. Leaders must never break
+that trust, as trust is the bedrock of our profession.
+My leader expectations are straightforward:
+
+Have a vision and lead change
+
+Be your formation’s moral and ethical compass
+
+Learn, think, adapt
+
+Balance risk and opportunity to retain the initiative
+
+Build agile, effective, high-performing teams
+
+Empower subordinates and underwrite risk
+
+Develop bold, adaptive, and broadened leaders
+
+Communicate—up, down, and laterally; tell the whole story
+ADP 6-22, Army Leadership, describes our foundational leadership principles. I challenge
+each of you to study and build upon this doctrine to prepare yourselves, your peers, and
+your Soldiers to meet the challenges you are sure to face.
+Army Strong!
+
+RAYMOND T. ODIERNO
+GENERAL, UNITED STATES ARMY
+CHIEF OF STAFF
+
+This page intentionally left blank.
+
+ADP 6-22
+
+Headquarters
+Department of the Army
+Washington, DC, 1 August 2012
+
+Army Doctrine Publication
+No. 6-22
+
+Army Leadership
+Contents
+Page
+PREFACE ..................................................................................................... ii
+Army Leader Defined ............................................................................. 1
+Purpose of Leadership ........................................................................... 1
+Components of Leadership .................................................................... 2
+Applying Influence .................................................................................. 2
+Leaders and Courage ............................................................................ 3
+Situational Leadership ............................................................................ 4
+Informal and Collective Leadership ........................................................ 4
+Command and Leadership ..................................................................... 4
+Leadership Requirements Model ........................................................... 5
+Leader Attributes .................................................................................... 6
+Leader Competencies ............................................................................ 7
+How Leaders Develop ............................................................................ 9
+Conclusion ............................................................................................. 9
+GLOSSARY .................................................................................. Glossary-1
+REFERENCES .......................................................................... References-1
+
+Figures
+Figure 1. Underlying logic of Army leadership ...................................................... iii
+Figure 2. Army leadership requirements model .................................................... 5
+
+DISTRIBUTION RESTRICTION. Approved for public release; distribution is unlimited.
+i
+
+Preface
+Army Doctrine Publication (ADP) 6-22, Army Leadership, establishes the Army leadership
+principles that apply to officers, noncommissioned officers and enlisted Soldiers as well as
+Army Civilians.
+The principal audience for ADP 6-22 is all leaders, military and civilian. Commanders and
+staffs of Army headquarters serving as joint task force or multinational headquarters should
+also refer to applicable joint or multinational doctrine concerning the range of military
+operations and joint or multinational forces. Trainers and educators throughout the Army
+will also use this manual.
+Commanders, staffs, and subordinates ensure their decisions and actions comply with
+applicable United States, international, and, in some cases, host-nation laws and
+regulations. Commanders at all levels ensure their Soldiers operate in accordance with the
+law of war and the rules of engagement. (See Field Manual [FM] 27-10.)
+ADP 6-22 uses joint terms where applicable. Selected joint and Army terms and definitions
+appear in both the glossary and text. Terms for which ADP 6-22 is the proponent
+publication have an asterisk in the glossary. Definitions for which ADP 6-22 is the
+proponent publication are in boldfaced text. For other definitions in the text, the term is
+italicized and the proponent manual number follows the definition. The use of the term
+influence throughout this publication reflects the definition of common English usage “the
+act or power of producing an effect without apparent exertion of force or direct exercise of
+command,” as distinct from the usage outlined in FM 3-13. It is contrary to law for DOD to
+undertake operations intended to influence a domestic audience; nothing in this publication
+recommends activities in contravention of this law.
+ADP 6-22 applies to the Active Army, Army National Guard/Army National Guard of the
+United States, United States Army Reserve, and Army Civilian workforce unless otherwise
+stated.
+Readers should refer to Army Doctrine Reference Publication (ADRP) 6-22, Army
+Leadership, for detailed explanations of the Army leadership principles.
+The proponent of ADP 6-22 is the United States Army Combined Arms Center. The
+preparing agency is the Center for Army Leadership, U.S. Army Combined Arms Center Leader Development and Education. Send comments and recommendations on DA Form
+2028 (Recommended Changes to Publications and Blank Forms) to Director, Center for
+Army Leadership, ATTN: ATZL-LDL (ADP 6-22), 290 Stimson Avenue, Unit 4, Fort
+Leavenworth, KS 66027-1352; by e-mail to usarmy.leavenworth.tradoc.mbx.622@mail.mil; or submit an electronic DA Form 2028.
+
+ii
+
+ADP 6-22
+
+1 August 2012
+
+Army Leadership
+
+Figure 1. Underlying logic of Army leadership
+
+1 August 2012
+
+ADP 6-22
+
+iii
+
+This page intentionally left blank.
+
+The Army exists to serve the American people, protect enduring
+national interests, and fulfill the nation’s military responsibilities.
+Fulfilling these purposes relies on leaders who embody valuesbased leadership, impeccable character, and professional
+competence. Leaders require these enduring qualities regardless of
+the mission or assignment, at all levels, across all cohorts.
+
+ARMY LEADER DEFINED
+1. Leadership, the lifeblood of an army, makes a difference every day in the United
+States Army. Since the formation of the Continental Army until today with Soldiers
+deployed around the globe, Army leaders have accepted the challenges before them.
+The United States Army has always had great leaders who have risen above hardships
+and have drawn on a range of leadership qualities to influence Soldiers, build units,
+and accomplish the mission.
+2. Leadership is characterized by a complex mix of organizational, situational, and
+mission demands on a leader who applies personal qualities, abilities, and experiences
+to exert influence on the organization, its people, the situation, and the unfolding
+mission. Difficult and complex situations are the proving ground for leaders expected
+to make consistent timely, effective and just decisions.
+An Army leader is anyone who by virtue of assumed role or assigned
+responsibility inspires and influences people to accomplish organizational
+goals. Army leaders motivate people both inside and outside the chain of
+command to pursue actions, focus thinking and shape decisions for the
+greater good of the organization.
+
+PURPOSE OF LEADERSHIP
+3. The Army requires leadership to make choices and establish unifying direction for
+the organization. Organizations have multiple sources to monitor and assess situations
+and provide input for decisions; however, a central leader must oversee and ultimately
+accept responsibility for the conduct of missions.
+Leadership is the process of influencing people by providing purpose,
+direction, and motivation to accomplish the mission and improve the
+organization.
+4. Leadership is a process of influence. Since first publishing leadership doctrine in
+1948, the Army has consistently defined leadership as a process. This is significant
+because a process can be learned, monitored and improved. While personality and
+innate traits affect a process, the Army endorses the idea that good leadership does not
+just happen by chance but is a developable skill. A leader influences other people to
+accomplish a mission or fulfill a purpose. The means of influence include actions to
+convey motivation. Accomplishing the current mission is not enough—the leader is
+responsible for developing individuals and improving the organization for the nearand long-term.
+1 August 2012
+
+ADP 6-22
+
+1
+
+ADP 6-22
+
+5. As an element of combat power, leadership unifies the other elements
+(information, mission command, movement and maneuver, intelligence, fires,
+sustainment, and protection). Leadership is a multiplier of effects; with it,
+organizations are focused and synchronized, resources are used efficiently, people
+become energized and motivated, and missions are more likely to achieve desired
+outcomes. Leadership serves a motivational purpose: to energize others to achieve
+challenging goals. An organization with effective leadership has a clear purpose,
+common methods, and ordered processes; sustains itself; and accomplishes its
+missions. Effective organizations rely on leaders to balance uncertainty, remain
+flexible, and provide a climate where subordinates have the latitude to explore options.
+
+COMPONENTS OF LEADERSHIP
+6. Leadership involves at least two people or groups, one which leads and another
+which follows. The influence process aims at getting results and developing the
+organization. This accomplishes missions of high quality while sustaining and
+improving the organization within available resources. Leaders must balance
+successful mission accomplishment with how they treat and care for organizational
+members. Taking care of people involves creating and sustaining a positive climate
+through open communications, trust, cohesion, and teamwork.
+7. Followers respond to the authority of a leader in general or in response to specific
+guidance. Effective organizations depend on the competence of respectful leaders and
+loyal followers. Given the hierarchical structure of the Army, every Army leader is
+also a follower. Learning to be a good leader also needs to be associated with learning
+to be a good follower—learning loyalty, subordination, respect for superiors, and even
+when and how to lodge candid disagreement.
+
+APPLYING INFLUENCE
+8. Influence falls along a continuum from commitment, where followers willingly
+act for a higher purpose, to compliance, where followers merely fulfill requests and act
+in response to the leader’s positional power. The degree of commitment or compliance
+affects initiative taken, motivation to accomplish missions, and the degree of accepted
+responsibility. Commanders expect subordinate leaders and Soldiers to commit to
+successful mission accomplishment. Trust, commitment, and competence enable
+mission command and allow the freedom of action to be operationally agile and
+adaptive.
+9. Leaders can encounter resistance when attempting to influence others internal or
+external to their unit. Leaders can mitigate resistance by anticipating what others
+value, their reactions to influence, their shared understanding of common goals, and
+their commitment to the general organization or the purpose of the mission and their
+trust in the organization and the leader. After taking measure of underlying causes of
+resistance, leaders can work to build or restore relationships, determine shared goals,
+remove perceived threats or other actions, and clarify how the influence action relates
+to their personal values.
+2
+
+ADP 6-22
+
+1 August 2012
+
+Army Leadership
+
+10. A leader can influence others outside the chain of command and succeed in
+gaining support for stated goals. Leaders can influence these outside groups, such as
+the local populace, using indirect means of influence. Success in these situations relies
+upon the relationships established between the Army leader and the outside parties.
+Trust characterizes positive relationships. Army leaders build trust by being honest and
+dependable. Without trust, there will be no relationship, no commitment, and no
+effective communication among parties.
+11. Occasionally, negative leadership occurs in an organization. Negative leadership
+generally leaves people and organizations in a worse condition than when the leaderfollower relationship started. One form of negative leadership is toxic leadership.
+Toxic leadership is a combination of self-centered attitudes, motivations, and
+behaviors that have adverse effects on subordinates, the organization, and mission
+performance. This leader lacks concern for others and the climate of the organization,
+which leads to short- and long-term negative effects. The toxic leader operates with an
+inflated sense of self-worth and from acute self-interest. Toxic leaders consistently use
+dysfunctional behaviors to deceive, intimidate, coerce, or unfairly punish others to get
+what they want for themselves. The negative leader completes short-term requirements
+by operating at the bottom of the continuum of commitment, where followers respond
+to the positional power of their leader to fulfill requests. This may achieve results in
+the short term, but ignores the other leader competency categories of leads and
+develops. Prolonged use of negative leadership to influence followers undermines the
+followers’ will, initiative, and potential and destroys unit morale.
+12. Encouragement and inspiration characterize leadership whereas coercive
+techniques run counter to Army leadership principles. Subordinates respond well to
+leadership that encourages commitment to achieve shared goals, thus improving the
+leader’s ability to use indirect influence in situations where clear lines of authority do
+not exist. Leadership seeks to influence others through the communication of ideas and
+common causes. Positive, empowering influence comes by knowing how to lead,
+relate to others, and free others to manage tasks.
+
+LEADERS AND COURAGE
+13. Army leaders accept the responsibility to develop and lead others to achieve
+results. All members of the Army—Soldiers and Army Civilians—swear an oath to
+support and defend the Constitution of the United States against all enemies, foreign
+and domestic. This oath subordinates the military leader to the laws of the nation and
+its elected and appointed leaders, creating a distinct civil-military relationship.
+Fulfilling that oath, leaders will face—and have to overcome—fear, danger, and
+physical and moral adversity while caring for those they lead and protecting the
+organization entrusted to them.
+14. It takes personal courage to take the initiative to make something happen rather
+than standing by or withdrawing and hoping events will turn out well. Leaders require
+personal courage when confronting problems of discipline or disorderly conduct, when
+innovation and adaptation are needed to try something that has never been done
+before, when leading Soldiers in harm’s way, when being candid with a superior about
+1 August 2012
+
+ADP 6-22
+
+3
+
+ADP 6-22
+
+a risky or improper course of action, when deferring to a more technically competent
+subordinate, or when freeing units and personnel to solve problems. Leaders must have
+the courage to make tough calls, to discipline or demand better when required.
+Consistent and fair leaders will earn the respect of their followers.
+15. A self-aware leader will learn from each decision and action; with guidance from
+superiors, the leader will grow in confidence. Resilient and fit leaders have the
+psychological and physical capacity to bounce back from life’s stressors to thrive in an
+era of high operational tempo and persistent conflict.
+
+SITUATIONAL LEADERSHIP
+16. Leaders adjust their actions based on the situation. A situation influences what
+purpose and direction are needed. Situations include the setting, the people and team,
+the adversary, cultural and historical background, and the mission to be accomplished.
+The effectiveness of influence methods also vary with the situation and the time
+available for action. Education, training and experience are vital to develop the
+knowledge necessary to lead.
+
+INFORMAL AND COLLECTIVE LEADERSHIP
+17. Leadership guidance does not have to come only from the highest-ranking leader.
+Informal leadership that exists throughout organizations supports legitimate authority
+and plays an important role in mission accomplishment and organizational
+improvement. Informal leadership manifests itself through knowledge, experience or
+technical expertise. Informal and collective leadership are important types of
+leadership that do not adhere entirely to hierarchical levels of authority.
+18. Collective leadership refers to the combined effects and synergies when leaders at
+different levels synchronize their leadership actions to achieve a common purpose.
+High performing collective leadership occurs when leadership processes are mutually
+reinforcing and the result is greater than the sum of its parts—a sense of shared
+responsibility for the unit exists.
+19. Anyone can demonstrate leadership. The person with the highest rank or date of
+rank in a situation technically has the greatest authority. The ranking leader present is
+expected to exert influence as needed. The Army expects those with the greatest
+expertise and knowledge of the situation to lead. Presence is not solely projected by
+physical presence but through communications and situational awareness.
+
+COMMAND AND LEADERSHIP
+20. Command is the authority that a commander in the armed forces lawfully
+exercises over subordinates by virtue of rank or assignment. Command includes the
+authority and responsibility for effectively using available resources and for planning
+the employment of, organizing, directing, coordinating, and controlling military forces
+for the accomplishment of assigned missions. It also includes responsibility for health,
+welfare, morale, and discipline of assigned personnel (see JP 1-02). Mission command
+4
+
+ADP 6-22
+
+1 August 2012
+
+Army Leadership
+
+is the exercise of authority and direction by the commander using mission orders to
+enable disciplined initiative within the commander’s intent to empower agile and
+adaptive leaders in the conduct of unified land operations (see ADP 6-0).
+21. Leaders can influence each other and subordinates regardless of rank, though
+subordination based on rank occurs with both command and leadership. AR 600-20
+specifically charges commanders to perform functions such as establishing a positive
+climate, caring for the well-being of Soldiers, properly training their Soldiers and
+developing subordinates’ competence. By extension, subordinate leaders have a role to
+support each of these functions.
+
+LEADERSHIP REQUIREMENTS MODEL
+22. The Leadership Requirements Model conveys the expectations that the Army
+wants leaders to meet. A common model of leadership shows how different types of
+leaders work together and is useful for aligning leader development activities and
+personnel management practices and systems. One set of requirements consists of
+attributes of what leaders should be and know and the second is a set of competencies
+that the Army requires leaders to do. The single model organizes the disparate
+requirements and expectations of leaders at all levels of leadership.
+
+Figure 2. Army leadership requirements model
+23. Leadership attributes are characteristics internal to a leader. Character is the
+essence of who a person is, what a person believes, how a person acts. The
+internalization of Army Values is one type of character attribute. Empathy is
+identifying and understanding what others think, feel and believe. Leaders of character
+who embrace the Army leader attributes and competencies will be authentic, positive
+1 August 2012
+
+ADP 6-22
+
+5
+
+ADP 6-22
+
+leaders. While character relates to the internal identity of the leader, presence
+attributes relate how others see the leader and intellect relates to what abilities and
+knowledge the leader possesses to think and interact with others.
+24. Leadership competencies are groups of related actions that the Army expects
+leaders to do—lead, develop and achieve. Core competencies are those groups of
+actions universal to leaders, across cohorts and throughout organizations.
+
+LEADER ATTRIBUTES
+25. Attributes shape how an individual behaves and learns in their environment. The
+leader attributes are character, presence and intellect. These attributes capture the
+values and identity of the leader (character); the leader’s outward appearance,
+demeanor, actions and words (presence); and the mental and social faculties the leader
+applies in the act of leading (intellect). Attributes affect the actions that leaders
+perform. Good character, solid presence and keen intellect enable the core leader
+competencies to be performed with greater effect.
+
+CHARACTER
+26. Leadership is affected by a person’s character and identity. Integrity is a key mark
+of a leader’s character. It means doing what is right, legally and morally. The
+considerations required in leader choices are seldom obvious as wholly ethical or
+unethical. The Soldier’s Rules, which codify the law of war, outline ethical and lawful
+conduct in operations and are useful for everyday conduct (see AR 350-1). Leaders
+who unwaveringly adhere to applicable laws, regulations, and unit standards build
+credibility with their subordinates and enhance trust from the American people they
+serve.
+27. Leaders of integrity adhere to the values that are part of their personal identity and
+set a standard for their followers to emulate. Identity is one’s self-concept, how one
+defines him or herself. Leaders who are effective with followers identify with the role
+and expectations of a leader; they willingly take responsibilities typical of a leader and
+perform the actions of a leader. Leaders who are unsure of themselves may not have a
+strong idea of their identity.
+
+PRESENCE
+28. The impression a leader makes on others contributes to success in getting people
+to follow. This impression is the sum of a leader’s outward appearance, demeanor,
+actions and words and the inward character and intellect of the leader. Presence entails
+the projection of military and professional bearing, holistic fitness, confidence and
+resilience. Strong presence is important as a touchstone for subordinates, especially
+under duress. A leader who does not share the same risks could easily make a decision
+that could prove unworkable given the psychological state of Soldiers and Civilians
+affected by stress.
+
+6
+
+ADP 6-22
+
+1 August 2012
+
+Army Leadership
+
+INTELLECT
+29. The leader’s intellect affects how well a leader thinks about problems, creates
+solutions, makes decisions and leads others. People differ in intellectual strengths and
+ways of thinking. There is no one right way to think. Each leader needs to be selfaware of strengths and limitations and apply them accordingly. Being mentally agile
+helps leaders address changes and adapt to the situation and the dynamics of
+operations. Critical and innovative thought are abilities that enable the leader to be
+adaptive. Sound judgment enables the best decision for the situation at hand. It is a key
+attribute of the transformation of knowledge into understanding and quality execution.
+
+LEADER COMPETENCIES
+30. There are three categories of competencies. The Army leader serves to lead
+others; to develop the environment, themselves, others and the profession as a whole;
+and to achieve organizational goals. Competencies provide a clear and consistent way
+of conveying expectations for Army leaders.
+31. The core leader competencies apply across all levels of leader positions, providing
+a good basis for evaluation and focused multisource assessment and feedback. A
+spectrum of leaders and followers (superiors, subordinates, peers and mentors) can
+observe and assess competencies demonstrated through leader behaviors.
+32. Leader competencies can be developed. Leaders acquire competencies at the
+direct leadership level. As the leader moves to organizational and strategic level
+positions, the competencies provide the basis for leading through change. Leaders
+continuously refine and extend the ability to perform these competencies proficiently
+and learn to apply them to increasingly complex situations.
+
+LEADS
+33. The category of leads encompasses five competencies. Two focus on the
+affiliation of the followers and the common practices for interacting with them. Leads
+others involves influencing Soldiers and Army Civilians in the leader’s organization.
+Extends influence beyond the chain of command involves influencing others when the
+leader does not have designated authority or while the leader’s authority is not
+recognized by others, such as with unified action partners. Builds trust is an important
+competency to establish conditions of effective influence and for creating a positive
+environment. Leader actions and words comprise the competencies of leads by
+example and communicates. Actions can speak louder than words and excellent leaders
+use this to serve as a role model to set the standard. Leaders communicate to convey
+clear understanding of what needs to be done and why.
+34. Leaders are expected to extend influence beyond the chain of command, which
+usually has limited formal authority. This competency widens the responsibility and
+sphere of influence for a leader. Such influence requires insightful—and possibly nonstandard—methods to influence others. Its limited authority stems from the audience’s
+possible lack of the traditions, customs, and regulations of the Army and military
+1 August 2012
+
+ADP 6-22
+
+7
+
+ADP 6-22
+
+forces. When extending influence, Army leaders have to assess who they need to
+influence and determine how best to establish their authority and execute leadership
+functions. Often they have little time to assess the situation beforehand and need to
+adapt as the interaction evolves. Extending influence is a competency that includes
+negotiation, consensus building and conflict resolution. Extending influence largely
+depends on the trust established with unified action partners and often applies to
+stability and defense support of civil authorities operations.
+
+DEVELOPS
+35. Leaders operate to improve or sustain high performance in their organization.
+They do so by focusing on the four develops competencies. Create a positive
+environment inspires an organization’s climate and culture. Prepares self encourages
+improvement in leading and other areas of leader responsibility. Leaders develop
+others to assume greater responsibility or achieve higher expertise. A leader stewards
+the profession to maintain professional standards and effective capabilities for the
+future.
+36. Leaders are responsible for development. They must ensure that they themselves
+are developing, that they are developing subordinates, and that they are sustaining a
+positive climate and improving the organization. Leaders encourage development and
+set conditions while performing missions. Development occurs by having subordinates
+reflect on what happened during an event, by assessing whether units performed at or
+well above standard and why, in addition to having a positive mindset of improvement
+and learning. Every experience is developmental.
+37. Leaders have choices to make about developing others. Leaders choose when and
+how to coach, counsel and mentor others. Leaders often have the freedom to place
+people in the best situation to maximize their talent. Then the leader provides
+resources the subordinate needs to succeed, makes expectations clear, and provides
+positive, meaningful feedback. While leaders need to develop others, they have to set a
+positive climate in which individuals and the unit can improve and operate. As part of
+their developmental responsibilities, leaders must prepare themselves and act to
+promote long-term stewardship of the Army.
+
+ACHIEVES
+38. Gets results is the single achieves competency and relates to actions to accomplish
+tasks and missions on time and to standard. Getting results is the goal of leadership but
+leaders must remain mindful that leading people and creating positive conditions
+enable them to operate as successful leaders. Getting results requires the right level of
+delegation, empowerment and trust balanced against the mission. Adaptability to
+conditions and adjustments based on adversarial actions are ever important elements of
+success.
+
+8
+
+ADP 6-22
+
+1 August 2012
+
+Army Leadership
+
+HOW LEADERS DEVELOP
+39. Leadership—and increased proficiency in leadership—can be developed.
+Fundamentally, leadership develops when the individual desires to improve and
+invests effort, when his or her superior supports development, and when the
+organizational climate values learning. Learning to be a leader requires knowledge of
+leadership, experience using this knowledge and feedback. Formal systems such as
+evaluation reports, academic evaluation reports, and 360o assessments offer
+opportunities to learn—but the individual must embrace the opportunity and
+internalize the information. The fastest learning occurs when there are challenging and
+interesting opportunities to practice leadership with meaningful and honest feedback
+and multiple practice opportunities. These elements contribute to self-learning,
+developing others and setting a climate conducive to learning.
+40. Leader development involves recruiting, accessing, developing, assigning,
+promoting, broadening, and retaining the best leaders, while challenging them over
+time with greater responsibility, authority and accountability. Army leaders assume
+progressively broader responsibilities across direct, organizational and strategic levels
+of leadership. Military leadership is unique because the armed forces grow their own
+leaders from the lowest to highest levels. The Army entrusts leaders to develop
+professionally and be ready to accept greater responsibility when called upon.
+
+CONCLUSION
+41. ADP 6-22, Army Leadership, establishes the fundamental principles by which
+Army leaders accomplish their missions and care for their people. It describes the
+enduring concepts of leadership through the core leader competencies and attributes
+required of contemporary leaders of all cohorts and all organizations, regardless of
+mission or setting. These principles reflect decades of experience and the best
+scientific knowledge available. Leadership fundamentally remains a process of
+influence; how and when influence is applied determines the eventual mission success
+and the capabilities of Army organizations.
+
+1 August 2012
+
+ADP 6-22
+
+9
+
+This page intentionally left blank.
+
+Glossary
+The glossary lists acronyms and terms with definitions. Terms for
+which ADP 6-22 is the proponent (authority) manual are marked
+with an asterisk (*).
+
+SECTION I – ACRONYMS AND ABBREVIATIONS
+ADP
+ADRP
+
+Army doctrine publication
+Army doctrine reference publication
+
+AR
+
+Army regulation
+
+DA
+
+Department of the Army
+
+DOD
+
+Department of Defense
+
+FM
+
+field manual
+
+JP
+
+joint publication
+
+TC
+
+training circular
+
+SECTION II – TERMS
+*Army leader
+Anyone who by virtue of assumed role or assigned responsibility inspires and
+influences people to accomplish organizational goals. Army leaders motivate
+people both inside and outside the chain of command to pursue actions, focus
+thinking and shape decisions for the greater good of the organization.
+command
+The authority that a commander in the armed forces lawfully exercises over
+subordinates by virtue of rank or assignment. Command includes the authority and
+responsibility for effectively using available resources and for planning the
+employment of, organizing, directing, coordinating, and controlling military
+forces for the accomplishment of assigned missions. It also includes responsibility
+for health, welfare, morale, and discipline of assigned personnel. (JP 1-02)
+*leadership
+The process of influencing people by providing purpose, direction, and motivation
+to accomplish the mission and improve the organization.
+mission command
+The exercise of authority and direction by the commander using mission orders to
+enable disciplined initiative within the commander’s intent to empower agile and
+adaptive leaders in the conduct of unified land operations. (ADP 6-0)
+
+1 August 2012
+
+ADP 6-22
+
+Glossary-1
+
+This page intentionally left blank.
+
+References
+Field manuals are listed by new number followed by old number.
+
+REQUIRED PUBLICATIONS
+These documents must be available to intended users of this publication.
+JP 1-02. Department of Defense Dictionary of Military and Associated Terms.
+8 November 2010.
+
+RELATED PUBLICATIONS
+These documents contain relevant supplemental information. Most Army
+doctrinal publications are available online: <http://www.apd.army.mil/>.
+ADP 6-0. Mission Command. 17 May 2012.
+ADRP 6-0. Mission Command. 17 May 2012.
+ADRP 6-22. Army Leadership. 1 August 2012.
+AR 350-1. Army Training and Leader Development. 4 August 2011.
+AR 600-20. Army Command Policy. 4 August 2011.
+FM 3-13. Information Operations: Doctrine, Tactics, Techniques, and
+Procedures. 28 November 2003.
+FM 27-10. The Law of Land Warfare. 18 July 1956.
+
+REFERENCED FORMS
+DA Form 2028. Recommended Changes to Publications and Blank Forms.
+
+1 August 2012
+
+ADP 6-22
+
+References-1
+
+This page intentionally left blank.
+
+ADP 6-22
+1 August 2012
+
+By Order of the Secretary of the Army:
+
+RAYMOND T. ODIERNO
+General, United States Army
+Chief of Staff
+
+Official:
+JOYCE E. MORROW
+Administrative Assistant to the
+Secretary of the Army
+1220101
+
+DISTRIBUTION:
+Active Army, Army National Guard, and United States Army Reserve: To be
+distributed in accordance with the initial distribution number (IDN) 110180,
+requirements for ADP 6-22.
+
+PIN: 103006-000
+
+

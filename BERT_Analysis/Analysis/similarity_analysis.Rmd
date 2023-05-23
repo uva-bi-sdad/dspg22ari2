@@ -1,0 +1,201 @@
+---
+title: "Untitled"
+author: "Joanna Schroeder"
+date: "4/10/2023"
+output: html_document
+---
+```{r}
+setwd("~/git/dspg22ari2/BERT_Analysis/Docs")
+
+# Get file names in "docs" folder
+file_names <- list.files()
+
+# Write file names to "document_names.txt"
+write.table(file_names, "~/git/dspg22ari2/BERT_Analysis/Analysis/document_names.txt", row.names = FALSE, col.names = FALSE, quote = FALSE)
+
+```
+
+```{r fig.height = 20}
+library(tidyverse)
+library(lsa)
+
+# Load the document vectors
+matrix <- read.csv("output_vectors.csv")
+
+# Load the document names
+
+doc_names <- readLines("document_names.txt") 
+
+# Compute the cosine similarities for all pairs of documents
+cosine <- cosine(t(matrix)) %>%
+  as.data.frame() %>%
+  rownames_to_column(var = "doc_one") %>%
+  pivot_longer(cols = -doc_one, names_to = "doc_two", values_to = "cosine_similarity") %>%
+  mutate(doc_one = ifelse(!is.na(match(as.character(doc_one), as.character(doc_names))), 
+                        doc_names[match(as.character(doc_one), as.character(doc_names))], 
+                        as.character(doc_one)),
+       doc_two = ifelse(!is.na(match(as.character(doc_two), as.character(doc_names))), 
+                        doc_names[match(as.character(doc_two), as.character(doc_names))], 
+                        as.character(doc_two)))
+
+
+
+
+
+# Loop through each document and create a cosine similarity graph against all other documents
+for (doc_name in doc_names) {
+  cosine_doc <- cosine %>%
+    filter(doc_one == doc_name) %>%
+    ggplot(aes(x = factor(doc_one), y = reorder(factor(doc_two), -cosine_similarity), fill = cosine_similarity)) +
+    geom_tile() +
+    geom_text(aes(label = round(cosine_similarity, 3)), size = 2) +
+    scale_x_discrete(position = "top") +
+    scale_y_discrete(limits = rev) +
+    scale_fill_gradient(low = "white", high = "#E57200") +
+    theme(legend.position="bottom", panel.background = element_blank(),
+          plot.title = element_text(face = "bold"), text = element_text(size = 15),
+          legend.key.width = unit(4,"line")) +
+    labs(fill = "Cosine Similarity",
+         y = "Doc Y",
+         x = "Doc X") +
+    guides(fill = guide_colorbar(title.position = "top"))
+  
+  ggsave(paste0(doc_name, "_cosine_similarity.png"), cosine_doc, width = 10, height = 10)
+}
+
+```
+
+```{r fig,height = 20}
+library(tidyverse)
+library(proxy)
+library(tidyverse)
+library(lsa)
+library(textTinyR)
+library(proxy)
+library(text)
+
+# Load the required data
+matrix <- read.csv("output_vectors_gat.csv")
+doc_names <- readLines("documents_GAT") %>% str_remove(".txt") %>% str_remove(".pdf")
+all_docs <- readLines("document_names.txt") %>% str_remove(".txt") %>% str_remove(".pdf")
+all_matrix <- read.csv("output_vectors.csv")
+
+# Compute the cosine similarity
+similarity_scores <- text::cosine(all_matrix[1, ], matrix)
+
+# Create a data frame with document names and similarity scores
+similarity_df <- data.frame(Documents = doc_names, Similarity = similarity_scores)
+
+# Plot the similarity scores
+plot(similarity_df$Similarity, type = "l", xlab = "Document Index", ylab = "Cosine Similarity")
+
+
+
+   
+
+
+
+
+```
+
+```{r fig.height = 20}
+library(tidyverse)
+library(lsa)
+
+matrix <- read.csv("output_vectors.csv")
+
+doc_names <- readLines("document_names.txt") %>% str_remove(".txt") %>% str_remove(".pdf")#assuming document names are stored in a file called "document_names.txt", removing ".txt" extension and shortening the names
+
+
+cosine <- cosine(t(matrix)) %>%
+  as.data.frame() %>%
+  rownames_to_column(var = "doc_one") %>%
+  pivot_longer(cols = -doc_one, names_to = "doc_two", values_to = "cosine_similarity") %>%
+  mutate(doc_two = str_remove(doc_two, "V")) %>% #remove the "V" prefix from doc names
+  mutate(doc_one = doc_names[as.numeric(doc_one)],
+         doc_two = doc_names[as.numeric(doc_two)]) #assign document names to doc_one and doc_two
+
+cosine <- cosine %>% mutate(year1 = str_extract(doc_one, "[:digit:]{4}$"), year2 = str_extract(doc_two, "[:digit:]{4}$"))
+
+cosine %>% dplyr::filter(!is.na(doc_one), !is.na(doc_two), doc_two != "document_names", doc_one != "document_names") %>%
+  ggplot(aes(x = reorder(doc_one, as.numeric(year1)),
+             y = reorder(doc_two, as.numeric(year2)),
+             fill = cosine_similarity)) +
+  geom_tile() +
+ # geom_text(aes(label = round(cosine_similarity, 3)), size = 2) +
+  scale_x_discrete(position = "top") +
+  scale_y_discrete(limits = rev) +
+  scale_fill_gradient(low = "white", high = "#E57200") +
+  theme(legend.position="bottom", panel.background = element_blank(),
+        plot.title = element_text(face = "bold"), text = element_text(size = 15),
+        legend.key.width = unit(4,"line"),
+        axis.text.x = element_text(angle = 45, hjust=0)) +
+  labs(fill = "Cosine Similarity",
+       y = "Doc Y",
+       x = "Doc X") +
+  guides(fill = guide_colorbar(title.position = "top")) 
+
+cosine %>% filter(doc_one == doc_names[1]) %>%
+  ggplot(aes(x = factor(doc_one), y = reorder(factor(doc_two), -cosine_similarity), fill = cosine_similarity)) +
+  geom_tile() +
+  geom_text(aes(label = round(cosine_similarity, 3)), size = 2) +
+  scale_x_discrete(position = "top") +
+  scale_y_discrete(limits = rev) +
+  scale_fill_gradient(low = "white", high = "#E57200") +
+  theme(legend.position="bottom", panel.background = element_blank(),
+        plot.title = element_text(face = "bold"), text = element_text(size = 15),
+        legend.key.width = unit(4,"line")) +
+  labs(fill = "Cosine Similarity",
+       y = "Doc Y",
+       x = "Doc X") +
+  guides(fill = guide_colorbar(title.position = "top"))
+
+```
+
+```{r fig.height = 20, fig.width = 10}
+library(tidyverse)
+library(lsa)
+
+#list.files("~/git/dspg22ari2/BERT_Analysis/Docs")
+
+matrix <- read.csv("output_vectors.csv")
+
+cosine <- cosine(t(matrix)) %>% as.data.frame() %>% rownames_to_column() %>% pivot_longer(!rowname) %>%
+  select(doc_one = rowname, doc_two = name, cosine_similarity = value) %>% 
+  mutate(doc_two = sub("V", "", doc_two))
+
+cosine %>%
+  ggplot(aes(x = reorder(doc_one, as.numeric(doc_one)), 
+             y = reorder(doc_two, as.numeric(doc_two)),
+             fill = cosine_similarity)) + 
+    geom_tile() +    
+    #geom_text(aes(label = round(cosine_similarity, 3)), size = 6) +  
+    scale_x_discrete(position = "top") + 
+    scale_y_discrete(limits = rev) +
+    scale_fill_gradient(low = "white", high = "#E57200") +
+    theme(legend.position="bottom", panel.background = element_blank(),         
+          plot.title = element_text(face = "bold"), text = element_text(size = 23),
+          legend.key.width = unit(4,"line")) +  
+    labs(fill = "Cosine Similarity",     
+         y = "Document Y",       
+         x = "Document X") +
+    guides(fill = guide_colorbar(title.position = "top"))
+
+cosine %>% filter(doc_one == "ADP_6.22_07_2019", !is.na(doc_two), doc_two != "document_names") %>%
+  ggplot(aes(x = factor(doc_one), y = reorder(doc_two, as.numeric(year2)), fill = cosine_similarity)) + 
+    geom_tile() +    
+    geom_text(aes(label = round(cosine_similarity, 3)), size = 6) +  
+    scale_x_discrete(position = "top") + 
+    scale_y_discrete(limits = rev) +
+    scale_fill_gradient(low = "white", high = "#E57200") +
+    theme(legend.position="bottom", panel.background = element_blank(),         
+          plot.title = element_text(face = "bold"), text = element_text(size = 23),
+          legend.key.width = unit(4,"line")) +  
+    labs(fill = "Cosine Similarity",     
+         y = "Document Y",       
+         x = "Document X") +
+    guides(fill = guide_colorbar(title.position = "top"))
+
+cosine %>% group_by(doc_one) %>% mutate(mean = mean(cosine_similarity)) %>% distinct(doc_one, mean) %>% arrange(mean)
+```
+

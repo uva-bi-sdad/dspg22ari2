@@ -15,7 +15,10 @@ col<- c("#232d4b","#2c4f6b","#0e879c","#60999a","#d1e0bf","#d9e12b","#e6ce3a","#
 
 ####################################################################################################
 # topic model on all documents --------
+
+#n_chapters_dtm <- new_tokenized_words %>%
 n_chapters_dtm <- tokenized_words %>% dplyr::filter(!(str_detect(document, ".rds"))) %>%
+
   cast_dtm(document, word, n)
 
 n_chapters_lda <- LDA(n_chapters_dtm, k = 18, control = list(seed = 1234))
@@ -69,6 +72,8 @@ ggsave("/home/seh6fy/git/dspg22ari2/data/Code/new_topic_model.png",
 ####################################################################################################
 # tf_idf on individual documents--------
 
+
+#n_desc_tf_idf <- new_tokenized_words%>% bind_tf_idf(word, document,n)
 n_desc_tf_idf <- tokenized_words %>% dplyr::filter(!(str_detect(document, ".rds"))) %>% bind_tf_idf(word, document,n)
 
 n_desc_tf_idf %>%
@@ -88,7 +93,7 @@ n_tf_idf<- n_desc_tf_idf%>%
 ggsave("/home/seh6fy/git/dspg22ari2/data/Code/dates_tf_idf.png",
        width = 15,
        height = 12)
-##########################
+
 #sentiment analysis ----
 tfidf_words <-pull(n_desc_tf_idf, word)
 sentimentWords <- get_nrc_sentiment(tfidf_words)

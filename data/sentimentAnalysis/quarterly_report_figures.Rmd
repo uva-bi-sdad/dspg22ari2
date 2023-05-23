@@ -143,6 +143,7 @@ newFrame2[1:9,] %>% separate(years, c("year", "month")) %>% mutate(date = as.cha
   theme_classic() +
   theme(text = element_text(size = 25))
 
+
 femalecodeplot <- ggplot(newFrame2, aes(x= years, y = femaleCodeVerb)) + geom_point()
 malecodeplot <- ggplot(newFrame2, aes(x = years, y = maleCodeVerb)) + geom_point()
 codedPlot <- plot_grid(femalecodeplot, malecodeplot)
