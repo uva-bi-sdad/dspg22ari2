@@ -65,6 +65,39 @@ for (doc_name in doc_names) {
 
 ```
 
+```{r fig,height = 20}
+library(tidyverse)
+library(proxy)
+library(tidyverse)
+library(lsa)
+library(textTinyR)
+library(proxy)
+library(text)
+
+# Load the required data
+matrix <- read.csv("output_vectors_gat.csv")
+doc_names <- readLines("documents_GAT") %>% str_remove(".txt") %>% str_remove(".pdf")
+all_docs <- readLines("document_names.txt") %>% str_remove(".txt") %>% str_remove(".pdf")
+all_matrix <- read.csv("output_vectors.csv")
+
+# Compute the cosine similarity
+similarity_scores <- text::cosine(all_matrix[1, ], matrix)
+
+# Create a data frame with document names and similarity scores
+similarity_df <- data.frame(Documents = doc_names, Similarity = similarity_scores)
+
+# Plot the similarity scores
+plot(similarity_df$Similarity, type = "l", xlab = "Document Index", ylab = "Cosine Similarity")
+
+
+
+   
+
+
+
+
+```
+
 ```{r fig.height = 20}
 library(tidyverse)
 library(lsa)
@@ -72,6 +105,7 @@ library(lsa)
 matrix <- read.csv("output_vectors.csv")
 
 doc_names <- readLines("document_names.txt") %>% str_remove(".txt") %>% str_remove(".pdf")#assuming document names are stored in a file called "document_names.txt", removing ".txt" extension and shortening the names
+
 
 cosine <- cosine(t(matrix)) %>%
   as.data.frame() %>%
