@@ -2,46 +2,36 @@
 title: "Team"
 ---
 
-# Interns  
-<p align="center">  
-
-![Skylar Haskiell](www/skylar_pic.jpg){width=60% } 
-</p>   
-
+# Data Science for the Public Good 2022 Interns  
 
 ## *Skylar Haskiell*  
 
+<p align="center">
+![Skylar Haskiell](www/skylar_pic.jpg){width=60% } 
+</p>
 
-Skylar is a rising third year at the University of Virginia pursuing a B.S. in Computer Science. 
-<p align="center">  
-
-![Jillian Eberhart](www/Jill.png){width=40% }</center>  
-  
-</p> 
+Skylar is a rising third year at the University of Virginia pursuing a B.S. in Computer Science.  
 
 ## *Jillian Eberhart*  
  
+<p align="center">  
+![Jillian Eberhart](www/Jill.png){width=40% }</center>  
+</p>
 
 Jillian is a rising third year at the University of Virginia pursuing a B.A. in Statistics with a minor in Health and Wellness. 
 
-# Social and Decision Analytics Staff  
-
-<p align="center">  
-
-![Joanna Schroeder](www/Joanna_pic.png){width=40% }   
-</p>  
+# UVA Biocomplexity Institute Social and Decision Analytics Division Staff  
 
 ## *Joanna Schroeder*  
-  
-Intermediate Research Specialist  
+Intermediate Research Specialist
+
 <p align="center">  
-
-
-![Joel Thurston](www/Joel_pic.png){width=40% }  
-</p> 
+![Joanna Schroeder](www/Joanna_pic.png){width=40% }   
+</p>
+   
 ## *Joel Thurston*  
- 
 Senior Scientist
 
- 
-
+<p align="center">  
+![Joel Thurston](www/Joel_pic.png){width=40% }  
+</p>

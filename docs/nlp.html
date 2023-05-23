@@ -34,8 +34,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -146,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -179,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -340,9 +337,6 @@ div.tocify {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="findings-overview.html">Overview</a>
-    </li>
-    <li>
       <a href="qualitative-analysis.html">Qualitative Analysis</a>
     </li>
     <li>
@@ -385,19 +379,19 @@ div.tocify {
 </p>
 <p>As can be seen above, the frequency at which certain terms co-occurred have been graphed. Words that appeared together more frequently are shown with darker lines.It can be extrapolated that words that appear together the most often, are in some way correlated. “N” represents the number of times each word pair appeared together. Some of the largest co-occurrences were between Army and leader, leader and subordinate, and team and member. These findings show that our corpus of document accurately explored our topic of individual Soldier characteristics that contribute to team performance.</p>
 </div>
+<div id="term-frequency-inverse-document-frequency-tf-idf" class="section level1">
+<h1>Term Frequency-Inverse Document Frequency (TF-IDF)</h1>
+<p>The TF-IDF model shows which words make each of the 10 documents we reviewed unique. The mean TF-IDF score for each word appears on the x-axis. The higher the score, the more important it is to the uniqueness of the document. Because the models highlight the words unique to each document, the most commonly occurring words across the corpus (e.g., Soldier, Army, leader, team) will not appear in these lists.</p>
+<img src="www/tf_idf.png" /><br />
+
+</p>
+</div>
 <div id="LDA" class="section level1">
-<h1>LDA</h1>
+<h1>Latent Dirichlet Allocation (LDA)</h1>
+<p>We ran an 18-topic LDA topic model. We did not assume that the topic modeling results would match the qualitative coding exactly, but we did find certain topics aligned with the themes identified in the document analysis. The codes most evocative of each topic were used to label the topic. Beta values indicate the number of words in a topic. The higher the beta, the larger the number of words in the corpus that are in the topic. Many of the topics strongly reflected our qualitative analysis codes, providing convergent evidence to the veracity of the qualitative analysis. Some of the codes – such as Qualities of a Leader, Shared Vision, and Team Success – were associated with multiple topics. This suggests that these qualities are particularly important to successful team performance in the Army.</p>
 <p align="center">
 <img src="www/topic_model.png" />
 </p>
-<p>An LDA topic model is shown above. This model was selected to have 18 topics. The topics were not selected to match certain codes, but it was found that certain topics do indeed match up in topic with certain codes. The codes most highly correlated with each topic were used as the label at the top. Beta represents the number of words in a topic. The higher the beta is, the more large the number of words in the corpus that are in the topic. Many of the topics correlated strongly to our codes which corroborates their selection. Some of the codes such as Qualities of a Leader, Shared Vision, and Team Success appeared multiple times. This could be extrapolated to show their importance to the Army.</p>
-</div>
-<div id="tf-idf" class="section level1">
-<h1>TF-IDF</h1>
-<p align="center">
-<img src="www/tf_idf.png" />
-</p>
-<p>Above is shown a TF-IDF model which shows which word make a document unique. The number shown is the mean TF-IDF score for each word. The higher the score, the more important it is to the uniqueness of the document. The document for which the model was created can be seen at the top of each graph. An interesting note is that many words such as Soldier, Army, leader, and team do not appear in the models. This is because the models represent what makes these documents unique and these words represent common themes.</p>
 </div>
 
 
