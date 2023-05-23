@@ -2,27 +2,24 @@
 title: "Natural Language Processing"
 output: html_document
 ---
-*For the purposes of this study, the colors used for graphs were selected arbitrarily and do not imply any derived meaning.* 
+*For the purposes of this study, it is important to note that the colors used for graphs were selected arbitrarily and have no correlation to any derived meaning.* 
 
-#Co-Occurrence
-The frequency at which certain terms co-occurred is graphed below. Words that appeared together more frequently are represented with darker lines. Words that appear together more frequently are assumed to share some association in theme or topic. "N" represents the number of times each word pair appeared together. Some of the most frequent co-occurring words were (1) Army and leader, (2) leader and subordinate, and (3) team and member. The high degree of association between these words, as well as the fact that these words were some of the most frequently occurring words in the corpus overall, demonstrate that we accurately selected key documents for exploring our question of interest, i.e., individual Soldier characteristics that contribute to team performance.
-
+# Co-occurrence
 <p align="center">  
 
 ![](www/co-occurence.png)  
 </p>  
 
-<!--Re ordered these sections to align with the Methods overview-->
-#Term Frequency-Inverse Document Frequency (TF-IDF)  
-The TF-IDF model shows which words make each of the 10 documents we reviewed unique. The mean TF-IDF score for each word appears on the x-axis. The higher the score, the more important it is to the uniqueness of the document. Because the models highlight the words unique to each document, the most commonly occurring words across the corpus (e.g.,  Soldier, Army, leader, team) will not appear in these lists,
+As can be seen above, the frequency at which certain terms co-occurred have been graphed. Words that appeared together more frequently are shown with darker lines.It can be extrapolated that words that appear together the most often, are in some way correlated. "N" represents the number of times each word pair appeared together. Some of the largest co-occurrences were between Army and leader, leader and subordinate, and team and member. These findings show that our corpus of document accurately explored our topic of individual Soldier characteristics that contribute to team performance.  
 
-<p align="center">  
+# Term Frequency-Inverse Document Frequency (TF-IDF)  
+The TF-IDF model shows which words make each of the 10 documents we reviewed unique. The mean TF-IDF score for each word appears on the x-axis. The higher the score, the more important it is to the uniqueness of the document. Because the models highlight the words unique to each document, the most commonly occurring words across the corpus (e.g.,  Soldier, Army, leader, team) will not appear in these lists.
 
 ![ ](www/tf_idf.png)  
 </p>  
 
 
-#Latent Dirichlet Allocation (LDA)  {#LDA}  
+# Latent Dirichlet Allocation (LDA)  {#LDA}  
 We ran an 18-topic LDA topic model. We did not assume that the topic modeling results would match the qualitative coding exactly, but we did find certain topics aligned with the themes identified in the document analysis. The codes most evocative of each topic were used to label the topic. Beta values indicate the number of words in a topic. The higher the beta, the larger the number of words in the corpus that are in the topic. Many of the topics strongly reflected our qualitative analysis codes, providing convergent evidence to the veracity of the qualitative analysis. Some of the codes – such as Qualities of a Leader, Shared Vision, and Team Success – were associated with multiple topics. This suggests that these qualities are particularly important to successful team performance in the Army.
 
 <p align="center">  

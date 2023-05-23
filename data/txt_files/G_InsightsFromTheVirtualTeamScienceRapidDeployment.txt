@@ -1,0 +1,281 @@
+Insights From the Virtual Team Science: Rapid Deployment During COVID-19
+Molly Kilcullen , Rice University, Houston, Texas, USA, Jennifer Feitosa, Claremont McKenna College, California, USA, and Eduardo Salas, Rice University, Houston, Texas, USA
+
+
+
+   Objective: To provide insights for organizations that must rapidly deploy teams to remote work.
+   Background: Modern situations, such as the COVID-19 pandemic, are rapidly accelerating the need for organizations to move employee teams to virtu- al environments, sometimes with little to no oppor- tunities to prepare for the transition. It is likely that organizations will continually have to adapt to evolving conditions in the future.
+   Method: This review synthesizes the litera- ture from several sources on best practices, lessons learned, and strategies for virtual teams. Information from each article deemed relevant was then extracted and de-identified. Over 64 best practices were inde- pendently and blindly coded for relevancy for the swift deployment of virtual teams.
+   Results: As a result of this review, tips for virtual teams undergoing rapid transition to remote work were developed. These tips are organized at the organization, team, and individual levels. They are further categorized under six overarching themes: norm setting, perfor- mance monitoring, leadership, supportive mechanisms, communication, and flexibility.
+   Conclusion: There is a significant deficit in the lit- erature for best practices for virtual teams for the pur- poses of rapid deployment, leaving it to organizations to subjectively determine what advice to adhere to. This manuscript synthesizes relevant practices and provides insights into effective virtual team rapid deployment.
+
+Keywords: team collaboration, team communication, team coordination, group processes, virtual environments
+
+
+Address correspondence to Eduardo Salas, Rice University, Houston, TX, 77005-1827, USA; e-mail: Eduardo.salas@ rice.edu
+
+HUMAN FACTORS
+Vol. 00, No. 0, Month XXXX, pp. 1-12 DOI:10.1177/0018720821991678
+Article reuse guidelines: sagepub.com/journals-permissions Copyright © 2021, Human Factors and Ergonomics Society.
+
+As modern technology advances, it becomes increasingly possible to have teams work together to accomplish work tasks remotely. Virtual teams are those whose members are geographically dispersed and who work on highly interdependent tasks (Malhotra et al., 2007). Organizations are increasingly relying on virtual teams due to a more competitive global market, saving on travel expenses, and integrating specialized employees who are geo- graphically dispersed (DeRosa et al., 2004). However, current events with the COVID-19 pandemic have necessitated that individuals and teams within organizations transfer to working remotely. This transfer has occurred almost instantaneously, leaving little to no time for preparation for the shift to remote work.
+Traditionally speaking, employing remote
+teams can help reduce real estate expenses, increase productivity, increase profits, improve customer service, access global markets, and benefit the environment (Ale Ebrahim et al., 2009; Bharathi et al., 2019; Cascio, 2000). Indeed, the substantial convenience of vir- tual teams negates cost expenditures of buy- ing and maintaining office spaces and paying for employee travel (Ale Ebrahim et al., 2009; Bharathi et al., 2019). When teams are virtual, organizations are able to employ talent beyond their home country. By consolidating experts within a field, collaboration is enhanced, which can increase knowledge sharing and result in greater innovation (Bharathi et al., 2019). There is also evidence that suggests that virtual teams are less resistant to change and have a higher degree of cohesion (Ale Ebrahim et al., 2009).
+The typical life cycle of virtual teams involves
+five phases: (1) preparation, (2) launch, (3) per- formance management, (4) team development, and (5) disbanding (Hertel et al., 2005). The
+
+preparation phase for virtual teams includes developing a mission statement, composing the team (i.e., selection), choosing relevant tech- nology, and developing reward systems and task design. The launch phase is where team members meet each other, clarify goals, and establish intra-team rules. In the performance management phase, leadership patterns as well as norms about communication and knowledge management are established. During the team development phase, the team assesses its needs, deploys trainings, and evaluates the effective- ness of those trainings. Finally, the disbanding stage is when team achievements are recog- nized, and members are re-integrated into their home organizations (when applicable). Experts propose that team virtuality varies as a function of their stage of development, such that higher tenure teams are more likely to be virtual than nascent teams (Kirkman & Mathieu, 2005).
+However, not all virtual teams are alike, in
+that they are not all formed for the same reasons or on the same time line. In some instances, organizations do not have the necessary time to appropriately prepare and launch standard virtual teams. Evidence is starting to emerge regarding the difficulty in sustaining optimal team performance during crisis (Tannenbaum et al., 2021), and some of the challenges of tra- ditional virtual teams face have to be adapted to the next context (Feitosa & Salas, 2020). Sometimes conditions are such that preexist- ing teams must be rapidly deployed to virtual settings, with little to no time for preparation. Organizations are scrambling to establish effec- tive remote work with little support or guidance. To match this need, recent research has begun to highlight the challenges of rapidly deployed virtual teams during COVID-19, including difficulties employees are experiencing fac- ing regarding unexpected personal problems related to motivation, anxiety, and engagement. (Winter, 2020).
+While there is an abundance of literature on
+how to manage effective virtual teams, this evi- dence is rooted in knowledge of typical virtual teams. Typical virtual teams are established by organizations that have time to select individ- uals appropriately for remote work, prepare norms for virtual team behaviors, and build
+
+team trust and bonds through team training. When in-person teams are rapidly changed to virtual settings, standard best practices are not always applicable. For instance, there is no opportunity to select employees based on their expertise and skill at working remotely. In addi- tion, in contrast to developing typical virtual teams, it is less important to necessitate team bonding, as team members are already familiar with one another.
+  To address such gap, this review aims to synthesize the literature and shed light on what practices are applicable for rapid deployment of teams to virtual settings. It is our opinion that this review will aid organizations to establish and maintain virtual team effectiveness in con- texts such as current events with the COVID-19 pandemic. These tips should provide support and guidance to organizations to adapt to any situation that calls for the expedited formation of virtual teams.
+
+METHODS
+  This narrative review synthesizes and inte- grates best practices for virtual teams to high- light recommendations that are applicable and essential to their rapid deployment. In the fol- lowing sections, the methodological approaches for accomplishing this task are summarized. Specifically, the inclusion criteria and the pro- cess of conceptual coding are described.
+
+Literature Searches and Inclusion Criteria
+  To identify best practices in the literature, a search was conducted for publications across business, psychology, and organizational behav- ior literatures. Databases searched included Google Scholar, SCOPUS, Academic Search Complete, and Business Sources Complete. Variations of terms such as “best practices” or “strategies” and “virtual teams” or “remote teams” were used. Articles searched were not limited by year or publication type. Articles were initially reviewed for relevancy, such that any article that did not contain recommenda- tions for improving virtual teams was excluded. A total of seven articles detailing advice for vir- tual teams were included for further coding (see references with asterisks).
+
+Conceptual Coding of Included Articles
+  The remaining articles that were included after relevancy coding were then conceptually coded to extract information on creating and maintaining effective virtual teams. Although these articles came from a variety of sources with inherent differences in quality, all tips were coded, and themes developed blind to the source. The researchers coded for relevancy, extracted overarching themes, and returned to the literature to fine-tune these tips for the context of rapid deployment teams, such as those needed during the COVID-19 pandemic. This included information on lessons learned, organizational strategies for successful virtual teams, best practices for virtual team effective- ness, practical implications, strategies for effec- tively leading virtual teams, best practices for effective virtual team leaders, and propositions for effective virtual teams. This resulted in 64 “best practices,” which were then independently coded for relevancy to rapid deployment of vir- tual teams, marking the “best practice” as either relevant, not relevant, or maybe relevant. The code “maybe relevant” was included in case part of the “best practice” could be relevant to the context of rapid deployment, but other parts of it might not be. This code was included know- ing that there would need to later be discussions and consensus. This coding process was blind, such that coders did not know to what “best practices” originated from what articles.
+  The probability observed or interrater agreement between the two coders was 77% (specifically, we agreed on 49 out of the 64 decisions we made). This is well within the .70 cut-off standard set in psychological research (Nunnally, 1978), but it does not control for agreements that occur due to chance. With that in mind, we also calculated the Cohen’s kappa coefficient (? = .34). For the purposes of cal- culating Cohen’s kappa, all “best practices” coded as maybe were considered in agreement if they were paired with a yes or no, and the final decided answer was a yes or no, respec- tively. Therefore, codes were considered a disagreement when one reviewer marked that the tip was relevant, and the other reviewer marked that it was not. Although this index is a
+
+common measure of inter-rater reliability when the outcome of interest is on a nominal scale (Sun, 2011), it is also heavily influenced by the equivalence across probabilities as well as the number of categories (Delgado & Tibau, 2019). Because we only had two categories: included or excluded; and the proportion of inclusion was 60% whereas the proportion of exclusion was only 5%, our Cohen’s kappa is likely underes- timated. Furthermore, both the raw and chance- corrected agreement indices correspond to the pre-consensus agreement between the coders. A final agreement of 100% was obtained after the authors resolved discrepancies through a con- sensus meeting. After discussion, a total of 53 tips were deemed relevant (or partially relevant) to rapid deployment of virtual teams.
+  Following the coding of the “best practices” for relevancy, the researchers independently reviewed selected practices and developed a list of overarching themes. The two coders met and discussed the independently developed themes to come to a consensus, reconciling any disagreements with one another. The themes presented in this manuscript (e.g., norms, com- munication, flexibility) were later categorized under the appropriate level of analysis through a collaboration between the two researchers (e.g., organization, team, individual). Finally, previously deemed relevant “best practices” were grouped under their corresponding theme and discussed below. A list of all included arti- cles, all extracted best practices, and the con- sensus decision is available from the first author by request.
+
+INSIGHTS FOR RAPIDLY DEPLOYED VIRTUAL TEAMS
+  Results from the review of literature on virtual teams best practices reveal that there is, unsurprisingly, little information on rapid deployment of virtual teams. Although the cur- rent conditions surrounding the COVID-19 situ- ation are unprecedented, it is likely that modern organizations will continually have to adapt to evolving conditions revolving this pandemic, as well as future ones, demonstrating the impor- tance of this research. Qualitative analysis of the available literature shows that several tips
+
+for virtual teams are suitable for rapid deploy- ment of these teams as well. The amalgamation of this analysis is six overarching themes: norm setting, performance monitoring, leadership, supportive mechanisms, communication, and flexibility (Table 1 for a summary). As depicted in Figure 1, these themes fall within a multi- level framework that can be better understood through organization, team, and individual lens. We elaborate below on each.
+
+Organization-Level Tips
+  Organization-level factors are those set or influenced by the organization to create an envi- ronment in which employees can effectively operate. Although virtual teams do not operate in traditional setting, upper management actions can still have a significant impact on virtual teams. As identified throughout the literature, major orga- nizational themes that impact employee perfor- mance in virtual teams include (1) norm setting and (2) performance monitoring. While individ- uals and teams can influence norms and partici- pate in performance monitoring, organizations (or a top-down approach) act as more effective change agents for setting and changing norms and the onus is on the organization to monitor perfor- mance of teams and individuals.
+  Norm setting. Team norms are rules that teams within an organization adopt to regulate group members’ behavior (Feldman, 1984). It is common for tips to include elements of norm set- ting when referring to virtual team performance (e.g., Bates, 2020; Feitosa & Salas, 2020; Ford et al., 2017; Gibson & Cohen, 2003; Kirkman et al., 2002). Typically, leaders set group norms, and team members test the boundaries of those norms over the team’s tenure (Schein, 1985). Although team leaders have a great influence over these norms, they can be strengthened when there is consistency across the organization (Thibault & Kelley, 1959). Some argue that norm setting should be the first concern when faced with uncer- tain terrains (Gerras & Clark, 2011). Norms take time to establish, and the most effective norms will be those set up front with the participation of all team members.
+Accordingly, the literature on virtual teams sug-
+gests several areas in which team norms should be
+
+established. Norms for virtual teamwork should include setting expectations for how the team will inform, collaborate, and make decisions collec- tively (Bates, 2020). Specifically, the literature emphasizes setting norms for the team revolving around communication patterns (Ford et al., 2017; Gibson & Cohen, 2003). Teams should under- stand what is expected of them regarding how often they should be communicating with team members and leaders, as well as how their work fits within the grand scheme of the organization- level efforts. For instance, a communication norm that organizations may establish is that when remote teams are first deployed, members should send weekly updates to team leaders who then share in a company-wide meeting discussing the team’s progress and accomplishments. However, as the team adjusts to remote work, weekly reports and organization-wide meetings may shift to bi- weekly or even monthly, to reduce time burden.
+Another communication norm suggested in
+the virtual team literature is that a policy should be established that everyone has 48 hr to respond to communications (Feitosa & Salas, 2020). It is not uncommon for employees to feel discon- nected and more likely to ignore requests from individuals in other departments. Establishing and reinforcing such policies can increase clarity in communication processes as well as providing a better platform for important information to flow. On a related note, engagement can also increase when teams develop a team charter together to establish team norms and encourage their adoption by team members (Kirkman et al., 2002). Norms may even include information such as how to dis- play emotions virtually (Glikson & Erez, 2013). More importantly, these norms must be set early, with the participation of employees, and include specific items to increase communication clarity, workers’ engagement, and meaningfulness.
+
+Tip #1: Organizations should establish team norms in collaboration with team members at the inception of virtual teams, while reinforcing and revisiting them through its practices and policies.
+
+  Performance monitoring. To ensure that individuals and teams are on track to accom- plish team goals, there needs to be effective
+
+TABLE 1: Insights for Rapid Deployment of Virtual Teams
+Theme	Insights	Action Items Organization level
+
+Norm setting	#1. Organizations should establish team
+norms in collaboration with team members at the inception of virtual teams, while reinforcing and revisiting them through its practices and policies.
+• 
+Increase engagement by contextualizing team member’s efforts
+• Apply response policy to clarify communication expectations
+• Utilize team charter to ensure everyone’s voices are heard
+
+Performance monitoring
+
+
+
+
+Team level
+
+#2. Organizations should engage in frequent check-ins to monitor
+performances and provide feedback. Where possible, these check-ins should be using technology such as video conferencing, to provide instantaneous feedback and empower employees
+• 
+Ensure performance monitoring is not just the team leader’s responsibility
+• Invest time to empower employees to set and monitor their own performance
+• Draw from technology for a quicker and more accurate performance monitoring system
+
+Leadership	#3. Virtual team leaders should participate
+in training to quickly build the tools to act as change agents, reinforcing team norms and overseeing team members’ processes
+• 
+Quickly invest in training to supplement team leader’s skills
+• Team leaders should lead by example, promoting team norms
+• Be vigilant of team processes to recognize when early intervention is needed
+
+Supportive mechanisms
+
+
+
+
+
+
+Individual level
+
+#4. Enact supportive systems (e.g., team charters, team building, and feedback) to better manage virtual teamwork while providing a psychologically safe environment.
+• 
+Reinforce and promote the use of team charter consistent with what was set by organizational norms
+• Draw from team-building exercises to build rapport and break barriers emerging from cultural differences
+• Provide a platform that is learning oriented where feedback and input are welcomed
+
+Communication	#5. Each individual in the virtual team,
+including the leader, should be held accountable regarding communication frequency, quality, timeliness, and content. Technology should be used to increase opportunities to contribute as well as promote closed-loop communication to avoid errors in information exchange.
+Flexibility	#6. While still defining clear objectives
+and plans, virtual teams should maintain flexibility to facilitate adaptation to changing conditions (e.g., allow for adjustment of work schedules and meetings to accommodate potential work–life conflicts)
+• 
+Hold individuals accountable for their contributions
+• Leverage from technology to establish good communication flow
+• Provide different modes of communication to increase accessibility
+
+
+
+• Be ready to adapt and reprioritize work as situations change and evolve
+• Consider team member’s home life to understand one’s constraints
+• Provide continuity in communication but also be mindful about other communication modes
+
+
+
+
+
+
+
+Figure 1. Multilevel themes to better support virtual team’s rapid deployment.
+
+processes in place to monitor performance. Monitoring performance in a virtual team can manifest in various forms. Best practices for virtual teams suggest that team performance can be monitored through the use of technology (Malhotra et al., 2007). Information exchange through electronic discussions, emails, and other team archives can be monitored to assess team members’ contributions and performance (Kirkman et al., 2002). The literature sug- gests that to monitor performance and ensure team members are staying on track with goal progression, team leaders can perform routine check-ins (Bates, 2020). However, performance monitoring is more successful when consistent across the organization, providing employees with a sense of stability and continuity in the middle of such chaotic and uncertain times.
+Rather than being a team leader task, through
+empowerment, team members can be the best evaluators of their own performance (Bell & Kozlowski, 2002). Team empowerment is extremely important in contexts with limited face-to-face interaction. When investigating virtual teams, research found that assessment of process improvement and customer satisfac- tion was key (Kirkman et al., 2004). This shows that a leader assessing team members may not suffice in this situation, but a more holistic and integrative performance monitoring model will need to be adapted. In particular, 360º feedback is recommended (Kirkman et al., 2002), which involves individuals receiving feedback from their superiors, peers, and subordinates. Due to the rapid shift of work environment to virtual settings, some individual and team goals may need to be amended to accommodate goals that can be accomplished in these new contexts. Those establishing the goals should come up
+
+with attainable, specific, and challenging goals (Locke & Latham, 1990), but also recognizing when to adjust them, shift gears, or even reas- sign responsibilities in light of the change to virtual teamwork.
+
+Tip #2: Organizations should engage in frequent check-ins to monitor perfor- mances and provide feedback. Where possible, these check-ins should be us- ing technology such as video conferenc- ing, to provide instantaneous feedback and empower employees.
+
+
+Team-Level Tips
+  The factors included in this section are cate- gorized at the team level, because they influence how effectively the overall team operates on a daily basis. They focus on the factors that influ- ence the overall team’s performance, and they can impact teams differently for a variety of rea- sons, including whether the team is in person or virtual. As identified throughout the literature, major team-level themes that impact employee performance in virtual settings include (1) lead- ership and (2) supportive mechanisms.
+Team leadership.  Leadership is perhaps the
+most cited, and most important, contributor to effective virtual teamwork, as evident through its predominant presence in literature on best practices for virtual teamwork. The theme of leadership is categorized under the team level because it focuses on what leaders need to do to influence their team as a whole and how to make the overall team effective. Leaders play a critical role in team processes, development, and performance. Leaders have the most influ- ence on a team for creating and shaping culture climate (Ostroff et al., 2012), or a team’s val- ues, assumptions, and norms. A team’s values are initially founded by the leader and lead- ers typically have the most influence over the group to act as cultural change agents if values, assumptions, or norms need to change within the team (Schein, 1985). In the case of rapidly launching virtual teams, leaders have the most influence to change team norms to suit virtual work environments.
+
+  Several sources on virtual teams discuss how remote team leaders should be selected and pre- pared (Ford et al., 2017). However, with rapid deployment of remote teams, there typically is not an opportunity to select a team leader based on their aptitude for leading remotely. Team leaders must adapt their leadership styles appropriately for remote leadership. While rapid deployment of teams to remote settings may not allow for preparing leaders for remote leadership, where possible organizations should provide team leaders with training for man- aging virtual teams (Ford et al., 2017; Rosen et al., 2006). This virtual training can include instruction on coaching/mentoring team mem- bers, delegation, goal setting, role clarification, self-management, monitoring team progress, diagnosing team problems, managing team boundaries, and conflict resolution (Ford et al., 2017; Rosen et al., 2006).
+Tips for virtual teams also recommend that
+team leaders should communicate frequently with their team, particularly on a one-on-one basis (Kirkman et al., 2002). Leaders should attempt to make check-ins on their team mem- bers as engaging as possible (Feitosa & Salas, 2020). The literature also suggests that disci- pline is key to distanced leadership, such that leaders need to have an abundance of discipline about everything from returning calls and emails to managing tasks and meetings (Connaughton & Daly, 2004). Without appropriate discipline from virtual team leaders, team processes can quickly fall apart and result in degraded team performance. Ultimately, it is the responsibil- ity of team leaders to establish positive team processes, create effective team-based reward systems, and develop supportive team mem- ber relations (Lurey & Raisinghani, 2001). Due to the immense impact that leadership has on teamwork, virtual and otherwise, it will be revisited frequently as it plays a crucial role in several tips for virtual teamwork presented in this manuscript.
+
+Tip #3: Virtual team leaders should partic- ipate in training to quickly build the tools to act as change agents, reinforcing team norms and overseeing team members’ processes.
+  
+Supportive mechanisms. Enacting sup- portive systems is essential for virtual team effectiveness. Support should be provided for team task accomplishment and socio-emotional needs (Ford et al., 2017). Supportive mecha- nisms can take many forms, including adopt- ing a team charter, deploying team building exercises, and providing regular feedback. As mentioned earlier, as a mechanism for estab- lishing team norms, a team charter should be collectively developed by the team leader in conjunction with team members, to encourage maintained acceptance of established norms (Kirkman et al., 2002). Team charters can act as a supportive mechanism in virtual teams by developing a shared mental model amongst the team on expectations for team behavior and per- formance within the rapidly changing contexts of moving to remote work. This helps to avoid confusion and conflict within the team.
+Team building is a frequently cited as an
+important activity for virtual teams (Ford et al., 2017; Kirkman et al., 2002). Typically, team building is utilized to bond nascent teams; how- ever, in the case of rapidly deployed teams, in which team members are already with one another, team building can be used to aid in the normalization of technological communications between the team. This way, individuals within the team can feel more comfortable with video conferencing. Furthermore, differences in cul- ture, language, and access to technology can make communication more challenging and impede collaboration in virtual teams (DeRosa et al., 2004). While respect for team members individual differences should be a given in any workplace setting, special considerations may be warranted for remote teamwork. Diversity in virtual teams should be understood, appre- ciated, and leveraged (Malhotra et al., 2007). Although team building is often frowned upon due to its limited impact on team performance (Salas et al., 1999), more recent research sug- gests that it may have a positive effect on affec- tive (e.g., trust, team potency) and process outcomes (e.g., coordination, communication; Klein et al., 2009). For teams that have quickly turned virtual, team building can be a way to remain connected, engaged, and feeling part of something bigger regardless of their different
+
+circumstances. Particularly, investing in strate- gies that can enhance team trust, focus on team process, and allow for personal growth will likely lead to the best results (Holton, 2001).
+  Another predominant tip for virtual teams regards delivering and receiving feedback (Kirkman et al., 2002). Effectiveness of feed- back delivery can be enhanced by using two-way communication chances (e.g., telecon- ferencing), so that a discussion can take place to solve any potential issues (Kirkman et al., 2002). Although we suggested earlier that feed- back should be incorporated in the performance management system, this more personal, infor- mal check-in from a team leader is fundamen- tal to contextualize the criticism and emphasize more tangible and meaningful goals for the team.
+  When team members are forced to work from home and engage in video conferencing, the video may reveal aspects of an individual’s life that they may not electively share otherwise. The literature advises virtual team members to openly discuss cultural differences and reach a consensus on a comfortable range of behav- iors (Gibson & Cohen, 2003). These discus- sions should include conversations about both work practices as well as values of the team and individuals within the team. Consequently, it is important to highlight that such feedback giving should only exist in a psychologically safe envi- ronment as the failure to admit concerns has been highlighted as an emergent risk point for teams (Tannenbaum et al., 2021). Therefore, the management of virtual team through supportive mechanisms should not go unnoticed.
+
+Tip #4: Enact supportive systems (e.g., team charters, team building, and feed- back) to better manage virtual teamwork while providing a psychologically safe environment.
+
+
+Individual-Level Tips
+  Individual-level factors are those that are impacted primarily by individual employ- ees. While the organizations, team leaders, and supportive conditions affect virtual team
+
+effectiveness, individual employee behaviors also have a significant impact. Individual-level themes are focused on individual team member behaviors and attitudes, rather than the team overall. Individual-level themes to improve the rapid deployment of virtual teams are (1) com- munication and (2) flexibility.
+  Individual	communication	behav- iors. Communication is perhaps the most prev- alent tip present across the literature on virtual teams (Connaughton & Daly, 2004; Ford et al., 2017; Grant et al., 2013; Kirkman et al., 2002; Lurey & Raisinghani, 2001; Malhotra et al., 2007). Communication is consistently identified as enhancing team performance across contexts (Marlow et al., 2017). Communication can also be used to establish and maintain trust within virtual teams (Malhotra et al., 2007), so it is important that individuals within the team routinely commu- nicate with each other. It is generally accepted that communication should be enhanced for remote workers, to check that team members’ workload is appropriate, ensure their well-being, and help pro- mote performance (Grant et al., 2013). Therefore, leaders should dedicate additional time to commu- nicate with their team beyond what was standard before changing to virtual work.
+  Appropriate technology should be utilized to ensure effective team communication (Kirkman et al., 2002), such that team members are able to efficiently exchange information and easily engage in problem-solving. Effective commu- nication can be facilitated through teleconfer- encing, which enables immediate delivery of feedback and an interactive setting for problem- solving (Kirkman et al., 2002). Indeed, provid- ing frequent feedback to team members has been identified as an essential, actionable item to address challenges in virtual teams (Feitosa & Salas, 2020). Additionally, face-to-face inter- action through video conferencing may help to establish and maintain personal connections between team members (Lurey & Raisinghani, 2001). However, it is also important to note that not every member will feel comfortable utiliz- ing the most synchronous methods to partici- pate in conversations.
+As mentioned previously, norms around
+communication expectations should be estab- lished  to  ensure  routine  communications
+
+between virtual teams (Ford et al., 2017). It is essential that expectations and ground rules about communication are established from the start (Connaughton & Daly, 2004). All ele- ments of communication, including frequency, quality, timeliness, content, and closed-loop communication should be considered (Marlow et al., 2017). When team members feel comfort- able sharing their thoughts, a better team prod- uct will emerge. Team communications should be recorded and shared, so that information exchanged can be easily accessible for future reference (Ford et al., 2017). Expanding on the notion of accessibility, individuals should have a variety of modes of communication to share and contribute (e.g., chat option available, emailing the supervisor after the meeting, anon- ymous forms, etc.,).
+While communication is typically viewed
+as a team-level process, it is conceptualized at the individual level in this manuscript because of the importance of individual communication behaviors. The onus of effective communica- tion should be placed on each individual team member, such that while the leader may estab- lish communication norms and expectations, it is up to every team member to take responsi- bility and perform communication behaviors effectively. Indeed, the literature supports that strong individual initiative for communication as well as predictable communication with substantial and timely responses are associated with higher trust in virtual teams (Jarvenpaa & Leidner, 1999).
+
+Tip #5: Each individual in the virtual team, including the leader, should be held accountable regarding communication frequency, quality, timeliness, and con- tent. Technology should be used to in- crease opportunities to contribute as well as promote closed-loop communication to avoid errors in information exchange.
+
+  Flexibility. When rapidly deploying teams to a virtual setting, it is essential that team lead- ers, team members, and work assignments are flexible. Dynamic systems should be designed such that they are responsive to changes in work settings (Gibson & Cohen, 2003). At the
+
+individual level, employees should properly communicate their needs and constraints to other team members and supervisors. During times of crisis, it is likely that shifts will need to happen. Recent work on managing teams in the pandemic suggests recognizing quickly when issues emerge in order to successfully adapt (Tannenbaum et al., 2021).
+  Tasks and policies may need to be redefined when conditions change, which may entail indi- viduals negotiating a flexible agenda for work meetings or adjusting team and individual work goals such that they are feasible to accomplish in changing situations. Indeed, the literature on tips for virtual teams supports that teams need to exercise flexibility in work assignment and locations (Kirkman et al., 2002). Providing flexibility allows employees to effectively coordinate their work and family responsibili- ties (Ale Ebrahim et al., 2009). Drawing from technological tools, it is possible to maintain engagement even with potential interruptions. For instance, a caregiver may have to hold their child during a video conference but they can still listen to the call, mute their microphone to avoid background noise, contribute via chat if the child is not allowing the caregiver to speak, and watch the recording of the meeting in case information was missed due to the interruption. Therefore, virtual teams should define clear objectives and plans, but maintain flexibility as well as leave open the possibility of adapting standardized communication processes (Dubé & Robey, 2009).
+
+Tip #6: While still defining clear ob- jectives and plans, virtual teams should maintain flexibility to facilitate adap- tation to changing conditions (e.g., al- low for adjustment of work schedules and meetings to accommodate potential work–life conflicts).
+
+
+FUTURE RESEARCH
+  There are still many unknowns when it comes to the rapid deployment of virtual teams. There is a dearth of literature differen- tiating standard remote teams from teams that
+
+are swiftly transitioned to virtual work. Future research should investigate whether organiza- tion-, team-, and individual-level factors such as policies, leadership styles, training, and flex- ibility affect virtual teams differently depending on launch time line. For instance, depending on how quickly teams must transition and adapt to virtual work as well as past team experience with remote work, different themes addressed in this manuscript may be more important to address than others.
+  Additionally, experts recommend that future research for virtual teams shed more light on team adaptation (Gilson et al., 2015). Future research should investigate how teams adapt to virtual work unexpectedly and what factors contribute to effective adaptation. Shedding light on these factors can help inform the devel- opment of training that could be deployed in the case of a shift to virtual environment, or as a precautionary measure when organizations anticipate that there might be rapid shifts to vir- tual work.
+  Finally, there is a need for additional research on individuals that belong to more than one virtual team. It is not uncommon for employees to work on multiple teams or as a larger multi-team system performing a variety of roles and responsibilities. Best practices pre- sented in this manuscript may need to be modi- fied for individuals that work in multiple teams. For instance, communication norms may need to be adapted such that there are higher com- munication expectations for whatever primary team the individual belongs to or works with the most often. Additionally, it would likely be advantageous to standardize organizational and team norms where possible, to reduce con- flicting expectations on individuals involved in multiple teams.
+
+CONCLUSION
+  Modern situations are rapidly accelerating the need for organizations to move employee teams to virtual environments, sometimes with little to no opportunities to prepare for the transition. There is a significant deficit in the literature for best practices for virtual teams for the purposes of rapid deployment. Several existing tips are
+
+no longer applicable (e.g., selecting individuals with expertise and skills for remote teamwork), leaving it to organizations to subjectively deter- mine what advice to adhere to. This manuscript synthesizes relevant tips for virtual teams that are expedited in their transition.
+
+ACKNOWLEDGMENTS
+  This work was partially supported by NASA grants NNX16AB08G, NNX16AP96G,
+National Science Foundation grant #1853528 to Rice University, and the U.S. Army Research Institute (ARI) for the Behavioral and Social Sciences and was accomplished under Cooperative Agreement Number W911NF-19-2-0173. The views and conclu- sions contained in this document are those of the authors and should not be interpreted as rep- resenting the official policies, either expressed or implied, of the U.S. Army Research Institute (ARI) for the Behavioral and Social Sciences or the U.S. Government. The U.S. Government is authorized to reproduce and distribute reprints for Government purposes notwithstanding any copyright notation herein.
+
+KEY POINTS
+? There is an adequate amount of literature on best practices for virtual teams, but a dearth of infor- mation on the rapid deployment of teams to a virtual setting.
+? Based on a literature review and expert opinion, six tips are presented for successfully deploying teams to a virtual setting on a quick time line.
+? The six tips are organized under the following themes: norm setting, performance monitoring, leadership, supportive mechanisms, communica- tion, and flexibility.
+
+
+ORCID iD
+Molly Kilcullen  https://orcid.org/0000-0002-
+9975-3568
+
+SUPPLEMENTAL MATERIAL
+  The online supplemental material is avail- able with the manuscript on the HF website.
+
+REFERENCES
+References marked with an asterisk indicate studies included in the meta-analysis.
+Ale Ebrahim, N., Ahmed, S., & Taha, Z. (2009). Virtual teams: A literature review. Australian Journal of Basic and Applied Sciences, 3, 2653–2669.
+Bates, S. (2020). 9 best practices to lead and manage your virtual team. AMA Quarterly, 6, 26–28.
+Bell, B. S., & Kozlowski, S. W. J. (2002). Adaptive guidance: Enhancing self-regulation, knowledge, and performance in technology-based training. Personnel Psychology, 55, 267–306. https://doi.org/10.1111/j.1744-6570.2002.tb00111.x
+Bharathi, M., Muthhukumar, A., Nisha, V., Linda Rose, G., & Jaya Prasanna, S. (2019). Effectively managing universally disseminated virtual team: Challenges and mitigation strategies. International Journal of Engineering and Advanced Technology, 9, 1018–1019.
+Cascio, W. F. (2000). Managing a virtual workplace. Academy of Management Perspectives, 14, 81–90. https://doi.org/10.5465/ ame.2000.4468068
+*Connaughton, S. L., & Daly, J. A. (2004). Leading from afar: Strategies for effectively leading virtual teams. In Virtual and collaborative teams (pp. 49–75). IGI Global.
+Delgado, R., & Tibau, X. -A. (2019). Why Cohen's kappa should be avoided as performance measure in classification. Plos One, 14, e0222916. https://doi.org/10.1371/journal.pone.0222916
+DeRosa, D. M., Hantula, D. A., Kock, N., & D’Arcy, J. (2004). Trust and leadership in virtual teamwork: A media naturalness perspective. Human Resource Management, 43, 219–232. https://doi.org/10.1002/hrm.20016
+Dubé, L., & Robey, D. (2009). Surviving the paradoxes of virtual teamwork. Information Systems Journal, 19, 3–30. https://doi. org/10.1111/j.1365-2575.2008.00313.x
+Feitosa, J., & Salas, E. (2020). Today's virtual teams: Adapting lessons learned to the pandemic context. Organizational Dynamics, , 100777. https://doi.org/10.1016/j.orgdyn.2020.100777
+Feldman, D. C. (1984). The development and enforcement of group norms. Academy of Management Review, 9, 47–53. https://doi. org/10.5465/amr.1984.4277934
+*Ford, R. C., Piccolo, R. F., & Ford, L. R. (2017). Strategies for building effective virtual teams: Trust is key. Business Horizons, 60, 25–34. https://doi.org/10.1016/j.bushor.2016.08.009
+Gerras, S. J., & Clark, M. (2011). Effective team leadership: A competitive advantage. Army War College Carlisle.
+*Gibson, C. B., & Cohen, S. G. (Eds.). (2003). Virtual teams that work: Creating conditions for virtual team effectiveness: John Wiley & Sons.
+Gilson, L. L., Maynard, M. T., Jones Young, N. C., Vartiainen, M., & Hakonen, M. (2015). Virtual teams research: 10 years, 10 themes, and 10 opportunities. Journal of management, 41, 1313–1337.
+Glikson, E., & Erez, M. (2013). Emotion display norms in virtual teams. Journal of Personnel Psychology, 12, 22–32. https://doi. org/10.1027/1866-5888/a000078
+*Grant, C. A., Wallace, L. M., & Spurgeon, P. C. (2013). An exploration of the psychological factors affecting remote e? worker’s job effectiveness, well?being and work?life balance. Employee Relations, 35, 527–546. https://doi.org/10.1108/ER-
+08-2012-0059
+Hertel, G., Geister, S., & Konradt, U. (2005). Managing virtual teams: A review of current empirical research. Human Resource Management Review, 15, 69–95. https://doi.org/10.1016/j.hrmr.
+2005.01.002
+Holton, J. A. (2001). Building trust and collaboration in a virtual team. Team Performance Management: An International Journal, 7, 36–47. https://doi.org/10.1108/13527590110395621
+Jarvenpaa, S. L., & Leidner, D. E. (1999). Communication and trust in global virtual teams. Organization Science, 10, 791–815. https://doi.org/10.1287/orsc.10.6.791
+*Kirkman, B. L., & Mathieu, J. E. (2005). The dimensions and antecedents of team virtuality. Journal of Management, 31, 700– 718. https://doi.org/10.1177/0149206305279113
+*Kirkman, B. L., Rosen, B., Gibson, C. B., Tesluk, P. E., & McPherson, S. O. (2002). Seven challenges to virtual team
+
+performance: Lessons from Sabre, Inc. 17th Annual Conference for the Society for Industrial and Organizational Psychology.
+Kirkman, B. L., Rosen, B., Tesluk, P. E., & Gibson, C. B. (2004). The impact of team empowerment on virtual team performance: The moderating role of face-to-face interaction. Academy of Management journal, 47, 175–192. https://doi.org/10.5465/
+20159571
+Klein, C., DiazGranados, D., Salas, E., Le, H., Burke, C. S., Lyons, R., & Goodwin, G. F. (2009). Does team building work? Small Group Research, 40, 181–222. https://doi.org/10.1177/
+1046496408328821
+Locke, E. A., & Latham, G. P. (1990). A theory of goal setting & task performance. Prentice-Hall, Inc..
+*Lurey, J. S., & Raisinghani, M. S. (2001). An empirical study of best practices in virtual teams. Information & Management, 38, 523–544. https://doi.org/10.1016/S0378-7206(01)00074-X
+*Malhotra, A., Majchrzak, A., & Rosen, B. (2007). Leading virtual teams. Academy of Management Perspectives, 21, 60–70. https:// doi.org/10.5465/amp.2007.24286164
+Marlow, S. L., Lacerenza, C. N., & Salas, E. (2017). Communication in virtual teams: A conceptual framework and research agenda. Human Resource Management Review, 27, 575–589. https://doi. org/10.1016/j.hrmr.2016.12.005
+Nunnally, J. C. (1978). An overview of psychological measurement. In Clinical Diagnosis of Mental Disorders (pp. 97–146). Springer.
+Ostroff, C., Kinicki, A. J., & Muhammad, R. S. (2012). Organizational culture and climate. In Handbook of Psychology (2nd ed, Vol. 12, pp. 643–670).
+Rosen, B., Furst, S., & Blackburn, R. (2006). Training for virtual teams: An investigation of current practices and future needs. Human Resource Management, 45, 229–247. https://doi.org/10. 1002/hrm.20106
+Salas, E., Rozell, D., Mullen, B., & Driskell, J. E. (1999). The effect of team building on performance: An integration. Small Group Research, 30, 309–329. https://doi.org/10.1177/
+104649649903000303
+Schein, E. H. (1985). Defining organizational culture. Classics of Organization Theory, 3, 490–502.
+Sun, S. (2011). Meta-analysis of Cohen’s kappa. Health Services and Outcomes Research Methodology, 11, 145–163. https://doi.org/ 10.1007/s10742-011-0077-3
+Tannenbaum, S. I., Traylor, A. M., Thomas, E. J., & Salas, E. (2021). Managing teamwork in the face of pandemic: Evidence-based tips. BMJ Quality & Safety, 30, 59–63. https://doi.org/10.1136/ bmjqs-2020-011447
+Thibault, J. W., & Kelley, H. H. (1959). The psychology of groups.
+Wiley.
+Winter, A. (2020) Problems working in semi and full-time virtual teams: comparison of virtual team problems pre and post-Covid 19 epidemic. Bachelor’s thesis.: University of Twente
+
+Molly Kilcullen is a doctoral student at Rice University studying Industrial and Organizational Psychology. Molly obtained her master’s degree in Industrial and Organizational Psychology at George Mason University while working as a fellow at the Army Research Institute. Her research interests include interdisciplinary team composition and per- formance, multi-team systems, safety culture, and vir- tual teamwork.
+
+Jennifer Feitosa is an assistant professor of the Department of Psychological Sciences at Claremont McKenna College. She earned her PhD in Industrial- Organizational Psychology in 2015 from the University of Central Florida.
+
+Eduardo Salas is the Allyn R. & Gladys M. Cline Professor and Chair of the Department of Psychological Sciences at Rice University. He received his PhD in Industrial and Organizational Psychology from Old Dominion University in 1984. He is a past president of the Society for Industrial/Organizational Psychology and the Human Factors & Ergonomics Society (HFES), fellow of the American Psychological Association (APA) and HFES, and a recipient of the 2012 Society
+
+for Human Resource Management Losey Lifetime Achievement Award, the 2012 Joseph E. McGrath Award for Lifetime Achievement, and the 2016 APA Award for Outstanding Lifetime Contributions to Psychology.
+
+Date received: January 6, 2021
+Date accepted: January 8, 2021
+
+
+
+
