@@ -34,8 +34,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -146,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -179,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -374,20 +371,19 @@ div.tocify {
 </div>
 
 
-<p><em>For the purposes of this study, the colors used for graphs were selected arbitrarily and do not imply any derived meaning.</em></p>
+<p><em>For the purposes of this study, it is important to note that the colors used for graphs were selected arbitrarily and have no correlation to any derived meaning.</em></p>
 <div id="co-occurrence" class="section level1">
-<h1>Co-Occurrence</h1>
-<p>The frequency at which certain terms co-occurred is graphed below. Words that appeared together more frequently are represented with darker lines. Words that appear together more frequently are assumed to share some association in theme or topic. &quot;N&quot; represents the number of times each word pair appeared together. Some of the most frequent co-occurring words were (1) Army and leader, (2) leader and subordinate, and (3) team and member. The high degree of association between these words, as well as the fact that these words were some of the most frequently occurring words in the corpus overall, demonstrate that we accurately selected key documents for exploring our question of interest, i.e., individual Soldier characteristics that contribute to team performance.</p>
+<h1>Co-occurrence</h1>
 <p align="center">
 <img src="www/co-occurence.png" />
 </p>
-<!--Re ordered these sections to align with the Methods overview-->
+<p>As can be seen above, the frequency at which certain terms co-occurred have been graphed. Words that appeared together more frequently are shown with darker lines.It can be extrapolated that words that appear together the most often, are in some way correlated. “N” represents the number of times each word pair appeared together. Some of the largest co-occurrences were between Army and leader, leader and subordinate, and team and member. These findings show that our corpus of document accurately explored our topic of individual Soldier characteristics that contribute to team performance.</p>
 </div>
 <div id="term-frequency-inverse-document-frequency-tf-idf" class="section level1">
 <h1>Term Frequency-Inverse Document Frequency (TF-IDF)</h1>
-<p>The TF-IDF model shows which words make each of the 10 documents we reviewed unique. The mean TF-IDF score for each word appears on the x-axis. The higher the score, the more important it is to the uniqueness of the document. Because the models highlight the words unique to each document, the most commonly occurring words across the corpus (e.g., Soldier, Army, leader, team) will not appear in these lists,</p>
-<p align="center">
-<img src="www/tf_idf.png" />
+<p>The TF-IDF model shows which words make each of the 10 documents we reviewed unique. The mean TF-IDF score for each word appears on the x-axis. The higher the score, the more important it is to the uniqueness of the document. Because the models highlight the words unique to each document, the most commonly occurring words across the corpus (e.g., Soldier, Army, leader, team) will not appear in these lists.</p>
+<img src="www/tf_idf.png" /><br />
+
 </p>
 </div>
 <div id="LDA" class="section level1">

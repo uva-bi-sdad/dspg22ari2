@@ -34,8 +34,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.0/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -146,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -179,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -380,15 +377,12 @@ div.tocify {
 <h3><em>Document Review</em></h3>
 <p>A list of 55 documents from the Army and external sources pertaining to the role of an individual in unit performance were collected. The author, keywords, potential for use in our analyses, detailed document description, date written, and notes were collected to guide the document selection process. The chart below shows one example of how a document was annotated. [1]</p>
 <!-- Notes about document color highlighting moved to endnote-->
-<div class="figure">
-<img src="www/document_discovery.PNG" />
-
-</div>
+<p><img src="www/document_discovery.PNG" /></p>
 </div>
 <div id="corpus" class="section level3">
 <h3><em>Corpus</em></h3>
 <p>The 10 documents most relevant to teams and leadership in the Army, as well as academic writing on team science, spanning the last 50 years were chosen for further analysis. [2]</p>
-<p><strong>Selected Document</strong></p>
+<p><strong>Selected Documents</strong></p>
 <!-- Ordered docs alphabetically-->
 <ul>
 <li><p>ADP 6-22: Army Leadership and the Profession</p></li>
@@ -427,7 +421,7 @@ div.tocify {
 </ul>
 <p><strong>Field Manual (FM)</strong></p>
 <ul>
-<li>Published by the United States Army's Army Publishing Directorate and contains detailed information and how-tos for procedures important to soldiers serving in the field. FM contains principles, tactics, procedures, and other doctrinal information that describes how the Army and its organization conduct operations and train for those operations.</li>
+<li>Published by the United States Army’s Army Publishing Directorate and contains detailed information and how-tos for procedures important to soldiers serving in the field. FM contains principles, tactics, procedures, and other doctrinal information that describes how the Army and its organization conduct operations and train for those operations.</li>
 </ul>
 <p><strong>Training Circulars (TC)</strong></p>
 <ul>
@@ -445,16 +439,13 @@ div.tocify {
 <ul>
 <li>A publication by researchers at the University of Akron exploring the influence of organizational structure and team building on work group effectiveness written for the general public and other academics</li>
 </ul>
-</div>
-</div>
-<div id="excerpts" class="section level3">
-<h3><em>Excerpts</em></h3>
-<p>There was a total of 320 excerpts coded within the ten documents used in the qualitative analysis. [3]</p>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD ### <em>Excerpts</em> A full list of all 320 excerpts can be found <a href="https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel">here</a>.</p>
+<p>======= ###<em>Excerpts</em> There was a total of 320 excerpts coded within the ten documents used in the qualitative analysis. [3] &gt;&gt;&gt;&gt;&gt;&gt;&gt; main</p>
 <!--Moved the NLP section to methods and combined with step 7 since it was more about pre-processing for analysis.
 
 # Natural Language Processing Data
 
-The same corpus of 10 documents was used to complete multiple NLP techinques. To complete these, the corpus of documents was cleaned making all of the words lowercase, removing non-alphabetic characters, and removing all words less than three words. Three letters was selected to be the limit as words at or below this level did not contribute to the overall meaning of the documents when standing alone. None of the tests conducted took location of a word in a sentence into account, so removing these words had little to no effect on the outcomes.
+The same corpus of 10 documents was used to complete multiple NLP techniques. To complete these, the corpus of documents was cleaned making all of the words lowercase, removing non-alphabetic characters, and removing all words less than three words. Three letters was selected to be the limit as words at or below this level did not contribute to the overall meaning of the documents when standing alone. None of the tests conducted took location of a word in a sentence into account, so removing these words had little to no effect on the outcomes.
 
 -->
 <hr />
@@ -463,6 +454,7 @@ The same corpus of 10 documents was used to complete multiple NLP techinques. To
 <li><p><a href="https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/yellow">Corpus</a></p></li>
 <li><p><a href="https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel">Total Excerpts</a></p></li>
 </ol>
+</div>
 </div>
 </div>
 

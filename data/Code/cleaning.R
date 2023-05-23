@@ -12,10 +12,10 @@ library(pacman)
 library(textstem)
 library(qdapRegex)
 
-setwd("~/github/dspg22ari2/data/txt_files")
+setwd("~/github/dspg22ari2/data/pam600-3")
 
 #importing documents, removing analysis.R, cleaning.R and paragraph_cleaning.R
-files <- list.files("~/git/dspg22ari2/data/txt_files")
+files <- list.files("~/git/dspg22ari2/data/pam600-3")
 files <- files[!grepl("R$", files)]
 files <- files[!grepl("RDS$", files)]
 names <- NULL

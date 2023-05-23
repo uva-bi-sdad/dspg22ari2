@@ -131,7 +131,19 @@ pronounPlot <- plot_grid(femalepronounplot, malepronounplot, neutralpronountplot
 pronounPlot
 ```
 
-```{r}
+```{r, fig.width=14}
+newFrame2[1:9,] %>% separate(years, c("year", "month")) %>% mutate(date = as.character(paste0("01-", month, "-", year)), date = lubridate::dmy(date)) %>% select(18, 16, 17) %>% pivot_longer(cols = 2:3) %>%
+  ggplot(aes(x = date, y = as.numeric(value), color = name)) +
+  geom_point() +
+  geom_smooth(method = "loess", se = FALSE) +
+  labs(x = "", y = "% of Corpus with Pronouns of Type") +
+  scale_color_manual(labels=c("Individual (e.g. I, you)", "Group (e.g. we, us)"),
+                       values = c(uva_color_palette[c(1, 4, 9)])) +
+  guides(color = guide_legend(title = "Pronoun Type")) +
+  theme_classic() +
+  theme(text = element_text(size = 25))
+
+
 femalecodeplot <- ggplot(newFrame2, aes(x= years, y = femaleCodeVerb)) + geom_point()
 malecodeplot <- ggplot(newFrame2, aes(x = years, y = maleCodeVerb)) + geom_point()
 codedPlot <- plot_grid(femalecodeplot, malecodeplot)
