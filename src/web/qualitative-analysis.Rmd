@@ -3,27 +3,30 @@ title: "Qualitative Analysis"
 output: html_document
 ---
 ###*Codes*
+
+Below is complete list of the 18 final codes used in the qualitative analysis. You can sort the codes alphabetically by name, whether the code was emergent or a topic we believed would be important a priori, or by a complete definition.
+
 ```{r, layout="l-body-outset", echo = FALSE}
-library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/themes_detailed.RDS"), options = list(cols.print=3))
+library(DT)
+datatable(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/themes_detailed.RDS"), options = list(
+  pageLength = 18
+  ))
+
 ```
 
-
-
-Above this is complete list of the all the codes used along with examples. To look more in depth at the themes, patterns, convergences, similarities, and differences lets examine more specific instances within the documents to highlight key findings.
+Below, we highlight noteworthy findings from our analysis with a deeper examination of several converging and diverging themes from across multiple documents.
 
 ###*Negative Qualities vs. Negation of Positive Qualities*
-![](www/negationVSnegative.png)
-The excerpt on the left shows communication as a negative quality to possess in a team, while the excerpt on the right shows communication as a negation of a positive quality in a team. This shows the difference in qualities not desired in teams compared to the effects of the absence of desired qualities in teams. For example, if someone is a poor communicator, they lack a quality that would help the team succeed. In turn, communication is seen as a poor quality to possess because it can cause high levels of group conflict. In terms of the Army's goals, that can lead to lack in efficiency. 
+One difficult and reoccurring issue to code was how to handle qualities that could positively or negatively impact team performance depending on the amount and quality of the quality. For example, the excerpt on the left highlights a situation in which too much communication was associated with negative team outcomes (i.e., communication was seen as a ‘negative quality’ for a group to possess). The excerpt on the right highlights the opposite case, instances where too little (or a lack of) communication and/or poor-quality communication is associated with negative team performance. Taken together, we see that communication is a crucial element in determining team success, but that there is an important contextual element to understanding exactly how communication affects success. For example, if someone is a poor communicator and a team is suffering for it, simply instructing the individual to communicate more is unlikely to resolve the issue. In fact, it could make the situation worse. 
 
+![](www/negationVSnegative.png)
 
 ###*Diversity in Background vs. Diversity in Skill*
+An interesting and important point of divergence between the Army and non-Army literature focused on the use of the word ‘diversity.’ In the excerpt on the left, from a non-Army document, we see evidence for how diversity in individual skill sets can contribute to better team performance. However, Army document references diversity as it relates to individuals’ background, upbringing, and culture noting how divergent backgrounds could make team building more complicated and negatively impact team performance.
+
 ![](www/diversityINteams.png)
 
-The excerpt on the left is from a non-Army document and the one on the right is from an Army handbook. The non-Army document is talking about diversity in teams in terms of individual skill and how this can contribute to overall better team performance. The Army quotes are referring to diversity in teams in terms of individual background, upbringing, and culture. An interesting note is that the top quote from the Army handbook see diversity in background as a possible downfall to team performance. 
-
 ###*Adaptability vs. Intellectual Efficiency*
+The following excerpts were all taken from Army documents. The excerpts on the left were coded as 'Adaptability' while the excerpts on the right were coded as 'Intellectual Efficiency.' Distinguishing between these two codes proved difficult during the qualitative analysis because, as is highlighted in the underlined segments, the Army defines both qualities using similar language. Ultimately, we refined our coding scheme to distinguish between the two through the use of language such as that highlighted in yellow. We determined that to be ‘adaptable’ one must be able to think critically, while ‘intellectual efficiency’ rests on a person's ability to analyze and process information to include efficiency in skill. Efficiency in skill includes experiences, training, education, and so on (as highlighted in the top right excerpt), which are not necessarily required in order to be adaptable. Intellectual efficiency includes reasoning and brain power, while adaptability making quick decisions and flexibility thinking, which is crucial for a Soldier to thrive in a 'high operational tempo.’
+
 ![](www/adaptabilityVSintellect.png)
-
-The excerpt on the left was coded as 'Adaptability' and the excerpt on the right was coded as 'Intellectual Efficiency' and all excerpts were taken from Army documents. During in depth reading of these documents, a debate among these two codes emerged: What is the difference between intellectual efficiency and adaptability. Underlined in the excerpts is the same wording used to describe two different codes. In order to be adaptable one must be able to think critically. However, the highlighted text shows the key distinction between the two. Intellectual efficiency is a person's ability to analyze and process information. This also includes efficiency in skill. As mentioned in the top right Army excerpt efficiency is skill includes experiences, training, education, and so on. These are things not necessarily required in order to be adaptable. Intellectual efficiency includes reasoning and brain power. While, adaptability focuses on quick responses and flexibility of the mind in order to thrive in a 'high operational tempo'.
-

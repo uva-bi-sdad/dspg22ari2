@@ -18,8 +18,6 @@ navbar:
       href: methods.html
     - text: "Findings"
       menu:
-        - text: Overview
-          href: findings-overview.html
         - text: Qualitative Analysis
           href: qualitative-analysis.html
         - text: Natural Language Processing
