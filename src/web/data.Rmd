@@ -3,17 +3,17 @@ title: "Data"
 ---
 
 # Qualitative Analysis Data
-###*Document Review*
+### *Document Review*
 A list of 55 documents from the Army and external sources pertaining to the role of an individual in unit performance were collected. The author, keywords, potential for use in our analyses, detailed document description, date written, and notes were collected to guide the document selection process. The chart below shows one example of how a document was annotated. [1]
 
 <!-- Notes about document color highlighting moved to endnote-->
 
 ![ ](www/document_discovery.PNG)
 
-###*Corpus*
+### *Corpus*
 The 10 documents most relevant to teams and leadership in the Army, as well as academic writing on team science, spanning the last 50 years were chosen for further analysis. [2]
 
-**Selected Document**
+**Selected Documents**
 
 <!-- Ordered docs alphabetically-->
 
@@ -37,7 +37,7 @@ The 10 documents most relevant to teams and leadership in the Army, as well as a
 
 - What Makes Teams Work: Group Effectiveness Research from the Shop Floor
 
-####*Army documents:*
+#### *Army documents:*
 
 We reviewed seven types of administrative documents officially published by the Army Department of Army Authenticated Publications:
 
@@ -70,7 +70,7 @@ We reviewed seven types of administrative documents officially published by the 
 - A permanent publication that provides a means to distribute unit or individual Soldier training information that does not fit standard requirements for other established types of training publications 
 
 
-####*Non-Army documents:*
+#### *Non-Army documents:*
 
 In order to compare how individual factors relevant to team success might differ between Army and civilian teams, we also included two non-Army documents in our analysis.
 
@@ -82,14 +82,20 @@ In order to compare how individual factors relevant to team success might differ
 
 - A publication by researchers at the University of Akron exploring the influence of organizational structure and team building on work group effectiveness written for the general public and other academics 
 
+<<<<<<< HEAD
+### *Excerpts*
+A full list of all 320 excerpts can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel).
+
+=======
 ###*Excerpts*
 There was a total of 320 excerpts coded within the ten documents used in the qualitative analysis. [3]
+>>>>>>> main
 
 <!--Moved the NLP section to methods and combined with step 7 since it was more about pre-processing for analysis.
 
 # Natural Language Processing Data
 
-The same corpus of 10 documents was used to complete multiple NLP techinques. To complete these, the corpus of documents was cleaned making all of the words lowercase, removing non-alphabetic characters, and removing all words less than three words. Three letters was selected to be the limit as words at or below this level did not contribute to the overall meaning of the documents when standing alone. None of the tests conducted took location of a word in a sentence into account, so removing these words had little to no effect on the outcomes.
+The same corpus of 10 documents was used to complete multiple NLP techniques. To complete these, the corpus of documents was cleaned making all of the words lowercase, removing non-alphabetic characters, and removing all words less than three words. Three letters was selected to be the limit as words at or below this level did not contribute to the overall meaning of the documents when standing alone. None of the tests conducted took location of a word in a sentence into account, so removing these words had little to no effect on the outcomes.
 
 -->
 

@@ -1,0 +1,3319 @@
+ATP 6-22.6
+
+Army Team Building
+
+OCTOBER 2015
+
+DISTRIBUTION RESTRICTION: Approved for public release; distribution is unlimited.
+
+HEADQUARTERS, DEPARTMENT OF THE ARMY
+
+This publication is available at Army Knowledge Online
+(https://armypubs.us.army.mil/doctrine/index.html).
+To receive publishing updates, please subscribe at
+http://www.apd.army.mil/AdminPubs/new_subscribe.asp
+
+ATP 6-22.6
+Headquarters
+Department of the Army
+Washington, DC, 30 October 2015
+
+Army Techniques Publication
+No. 6-22.6
+
+Army Team Building
+Contents
+Page
+
+PREFACE .............................................................................................................. iii
+INTRODUCTION ...................................................................................................iv
+Chapter 1
+
+FUNDAMENTALS OF TEAM BUILDING .......................................................... 1-1
+Team Building Fundamentals ............................................................................. 1-1
+Team Building Stages......................................................................................... 1-2
+Characteristics Of Effective Teams .................................................................... 1-4
+Categories Of Teams ......................................................................................... 1-5
+Roles and Responsibilities .................................................................................. 1-6
+Team Members ................................................................................................ 1-12
+
+Chapter 2
+
+FORMATION STAGE......................................................................................... 2-1
+Assemble the Team ............................................................................................ 2-1
+Build Trust........................................................................................................... 2-6
+Team Communication ........................................................................................ 2-9
+Rapidly Formed Teams .................................................................................... 2-11
+
+Chapter 3
+
+ENRICHMENT STAGE ...................................................................................... 3-1
+Build Commitment .............................................................................................. 3-1
+Build Shared Competence .................................................................................. 3-3
+Build Shared Confidence .................................................................................... 3-3
+Motivate Team Members .................................................................................... 3-3
+Build Shared Accountability ................................................................................ 3-5
+Develop Cohesion .............................................................................................. 3-5
+
+Chapter 4
+
+SUSTAINMENT STAGE .................................................................................... 4-1
+Adapt To Change................................................................................................ 4-1
+Manage Conflict .................................................................................................. 4-2
+Sustain Resilient Teams ..................................................................................... 4-4
+
+Appendix A
+
+TEAM ASSESSMENTS ..................................................................................... A-1
+Assessing External Teams ................................................................................. A-2
+
+Appendix B
+
+EXTERNAL TEAMS ........................................................................................... B-1
+
+Distribution Restriction: Approved for public release; distribution is unlimited.
+
+i
+
+Contents
+
+GLOSSARY ...........................................................................................Glossary-1
+REFERENCES .................................................................................. References-1
+INDEX ......................................................................................................... Index-1
+
+Figures
+Figure 1-1. Army team building process ................................................................................ 1-2
+
+Tables
+Table 4-1. Techniques for adapting to team changes ............................................................ 4-2
+
+ii
+
+ATP 6-22.6
+
+30 October 2015
+
+Preface
+Building cohesive teams through mutual trust is a principle of mission command and an essential skill for Army
+leaders. ATP 6-22.6, Army Team Building, expands upon this principle by offering fundamentals of team
+building and specific techniques for building and maintaining effective teams. This ATP describes the major
+activities of Army team building. This ATP also provides a method for team assessments.
+To comprehend the doctrine contained in this publication, readers should understand the fundamentals of
+leadership found in ADP 1, ADRP 1, ADP 6-0, ADRP 6-0, ADP 6-22, ADRP 6-22, and FM 6-22.
+The principal audience for this publication is Army commanders, directors, staff officers, and leaders. Trainers
+and educators throughout the Army will also use this publication.
+Commanders, staffs, and subordinates ensure their decisions and actions comply with applicable U.S.,
+international, and, in some cases, host nation laws and regulations. Commanders at all levels ensure their
+Soldiers operate in accordance with the law of war and the rules of engagement. (See FM 27-10.)
+ATP 6-22.6 uses joint terms where applicable. Selected joint and Army terms and definitions appear in both the
+glossary and the text. For definitions shown in the text, the term is italicized and the number of the proponent
+publication follows the definition.
+ATP 6-22.6 applies to the Active Army, the Army National Guard/Army National Guard of the United States,
+and the United States Army Reserve unless otherwise stated.
+Headquarters, U.S. Army Training and Doctrine Command, is the proponent for this publication. The preparing
+agency is the Combined Arms Doctrine Directorate, U.S. Army Combined Arms Center. Send comments and
+recommendations on a DA Form 2028 (Recommended Changes to Publications and Blank Forms) to
+Commander, U.S. Army Combined Arms Center and Fort Leavenworth, ATTN: ATZL-MCK-D (ATP 6-22.6),
+300
+McPherson
+Avenue,
+Fort
+Leavenworth,
+KS
+66027-2337;
+by
+e-mail
+to
+usarmy.leavenworth.mccoe.mbx.cadd-org-mailbox@mail.mil; or submit an electronic DA Form 2028.
+
+30 October 2015
+
+ATP 6-22.6
+
+iii
+
+Introduction
+Army organizations rely on effective teams to complete tasks, achieve objectives, and accomplish missions.
+The ability to build teams through mutual trust and maintain effective, cohesive teams throughout military
+operations is an essential skill for commanders, staffs, and all Army leaders. Leaders are faced with many
+different types of missions and joint operations in an operational environment. The size of a team, the
+diversity of the team, the structure of the team, and the organizations and unified action partners that team
+members come from can make building and maintaining effective teams a constant challenge for leaders.
+Teams are an essential part of the Army. The Army could not accomplish missions without teams. To get
+the most from a team, the team must be cohesive and effective, which does not just happen by chance. It
+takes work and time to develop a team. Once the team achieves a high level of cohesion, it is critical to
+sustain it at that level for the life of the team. Having tools and techniques for assessing the team’s
+performance is important. Having accurate assessments of the team, the individual members, and the team
+leaders lets the team know what is working and what needs improvement.
+In May 2012, ADP 6-0 and ADRP 6-0 established “build cohesive teams through mutual trust” as a
+principle of mission command. This ATP helps commanders, staffs, and all Army leaders to understand
+team dynamics, and it offers techniques to help build cohesive and effective teams. The potential benefits
+for using the team building techniques in this ATP include—
+ Increasing mutual trust among all team members and with other teams.
+ Enhancing collaboration between team leaders and team members.
+ Developing adaptable teams able to function effectively in uncertain environments and situations.
+ Helping teams develop shared vision, trust, competence, and confidence.
+Chapter 1 begins with discussing the fundamentals of team building, including descriptions of a team,
+teamwork, and team building. It then discusses the stages of team building and the characteristics of
+effective teams. It describes the categories of teams and concludes with the responsibilities of team leaders
+and team members.
+Chapter 2 discusses the formation stage of team building beginning with a description of how to assemble a
+team. It then discusses the importance of building trust, and it concludes with a discussion of how
+communication contributes to team effectiveness.
+Chapter 3 begins with a discussion of the importance of building commitment during the enrichment stage
+of team building. It then describes shared competence, confidence, and accountability and how they
+contribute to the effectiveness of teams. The chapter then discusses techniques to motivate teams and team
+members, and the chapter concludes with a discussion on developing cohesion to enhance the performance
+of teams.
+Chapter 4 begins with a discussion on adapting to change. It then describes how teams manage conflict. The
+chapter concludes with a discussion of building resilient teams.
+Appendix A begins with an introduction to a team assessment. The appendix then discusses team leader
+assessment. The appendix concludes with a summary of team assessment.
+Appendix B provides techniques for building external teams.
+
+iv
+
+ATP 6-22.6
+
+30 October 2015
+
+Chapter 1
+
+Fundamentals of Team Building
+This chapter discusses the fundamentals of team building, including descriptions of a
+team, teamwork, and team building. It then discusses the stages of team building and
+the characteristics of effective teams. It describes the categories of teams and
+concludes with the responsibilities of team leaders and team members.
+
+TEAM BUILDING FUNDAMENTALS
+1-1. A team is any group that functions together to accomplish a mission or perform a collective task. A
+team’s work is interdependent and team members share responsibility and accountability for attaining
+results. There is no size limit to a team. Teams are complex, dynamic groups that range from two people to
+thousands of individuals. In the Army profession, Soldiers and Department of the Army Civilians are a part
+of different teams, and sometimes they can be a part of many teams simultaneously.
+1-2. Army organizations rely on effective teams to complete tasks, achieve objectives, and accomplish
+missions. The ability to build teams through mutual trust and maintain effective, cohesive teams throughout
+military operations is an essential skill for all Army commanders, staffs, and leaders. Faced with many
+different types of missions and joint operations in an operational environment, building and maintaining
+effective teams is a constant challenge for leaders. Building a successful team is challenging, but the
+positive benefits of teamwork in a cohesive, effective team are well worth the effort and time it takes. These
+benefits enhance the performance of the team, improve the skills of the individual team members, and build
+important relationships with other organizations and unified action partners for the present and future.
+1-3. Building cohesive teams through mutual trust and creating a shared understanding within those teams
+are two principles that guide commanders in exercising mission command. Mission command is the exercise
+of authority and direction by the commander using mission orders to enable disciplined initiative within the
+commander’s intent to empower agile and adaptive leaders in the conduct of unified land operations
+(ADP 6-0). Through dedication and understanding of how to apply team-building principles to their
+organization, Army leaders create cohesion and accomplish missions.
+1-4. A key to effective teamwork is the cooperative or coordinated effort of individuals acting together as
+a group or in the interests of a common goal. Teamwork is built on mutual trust and commitment to the
+team. The individual strengths and skills of each member combine in the pursuit of a common direction or
+cause, producing results for the team members and the organization. The support a team provides to
+individual team members reflects teamwork.
+1-5. Understanding team dynamics is an important aspect of building and maintaining effective teams.
+Team dynamics are the behavioral relationships between members of a group who connect within an
+organization. The dynamics of a team will depend on the personalities of each team member and can affect
+how a team performs. Many factors influence team dynamics, such as team members’ personalities, how the
+team operates, the team’s identity, and the team's organizational environment.
+1-6. Army team building is a continuous process of enabling a group of people to reach their goals and
+improve their effectiveness through leadership and various exercises, activities and techniques (FM 6-22).
+The goal of Army team building is to improve the quality of the team and how it works together to
+accomplish the mission. Team building is essential for the Army to function and perform, and success for
+the team depends on the work and cooperation of every member. The Army's process for team building
+includes forming, enriching, and sustaining teams, as shown in figure 1-1.
+
+30 October 2015
+
+ATP 6-22.6
+
+1-1
+
+Chapter 1
+
+Figure 1-1. Army team building process
+
+TEAM BUILDING STAGES
+1-7. Developing cohesive teams is a process that transforms groups of people into effective teams that are
+able to accomplish missions and perform tasks. This continuous process helps newly formed teams from
+initial orientation and integration through mission accomplishment. Team leaders and team members must
+know and understand the stages in this process so they can identify them as the team develops and
+progresses. Identifying and monitoring each stage allows the team to move toward the next step. The three
+stages of team building are the—
+ Formation stage.
+ Enrichment stage.
+ Sustainment stage.
+1-8. Teams go through stages on their way to improving their effectiveness. Teams mature at different
+rates, but almost every team goes through the stages of form, enrich, and sustain. The ultimate goal of
+working through the team building stages is for the team to display the characteristics of an effective team.
+
+FORMATION STAGE
+1-9. Team leaders have an instrumental role in how a team works together, beginning with team
+formation. Team leaders assemble the team and provide the team direction. The formation stage is
+important because the team members get to know one another, exchange some personal information, and
+make new friends. This is also a good opportunity to see how each member of the team works as an
+individual.
+1-10. Formation begins with receiving new team members. The new member reception and orientation
+creates the first impression that affects the person’s opinion of the team. Having a good experience when
+joining an organization makes it easier for a new member to fit in and to contribute to the team effort. The
+team leader prepares the team to work, which involves orienting team members to the team’s mission, goals,
+
+1-2
+
+ATP 6-22.6
+
+30 October 2015
+
+Fundamentals of Team Building
+
+and objectives. The team leader sets the team on a path to success by assigning team roles and
+responsibilities appropriately to team members with the right capabilities.
+1-11. The principal work for the team during the formation stage is to create a team with a clear structure,
+goals, direction, and roles so that members begin to build trust, understand how to collaborate, and learn to
+communicate effectively. (See chapter 2 for detailed discussion of the formation stage.)
+
+ENRICHMENT STAGE
+1-12. During the enrichment stage, the team members build commitment to the team. Commitment is the
+foundation for synergy in groups when individuals put aside personal needs for the benefit of the team. The
+team begins to work together effectively as individual team members focus more on the team as a whole.
+Team members feel an increasing acceptance of others, recognizing that the variety of opinions and
+experiences make the team stronger. Because of this, there is increased cohesion and more collaboration.
+1-13. The enrichment stage focuses on how to strengthen relationships and motivate team members. A
+leader’s role in motivation is to understand the needs and desires of others, to align and elevate individual
+desires into team goals, and to inspire others to accomplish those larger goals. Team leaders use different
+techniques to motivate the team to improve the team's effectiveness.
+1-14. During the enrichment stage, team members develop accountability focused at the team rather than
+the individual level. This means that the members of the team feel mutually accountable to each other. The
+team as a whole accepts accountability for the results of the team's actions. Team members begin to develop
+shared competence and shared confidence. Shared competence is important to the success of a cohesive,
+effective team. Competence is evident when people perform their work at or above an established standard.
+Shared confidence is the product of working as a team to execute an understood, shared mission, vision,
+goal, objective, or purpose with a competent team. Small team successes develop shared confidence, which
+in turn causes teams to undertake new and even more difficult challenges. With each accomplishment, a
+team builds confidence and increases its effectiveness.
+1-15. As members begin to feel like a part of a team, and there is increased trust and commitment, a team
+becomes more cohesive. Cohesion is the bonding together of team members and their leaders in such a way
+as to develop and sustain their commitment to their unit and their resolve to accomplish the mission.
+Cohesion characterizes this stage of team building. A cohesive team puts aside any interfering differences
+and chooses to work together. Every new mission gives the team leader a chance to challenge the team to
+reach new levels of accomplishment and confidence. (See chapter 3 for detailed discussion of the
+enrichment stage.)
+
+SUSTAINMENT STAGE
+1-16. At the sustainment stage, team members will do what is necessary without direction. The team’s
+attitude about its capabilities elevates motivation and increases its ability to overcome adversity. Teams can
+have challenges in the sustainment stage. Effective team leaders will watch for signs of complacency and
+intervene when it occurs by reinforcing good interaction practices and holding the team to standard.
+Changes for which the team is not prepared can be another challenge for the team leader. Shared
+experiences and regular training help teams address unexpected changes in situations. Empowering the team
+to improve coordination can strengthen its ability to handle change.
+1-17. Learning how to manage conflict is important in all of the stages of team building, but it is especially
+relevant in the sustainment stage. When conflict arises or trust is broken, team members disregard
+commitments, team members are not accountable, or work goes undone. At this point, the leader steps in
+and gets the team back on track. Team members handle these things during the sustainment stage. (See
+chapter 4 for a detailed discussion of the sustainment stage.)
+1-18. The Army relies on effective teams to perform tasks, achieve objectives, and accomplish missions.
+Thus, building and maintaining effective teams is essential to mission command. To build an effective team,
+it is important to have an understanding of the characteristics of an effective team.
+
+30 October 2015
+
+ATP 6-22.6
+
+1-3
+
+Chapter 1
+
+CHARACTERISTICS OF EFFECTIVE TEAMS
+1-19. Knowing the characteristics of effective teams help team leaders and team members build and
+maintain effective teams throughout the Army. Effective teams—
+ Trust each other and predict what each will do.
+ Work together to accomplish the mission.
+ Execute tasks thoroughly and quickly.
+ Meet and exceed the standard.
+ Adapt to demanding challenges.
+ Learn from experiences and develop pride in accomplishments.
+
+TRUST EACH OTHER AND PREDICT WHAT EACH WILL DO
+1-20. For a team to work effectively, all team members establish trust. Teams with solid trust among their
+team members are better equipped to predict what each team member will do. Team leaders foster trust and
+commitment through shared experiences to build relationships that result in trust. In an effective team,
+members become able to predict each other’s behaviors and respond quickly in changing circumstances.
+
+WORK TOGETHER TO ACCOMPLISH THE MISSION
+1-21. The teamwork necessary for cohesive, effective teams requires individuals to work together. A good
+team supports and enhances the skills and learning of its members, and brings out the best in them.
+Individual strengths and skills combine with teamwork, in the pursuit of a common direction or cause, to
+produce results.
+
+EXECUTE TASKS THOROUGHLY AND QUICKLY
+1-22. Cohesive, effective teams execute their plans thoroughly and quickly and focus on achieving
+collective results. Teams that execute tasks in this manner have high levels of motivation. Motivation is the
+will and initiative to do what is necessary to accomplish a mission. To execute tasks thoroughly and quickly,
+team leaders maintain motivation.
+
+MEET AND EXCEED THE STANDARD
+1-23. Team members on effective teams readily meet and exceed the standards. An effective team leader
+instills discipline and builds esprit de corps by training to the standards, sensibly using rewards and
+punishment, instilling confidence, and ensuring team members have the necessary technical and tactical
+expertise. Effective team members know the standards and strive to meet and exceed them.
+
+ADAPT TO DEMANDING CHALLENGES
+1-24. The Army's operational requirements are changing. Teams react to a wide range of potential missions.
+Team building develops agility and adaptability by focusing on training events and exercises that require
+creative solutions. Leaders develop a team's ability to focus and concentrate as the team’s environment
+changes. Effective teams are flexible and able to adapt to changing conditions.
+
+LEARN FROM THEIR EXPERIENCES AND DEVELOP PRIDE IN THEIR ACCOMPLISHMENTS
+1-25. Effective teams celebrate their successes together, just as they identify the special performances and
+contributions of each individual. Teams look upon first-time mistakes as opportunities for learning, rather
+than criticism and punishment. Teamwork reflects the pride in the outcomes of the team. Team members
+honor the contribution that each member makes to the total work of the team, which develops pride
+throughout the team.
+1-26. The Armed Forces of the United States—including every military organization to the lowest level—
+are a team. Deterring adversaries and winning the Nation’s wars are the team’s common goals. While there
+
+1-4
+
+ATP 6-22.6
+
+30 October 2015
+
+Fundamentals of Team Building
+
+are many different types and varieties of teams, the Army functions with two categories of teams: internal
+and external. (See appendix B-3 of JP 1 for a discussion of professionalism and teamwork.)
+
+CATEGORIES OF TEAMS
+1-27. The Army is a team of teams composed of numerous organizations with one overarching common
+mission: win the nation’s wars. Brigade combat teams, command teams, planning teams, and fire teams are
+just a few examples of teams. Each of these is a team established through a permanent organizational
+structure or temporarily selected for a specified mission. Members of the Army are familiar with teams in
+the traditional context of squads, platoons, companies, or battalions. Team members share the same values,
+interests, experiences, training, climate, and Army culture in these intact organizations.
+1-28. There are two categories of teams in the Army that leaders, Soldiers, and Depart of the Army
+Civilians are part of and participate in. These are internal teams and external teams. All military teams fall
+into these two categories according to the commander task of the mission command warfighting function,
+“Develop teams, both within their own organizations and with joint, interagency, and multinational
+partners.” Team members may be members or leaders in one or both categories of teams simultaneously,
+depending on the operation. (See ADRP 6-0 for a detailed discussion of mission command and the mission
+command warfighting function.)
+
+INTERNAL TEAMS
+1-29. Internal teams are teams comprised of leaders, Soldiers, and Department of the Army Civilians
+assigned to a specific unit or organization. Internal teams are the most common types of teams. These teams
+do not include individuals from outside organizations, unified action partners, or other nations. Higher
+headquarters assign members of these teams to the organization. Army squads, platoons, companies,
+battalions, brigades, and divisions are all examples of internal teams.
+1-30. Internal teams have leaders who possess formal leadership authority by virtue of their assignment to
+positions of responsibility. Team leaders in a command position have authority through the Uniform Code
+of Military Justice and promote team efficiency and effectiveness through lawful orders and directives.
+Team members of internal teams have distinct roles and responsibilities assigned to them by virtue of rank,
+grade, expertise, and military occupational specialty. Internal teams accomplish specific missions or tasks
+and typically have an established structure. Each team member has a specific role that contributes to the
+goal of the team.
+
+EXTERNAL TEAMS
+1-31. External teams are teams whose members are from different organizations, cultures, agencies, or
+backgrounds and who bring specific knowledge, skills, and attitudes to the team. Most leaders do not have
+the option to select their team members. They must be prepared to build and develop the team with the
+assigned members. These teams have members with different expertise and can cross boundaries such as
+distance, time zones, functions, or cultures. Some examples of external teams include a security force
+assistance team, a working group, or a provincial reconstruction team. In external teams, the members most
+often do not have authority over one another, come from different cultures and levels of experience, and
+may have separate agendas. They usually work by influencing and co-opting others through strong
+relationships and mutual benefits.
+1-32. The mission, situation, and geographic location dictate who is on an external team. Team members
+represent a parent agency, organization, or country and interact with other team members to accomplish a
+common mission or objective. The joint and multinational nature of operations requires leaders to build
+teams from internal personnel and build teams with external unified action partners. Unified action partners
+are those military forces, governmental and nongovernmental organizations, and elements of the private
+sector with whom Army forces plan, coordinate, synchronize, and integrate during the conduct of
+operations. (ADRP 3-0) As such, members of external teams may include—
+
+30 October 2015
+
+ATP 6-22.6
+
+1-5
+
+Chapter 1
+
+
+
+
+
+
+
+
+
+Members from other Services (joint).
+Military or civilian personnel from other nations.
+Department of the Army Civilians.
+Interagency civilian personnel.
+Nongovernmental organization personnel.
+Community officials.
+Civilian contractors.
+
+1-33. Uniting all the diverse capabilities necessary to achieve success in operations requires collaborative
+and cooperative efforts that focus those capabilities toward a common goal. Unified action is the
+synchronization, coordination, and/or integration of the activities of governmental and nongovernmental
+entities with military operations to achieve unity of effort (JP 1). Where militaries demand unity of
+command (the operations of all forces under a single responsible commander who has the requisite authority
+to direct and employ those forces in pursuit of a common purpose), the challenge for building teams with
+unified action partners is to forge unity of effort.
+1-34. Unity of effort is coordination and cooperation toward common objectives, even if the participants are
+not necessarily part of the same command or organization, which is the product of successful unified action.
+(JP 1) Unity of effort can only be achieved through close, continuous interagency and interdepartmental
+coordination and cooperation. During multinational operations and interagency coordination, unity of
+command may not be possible, but the requirement for unity of effort becomes paramount. Command is
+central to all military action, and unity of command is central to unity of effort. However, in instances where
+unity of command is not possible, coordination is central to unity of effort. Achieving an effective team
+results from the relationships forged between those team members. External teams are discussed in detail in
+appendix B.
+
+ROLES AND RESPONSIBILITIES
+1-35. A team consists of two components—a team leader and team members. Each component has roles
+and responsibilities in the formation, enrichment, and sustainment of the team. Paragraphs 1-36 through
+1-81 provide a discussion of the roles and responsibilities of both team leaders and team members.
+
+TEAM LEADERS
+1-36. The team leader is the individual who provides guidance, instruction, and direction to a group of
+individuals to achieve a common goal. The leader enables the team to work together. Dynamic leaders build
+groups into teams and help personnel understand the fundamentals of team building. This type of leader
+knows how to build teams and set the stage for team success by establishing a positive atmosphere. Team
+leaders set goals to strengthen team connections, sense of purpose, commitment, and communication. Team
+leaders create an environment that fosters teamwork, promotes cohesion, and encourages initiative.
+1-37. The team leader has a distinct and critical role in developing effective teams. Some of the
+responsibilities of a team leader include (but are not limited to)—
+ Establishing a positive climate.
+ Creating a shared vision and team identity.
+ Providing clearly stated goals.
+ Establishing roles and responsibilities.
+ Establishing an environment of collaboration and dialogue.
+ Establishing an environment that embraces learning.
+ Knowing the strengths and weaknesses of team members.
+
+Establishing a Positive Climate
+1-38. Team leaders create the atmosphere, or climate, in which people work. The climate relates to the
+leader’s values, skills, and actions. Team leaders influence performance by cultivating a supportive
+
+1-6
+
+ATP 6-22.6
+
+30 October 2015
+
+Fundamentals of Team Building
+
+environment. In a positive climate, the team leader builds and maintains interpersonal trust and team
+cohesion. The team leader inspires, motivates, and guides the team towards accomplishing a common goal
+through cooperative efforts.
+1-39. Team leaders must create a positive climate where people on the team feel motivated to complete the
+required tasks. Team members need to be heard, appreciated, and feel they are part of the team. Creating a
+positive climate involves key skills that help team leaders earn the respect of their team members. It is
+important to recognize that responsibility for building an effective team does not reside only with the team
+leader. Everyone on the team is responsible for how the team functions.
+1-40. A positive climate develops from people’s shared perceptions and attitudes of how their team
+operates on a daily basis. A climate of trust is established when the norms and values of the team create a
+positive, mutually beneficial environment. Team leaders establish and maintain positive expectations and
+attitudes that produce the setting for a positive climate and effective work behaviors. Some actions that can
+build a positive climate include—
+ Communicating a sense of vision or focus.
+ Maintaining focus in training.
+ Establishing, modeling, and enforcing high, attainable, and clearly understood standards.
+ Allowing team members freedom to exercise initiative.
+ Establishing accountability at the appropriate level.
+ Showing confidence in team members, seeking their ideas, and making decisions together.
+ Encouraging and rewarding prudent risk-taking and accepting honest mistakes.
+ Demonstrating concern for team members' welfare.
+ Achieving high performance through positive motivation and rewards.
+ Enforcing ethical standards.
+1-41. A positive climate instills a sense of mutual trust, discipline, community, self-respect, and morale.
+Effective leaders demonstrate a sincere concern for their team’s welfare. This contributes to a positive
+climate more than anything else a leader does. (See FM 6-22 for a discussion of additional leader actions
+that can establish a positive climate.)
+
+Creating Shared Vision and Team Identity
+1-42. One key element of building teams is creating a shared vision and team identity that all team members
+understand. This vision sets a common direction and focus for the entire team. Team leaders are responsible
+for developing and communicating that vision, planning the team's mission to match the vision, determining
+how people will function together, and then fine-tuning the vision over time. As long as there is a shared
+vision, the team is more likely to perform at an effective level and accomplish the mission. Teams with
+shared understanding of the vision and purpose have better coordination and less conflict than teams that do
+not. Shared vision exists when team members have a common understanding of—
+ The overall mission or objective.
+ The goals of the mission.
+ Strategies for reaching the goals.
+ Team members’ strengths and weaknesses.
+ Values and preferences of team as a whole and among the individual members.
+ The roles each member will play.
+1-43. Creating a shared team identity involves discussing and determining the team's purpose, values,
+strengths, and limitations. It involves understanding that every team member’s skill-sets contribute to the
+team. Every member of the team has a role in creating the team identity. The techniques described in
+paragraphs 1-44 through 1-49 are available for use by any team leader, team members, or teams to help
+create and foster a shared team identity.
+
+30 October 2015
+
+ATP 6-22.6
+
+1-7
+
+Chapter 1
+
+Fit the Team Identity to the Organization and its Leadership
+1-44. A team’s purpose and identity is associated with the organizational context where the team works.
+Therefore, it is important to recognize and discuss what processes and outcomes will fit or work within the
+organizational context. What the team does, what the team’s activity actually looks like, and what the team
+can offer depends heavily on the expectations of the internal organization or external organizations. It is
+also dependent upon what the larger organizational culture and senior leadership want and will support.
+Understanding the team’s organizational context is a key aspect in the development of the team’s identity.
+The team identity is also based on the support the team receives from senior leaders. Team members of
+permanent or longer term teams may find that the team’s purpose and mission evolves over time as the
+organizational leaders change, both within the team and the larger organization. In addition, as team
+members of a team changes, the team’s identity will also evolve and change.
+Recognize Individual Expertise
+1-45. A part of creating the team’s identity is to understand the unique skills, characteristics, knowledge,
+and experiences each team member possesses. There are some strategies and techniques for uncovering the
+background and expertise of team members:
+ Each team member provides a biographical sketch.
+ Leaders provide team members the opportunity to describe who they are and what experiences
+and perspectives they bring to the team. (For example, one activity could be for team members to
+describe in three minutes or less what they have done over the past five years.)
+Discussing “Who Are We” As A Team
+1-46. Answering the questions, “Who are we as a team?” and “What unique value does this team offer?”
+are critical when creating a team identity. A team should spend time sharing ideas about these topics. Team
+members should understand why they are participating on the team. They should also understand how the
+team strategy helps the organization attain its goals. Team members define their team’s importance in
+accomplishing the mission. The team members then understand where the team fits in the overall context of
+the organization.
+Develop a Team Statement
+1-47. Working together, team members develop a statement that captures the team’s identity. The statement
+should only be a few sentences long. This statement is useful when communicating with other individuals
+with the larger organization or outside the organization. It helps to understand the value the team can and
+will offer.
+Maintain a Team History
+1-48. Documenting the team’s history is important, and it is a great technique for understanding the team.
+Teams can create an informal one-page charter or a team handbook. Leaders post and distribute the team
+history to all team members. It provides a resource for team members to periodically review, update, and
+provide detail to as the team matures. For example, a team may create a handbook that contains statements
+and graphical representations of the team’s mission, the team’s values, key team members, and their unique
+strengths. This handbook would be a resource for team members to refer to or share with others in or
+outside the team.
+Reevaluate the Team’s Identity Periodically
+1-49. For many reasons, the team’s identity evolves and changes over time. This is particularly the case if
+the team is together for a sustained period. Changes in organizational leadership or the addition of new team
+members are factors that may contribute to the need for change, adaptation, and evolution over time. During
+these times, it is a good technique to revisit what the team discussed and agreed upon as an identity early in
+the team building process with respect to the team’s central purpose and mission. Then, the team members
+should review and discuss how the team has changed.
+
+1-8
+
+ATP 6-22.6
+
+30 October 2015
+
+Fundamentals of Team Building
+
+Providing Clearly Stated Goals
+1-50. The team’s mission describes its overall direction and goals. Team leaders clarify and establish these
+goals. A goal should be clear and state a specific performance objective in concrete language, so that team
+members know if they reached the performance objective. Team members need to know what the tasks or
+goals are and how to reach those goals. Involving team members in goal setting increases their commitment
+and work ethic toward achieving the goal.
+1-51. Quick wins are small-scale goals that provide a means to establish a team leader’s credibility and to
+lay the foundation for trust. They must be feasible, attainable, and important to the team’s mission or
+purpose. They initiate momentum and lay the foundation for achieving long-term goals and objectives.
+1-52. To achieve optimal success, a goal should be challenging and attainable, and it should make members
+feel that the performance objective makes a difference. The team’s goals should be related to the mission,
+but not be too specific. When goals are too specific, innovation is less likely to occur because team
+members have little freedom to experiment. However, goals should not be too challenging, because people
+tend to reject unrealistic and unattainable goals. Clear objectives and agreed upon goals enhance motivation
+and problem solving. It is important to give feedback regarding achievement of goals.
+
+Establishing Roles and Responsibilities
+1-53. Clearly established roles and responsibilities are important to identify both individual and group
+capabilities and developmental needs. It is important for leaders to understand their team members’ interests
+to use their team members’ knowledge, skills, and abilities to work towards their developmental needs.
+Designating, clarifying, and de-conflicting roles will improve a team’s performance by removing ambiguity
+and confusion. Each team member should know who is supposed to do what, at what time, and in what
+location.
+1-54. Team leaders have some flexibility in how they assign individual team members. It is important to
+match task requirements with the capabilities, interests, and strengths of team members. Team leaders
+should also consider the requirements for problem solving, organization, communication, and social skills
+that may be needed to keep the team working productively. One method for assigning roles and
+responsibilities is a four-step process in which each step builds upon the last step:
+ Identify the tasks.
+ Identify the required skills.
+ Identify team member skills.
+ Assign the appropriate roles and responsibilities.
+This process is discussed in paragraphs 1-55 through 1-58.
+Identify the Tasks
+1-55. Team leaders begin by considering their team’s mission and goals, which enables team leaders to
+solidify their understanding of what the team accomplishes. Understanding the overall team purpose allows
+team leaders to plan the details. After gaining a good understanding of the team’s mission and goals, team
+leaders work back from the desired end state to identify all the tasks and milestones to achieve the desired
+end state. One simple way to do this is by using a work (troop-to-task) breakdown chart. The team leader
+then defines the key activities required.
+Identify the Required Skills
+1-56. This step identifies the skills required by team members to assign responsibility for roles based on the
+tasks involved. A simple way to identify the skills required is by listing each task identified and then listing
+what the required skills are for the task. This gives team leaders a good record of the skills needed in the
+team and will eventually enable them to find gaps within the team following the next step.
+
+30 October 2015
+
+ATP 6-22.6
+
+1-9
+
+Chapter 1
+
+Identify Team Member Skills
+1-57. During this step, the team leader identifies each team member’s skills and work history to determine
+the experience level and character attributes of all team members. Once team leaders know what each team
+member is capable of, they can match team members to suitable roles and responsibilities.
+Assign the Appropriate Roles and Responsibilities
+1-58. Team leaders do not assign team members roles or give them responsibility for a task just because
+they want it or volunteer for it. Team leaders ensure that the information they have collected on team
+members is the basis for assigning roles and responsibilities. This will ensure the team is effective based on
+its needs and its available skills.
+
+Establishing an Environment of Collaboration and Dialogue
+1-59. Team leaders should create an atmosphere where team members share ideas, think critically, express
+creative thought, and challenge ideas. Effective team leaders establish a collaborative and trusting
+environment. Collaboration and dialogue create the shared understanding required for successful
+operations. Collaboration is working together toward common goals by sharing knowledge and building
+consensus. Dialogue is a way to collaborate that involves the candid exchange of ideas or opinions among
+participants that encourages frank discussions of areas of disagreement. Collaborative teams focus on
+learning, identify gaps in performance or processes, and plan for improvement. Collaborative team
+members are prepared, behave in a professional manner, and make a conscious effort to show appreciation
+of other team members.
+1-60. Through collaboration, teams establish personal connections with one another to create shared
+understanding. It is important for team leaders to foster debate to develop deeper understanding. Team
+leaders emphasize continual learning, creative thought, and testing ideas. Effective collaboration and
+dialogue are not possible unless team leaders ensure dialogue occurs. They do this by demonstrating the
+confidence necessary to admit that they do not know everything, can be wrong, and have something to
+learn. Team leaders establish a climate where collaboration and dialogue occur throughout the organization
+through personal example, coaching, and mentorship.
+1-61. There are several useful techniques teams use to build stronger, more collaborative relationships.
+Team leaders may use the techniques listed in paragraphs 1-62 through 1-70 for strengthening relationships
+between team members.
+Align the Team Mission, Goals, and Expectations
+1-62. Team relationships begin to degrade when team members lack understanding of the mission, goals,
+priorities, and performance standards. There are several reasons why such situations occur. The team may
+have never had the opportunity to sit down and openly discuss the standards and expectations of the tasks or
+mission. To compound the problem, team leaders sometimes assume they have supplied their teams with
+complete information on tasks, assignments, responsibilities, or missions because there were not any
+questions from the team members. Alternatively, team members may communicate their understandings in a
+language that is vague or misleading to the team leader or other team members.
+1-63. An example of this could be asking someone to complete a task “as soon as possible”. This does not
+give the other team members a suspense date or time for task completion. “As soon as possible” means
+something different to each individual. At the same time, team members may use unclear language when
+confirming their understanding of the information. Finally, the team leader’s expectations of the tasks and
+mission may have changed significantly over time as the information has changed from higher echelons.
+Team leaders should ensure they communicate changed information to the team so everyone understands.
+1-64. The most effective tool to gain alignment is the team meeting. It is beneficial and useful to set aside a
+team meeting to negotiate critical issues for team review. Every team’s mission is unique, so the number of
+meetings is dependent upon the team and its mission.
+
+1-10
+
+ATP 6-22.6
+
+30 October 2015
+
+Fundamentals of Team Building
+
+Reflect on Each Team Member’s Strengths
+1-65. Another technique to build collaboration within a team is for leaders to ask team members to reflect
+on the following question: “Who has skills and experience that could be of use to other team members on
+tasks or projects?” Next, the team leader asks each team member to share with the team what that team
+member has identified. The team leader ensures the other team members remain silent and hold their
+comments until everyone has had their chance to speak. This activity accomplishes a couple of things. It
+provides team members with solid affirmation of their contribution to the team. It also provides a
+constructive way for each team member to solicit help and assistance from the other team members.
+Recall Previous Collaborative Successes
+1-66. Recalling collaborative successes is a useful technique for building future collaboration within a
+team. During this drill, team members identify previous situations they view as examples of successful team
+collaboration. This drill helps to encourage team members to ask themselves, “What is it that we, as a team,
+do differently when we are performing at our collective best?” and “What has worked well in the past for
+the team?” The team can use this information to look for ways to replicate it in the future. It is important
+that teams take the time to pause occasionally and celebrate small wins as they occur. This celebration could
+be as small as taking five minutes to recognize the accomplishment with everyone on the team. Teams
+should also recognize when they have completed important milestones for a long-term goal. The important
+thing is to bring every team member’s attention to what is working in the team’s area of collaboration.
+1-67. It is a challenge for team leaders to establish a collaborative and trusting environment where team
+members feel safe arguing, questioning, thinking creatively, and sharing ideas openly. Team members
+refrain from offering alternative ideas out of fear of others judging them negatively or fear of being wrong.
+The team leader should remove these barriers by creating an atmosphere where members are comfortable
+challenging ideas without fear of rebuke. The team leader also reinforces the view that an attack on an idea
+is not an attack on the person, and that the debate is to develop a deeper understanding.
+Engage in Self Reflection
+1-68. Team leaders reflect on the behaviors and characteristics they exhibit as a leader, and whether those
+behaviors will work well for the team. There is no one right way to lead a team. Most team leaders have
+probably taken a variety of leadership assessments throughout their careers. It can be helpful to review and
+reflect on how that leadership style will function with the demands of leading a team.
+Seek Feedback from the Team
+1-69. Team leaders seek feedback regarding their leadership style and the specific practices and behaviors
+that best support the team’s work. The team leader chooses to seek feedback from the full team or
+individually from team members. Informal conversation (“How am I doing? What can I do better?”), or
+more formal written or computer-based formats are a few ways to seek feedback. Regardless of the method
+the team leader chooses, eliciting feedback will serve a number of important purposes. It shows that the
+leader is open to the team’s feedback and ideas for improvement, which will help to build trust within the
+team. This feedback is a basis for reflecting on one’s leadership practices and adjusting those practices to
+better support individual team members and the team as a whole.
+Model What the Team Should Do
+1-70. One way to help lead a team is to model and demonstrate the desired team behaviors. Effective team
+leaders model correct attitude, performance, and conduct.
+
+Establishing an Environment that Embraces Learning
+1-71. Team leaders should establish a learning environment. This type of environment will encourage team
+members to seek professional and personal opportunities for learning. Teams that have a positive learning
+culture are eager to understand new areas and current situations. (For a detailed discussion of how leaders
+create this environment, see ADRP 6-22, FM 6-22, and ATP 5-0.1.)
+
+30 October 2015
+
+ATP 6-22.6
+
+1-11
+
+Chapter 1
+
+Knowing the Strengths and Weaknesses of Team Members
+1-72. Team leaders identify strengths and weaknesses of their team, which strengthens the Army
+organization. Each team member brings unique skills, qualities, experiences, biases, and agendas to the
+team. As team leaders develop strategies for reaching goals, they should understand each team member’s
+strengths and weaknesses, values and preferences, and the role that each team member plays.
+
+TEAM MEMBERS
+1-73. Effective team members are disciplined, task-oriented, and have a strong work ethic. They are
+open-minded, adaptable, and eager to learn. As a successful and capable member of a team, each person
+develops individual self-awareness to be a productive member of a team. This self-awareness allows team
+members to identify the positive attributes they seek in themselves and in other team members.
+
+POSITIVE ATTRIBUTES
+1-74. An exceptional team member has enthusiasm for the organization and the mission. These team
+members bring a positive attitude to the team and inspire others to do the same. Other positive attributes
+include being a reliable, trustworthy person. Reliable team members consistently get the work done. They
+work hard, follow through, and always deliver a good performance. Reliable team members are active
+participants who prepare and engage in the team’s work. Team members who function as active participants
+take the initiative to help make things happen. They volunteer for assignments to accomplish the mission.
+
+NEGATIVE ATTRIBUTES
+1-75. Some team members are especially critical of others and continually try to bring a team down. They
+will often take pleasure in the failure of others. They often look on the negative side of things, and will be
+the first to criticize others. This type of criticism is not meant to improve team efforts, but the overly critical
+team member seeks to hurt other people’s feelings to make themselves feel better. Some other attributes of
+team players that are negative include being selfish, controlling, and egotistical. These are just some of the
+negative attributes that team members might display. (See chapter 4, manage conflict, for techniques for
+dealing with a team member who displays this type of behavior.)
+
+TEAM MEMBER RESPONSIBILITIES
+1-76. Team members understand what they are able to contribute and understand the individual
+responsibilities that make people effective members of a team. Some of those responsibilities include—
+ Building relationships.
+ Demonstrating flexibility and adaptability.
+ Cooperating with other team members.
+ Having a willingness to help others.
+ Respecting others.
+
+Building Relationships
+1-77. One of the most important responsibilities of a team member is to form and maintain solid working
+relationships with other members of the team. Team members establish a personal rapport with each other
+by finding common history, experiences, or interests. Cohesive, effective teams are adept at building
+relationships and overcoming obstacles. The team’s trust improves as members build relationships and see
+the skills and work ethic each member brings to the team.
+
+Demonstrating Flexibility and Adaptability
+1-78. Teams handle changing conditions and often create changes themselves. Good team players adapt to
+uncertain situations. In addition, a flexible team member can consider different points of views and
+
+1-12
+
+ATP 6-22.6
+
+30 October 2015
+
+Fundamentals of Team Building
+
+compromise when needed. Effective team players have confidence in their opinions, but consider what
+others have to say. (See chapter 4 for a detailed discussion of adaptability.)
+
+Cooperating with Other Team Members
+1-79. Cooperation is the act of working with others and acting together to accomplish a mission. Effective
+team players have the responsibility to work this way automatically. Good team players, despite the
+differences they may have with other team members concerning style and perspective, figure out ways to
+work together. They take initiative to offer help to other team members.
+
+Having a Willingness to Help Others
+1-80. Team members demonstrate support for one another as they accomplish their missions. They
+exemplify a sense of team loyalty and both encourage the team as a whole and help individual team
+members who have trouble.
+
+Respecting Others
+1-81. Team members treat fellow team members with dignity and respect. Every member of the team
+demonstrates understanding and provides support to other team members. Effective teams also have
+members with a sense of humor and who know how to have fun, but they never have fun at someone else's
+expense.
+
+30 October 2015
+
+ATP 6-22.6
+
+1-13
+
+This page intentionally left blank.
+
+Chapter 2
+
+Formation Stage
+Effective teams operate in an environment where there is trust, commitment, and
+communication. This chapter discusses the formation stage of team building
+beginning with a description of how to assemble a team. It then discusses the
+importance of building trust, and it concludes with a discussion of how
+communication contributes to team effectiveness.
+2-1. The formation stage is critical to the success of the team. During this stage, team members build
+confidence and trust in each other. Team members show characteristic behaviors in each stage, and each
+phase has unique highs and lows, as individuals assume their roles and come to a greater understanding of
+themselves and each other.
+2-2. In the formation stage, team members may not know one another very well. Communication among
+members is functional and noncontroversial. The team is thinking short term and members’ focus is more on
+the task at hand than on process improvement. Team members may have conflicting opinions and different
+approaches to solving problems. They may even resist the team leader as the team develops. Strong team
+leaders address the needs of team members at each stage to minimize conflict and reach higher performance
+levels quickly.
+2-3. There are three critical components of the formation stage of team building:
+ Assemble the team.
+ Build trust.
+ Communicate effectively.
+
+ASSEMBLE THE TEAM
+2-4. In the early stage of a team’s development, leaders face the task of assembling the individuals who
+will comprise the team. In most cases, leaders will not have the opportunity to select some or all of the team
+members who will become part of the team. When operating internally, leaders select team members, but
+this is rare when working with joint, interagency, and multinational partners.
+2-5. Whatever the involvement is in forming the team, team leaders determine how to organize a
+collection of individuals into an effective team. To assemble a group of individuals into a team, leaders
+manage a number of considerations. To assemble a team, a team leader must be prepared to—
+ Integrate new team members.
+ Get the team ready to work.
+ Understand team dynamics.
+ Manage the team’s workflow.
+
+INTEGRATE NEW TEAM MEMBERS
+2-6. The reception and orientation steps during the formation stage are important to build an effective
+team. Teams work best when new members quickly feel that they are a part of the team. How thoroughly
+and thoughtfully the team leader welcomes and orients new team members influences how quickly they
+develop trust and commitment. Teams build trust and commitment from the beginning by sharing the team’s
+vision and ensuring that team members understand their roles and responsibilities. There are two critical
+steps to integrating new team members—reception and orientation.
+
+30 October 2015
+
+ATP 6-22.6
+
+2-1
+
+Chapter 2
+
+Reception
+2-7. The reception step establishes a cohesive team, and it establishes a positive first impression of the
+team. The reception step should be such that the new member wants to become part of the team. Reception
+includes the team leader welcoming the new member to the organization. The team-building process starts
+with reception and integration counseling. Reception and integration counseling identifies and helps fix any
+problems or concerns that new members have, and it explains the standards. It clarifies responsibilities and
+sends the message that the leaders of the team care. Reception and integration counseling should begin
+immediately upon arrival, so the new team member quickly integrates into the organization.
+2-8. Developing a standardized plan for all new members ensures that all team members receive the same
+information. Before a new team member's arrival, team leaders can send a welcome letter including sponsor
+information and in-processing information. Once new team members arrive, they will begin reception. This
+includes assignment to a specific duty position, timely and accurate in-processing to the installation, and
+issue of additionally authorized personal equipment.
+
+Orientation
+2-9. Orientation takes place after most administrative in-processing is complete. An effective orientation
+program is essential. New team members have many questions, and a well-designed orientation program
+will help get them integrated into the team quickly and efficiently. During orientation, a new member meets
+the team, learns the workplace layout and schedule, and learns about the environment. The orientation step
+communicates team standards and values, goals and missions, and should include the team’s history.
+2-10. The orientation step starts new members out in the right direction. Whether the orientation is
+conducted with a group or individually, it is important that the team leader spend time in a face-to-face
+conversation with the new team members. Getting to know each team member establishes the trust
+necessary for team cohesiveness. Orientation solidifies new members’ relationship with the team. It fuels
+their enthusiasm and guides their steps into a positive relationship with other team members. If done poorly,
+reception and orientation leave new team members with concern about their future with the team. A good
+experience joining the team makes it easier for the new member to fit in and to contribute to the team effort.
+
+Socialization Process
+2-11. New team members go through a socialization process. During socialization, they learn what the team
+expects of them, and they learn accepted norms and standards. The socialization process begins before a
+new team member reports to the unit. Corresponding with a new arrival gives the team leaders the
+opportunity to explain team values and standards. As part of integrating into the team, new members are
+individually committed to the team and internalize the values of the team. This helps them establish a bond
+with other members of the team.
+2-12. The first goal of socialization is commitment, and it is comparable to the amount of selfless service a
+team member contributes to the team effort. The second goal of socialization is for new team members to
+adopt and internalize the values and attitudes of the team. Innovation is the third goal of the socialization
+process. If a leader demands too much conformity, innovation is stifled. Conformity may lead to boredom,
+loss of focus, over familiarity with tasks, contempt, and ultimately, defeat. Recognizing when to conform
+and when to be innovative is critical to the socialization process. The fourth goal of socialization is for the
+team member to develop a cohesive bond with the team. This bond is the ultimate goal of the socialization
+process.
+2-13. One way to socialize new team members is to provide them with rewarding jobs that are challenging,
+but not impossible. This provides them the opportunity to learn new skills and advance to the next skill
+level. Another important way to socialize new members is to establish social support systems. Joining a new
+team can be an uncomfortable and stressful experience. Most new team members are hesitant to bring
+problems to the team leader. There are additional actions team leaders take to socialize individuals into their
+teams. Team leaders—
+
+2-2
+
+ATP 6-22.6
+
+30 October 2015
+
+Formation Stage
+
+
+
+
+
+
+Express acceptance so that new members know the team leader accepts them.
+Create supportive group expectations.
+Communicate positive expectations.
+Clarify the team member's role on the team.
+
+GET THE TEAM READY TO WORK
+2-14. Getting ready involves learning how the team will work together. It also involves lining up resources
+and tools and configuring the team’s physical work areas. To get a team ready to work entails helping team
+members prepare their minds for the work ahead. Two of the components to get the team ready to work
+are—
+ Prepare the team for likely challenges.
+ Prepare the mental workspace.
+2-15. Team leaders might face some challenging factors. The team leader provides the team with some
+direction without defining or prescribing a set of processes the team follows. The difference is providing
+guidance versus providing rules. While it is important to avoid dictating what the process is, the team needs
+an awareness of how the team’s activities will unfold.
+
+Prepare the Team For Likely Challenges
+2-16. Another challenge is to understand that there are practical considerations that impose on the team’s
+work. Teams have to work with time, personnel, materials, equipment, and information constraints. It is
+important to balance the team’s recognition of these constraints against the team’s needs. There are
+techniques to help team leaders with getting the team ready to work. They include—
+ Clearly articulating the team’s goals to provide the team with a sense of the team’s goals. This
+helps the team manage the uncertainty it faces during the mission.
+ Developing a charter document to capture the team’s mission and goals and to promote shared
+understanding between the team leader and the team.
+ Providing a process outline or standard operating procedures. While the team leader avoids
+providing too much structure, there is significant value in providing the team with a general
+process outline it can follow to get started.
+ Providing examples of previous problems or situations. Team leaders and other team members
+offer examples of previous problems or situations that they have tackled in the past and provide
+approaches to dealing with them now.
+ Developing ground rules for team interaction. Team members work together as a team to develop
+and establish a set of ground rules. Then, the team documents and posts the team’s ground rules
+as a reminder.
+2-17. Team leaders prepare the team for the challenges they are likely to experience while working together
+on a complex, unfamiliar mission or problem set. Team leaders explain that it is not unusual for teams to
+experience periods of significant ambiguity and confusion. Team leaders remind their teams that confusion
+can be informative and a sign of progress. One technique that team leaders have used to prepare for the
+probable moments of confusion and frustration is to tell the team to expect confusion. Team leaders
+describe the confusion and disorientation that occurs when working on complex, unfamiliar problems.
+2-18. Team leaders let the team know that there will be times when their understanding of the mission or
+problem seems to fall apart and when members feel as though they are making little progress. Also, team
+leaders note that these confusing moments can be an exciting time where significant learning happens and
+team members achieve new insights. Setting this expectation can help prepare team members and provide
+reassurance when team members find themselves getting frustrated.
+
+30 October 2015
+
+ATP 6-22.6
+
+2-3
+
+Chapter 2
+
+Prepare the Mental Workspace
+2-19. Team members think and explore problems in different ways. Making sense of a problem requires
+many team members to adapt their typical ways of thinking, and to think critically, creatively, holistically,
+reflectively, visually, and from multiple perspectives. This allows team members to see important
+connections and influences and to articulate key aspects of a problem.
+2-20. Team leaders should know how team members think and approach problems. This helps the team
+members with critical thinking skills to begin reflecting on and becoming more aware of the perspectives
+and attitudes they bring to the team. Team leaders should also help team members become more confident
+and aware of their own abilities to be innovative and creative. This is important for team members who are
+resistant to different ways of thinking and exploring problems because they believe they are not creative. In
+exploring problems as a team, team members should engage in different ways of thinking. Some examples
+are included in paragraphs 2-21 through 2-24.
+Think About Thinking
+2-21. Metacognitive thinking reflects a person’s awareness of that person’s own thinking style and
+associated biases. When teams reflect upon and are explicit about how they think about a problem, it allows
+them to understand what they might not be considering. Team members should reflect on alternative points
+of view that might be important for appreciating the complexity of a problem set.
+Think Holistically
+2-22. The team reflects on how pieces of a problem set relate to and influence each other, and how the
+components connect in the larger context. Holistic thinking is integrative and important for helping teams
+break away from a linear cause-and-effect way of addressing a problem.
+Understand Others’ Motivations
+2-23. Team members should try to understand the thoughts and motivations of others and examine a
+problem from another person’s or group’s point of view. This can be important in operations where the
+culture of the population is considerably different than the culture of the team. Taking the perspective of
+others can help team members to understand important connections and rationale that they may otherwise
+miss.
+Think Visually
+2-24. Visual thinking involves thinking and communicating using images and pictures instead of using
+language and text alone. Individuals and teams engage in visual thinking by using graphics and imagery to
+represent ideas and to explore the problem space.
+2-25. Learning as a team involves a mix of individual study and reflection mixed with collaborative
+dialogue. This includes knowledge sharing, capturing insights, analyzing concepts, and creating knowledge
+products. Teams approach a problem set, develop an appreciation for its complexity, and identify potential
+solutions. Some additional techniques include—
+ Using starter questions to help the team begin to frame (or reframe) the problem set.
+ Identifying a set of topics to explore.
+ Identifying key issues, learning, insights, and questions.
+ Considering appointing a red team representative.
+ Encouraging the team to view moments of confusion as informative.
+ Encouraging task conflict and energetic engagement with ideas.
+ Recognizing when the team needs a break.
+ Respecting silence.
+
+2-4
+
+ATP 6-22.6
+
+30 October 2015
+
+Formation Stage
+
+UNDERSTAND TEAM DYNAMICS
+2-26. A central aspect of the team leader’s role when assembling the team is understanding the internal
+workings of the team. While all team members monitor the team’s process and dynamics, the team leader
+helps the team maintain a positive and productive tone and maintain progress. This includes understanding
+diverse personalities and competing personal agendas. This also requires anticipating when conflicts or
+clashes could arise due to differences in personalities. Being prepared to handle these challenges facilitates
+a sense of team cohesion and productivity. These techniques can help teams with their team dynamics by—
+ Discussing and establishing the dynamic for the team.
+ Learning about team members.
+ Addressing difficult personalities.
+ Monitoring and reflecting on the team’s dynamic.
+
+Discussing and Establishing the Dynamic for the Team
+2-27. Early in the team’s development, the team considers and discusses the type of atmosphere and tone
+the team has. Team members should consider the dynamic they might have as a team. The team should
+work together to articulate and create a set of norms that all members can agree to. Explicitly raising these
+questions as discussion topics can help set norms and expectations across the team and give team members
+a baseline for monitoring themselves and their interactions.
+
+Learning About the Team Members
+2-28. Understanding the individuals comprising the team can be helpful for a variety of purposes. The team
+leader interprets the actions and behaviors of individual team members. It is then easier to match individuals
+to tasks that best suit their skill sets. Team leaders anticipate barriers to progress. It is especially important
+for team leaders to understand and anticipate preferred modes of communicating among team members and
+understand different styles of learning and processing information.
+
+Addressing Difficult Personalities
+2-29. There are many options for addressing a team member with a difficult personality. Team leaders may
+use a direct approach and confront the person or have a private conversation with the individual. Another
+strategy is to remind the team of the ground rules to which the members had agreed. In extreme cases, team
+leaders remove the difficult team member from the team and seek out a replacement. (See chapter 4 for a
+detailed discussion of managing this type of conflict.)
+
+Monitoring and Reflecting on the Team’s Dynamic
+2-30. Team leaders allow time for reflection and team discussion on different work styles, processes, and
+internal dynamics. Taking time periodically for these discussions can ultimately lead to gains in the team’s
+productivity. As part of the reflection process, team leaders identify and note any common factors that the
+team has noticed that tend to trigger unproductive conflict. Team leaders can discuss with team members
+how to avoid or minimize those triggers.
+
+Challenges to Team Dynamics
+2-31. A key challenge in managing the team’s dynamics is awareness of the diverse personalities within the
+team. Diversity is important and advantageous for the team, but diversity within the team can also lead to
+considerable challenges. Another major challenge involves ensuring that everyone’s ideas and perspectives
+are considered. Some team members are comfortable speaking up and sharing their views. Other team
+members may be more comfortable listening than talking. On teams where certain people dominate the
+conversation, access to the full range of viewpoints and perspectives can be reduced. It is everyone's
+responsibility to create opportunities for those who are less vocal to contribute their ideas. In most cases,
+the strength of the team is dependent on the diverse skill sets of each individual member. (See paragraphs
+4-28 to 4-32 for an additional discussion of team diversity.)
+
+30 October 2015
+
+ATP 6-22.6
+
+2-5
+
+Chapter 2
+
+MANAGE THE TEAM’S WORKFLOW
+2-32. Effective leaders are able to observe their team and recognize when team members are frustrated or
+unfocused. In these moments, effective team leaders recognize the need for a change in activity and shift the
+team’s attention in a way that creates opportunities for members to be most engaged. Monitoring the team
+requires the team leader to consciously step back at moments to assess the team’s overall tone and energy
+level. Paragraphs 2-33 through 2-35 discuss some techniques to help team leaders to manage the team's
+workflow.
+
+Set Expectations
+2-33. Teams work collectively to create a schedule and expected flow of activity. The schedule includes
+key milestones for work to continue to a next phase. While the schedule is flexible, it provides members
+with a vision of what to expect and how to manage their productivity. This will help the team anticipate and
+mentally prepare for work.
+
+Know Indicators of Mental Fatigue
+2-34. There can be indications that the team needs to restructure its activity. Some cues that indicate it is
+time to shift activities include low energy, excessive yawning, eyes glazing over, or fidgeting. Some other
+clues may not be as obvious. One indicator is when the team is stuck generating the same ideas, or the
+discussion is circular. Another indicator is when there are significant lulls in the discussion, and members
+become disagreeable over relatively insignificant issues. Being attuned to these cues helps the team leader
+and other team members recognize when the team needs a break, a change in activity, or a different work
+setting.
+
+Conduct Periodic Checks on Team Process
+2-35. Planning for time to step away from the work itself to discuss how the team is functioning is a way for
+team leaders to check on the team. When the team is in the midst of the work itself, it can be easy to forget
+about how the team is working together. Regular process checks can be particularly helpful in managing the
+team’s workflow and productivity. Process checks do not focus on content. They are discussions about work
+style, work processes, and progress toward the team’s goals.
+
+BUILD TRUST
+2-36. A key aspect in forming a team is building trust. Trust is the degree of confidence and reliability that
+people have in one another. Trust is a belief that another person or group will act or behave in a certain
+manner, and it is one of the foundations of successful teams. Trust facilitates a bond between leaders,
+Soldiers, and Department of the Army Civilians that enables mission success. In order for the team to work
+effectively, members should have established trust with each other. With trust, there is confidence among
+the team that the intentions of all members are good. Team members who trust each other are more willing
+to resolve differences of opinion and fact. Having trust in each other allows members to suspend any
+doubts, concentrate on duties, and accomplish the mission.
+2-37. Among the meanings associated with trust is the expectation that a person has a high level of integrity
+and dependability. People put themselves at risk because of their confidence that the other person will do
+what they expect. Direct experience with each other over time allows team members to develop more
+informed, deeper levels of shared trust. This development of trust, combined with building on small
+successes, results in improved confidence across the team.
+2-38. Successful leaders—and fellow team members—build trust over time by behaving consistently and
+predictably and by showing that the needs of the team come before their personal needs. Team leaders have
+a key role in building and maintaining a climate of mutual trust within the team. Some techniques to build
+trust include—
+ Expressing mutual trust in the team.
+ Providing opportunities for social interaction.
+
+2-6
+
+ATP 6-22.6
+
+30 October 2015
+
+Formation Stage
+
+
+
+
+
+
+
+
+
+Taking advantage of breaks.
+Facilitating relationship building when receiving new team members.
+Increasing difficulty of training sessions.
+Recognizing the importance of maintaining or rebuilding trust.
+Providing feedback to team members.
+Building trust by increasing transparency.
+Mitigating distrust.
+
+Expressing Mutual Trust In The Team
+2-39. The simple expression of confidence in team members can engender mutual trust. Team leaders
+affirm their trust in their team members and in the team with statements such as “I trust you,” or “I have
+faith in your judgment and the judgment of the team.”
+
+Providing Opportunities For Social Interaction
+2-40. Social events are great opportunities for team members to know one another on a more personal level
+and provide a needed reprieve from intense work and discourse. However, social events are not mandatory,
+as they can possibly backfire on the trust-building intent.
+
+Taking Advantage Of Breaks
+2-41. Breaks provide opportunities for team members to talk about the issues they address in an informal,
+non-threatening way. Not only do team members release tension and recharge during breaks, they also get
+to know each other, on a professional as well as a personal level. Breaks should be consistent, but team
+leaders do not allow breaks to become excessive and have a negative effect on the workload.
+
+Facilitating Relationship Building When Receiving New Team Members
+2-42. New team members may arrive at any moment as a replacement for a current team member, to
+increase the size of the team, for a specific skill set, or on a temporary basis for a specific task. If possible, it
+is helpful to discuss the addition of a new member with the team ahead of time. This prepares the team for
+the addition, so team members can integrate the new member into the team. The team leader introduces the
+new members to the team by describing their backgrounds, skills, expertise, experiences, and why the new
+members are coming to the team. Teams can also consider a version of the personal storytelling activity that
+provides the new team members an opportunity to tell the team a little about themselves.
+
+Increasing Difficulty of Training Sessions
+2-43. During training, team leaders develop exercises and training situations that increase the difficulty and
+complexity of the scenarios as the team becomes familiar with one another. With increased difficulty and
+complexity, mutual trust among team members expands, and the team’s comfort level increases. Team
+leaders increase the freedom of action permitted to team members and broaden each team member’s range
+of authorized action. This indirectly increases mutual trust between the team leader and other team
+members.
+
+Recognizing The Importance of Maintaining or Rebuilding Trust
+2-44. Attention is often given to mutual trust-building activities. However, maintaining mutual trust or
+rebuilding trust after it has been damaged is equally important, and considerable time must be dedicated to
+these activities and techniques. Rebuilding trust once it is broken is different and often much more difficult
+than building and maintaining mutual trust. If trust is damaged, it takes significant effort and time to mend.
+Thus, attention to maintaining good mutual trust is very important. A few ways to support the maintenance
+of mutual trust in the team include monitoring and evaluating the level of trust within the team. Team
+leaders can discuss the importance of trust in the team and task the team members to monitor trust
+
+30 October 2015
+
+ATP 6-22.6
+
+2-7
+
+Chapter 2
+
+relationships. Team members should actively note or engage the issue when a breakdown in trust is
+imminent.
+
+Providing Feedback to Team Members
+2-45. Teams who have worked together for a sustained period may find it helpful to discuss the key
+strengths and weaknesses for each individual on the team. In other words, what does the team member bring
+to the team that offers the greatest benefit, and what does the team member bring that could potentially
+harm the team? Discussing these strengths and weaknesses alert the individual team members personally
+and as a group, so that the team can make adjustments. Team leaders ensure feedback is constructive and
+not personal, as negative feedback has the potential of doing more harm than good.
+
+Building Trust by Increasing Transparency
+2-46. When team members have a low level of trust in each other or the team leader, it may be because they
+feel the information they need is not being fully shared with them or the entire team. This is particularly
+likely to be the case when the team is operating under a high tempo or a stressful combat situation. Under
+these conditions, team members become more distrustful of being excluded from the information loop
+because of the fast pace of the operations. Team leaders or team members identify the need for greater
+informational transparency in this environment.
+2-47. If this occurs, team leaders bring the team together and ask all the team members to identify the
+recent task, mission, or event on which they would have liked additional information to accomplish their
+task better, and any future task, mission, or event where sharing of information will be critical to mission
+success. The next step is to come to agreement on an effective strategy for sharing critical information,
+taking into consideration limited time and team member’s proper level of security clearance to information.
+A reasonable way or technique to do this is to post new information on the team’s shared document sites on
+both unclassified and classified sites and ensure every team member has the appropriate access depending
+on their clearance level. Team leaders ensure that they distribute important decisions and conclusions from
+higher echelons.
+
+Mitigating Distrust
+2-48. When team members do not trust each other, they are more likely to hold grudges and find reasons to
+avoid spending time together. There are ways that team members can prevent distrust from surfacing within
+a team. One way is to foster information sharing. Information sharing facilitates cooperation and
+communication between team members. On teams in which distrust might become a problem, it is important
+for the team members to prevent information from becoming a tool to leverage advantages over other team
+members. Team leaders communicate instructions and expectations clearly to the whole team and try to
+avoid giving more information to one team member than another.
+2-49. Another way to mitigate distrust among the team is to ensure fairness. Team leaders ensure fairness
+and openness by sharing rewards for successes with the whole team. However, treating others fairly does
+not necessarily mean treating all team members the same way. Team members encourage each other to trust
+one another. To do this, team members encourage the free expression of questions, thoughts, and concerns
+and ensure that other team member’s needs are met.
+
+Repairing Trust
+2-50. If an incident occurs that breaks trust within a working relationship, team leaders should address the
+behaviors that created distrust. Action must be taken immediately after the violation. Each person
+responsible for the violation of trust should apologize and explain the violation. These team members
+should also be sincere, take action through their own volition, and make sure to show a genuine desire to
+earn the person’s trust again. The team leader can ask each party to restate and renegotiate expectations for
+one another for the future and agree to the terms.
+
+2-8
+
+ATP 6-22.6
+
+30 October 2015
+
+Formation Stage
+
+Identify and Evaluate Barriers to Trust
+2-51. There can be obstacles and challenges to building mutual trust. One obstacle to promoting a positive
+climate can be the Army culture itself. Army personnel conform to a command structure. However, if teams
+operate using the standard Army modes of interaction, many junior members of a team may fear asking
+questions. Another obstacle is the time and opportunities for the interaction that building mutual trust
+requires. In some teams, members may be working with team members whom they already know and trust.
+In other teams, members will likely be working with others for the first time. Having the necessary time and
+shared experiences for building mutual trust can be particularly challenging when the team is operating
+under time constraints with limited opportunity to develop relationships. This is often the case with a team
+that is convened quickly for purposes of crisis response.
+2-52. Lastly, integrating external personnel into a team might create challenges to building and maintaining
+trust within that team. These personnel may come from organizations and agencies with differing agendas,
+different organizational cultures, differing views of the military, and different norms for interacting and
+conducting business. All of these differences have the potential to create challenges to trust development
+and information sharing within a team.
+2-53. Team leaders should recognize barriers to trust during team building. Indicators include
+defensiveness, avoiding conflict, ignoring the importance of team membership, and suspicion about the
+motivation of other team members. When building trust and respect within working relationships, leaders
+should also acknowledge that there might be trust barriers that need to be broken down. This is especially
+important when building working relationships across boundaries, as trust barriers may be even stronger and
+more persistent.
+Inaccurate Information from Others
+2-54. People may hear something wrong about someone else and decide they do not want to trust that
+individual based on that information. Team members can remedy this by clarifying the inaccurate
+information quickly and preventing rumors and misinformation from spreading.
+Competence Misjudgments
+2-55. Team members may believe that another individual is incompetent or inexperienced and not trust that
+person. When appropriate, team leaders highlight team members’ experiences and accomplishments to
+change these judgments. This can also build confidence throughout the team.
+Absence of Similarities
+2-56. When people perceive others as different from themselves, they are less likely to trust them. Team
+leaders find ways to identify similarities among team members. They take initiative to find out more about
+others and engage them in conversation about similar interests (including food, sports, family activities, and
+careers).
+
+TEAM COMMUNICATION
+2-57. Communication is the process by which two or more people clearly and accurately exchange
+information. It is the exchange of thoughts, messages, or information through words, tone of voice, or body
+language. Effective communicators clarify or acknowledge the receipt of information, listen to other team
+members, and share their understanding of others. Communication is central to all human behavior, and it is
+one of the essential elements of team building. All individuals, especially leaders of teams, should be able to
+present information in a manner that is clear and concise to be effective in groups or organizations they
+lead. Informal communication, in which team members freely communicate with each other, is also
+important to team success. Paragraphs 2-58 through 2-69 discuss some techniques to help teams to
+communicate effectively.
+
+30 October 2015
+
+ATP 6-22.6
+
+2-9
+
+Chapter 2
+
+ACKNOWLEDGE DIFFERENCES
+2-58. Team members acknowledge differences in communication style between themselves and other team
+members. Team leaders should encourage all team members to remember that they each have differences in
+communication styles. Anticipating variances will help increase awareness of distinctions that may not be
+immediately obvious.
+
+UNDERSTAND NON-VERBAL COMMUNICATION
+2-59. Communication is not just speaking and listening. It is a holistic process including verbal and
+non-verbal communication. Body position, gestures, and eye movements reflect a person's feelings as much
+as verbal communication. Team members should use non-verbal communication appropriately. Awareness
+of non-verbal communication is critical as team members from different cultures may use non-verbal signals
+in ways not familiar to all members of the team. Team leaders and team members must understand
+differences in non-verbal signals to know if their information is being received the same by every other
+team member. This also includes looking for and listening for indirect messages.
+
+CLARIFY
+2-60. Team leaders and team members clarify communication within the team to ensure all team members
+understand it. Spending a little extra time to verify understanding early on can save a lot of time and
+frustration later. Some ways to clarify communication are to repeat information as necessary, request and
+provide clarification when needed, and ensure statements are direct and unambiguous.
+
+BE AN ACTIVE LISTENER
+2-61. Effective team leaders are active listeners. Actively listening helps leaders detect problems early to
+avoid misunderstandings. A way to do this is to ask questions that reflect active listening and understanding
+of the speaker's perspective. The most important purpose of listening is to comprehend the speaker’s
+thoughts and internalize them. Both listening and questioning help build direct communication, which
+means using language that is clear and direct while maintaining a nonjudgmental stance. Active listening
+summarizes or mirrors the meaning of what another person has said to ensure mutual understanding. It also
+distinguishes between the words, tone of voice, and non-verbal cues.
+
+ACKNOWLEDGE COMMUNICATION WITH FEEDBACK
+2-62. Feedback confirms the receipt of the message being sent. It also confirms whether the receiver
+understands the message or not. This includes both verbal and nonverbal responses to another person’s
+message. Non-verbal feedback quickly lets the sender of a message know that the receiver is listening and is
+either getting the message or not. This can be done with a simple nod of the head or a thumbs up. Verbal
+feedback is another method. There are several types of verbal feedback techniques. Parroting is a feedback
+communication technique in which the receiver repeats the message to the sender word for word. Parroting
+can come across as condescending or patronizing, so team members must use it carefully. However,
+parroting may be very helpful when speaking on the phone with someone who is giving detailed
+information. Paraphrasing is another way of checking to make sure that the listener understood the other
+person’s ideas, information, or suggestions. Paraphrasing illustrates two areas of communication—the
+information or content and how the person feels about the information or content.
+
+COMMUNICATE WITH STAKEHOLDERS
+2-63. A critical aspect of a team’s effectiveness is the exchange that occurs between the team and those
+who have specific interests in the team's mission. Teams must often convey their understanding of the
+mission to stakeholders. A primary issue that makes conveying understanding to stakeholders challenging is
+figuring out how to package the information in a way that is meaningful and has an impact. A related
+challenge is getting to know the way stakeholders would prefer to receive and absorb information from the
+
+2-10
+
+ATP 6-22.6
+
+30 October 2015
+
+Formation Stage
+
+team. Some will prefer a visual representation. Getting to know the stakeholders helps the team tailor its
+communications.
+2-64. An additional factor relevant to communicating with stakeholders is the team leader's involvement
+with the team. Due to an enormous array of competing demands, the team leader may have very little
+engagement in the day-to-day workings of the team. In these situations, teams need alternative strategies for
+keeping the team leader apprised of the team’s work. Team leaders may use the techniques in paragraphs
+2-65 through 2-69 to convey the teams’ understanding and insights to stakeholders.
+
+Study the Team’s Stakeholders
+2-65. Effectively conveying the understanding and recommendations the team has developed requires that
+team members understand their stakeholders’ needs, styles, and preferences for consuming information.
+Some teams are able to easily determine this based on regular interactions with key decision makers.
+However, other teams may find it necessary to actively discern the needs and preferences of their
+stakeholders.
+
+Socialize Ideas with Stakeholders
+2-66. Experienced teams provide interim updates to key stakeholders as their understanding and ideas
+evolve—rather than waiting until they have completed their work. This provides an opportunity for the team
+to expose stakeholders to their logic and get feedback to help the team members refine their thinking. These
+updates might occur verbally or through written updates. The team members also seek out the team leader's
+input at key decision points. The team needs to plan for when to seek guidance and how to best use limited
+opportunities for interaction with the team leader.
+
+Recognize that Simple does not Equal Simplistic
+2-67. To communicate with stakeholders, it is best to simplify the language or visual representations and
+avoid using complex terminology. Team members explain insights and recommendations using standard
+organizational terms and language. The extent to which a team can simplify concepts using language the
+organization is accustomed to using will increase the likelihood that it is understood.
+
+Seek External Feedback
+2-68. A way to seek feedback is to consider bringing in someone outside the team to give the team a check
+on its final work. This person might be resident within the organization, or this person could be someone the
+team members trust outside the immediate organization.
+
+Build In Opportunities For Discussion and Exchange With Key Stakeholders
+2-69. It is important to provide opportunities for the stakeholders to ask clarifying questions, elaborate on
+ideas, and seek additional information on the team’s work. To ease the transfer of ideas and insights to those
+who need to act on them, team leaders consider actively building in opportunities for this important
+exchange and continual iteration of ideas to occur.
+
+RAPIDLY FORMED TEAMS
+2-70. A rapidly formed team is composed of two or more individuals who come together due to either
+environmental demands or the need for people with specific expertise. For example, a team may be needed
+to accomplish a specific goal, such as rescue someone who is wounded, or respond to the scene of a
+vehicular accident. Other rapidly formed teams may come together to solve a specific problem, such as
+brainstorming for mission analysis, or they may become an Army design planning team.
+2-71. Rapidly formed teams must be ready to work very soon after forming, whether in just a few hours or
+up to several weeks after they are created. They often face high stakes problems because they operate in
+dynamic, temporally constrained situations. These dynamic situations are characterized by the need to make
+
+30 October 2015
+
+ATP 6-22.6
+
+2-11
+
+Chapter 2
+
+complex decisions quickly, evolving and ambiguous situations, information overload, strict time pressures,
+adverse physical conditions, or severe consequences for error.
+2-72. Teams developed rapidly may or may not be composed of team members that understand one another
+and have performed together before. Either way, they must be ready to function as a cohesive whole in a
+short period. To rapidly integrate individuals into a team, team leaders may—
+ Use a personal histories exercise to introduce team members.
+ Identify commonalities among team members.
+ Share leadership responsibilities with team members to instill personal responsibility.
+ Formulate operating guidelines to promote open discussion.
+ Provide feedback on the team’s process and performance on a regular basis.
+ Get team members invested in the task—link the task to their personal values and goals.
+ Make sure all members are present for the first meeting.
+2-73. These activities do not need to take long to conduct, but they are critical to performance. Spending
+even just a few minutes getting team members familiar with one another’s experiences and getting them
+invested in the purpose of the task can be critical for subsequent performance. If there is not much time
+available, team leaders concentrate on identifying commonalities, getting team members invested, and
+continuing to provide feedback on how the team is doing throughout the life of the team. To rapidly develop
+a team, team leaders may—
+ Define the goal.
+ Work collaboratively.
+ Recognize differences.
+ Determine motivation.
+ Clarify roles and responsibilities.
+ Develop shared understanding.
+ Develop team goals and expectations.
+
+DEFINE THE GOAL
+2-74. Team leaders define why team members need to operate effectively with one another to achieve a
+shared goal. Team leaders explain what each individual brings to the team that can help accomplish the
+mission. Team leaders value and acknowledge each group’s unique contributions. Team leaders identify and
+highlight a shared identity that goes beyond these group differences. Team leaders emphasize to members
+that subgroups hold different but equally important roles, and they stress how cooperative work allows them
+to achieve shared goals.
+
+WORK COLLABORATIVELY
+2-75. Team leaders work collaboratively to determine the mechanics of how their groups will cooperate.
+They facilitate a discussion with all involved parties to determine how they would like to function. Team
+leaders may need to answer several questions to determine how to most effectively develop collaboration:
+ What does the team leader need to do to establish trust?
+ What is motivating to the group?
+ How do team members define themselves as part of the group?
+ How should decisions be made that affect the group?
+
+RECOGNIZE DIFFERENCES
+2-76. Team leaders appreciate the uniqueness of each subgroup and how their unique strengths benefit the
+team. Although it may be tempting for team leaders to smooth over differences, it is better to recognize
+them and figure out ways to reframe those differences as strengths that benefit the team. This approach
+helps avoid the distinctiveness threat, which occurs when subgroups within a larger group feel that their
+
+2-12
+
+ATP 6-22.6
+
+30 October 2015
+
+Formation Stage
+
+uniqueness is being threatened and react unfavorably (by identifying more with their subgroup identity than
+with the overarching team identity).
+
+DETERMINE MOTIVATION
+2-77. Team leaders consider the factors that are motivating each group and determine what is important to
+them. Team leaders discuss group motivators and develop an understanding of the group’s relationships.
+This can help defuse conflict and get a better understanding of people’s perceptions and feelings about the
+team and the situation.
+
+CLARIFY ROLES AND RESPONSIBILITIES
+2-78. Rapidly formed teams are usually comprised of diverse individuals who may not agree on or
+understand the best way to achieve the team’s goal. Clarifying the roles and responsibilities of the team
+members ensures that everyone has a common understanding of who does what on the team, how
+responsibilities are shared, and what team members expect of one another. A brief exercise can help clarify
+roles and responsibilities in swiftly forming teams and can help develop contingency plans that may be
+needed in time-pressured situations. Team leaders ensure team members know when they should step up
+and step back as leaders by clearly defining limits of authority. Team leaders also provide timely feedback
+to team members because a team cannot improve if it does not know what is going wrong or right.
+
+DEVELOP TEAM GOALS AND EXPECTATIONS
+2-79. Rapidly formed teams are often under increased pressure to achieve an outcome by a specific time.
+However, team members may have different views on how to achieve that outcome. There are some
+techniques that will help team leaders to develop goals and expectations for the team. Team leaders
+should—
+ Focus the team on who is responsible, what needs to be accomplished, where it is occurring,
+when it needs to be accomplished, and why the team is engaging in it.
+ Encourage team members to share information with one another and not assume that information
+is common knowledge.
+ Focus on process, not just performance and discuss how things will be done, not just the end
+goal.
+ Clarify expectations about team coordination and communication.
+ Present performance-oriented goals to the team with the right challenge as well as the appropriate
+inspiration and opportunity.
+ Tie team goals to the personal values and interests of team members to gain acceptance.
+ Break goals down into manageable sub goals to manage complicated tasks.
+ Make realistic goals that are attainable but challenging.
+ Communicate about and collaboratively set goals in such a way as to equally influence new and
+veteran team members.
+ Get team members to provide input on what the goals should be and how to perform tasks.
+ Determine if there are conflicting goals and have team members prioritize their criticality based
+on the situation.
+ Emphasize that everyone must contribute to reach the team goals and that no one will be
+successful unless everyone collaborates.
+ Discuss how team members can support each other to reach goals.
+2-80. Team leaders link roles and responsibilities to goals to ensure clear steps towards reaching goals and
+meeting expectations. Breaking down goals into manageable sub goals helps ensure team members are not
+overwhelmed. Team leaders ensure everyone understands the situation and the problem the team is facing.
+
+30 October 2015
+
+ATP 6-22.6
+
+2-13
+
+This page intentionally left blank.
+
+Chapter 3
+
+Enrichment Stage
+This chapter begins with a discussion of the importance of building commitment
+during the enrichment stage of team building. It then describes shared competence,
+confidence, and accountability and how they contribute to the effectiveness of teams.
+The chapter then discusses techniques to motivate teams and team members, and the
+chapter concludes with a discussion on developing cohesion to enhance the
+performance of teams.
+3-1. Enrichment is the process of enhancing teamwork, improving cohesion, and developing team norms.
+All team members must be committed to working as a team and realize that others depend on them. It is
+important to build commitment and keep the team motivated during the enrichment stage, as the team
+continues to learn how to work together. During the enrichment stage, teams will usually build commitment
+and develop shared competence and shared confidence, which will allow them to develop cohesion. A team
+that has commitment creates clarity around direction and priorities, which aligns the entire team around
+common objectives. Effective teams develop the ability to learn from mistakes and take advantage of
+opportunities. They are able to move forward or change direction without hesitation.
+
+BUILD COMMITMENT
+3-2. Commitment is an individual's motivation and willingness to belong to the team and help achieve the
+defined goals. Building commitment is a process involving everyone on the team. Soldiers and Department
+of the Army Civilians foster an enduring commitment to the Army, its mission, its people, and the continued
+practice of the fundamental aspects of the Army culture. Commitment to the purpose and values of an
+organization provides a clear sense of direction.
+3-3. Commitment relies on acceptance, the degree to which team members are committed to the team’s
+vision and mission, and the degree to which they believe in what the team is trying to accomplish. Team
+members who have acceptance take ownership of the team’s direction and put out the extra effort to ensure
+the team’s success. Effective teams make clear and timely decisions and move forward with complete
+acceptance from every member of the team. Paragraphs 3-4 through 3-8 describe supportive team-based
+techniques and suggested actions for building and maintaining commitment. Teams can use these techniques
+and modify them as required for each unique team organization and team missions.
+
+Encourage Team Identification
+3-4. Team leaders encourage a sense of self-identification by articulating the team vision and defining the
+values that the team should have. This ensures that the team vision incorporates the skills of the whole team.
+Articulating the mission will encourage team members to view the team and its goal positively, and then
+they will define their own role within the team.
+
+Reward Cooperation
+3-5. Team leaders reward cooperation and acknowledge that teamwork is part of performance. Rewarding
+cooperation will encourage team members to interact with each other to accomplish goals. This allows a
+team to foster a sense of belonging.
+
+30 October 2015
+
+ATP 6-22.6
+
+3-1
+
+Chapter 3
+
+Provide the Team with a Clear Vision
+3-6. For team members to make a substantial commitment to success, they must feel that they are working
+toward a joint outcome that is meaningful, and they are contributing to the success and support of the team
+and its mission. Providing the team with a good visualization of the desired future for the team and the
+team’s mission is an important technique for building commitment with the team members.
+3-7. The important starting point is a clear vision and mission statements that team members have helped
+create, are able to understand, use, and commit to achieving. Team members must also see the natural
+linkage between the work they are performing and the long-term goals of their higher organization. The last
+element is the creation of well-defined goals that are both challenging and support the overall mission of the
+team.
+
+Communicate Team Commitments
+3-8. A lack of communication and communication breakdowns are normal and will happen from time to
+time. However, most, if not all, communication problems are avoidable, if team leaders and team members
+are aggressive about clearly communicating team commitments and information routinely.
+
+Mitigate Challenges
+3-9. A team that fails to develop commitment creates ambiguity among team members about its direction
+and priorities. This type of team may watch as windows of opportunity close due to excessive analysis and
+unnecessary delay. This often leads to a lack of confidence and a fear of failure, and it encourages
+second-guessing among team members. A team can ensure commitment by taking specific steps to
+maximize clarity and achieve acceptance. Paragraphs 3-17 through 3-20 describe a few simple but effective
+tools and principles for mitigating challenges.
+Cascading Messaging
+3-10. At the end of a meeting, a team should review the key decisions made during the meeting and agree
+on what to communicate about those decisions. Then the team leader ensures that these key decisions are
+communicated to every member of the team.
+Use Deadlines and Set Milestones
+3-11. One of the best tools for ensuring commitment is to establish and meet deadlines. Team members
+may have a lack of commitment to the team and the team mission, and they may show this by failing to
+achieve the standard or by questioning the underlying reasons for an action or decision. These team
+members often fail to contribute to the accomplishment of team goals. Teams can mitigate this by
+establishing a suspense or deadline, or by setting milestones.
+Worst-Case Scenario
+3-12. A team that struggles with commitment can overcome this by developing contingency plans before
+the mission. Discussing the worst-case scenario can help teams to understand the mission. When a team
+fully understands its mission, it is easier for that team to commit to accomplishing it.
+Reiterate Goals
+3-13. Team leaders can also reiterate the team’s goals to team members. Often, team members lack
+commitment because they have lost sight of the team's mission and goals. Therefore, it is important for the
+team leader to explain why they should take pride in their work and cooperate to achieve goals. Finally,
+team leaders can assign responsibility. On teams that lack commitment, individual team members should be
+assigned more responsibility. Individuals will recognize the value of supporting and contributing to the team
+when they know their duties contribute to that overall goal.
+
+3-2
+
+ATP 6-22.6
+
+30 October 2015
+
+Enrichment Stage
+
+BUILD SHARED COMPETENCE
+3-14. Competence is an Army professional’s demonstrated ability to perform duties successfully and to
+accomplish the mission despite adversity, obstacles, and challenges. Shared competence means the team
+collectively can perform its duties and accomplish the mission. Team members accept one another and their
+leaders when they are satisfied with each other's knowledge of the job and ability to apply that knowledge.
+Nothing deteriorates teamwork more quickly than the perception that team members do not know their jobs
+and leaders do not know how to lead. The development of shared competence is important because team
+members rely on each other for team expertise. The sum of the team’s skills is greater than the separate
+parts.
+3-15. Competency may be initially assumed, but it must be proven to increase trust and confidence.
+Effective teams display competence by meeting or exceeding team goals and expectations. Shared
+competence means that each member of the team has the competence to complete all the required tasks to
+accomplish the mission. If there are tasks associated with mission accomplishment, each member of the
+team is competent in the team tasks that are required to realize or accomplish the mission.
+
+BUILD SHARED CONFIDENCE
+3-16. Shared confidence is the product of shared trust from working as a team to execute a fully understood
+and agreed upon vision with a competent team. Team leaders sometimes assume confidence among team
+members with common backgrounds, values, and beliefs (such as among team members in the military).
+However, in more complex environments with unified action partners, such an assumption of shared
+confidence comes at the risk of degraded performance. A team may include members whose parent
+organizations have historically shared little faith in one another, in which case personal interaction and
+relationships between team members are critical to success.
+3-17. It is the team leader's responsibility to build confidence in the team members' abilities. The team
+leader establishes the conditions that foster taking initiative and encourage team development. Team
+members and leaders develop mutual confidence by sharing difficult, challenging, and realistic training.
+Mutual confidence multiplies combat power as it forms personnel into cohesive teams.
+3-18. Being part of a team that performs well during challenging training instills confidence and pride.
+Team members who lack pride in themselves and their performance cannot feel pride in their team or their
+leaders. It is necessary for team leaders to show respect for each team member and encourage pride and
+self-confidence in their team. Shared confidence grows once team members have developed shared trust and
+are working together to accomplish an understood, agreed-upon vision or mission. Confident team members
+are self-assured, comfortable taking prudent risks, creative when solving problems, share pride in their
+accomplishments, and work together to continue to win.
+
+MOTIVATE TEAM MEMBERS
+3-19. Motivation supplies the will and initiative to do what is necessary to accomplish a mission.
+Motivation comes from within, but others’ actions and words can affect it. There are two kids of motivation,
+intrinsic and extrinsic.
+
+Intrinsic Motivation
+3-20. Intrinsic motivation refers to the drive within an individual that comes from personal interests. This
+type of motivation resides within a person and does not come from external pressures. When a person finds
+an activity satisfying, the activity itself is intrinsically motivating.
+
+Extrinsic Motivation
+3-21. Extrinsic motivation refers to the motivation that comes from external influences. Team leaders often
+use extrinsic motivation to encourage behaviors that a team member would not develop from internal
+
+30 October 2015
+
+ATP 6-22.6
+
+3-3
+
+Chapter 3
+
+motivation. When a team member discovers that engaging in an activity will result in a reward or other
+desired outcome, that team member can become extrinsically motivated.
+
+Group Motivation
+3-22. Group motivation refers to those team processes in which the team defines objectives, and then the
+team becomes energized to achieve those objectives. The extent to which team members identify with the
+team also contributes to the groups' motivation. Articulating a team's vision is fundamental to developing an
+effective team. This vision is what motivates and directs a team to reach its goal. Loyalty, dedication, and
+enthusiasm are important factors that contribute to the effectiveness of a team and the team's motivation.
+Paragraphs 3-30 through 3-45 discuss techniques to motivate team members.
+
+Account for Common Needs
+3-23. Team members sometimes need help to meet their needs. Most people want to feel competent,
+connected to others, and empowered in their ability to complete a task. One way to motivate team members
+is to make their needs coincide with unit tasks and missions. People have a natural desire to work to satisfy
+their own needs. When team leaders link these interests and needs with those of the group, they have a
+powerful way to motivate. Some ways to accomplish this include—
+ Involving them in establishing their performance goals.
+ Emphasizing how well they have previously performed the task or similar work.
+ Emphasizing group recognition, approval, and acceptance that will come from task performance.
+ Allowing latitude to make choices, as the mission, situation, and individual’s abilities will permit.
+ Giving positive performance feedback that focuses on the individual’s knowledge and skill.
+ Emphasizing the benefits of an individual’s performance to the group.
+ Emphasizing the value of the individual to the group and the group’s acceptance of a team
+member.
+
+Understand Individual Motivational Differences
+3-24. Different things motivate different individuals. What motivates people differs from one person to the
+next, whether it is a person’s values, self-interests, a cause, or another force. An example of internal
+motivation is a fear or belief. An external motivation could be danger, the environment, or pressures from
+other people. Understanding that certain motivational strategies may be more effective with some team
+members than others is important.
+
+Establish Goals
+3-25. Goals help to focus attention and action. They increase the effort that is expended to master new
+skills. Goals help provide motivation for the team members to persist, even in the face of failure, until the
+goal is accomplished. Team leaders collaboratively establish goals that are challenging and specific. They
+follow up with team members and provide feedback about their work toward meeting those goals. Team
+leaders ensure that there are multiple feedback mechanisms in place.
+
+Reward and Recognize Team Members
+3-26. Team leaders who recognize individual and team accomplishments shape positive motivation and
+actions for the future. Team leaders reward individual and team behavior that supports unit tasks and
+missions. Recognition and feedback for team members is valuable in increasing motivation, and recognition
+should be used when someone achieves a high performance standard. Rewarding an individual or team
+behavior that supports the team is an effective method to motivate. A chance for a reward is a sound
+motivator. Awards symbolize a proud achievement. However, team leaders only promise the rewards that
+they can actually provide, and they follow through on promises of rewards. Team leaders ensure that team
+members actually deserve and desire the rewards being offered.
+
+3-4
+
+ATP 6-22.6
+
+30 October 2015
+
+Enrichment Stage
+
+Planning Events
+3-27. Participating in the planning of future events can be a highly motivating experience. By contributing
+ideas to a plan, team members then have a personal interest in seeing the plan succeed. Participating in
+planning improves communication, which improves teamwork.
+
+BUILD SHARED ACCOUNTABILITY
+3-28. Accountability means accepting the responsibility for one's actions. This includes a person’s ability to
+accept the consequences for the results of those actions. In order for a team to promote shared
+accountability, team leaders should reinforce the team’s mission and vision. Team leaders hold team
+members accountable by identifying problems that arise from a lack of teamwork. By noting these
+problems, team members can work together to solve them.
+3-29. One way that team leaders can foster shared accountability is to have the team members describe their
+purpose and define the teams’ roles and responsibilities. A team leader should also ensure that each team
+member understands what the standards are. Holding teams accountable for their combined results will only
+work if the team members are able to influence each other's behavior. When teammates participate in the
+shaping of the team’s vision, they are more likely to accept responsibility and accountability for the team’s
+success.
+3-30. When a team holds itself accountable, then the team members can handle the consequences of their
+actions together. This means the whole team is accountable for each member’s performance. The team
+connects real consequences to a team's actions. Team leaders should not shield their teams from the
+consequences of what they fail to accomplish together.
+
+Self-Correction
+3-31. Effective teams learn through self-correction. Self-correction means the team leader and team
+members identify, admit, and learn from individual and group mistakes and use this information to adjust
+their course of action. On self-correcting teams, team members develop goals and tasks to help everyone
+succeed and accomplish the mission. Additionally, on self-correcting teams, interpersonal conflict is
+resolved between team members without escalating the conflict to the team leader or other team members.
+
+Climate of Accountability
+3-32. Creating a climate of accountability means developing a climate in which people can speak openly
+and admit to mistakes without fear. The biggest fear people have about accountability is that they will be
+punished for their actions. In successful teams, team members view mistakes as learning opportunities.
+Creating a climate of accountability for mistakes allows team leaders to foster a learning organization. All
+team members should be able to admit to mistakes and accept the consequences for them. When mistakes
+occur, teams should focus on how to correct problems and how to prevent them from happening again.
+
+DEVELOP COHESION
+3-33. Cohesion is the bond of relationships and motivational factors that help a team work together. A
+cohesive team puts aside interfering differences and chooses to work together. Every new mission gives the
+team leader a chance to strengthen internal bonds and challenge the team to reach new levels of
+performance, accomplishment, and confidence. A team’s positive attitude about its capabilities elevates
+motivation and the team’s desire to meet new challenges.
+3-34. Teams develop cohesion through three elements: bonding, commitment, and resolve. Bonding is the
+development of strong interpersonal relationships among team members and their leaders. Bonding results
+from shared experiences through which interpersonal relationships are developed. The collective levels of
+mutual respect, trust, and confidence that develop between units is a form of bonding. Commitment is
+dedication to the team and what it represents and to the values and goals of the Army. All team members
+must be committed to working as members of the team and realize that others depend on them. Resolve is
+
+30 October 2015
+
+ATP 6-22.6
+
+3-5
+
+Chapter 3
+
+the shared determination and motivation of teammates to work interdependently to accomplish the mission
+and to sustain this capability over a long period.
+
+Improve the Level of Cohesion
+3-35. There are seven areas where team leaders can improve the level of cohesion within a team:
+ Leadership.
+ Group characteristics.
+ Individuals on the team.
+ Team socialization.
+ Team and individual goals and objectives.
+ Team activities.
+ Team identification and history.
+Leadership
+3-36. The most critical factor in developing team cohesion is leadership. Cohesion cannot be created from
+the top down. It is developed within a team and involves all members of that team. Leaders create the
+climate for cohesive growth. Leaders who encourage and provide opportunities to develop a sense of
+ownership in the mission develop teams that are more cohesive. Team leaders must ensure that all team
+members are treated with respect and communicate standards and expectations clearly.
+Group Characteristics
+3-37. Groups identify with customs, traditions, and values. Cohesive teams form groups along
+organizational lines. Team leaders ensure their team has sufficient members to accomplish its missions.
+Group characteristics help teams build group and team pride. Cohesive teams recognize that group
+membership satisfies member needs and will create the conditions that require group interaction. Team
+leaders should recognize and reinforce groups that have a positive influence on the team.
+Individuals on the Team
+3-38. A team leader’s attention must be directed on the development of each team member. The team
+leader must know and respond to the personal interests and needs of the team. The individuals in a team
+affect the cohesion of that team. When each member of a team becomes a valuable, contributing member,
+team cohesion is enhanced. Team leaders make the effort to know each team member and ensure team
+members perform all tasks to standard. Team leaders should also encourage and recognize individual
+initiative.
+Team Socialization
+3-39. An individual becomes a team member through a socialization process. Socialization is the process
+by which a new team member acquires the skills, knowledge, and attitudes unique to a team and is accepted
+by that team. The stages of team development outline this process. The team leader must recognize that
+informal groups within a team establish socialization processes as well. The goal of socialization is
+commitment to the team and the internalization of the team’s mission. Team socialization is an important
+component of team development and cohesion. Cohesive teams reinforce actions and attitudes that support
+the professional Army ethic, and they set and maintain high standards.
+Team and Individual Goals and Objectives
+3-40. One of the most important factors of team cohesion is the integration of team and individual goals.
+When team members work together to accomplish goals, they develop the belief that they can accomplish
+almost anything. One way to develop this belief is to establish clear and achievable, yet challenging, goals.
+Team leaders should involve team members in the goal and objective setting process and relate individual
+goals to team goals. Additionally, team leaders should ensure that team goals support the team’s mission.
+
+3-6
+
+ATP 6-22.6
+
+30 October 2015
+
+Enrichment Stage
+
+Team Activities
+3-41. Team leaders should conduct team activities that are interesting and include all team members.
+Possible activities include everything from field training exercises and crew qualification tests to
+organization days and social events. Team leaders plan these activities with cohesion in mind. Some ways
+that team leaders can build cohesion through team activities are to train as a team and make training
+challenging and realistic. When appropriate, the team leader may also involve family members.
+Team Identification and History
+3-42. A cohesive team draws some of its strength from the achievements and experiences of those who
+have previously served. A cohesive team will include unit history in the orientation program and use mottos
+or sayings correctly and with pride.
+
+30 October 2015
+
+ATP 6-22.6
+
+3-7
+
+This page intentionally left blank.
+
+Chapter 4
+
+Sustainment Stage
+This chapter begins with a discussion on adapting a team to change. It then describes
+how teams manage conflict. The chapter concludes with a discussion of building
+resilient teams.
+4-1. During the sustainment stage, teams develop a sense of pride and ownership in the team and its goals.
+However, teams often have difficulties during the sustainment stage. Effective team leaders watch for signs
+of complacency and intervene when it occurs by reinforcing good interaction practices and maintaining
+team standards. Changes for which the team is not prepared can be another challenge for the team leader.
+Shared experiences and regular training help teams address unexpected changes in situations. Empowering
+the team to improve coordination can strengthen its ability to handle change.
+
+ADAPT TO CHANGE
+4-2. Team leaders recognize that what works for them when leading a team in one organizational context
+may not be the best fit for the team within the current organization. Team leaders elicit the team members’
+views about what will (or will not) be accepted within the current organizational climate. Team leaders
+work with team members to adapt their leadership style, the team’s approach, and the work process
+accordingly.
+4-3. As teams adapt to change, they must continually reassess their goals and priorities. As missions
+change, team leaders must ensure the goals and priorities of the team are in line with the mission. If several
+things need to be accomplished at the same time, team leaders should set priorities and allocate time to
+complete each task. Team leaders inform their team of changes, explain to their team why the mission has
+changed, how they will work to accomplish the new mission, and the standards expected of them. Cohesive
+teams adjust quickly when they understand the goal.
+4-4. Effective teams handle change. As team leaders respond to situations that threaten sustained
+teamwork and cohesion, they must realize that team growth and stability are often uneven. A team may
+reach a peak, seem to slump, and then build to a new level of performance. This may occur when new
+members are added to the team. Successful leaders guide the team to peak performance with it faces critical
+tasks or combat actions. The effectiveness of the team changes when team members change. The
+efficiencies teams establish as members working together must be reestablished when new members join the
+team. This also applies when team members leave with no replacement. Some techniques that can help
+adapt to changes in the team are listed in table 4-1 on page 4-2.
+
+30 October 2015
+
+ATP 6-22.6
+
+4-1
+
+Chapter 4
+
+Table 4-1. Techniques for adapting to team changes
+New Team Member Techniques
+
+Identify, contact, and integrate new team members as early as possible.
+Acquire rapid access to e-mail and operating sites.
+Introduce the new team member to the team.
+Determine what areas the new member will lead.
+Introduce the new team member to team processes.
+Implement a standard training plan.
+Explain how key decisions are made.
+Loss of a Team Member Techniques
+
+Identify a backup for everyone and cross-train on responsibilities.
+Conduct focused exit interviews.
+Capture knowledge, including file transfers and continuity books.
+Obtain new contact information.
+Recognize the outgoing team member and formally say goodbye.
+Mission Change Techniques
+
+Update vision and purpose.
+Identify new competencies required.
+Reform the team (as needed).
+Identify processes from previous missions that will remain relevant or become outdated.
+Rebuild trust and confidence.
+Introducing New Technology to the Team Techniques
+
+Identify experienced users. If there are any, they take the lead until the team is proficient.
+Formulate a training and implementation plan.
+Identify the impact on mission and capabilities.
+
+MANAGE CONFLICT
+4-5. Conflict is the tension between individuals or groups because of real or perceived differences. It is
+built on an individual’s or group’s perception of a problem, whether that be a perceived difference in views
+or ideas, interpersonal incompatibilities, or one individual or group interfering with another group’s goals or
+interests. Sometimes conflict is necessary to bring about a change or resolve a problem. In this way, conflict
+can be positive and constructive, but only when it is managed properly. To manage conflict, a team leader
+must address the other side’s perception of the issue, which may be completely different from that team
+leader’s perception. There are different ways to manage conflict. The approach used will depend on the
+time available, the degree and impact of the conflict, and the underlying goal.
+
+APPROACH TO CONFLICT RESOLUTION
+4-6. When conflicts occur, team leaders acknowledge the problem and determine the best way to resolve
+it. The team leader should gain understanding of the situation from both sides in order to remain unbiased.
+The conflict resolution process should stay focused on the issue and ways to resolve it. The most desired
+method for resolving conflict is by collaboration. This method allows both sides of the conflict to contribute
+to solving the problem. Once the team leader identifies the source of conflict, both sides must show an
+interest in working together to solve the problem. After they have developed ideas together on how to come
+to a resolution, the team leader helps them to choose a solution.
+
+4-2
+
+ATP 6-22.6
+
+30 October 2015
+
+Sustainment Stage
+
+4-7. Another approach to conflict resolution is consensus building, a form of negotiation in which
+everyone agrees to the solution. While the idea of a unanimous decision may seem unlikely, building
+consensus within a team helps set the conditions for a collective decision to solving a problem.
+
+TYPES OF CONFLICTS
+4-8. There are generally two types of conflicts found in teams: task conflicts and personal conflicts. Task
+conflicts refer to disagreements about work. Task conflicts can be beneficial to team performance, while
+personal conflicts are usually harmful. Team leaders cannot ignore personal conflicts. If the team does not
+confront the problem, the team will develop a negative climate. When personal conflicts occur, teams must
+communicate with each other to resolve the problem. Using conflict positively and constructively can help
+build a strong foundation of trust and respect among team members.
+4-9. At some point, most teams will encounter team conflicts. Accordingly, it is helpful to spend some
+time during team development to establish team ground rules for working through difficult team issues.
+Some of the useful guidelines to use when developing team ground rules for managing conflict are included
+in paragraphs 4-10 through 4-15.
+
+Avoid Personal Attacks
+4-10. The minimal requirement is that when expressing concerns, team members avoid getting personal.
+Getting personal for a work-related issue accomplishes nothing and only deepens a conflict. Team members
+stick to the facts about how a team member’s behavior or work performance is affecting the team or others
+on the team.
+
+Prevent Heated Outbursts
+4-11. In teams, angry outbursts among team members drive conflict underground where it does not get
+resolved, and it puts other team members on the defensive. Team leaders direct team members that if they
+feel they are starting to lose control of their emotions, they should stop and remove themselves from the
+team and the discussion for several minutes. Heated outbursts hurt relationships, trust, and collaboration.
+
+Approach Other Team Members Directly
+4-12. Team members should agree that if they have issues with another team member, they will approach
+that member directly to discuss those issues, rather than discussing it with other team members behind the
+back of that individual. It also means that when they are about to discuss difficult issues that might cause
+anger or defensiveness from the other team member, they will conduct a face-to-face meeting with that team
+member whenever possible. The next best solution is to engage the member over the phone. Teams who are
+geographically separated may be forced to use e-mail, but e-mail use should be limited. Team members
+should only use e-mail to approach team members with issues if there is no other means of communication.
+
+Never Assume Hostile Intent
+4-13. Team conflicts are most often caused by such factors as communication breakdowns, unclear team
+roles, and conflicting agendas, not by a desire to do harm to other team members or the team. If a team
+member does not understand the reasons for another team member’s behavior, the team leader should ask
+them about it and reevaluate the team leader’s assumptions. After the team has agreed to the team’s ground
+rules, it is useful to periodically set aside time during team meetings or work group sessions to discuss
+whether the team members feel that all team members are adhering to those ground rules or not. Team
+leaders should take action if some team members are not adhering to the ground rules. Team leaders work
+to get the team member’s focus back on the mission.
+
+30 October 2015
+
+ATP 6-22.6
+
+4-3
+
+Chapter 4
+
+Act to Control Conflict
+4-14. Team leaders contain conflicts when they arise. Conflicts can quickly spread beyond control if no
+action is taken or action is delayed. Team leaders remind team members about guidelines for managing
+conflicts. When a team leader observes a conflict between team members, that team leader should meet with
+them individually and then perform a brief check-in later to determine if they are addressing the issue. Team
+leaders ensure that team members take responsibility for the situation, and they inform the team leader after
+they have resolution.
+4-15. Team leaders do not let team members argue in a team meeting or a public forum because their
+conduct can have a negative impact on the team. Team leaders guide them to find a resolution, and, if
+needed, they work through a neutral party to do so. Team leaders caution team members and do not allow
+them to send inflammatory e-mails to one another. This is unprofessional and it does not resolve a conflict.
+Team leaders do not let team members pull other team members or individuals outside the team into their
+conflict. Team leaders give team members the freedom to resolve their disagreements, but they do not allow
+disagreements to affect the team or other team members. Team leaders discuss the conflict and behavior
+with the team members involved before it permanently damages the team.
+
+AVOIDING CONFLICT
+4-16. Teams can engage in constructive conflict and know that the purpose is to construct the best solution
+in the shortest time. When team members avoid conflict and do not discuss their opinions, poor decisions
+are the result. The desire to avoid a fight may prevent situations in which productive conflict would be
+useful. A team can develop the ability and willingness to engage in healthy conflict.
+4-17. The important point is to understand that many teams have a tendency to avoid conflict, even though
+it can be productive. One way for a team to make conflict easy to handle is to appoint a team member who
+can identify disagreements and bring them out in the open. This team member will also need to recognize
+that the people engaged in conflict are becoming uncomfortable and stop to remind them that conflict is
+sometimes necessary.
+
+TEAMS THAT FAIL TO MEET THE STANDARD
+4-18. Team leaders need to recognize when a team is not meeting the standard and identify the source of
+the problem. In some cases, there are team members who will not work together regardless of the
+circumstances. In other cases, the team leader needs to plan additional training. A lack of planning often
+leads to a team not meeting the standard as well. The team leader must figure out what the problem is and
+respond appropriately to bring the team up to standard. (See FM 6-22 for more information.)
+
+SUSTAIN RESILIENT TEAMS
+4-19. To have resilience, team members have to be able to build and sustain positive relationships. Team
+members need strong bonds with people who allow them to be themselves and help them to become
+stronger people. Social resilience is not just about being the strongest fighting force. It also includes having
+a team in which members can have fun with each other and confide in each other. During stressful times,
+teams find out whom they can count on. Experiences in combat can test relationships. When experiences are
+good, they can contribute in a powerful way to helping to become more socially resilient. They can help to
+recover quickly from traumatic events and overcome difficult obstacles that stand in the way.
+4-20. Social resilience is the capability to foster, engage in, and sustain positive social relationships as well
+as to endure and recover from stressors and social isolation. Building social resilience within a team means
+working together to be a cohesive unit. In a cohesive unit, every team member—
+ Trusts each other to put the interests of the unit ahead of their own.
+ Values, appreciates, and cares for each other.
+ Takes advantage of each team member’s diverse skills and experiences.
+ Looks out for each other.
+
+4-4
+
+ATP 6-22.6
+
+30 October 2015
+
+Sustainment Stage
+
+
+
+
+
+
+
+Shows a genuine interest in each other.
+Puts themselves at risk for each other.
+Works and communicates well with each other.
+Puts the interests of the unit ahead of their own.
+Takes advantage of their differences to work more effectively.
+
+4-21. The resilience of the unit can be beneficial to the team climate. Even during the most painful
+experiences, by continuing to connect with other team members and sharing thoughts and feelings, bonds
+become stronger, and team members are able to bounce back much more quickly from painful or traumatic
+events.
+
+STRATEGIES THAT BUILD A TEAM’S SOCIAL RESILIENCE
+4-22. Essential to team resilience is fostering, engaging in, and sustaining positive social relationships with
+people who understand, appreciate, and care for team members. By building such connections with others,
+team members are able bounce back from the difficult challenges that are thrown their way. Being able to
+develop these relationships requires—
+ Responsive listening.
+ A willingness to share personal details with others.
+ An ability to sense other people’s emotions and reach out to them in a positive way.
+
+Responsive Listening
+4-23. Responsive listening is a way to build team resilience. Responsive listeners encourage people to share
+stories and help them make sense of events. Team members should remain responsive throughout a
+conversation. As team members speak, a smile, a laugh, or a show of sympathy can be appropriate. When
+speaking, team leaders address team members by their names and speak in terms of “we” to include the
+other team members.
+
+Willingness to Share Personal Details to Others
+4-24. Team members should have a willingness to share personal information. Sharing information is a
+common and powerful way to form and cement friendships.
+
+Sense Other People’s Emotions
+4-25. Paying attention to other people’s emotions benefits the team’s resilience. Team members should pay
+full attention to what another person is saying and show genuine interest. Team members can also express
+themselves in a way that shows warmth, caring, and acceptance, and not judge, interpret, or criticize. When
+it comes to connecting with others, it does not take words to recognize when someone is feeling a moment
+of joy or peace, or is angry or sad. Team leaders should consider how bonded the team could be if every
+member was able to assess the emotional status of others and reached out to those who seem frightened,
+anxious, lonely, or disconnected. People are complex, and they often feel a mixture of emotions at one time.
+Most people have the capability to step into the shoes of others and to reflect on what they are thinking and
+feeling.
+4-26. The power of unity and teamwork can make a difference in how to manage adversity, or better yet, in
+how to overcome it. Without each of their unique and diverse skill sets at work, teams are less effective and
+may be unprepared to adapt to the unexpected. Team members rely on each other to work as a unified team
+to accomplish the mission, even when the unexpected happens.
+4-27. Building social resilience is something every team member must do regardless of position, rank, or
+experience level. Social resilience is the capability to foster, engage in, and sustain positive social
+relationships and to endure and recover from stressors and social isolation. Social resilience is an invisible
+and powerful force that holds people together and gives them purpose. Part of what makes a group socially
+resilient is that its members do what it takes to make the group better, and they put the needs of the group
+
+30 October 2015
+
+ATP 6-22.6
+
+4-5
+
+Chapter 4
+
+ahead of their own. Team members with social resilience act in ways that live up to the group’s core values
+at all times and have a strong connection with other members in the group. The cohesiveness and social
+resilience of the group matters when it comes to overcoming adversity or any unforeseen challenge.
+
+TEAM DIVERSITY
+4-28. Diversity is the things that make people different and unique, including differences in roles, ethnicity,
+gender, physical size, and ability. A team that is bonded in its efforts and diverse in its approaches will be
+more resilient and effective in responding to any unexpected or adverse situations. Differences can make
+teams more adaptable, and help build more cohesion, trust, mutual respect, and effectiveness within the
+team. Each team member has a unique skill and role that enhances the team’s effectiveness. Unfortunately,
+there are natural impulses that compete with desire to work together as a diverse team. Two natural
+tendencies that prevent teams from capitalizing on diversity are the desire to bond with people who are most
+like them and a desire to seek agreement.
+4-29. People naturally segregate. People want to spend time with other people who look and act like them
+and share common interests and opinions. This is human nature. People often form close bonds with similar
+people and see those who are different as outsiders. Without intention, people naturally segregate
+themselves into similar and non-diverse groups.
+4-30. People naturally seek agreement. In addition to allowing differences to divide a group, even the most
+diverse groups tend to seek and reward agreement. Within the most cohesive of groups, there is the habit of
+agreeing with each another rather than using differences to point out problems or present new ideas. It is
+easier to talk with people who agree because it is effortless, but that makes for a weaker and less resilient
+team. It is more valuable to be right than to be comfortable.
+4-31. Diversity means relying on diverse capacities to help solve problems. Therefore, it is also important
+to develop a unified team that values and appreciates disagreements and embraces new approaches or
+alternate perspectives. This does not include disagreement for disagreement’s sake, but the desire and
+ability to listen to and synthesize diverse ideas for the good of the whole.
+4-32. Teams must learn to balance natural impulses. Differences make a team stronger and more adaptable
+in the face of new challenges. However, the natural impulses of seeking similarity and agreement often
+compete with the desire to take advantage of these differences. Team members have to know how to use
+diversity to their advantage. That means taking the time to bond and develop team chemistry both on and
+off duty. It means getting to know how to use every team member’s skills and experiences to become a
+more resilient, unified, and adaptable team.
+
+4-6
+
+ATP 6-22.6
+
+30 October 2015
+
+Appendix A
+
+Team Assessments
+This appendix begins with a discussion of assessing team effectiveness. It then
+discusses individual, team leader, and peer assessments. It concludes with a
+description of some additional assessment tools that teams can use.
+A-1. An integral part of ensuring the success of teams in complex environments is assessing performance.
+Specifically, assessment is a critical component of determining readiness and providing feedback after
+training. The objective is to provide techniques team leaders and team members can use in their efforts to
+assess their individual, leader, peer, and team performance.
+A-2. Team leaders and team members must be able to assess how their team performs. After assessing
+performance, teams are able to make improvements in weak areas while sustaining strong areas of their
+performance. The result is a cohesive team with the ability to improve and sustain exceptional performance.
+
+TEAM MEMBER INDIVIDUAL ASSESSMENTS
+A-3. Assessing team members can be a challenging task for most team leaders, since learning about others
+takes time and purposeful effort. Other demands often seem to leave little time to perform assessments. To
+combat this, team leaders can use a combination of methods to assess their teams, including interviewing,
+observing team members, and talking with others about team members.
+
+INTERVIEW TEAM MEMBERS
+A-4. Talking one-on-one with team members about their skills and interests is a good strategy for assessing
+capability and commitment. When talking with team members, the team leader can ask open-ended
+questions. If done well, this type of questioning can help verify understanding as well as encourage
+discussion and explanation from team members.
+
+OBSERVE TEAM MEMBERS
+A-5. Another way to assess capabilities and commitment of team members is to observe them at work.
+Team leaders should observe team members performing their tasks and evaluate their attitudes and
+competence while they conduct operations.
+
+TALK WITH OTHERS WHO KNOW THE TEAM MEMBERS
+A-6. Another method of assessment is to ask other people about their experiences working with particular
+team members. Other people with whom they have worked can speak about their strengths and weaknesses
+and help assess their capabilities. To get an accurate assessment of team members, team leaders can talk to
+previous supervisors, peers, and subordinates. When talking to others, team leaders remember that people
+have their own personal biases, and that these biases may color their opinions of team members.
+
+TEAM LEADER INDIVIDUAL ASSESSMENT
+A-7. Team leaders should conduct individual self-assessments periodically to determine their
+effectiveness. This type of leader assessment encourages development and helps leaders learn if their
+behavior communicates support for leader development. There are many actions that set the example for a
+cohesive team that encourages development. Some of these actions include—
+
+30 October 2015
+
+ATP 6-22.6
+
+A-1
+
+Appendix A
+
+
+
+
+
+
+
+
+
+
+Developing self and engaging in learning.
+Reinforcing guidance given to others through own actions.
+Not expecting others to do what the leader would not do.
+Improving abilities to interact interpersonally.
+Serving as a mentor to others outside the chain of command.
+Acting positive, expressing encouragement, and being realistically optimistic.
+Communicating an expectation of continuous learning.
+Engaging leaders in critical thinking and challenging them to shift perspective.
+
+A-8. If team leaders determine that they are not demonstrating these behaviors, they must take actions to
+correct themselves. Team leaders can ask peers and subordinates to assist with this assessment and watch
+for these behaviors. Some additional behaviors that team leaders should assess include—
+ Taking time to get to know and understand subordinates.
+ Inspiring people to do their best.
+ Assessing strengths and developmental needs of subordinates.
+ Taking leaders aside and discussing lessons learned and feedback.
+ Reviewing job performance with subordinates to assist in their growth.
+ Making task and assignment decisions based in part on developmental needs.
+ Encouraging subordinates to engage in self-study and training opportunities.
+ Fostering teamwork, cohesion, cooperation, and loyalty.
+
+ASSESSING EXTERNAL TEAMS
+A-9. Team leaders should assess the effectiveness of both internal and external teams. Team effectiveness
+depends on three criteria:
+ Producing a team outcome acceptable to whomever the team is serving (gets results).
+ Growing team capability (which improves the capability of the organization).
+ Having meaningful group experiences (which results in improved confidence).
+A-10. Team leaders should consider ways to measure internal and external teams. Effectiveness can be
+measured by the—
+ Amount of shared situational understanding.
+ Amount of shared purpose and vision about the mission (an ability to see an end‐state).
+ Amount of shared trust between team members.
+ Amount of perceived competence of other team members.
+ Amount of confidence each member has in the team’s ability to accomplish the mission.
+ Amount of latitude given by leaders to accomplish the mission.
+ Level of expertise available or accessible to the team.
+ Ability to use social networks and including others who support the team.
+ Time it takes to accomplish a mission or task.
+ Quality of work the team produces (exceeding established standards).
+ Contribution of knowledge and expertise shared by the team.
+A-11. An assessment methodology is a way of thinking, understanding, and acting. It is used during the
+normal course of operations in the context of the situation at hand.
+A-12. An assessment approach will enable teams to observe, listen, stimulate, and support those who will
+themselves create shared actionable understanding from the bottom up, drawing on their practices and
+expectations. Assessment approaches also help a team frame and develop the knowledge, skills, and
+attitudes required to support the high priority issues facing external teams.
+
+A-2
+
+ATP 6-22.6
+
+30 October 2015
+
+Team Assessments
+
+ADDITIONAL ASSESSMENT TOOLS AND TECHNIQUES
+A-13. The team, individual team member, and team leader assessments offered and described in paragraphs
+A-4 through A-12 are designed to provide actionable feedback for the three key elements (team, individual,
+and leader) contributing to a team’s performance. These assessments are only techniques to assessing team
+performance, and they can be modified to assess any team and its performance.
+A-14. The Army uses a number of other tools and techniques periodically and sometimes continuously for
+assessing individuals, leaders, teams, training events, missions, and operations. These tools include—
+ Individual performance counseling.
+ Evaluations.
+ 360 multi-source assessment and feedback.
+ After action reviews.
+A-15. Individual performance counseling, evaluations, and 360 multi-source assessment and feedback are
+effective tools for assessing and evaluating individual team members and the team leader’s performance on
+an individual basis and as a member of a team. They are not good tools for trying to assess the overall
+performance of a team. However, the after action review is a great technique for assessing the performance
+of a team. It can capture the overall performance, and it can be used to break the team’s work into stages or
+phases. Assessing stages and phases separately provides an in-depth analysis of the team’s performance
+when completing task steps.
+
+30 October 2015
+
+ATP 6-22.6
+
+A-3
+
+This page intentionally left blank.
+
+Appendix B
+
+External Teams
+This appendix provides some techniques to help build effective external teams.
+B-1. External teams are teams whose members are from different organizations, cultures, agencies, or
+backgrounds and who bring specific knowledge, skills, and attitudes to the team. Most leaders are not able
+to choose their team members. They must be prepared to build and develop their teams with the assigned
+members, from both within their organizations and with unified action partners.
+
+FORMING EXTERNAL TEAMS
+B-2. When forming an external team, team leaders perform activities to develop an initial shared
+understanding of the team’s mission and purpose, an understanding of the skill sets team members bring to
+the team, and an understanding of the efforts required to develop shared skill sets. In this stage, team leaders
+clarify and build consensus regarding the team’s purpose, understand the impact of various boundaries
+crossed by team members, and build situational understanding of the environment. There are several
+techniques to help build and strengthen the cohesiveness and effectiveness of external teams. When forming
+external teams, team leaders should—
+ Establish contact with team members immediately.
+ Meet individually with team members to assess their strengths and weaknesses.
+ Develop the team by introducing confidence-building tasks.
+ Socialize frequently while still allowing for time alone.
+ Maintain an adaptable stance in the face of changing conditions.
+ Set the conditions for the team’s success.
+ Consider input and recommendations before making decisions.
+These techniques are only examples and can be adapted or modified as required.
+
+ESTABLISH A POSITIVE CLIMATE
+B-3. Establishing a positive climate is important in external teams with joint, interagency, and
+multinational partners. Sometimes teams are comprised of members from many backgrounds, organizations,
+cultures, and agencies. Each team member brings unique skills, biases, and agendas to a team. This can
+result in members not having much in common. Through the team building process, team members identify
+where differences exist and come to a common understanding, which contributes to an open and positive
+climate in which the team’s work is constructive.
+
+BUILD A TEAM IDENTITY AND VISION
+B-4. External teams create and choose a team motto, symbol, or logo that identifies the team. Team
+members then use this motto, symbol, or logo consistently in team communications and documents. A team
+symbol or logo that represents the team’s goal or mission and its purpose, and one that is displayed on the
+team’s documents, is also helpful for building rapport and support among team members.
+
+CREATE SHARED VISION
+B-5. By creating a shared vision, team members identify where differences exist, and then they can come
+to a common understanding. To develop shared vision, external teams need to focus on gaining clear
+understanding of the mission or task at hand. The common vision may be the most important component of
+
+30 October 2015
+
+ATP 6-22.6
+
+B-1
+
+Appendix B
+
+team building because it defines where the team is going and what it will look like when it gets there. The
+leader’s ability to clearly communicate the common vision and align the team with that vision is essential.
+Optimally, team members should be involved in creating the common vision. If they help create the vision,
+they will in take greater ownership of that vision.
+B-6. Teams with a shared vision have better coordination and less conflict than the teams without it.
+Members of such teams are capable of predicting one another’s behaviors and acting quickly in the face of
+changing circumstances. Leaders of teams with shared visions are confident in giving their members more
+responsibility, which, in turn, increases the team’s ability to adapt.
+
+BUILDING TRUST IN EXTERNAL TEAMS
+B-7. The expectation that a person has a high level of integrity and is highly dependable fosters trust.
+Team members are willing to put themselves at risk because of their confidence that the other team member
+will do what they expect. When teams from different organizations collaborate, team members typically
+have different backgrounds and experiences, and they have little experience or exposure to one another.
+Members of these teams must quickly work together as one team. In this situation, it can be a challenge to
+avoid making assumptions or establishing false expectations.
+B-8. Team members sometimes initially develop trust by superficial factors such as rank or position, which
+can lead to assumptions about a team member’s prior experiences and qualifications. These assumptions
+incorrectly influence trust because they may not be accurate. However, direct experience with one another
+over time allows team members to develop more informed, deeper levels of trust.
+
+SOCIAL NETWORKING
+B-9. Creating a team social networking system is another important step to building a team identity. Social
+networking is as important as professional networking. Social networking gives team members an
+opportunity to know and understand the ideas and perspectives of other team members. Social networking
+systems also allow team members a way to communicate work through informal channels where team
+members are more open and frank about issues and recommendations. Another technique to building a team
+identity is to use every opportunity for communication and interaction. For example, team leaders should
+periodically call, e-mail, or text team members to check in with them regarding their issues, concerns, or
+potential problems.
+
+CLARIFY EXPECTATIONS OF TEAM MEMBERS’ OWN ORGANIZATIONS
+B-10. External teams whose members report to different units, organizations, agencies, or unified action
+partners face a unique set of challenges. These teams place more responsibility on team members to
+self-manage their activities, so it is important to get the full support of all team members’ parent
+organizations. If full support is not gained from team members’ supervisors, it can create a conflict
+regarding competing time constraints and commitments. A shared understanding between team leaders and
+supervisors from the parent organizations on exchanging information, communicating, and any changes in
+time requirements or responsibilities reduces conflict between organizations. Before launching into the
+team’s tasks and mission, team members must understand how they will report to their parent organization.
+
+TEAM MEMBER ACCOUNTABILITY
+B-11. Team members must maintain accountability for their work and contributions to accomplishing the
+mission. This includes the team members’ participation in meetings, working groups, or tasks. One method
+for establishing accountability to identify those tasks, assignments, or milestones that are the most
+challenging and will require the most attention. Once teams identify those tasks, they should ensure that
+each team member knows what they are accountable for and what tasks have the highest priority.
+
+B-2
+
+ATP 6-22.6
+
+30 October 2015
+
+External Teams
+
+ENRICHING TEAMS
+B-12. In the enriching stage, a team accomplishes missions. Throughout this stage, a team learns to improve
+teamwork and improve on characteristics of effective teams. This also includes improving teamwork and
+increasing commitment to the team.
+
+TEAMWORK
+B-13. Successful teamwork requires cooperation that is built through trust and confidence. A highly
+effective team is based on team members having trust and confidence in each other. Successful teamwork
+requires delegation of authority commensurate with responsibility. This is a necessary part of building and
+maintaining the trust, based on competence, which characterizes a successful team. Delegation unleashes
+the best efforts and greatest initiative from all members of military teams.
+
+USE TECHNOLOGY TO ENHANCE COMMUNICATION
+B-14. Teams have many different tools available to increase their ability to communicate, collaborate, and
+share information. One tool is to develop a group e-mail list for the team. Another tool is to create a shared
+calendar in which all team members have the ability to stay current with the work schedule. However,
+having too many different tools can sometimes challenge teams. Some team members will rely on e-mail as
+their only method of communication, when face to face communication is much more effective.
+
+INFORMATION MANAGEMENT
+B-15. Information management tools are used to enhance team communication and collaboration across
+time and distance. Information management tools allow teams to share files, communicate, and organize and
+store information in a meaningful way. Teams should discuss the types and uses of information management
+tools as teams form and progress.
+
+KNOWLEDGE MANAGEMENT
+B-16. Knowledge management is the process of enabling knowledge flow to enhance shared understanding,
+learning, and decisionmaking (ADRP 6-0). Knowledge management includes the tools, techniques,
+processes, and strategies to help create, capture, find, organize, analyze, share, and maintain organizational
+knowledge and expertise. The goal of knowledge management is to make information easier to find, which
+can make teams more productive and effective. It requires a balance of people, processes, technologies, and
+structures, and it also requires a supporting climate of collaboration.
+B-17. Knowledge flow refers to the way information and knowledge move through the organization.
+Knowledge flows among people, among people and machines, and from machine to machine. Knowledge
+management principles combined with information management tools allow the team to collaborate, learn,
+transfer, and apply knowledge in more meaningful and efficient ways.
+
+DISCUSS OPERATING AGREEMENTS AND TECHNOLOGY
+B-18. To be effective, a team needs to commit to shared ways of working and interacting. This is
+particularly important for teams that lack the familiarity of daily face‐to‐face contact and for those coming
+from diverse organizations and cultures. By agreeing to certain common behaviors, teams can codify a set
+of operating principles that address many areas where such teams can go astray. Because an external team
+usually exists across boundaries of organization, function, level, or culture, there may not be traditional
+rules and regulations that apply to every situation. Team members should discuss their communication
+preferences. For example, some prefer e-mail, while others prefer text messages, and some regard the phone
+as their most desired method of communication. This discussion is also an opportunity to consider any
+cultural sensitivity that might arise. Some of these agreements should include the types of collaboration
+tools, the work process, team behaviors, and team expectations. Team leaders work to avoid
+misunderstandings when there are no established communication norms.
+
+30 October 2015
+
+ATP 6-22.6
+
+B-3
+
+Appendix B
+
+SUSTAINING EXTERNAL TEAMS
+B-19. Sustaining external teams requires leadership, flexibility, hard work, and total commitment. One
+particular challenge when developing and sustaining external teams is that these teams usually cross over
+organizational lines. Even though team members share a common collective task, the members may not
+share reporting structures. Unity of effort is expected in the context of multiple chains of command. Coming
+from different organizations (sometimes even different countries), team members generally use different
+terminology, take different approaches to work, and sometimes have different values. Additionally, team
+members have their own sets of short-range goals. Achieving these goals should contribute to the overall
+effectiveness of the team, but this occurs only if there is shared situational understanding and integrated use
+of scarce team resources among team members.
+
+UNDERSTANDING CULTURAL DIFFERENCES
+B-20. One method to sustain an external team begins by addressing cultural or organizational obstacles.
+This approach broadens the circle of the team and emphasizes building relationships and finding expertise.
+It is an adaptive way of teaching team members how to observe, think, and act in complex situations.
+Cultural differences in teams can create substantial obstacles to effective teamwork. By addressing
+obstacles early when developing a team, team leaders have the ability to mitigate obstacles and establish a
+positive strategy for bringing the team together. This means knowing clearly what culture means, how
+cultures vary, and how culture affects behavior.
+B-21. An effective team needs to pay attention to cues in the cross-cultural situations. Team members
+should develop effective social skills and become competent across a wide range of situations. Team
+members should be able to choose the appropriate behaviors for different intercultural situations. Cultural
+training helps teams become culturally aware and develop behavioral skills through experience.
+
+B-4
+
+ATP 6-22.6
+
+30 October 2015
+
+Glossary
+The glossary lists acronyms and terms with Army or joint definitions. The proponent
+publication for terms is listed in parentheses after the definition.
+
+SECTION I – ACRONYMS AND ABBREVIATIONS
+ADP
+ADRP
+
+Army doctrine publication
+Army doctrine reference publication
+
+ATP
+
+Army techniques publication
+
+DA
+
+Deaprtment of the Army
+
+FM
+
+field manual
+
+JP
+
+joint publication
+
+U.S.
+
+United States
+
+SECTION II – TERMS
+Army team building
+A continuous process of enabling a group of people to reach their goals and improve their effectiveness
+through leadership and various exercises, activities and techniques. (FM 6-22)
+knowledge management
+The process of enabling knowledge flow to enhance shared understanding, learning, and
+decisionmaking. (ADRP 6-0)
+mission command
+The exercise of authority and direction by the commander using mission orders to enable disciplined
+initiative within the commander’s intent to empower agile and adaptive leaders in the conduct of
+unified land operations. (ADP 6-0)
+unified action
+The synchronization, coordination, and/or integration of the activities of governmental and
+nongovernmental entities with military operations to achieve unity of effort. (JP 1)
+unified action partners
+Those military forces, governmental and nongovernmental organizations, and elements of the private
+sector with whom Army forces plan, coordinate, synchronize, and integrate during the conduct of
+operations. (ADRP 3-0)
+unity of effort
+Coordination and cooperation toward common objectives, even if the participants are not necessarily
+part of the same command or organization, which is the product of successful unified action. (JP 1)
+
+30 October 2015
+
+ATP 6-22.6
+
+Glossary-1
+
+This page intentionally left blank.
+
+References
+All URLS accessed on 8 October 2015.
+
+REQUIRED PUBLICATIONS
+These documents must be available to intended users of this publication.
+ADRP 1-02. Terms and Military Symbols. 2 February 2015.
+JP 1-02. Department of Defense Dictionary of Military and Associated Terms. 08 November 2010.
+
+RELATED PUBLICATIONS
+JOINT PUBLICATIONS
+Most joint publications are available online at http://www.dtic.mil/doctrine/new_pubs/jointpub.htm.
+JP 1. Doctrine for the Armed Forces of the United States. 25 March 2013.
+
+ARMY PUBLICATIONS
+Most Army doctrinal publications are available online at www.apd.army.mil.
+ADP 1. The Army. 17 September 2012.
+ADP 6-0. Mission Command. 17 May 2012.
+ADP 6-22. Army Leadership. 1 August 2012.
+ADRP 1. The Army Profession. 14 June 2015.
+ADRP 3-0. Unified Land Operations. 16 May 2012.
+ADRP 6-0. Mission Command. 17 May 2012.
+ADRP 6-22. Army Leadership. 1 August 2012.
+ATP 5-0.1. Army Design Methodology. 1 July 2015.
+FM 6-22. Leader Development. 30 June 2015.
+FM 27-10. The Law of Land Warfare. 18 July 1956.
+
+PRESCRIBED FORMS
+This section contains no entries.
+
+REFERENCED FORMS
+Unless otherwise indicated, DA forms are available on the Army Publishing Directorate web site at
+www.apd.army.mil.
+DA Form 2028. Recommended Changes to Publications and Blank Forms.
+
+30 October 2015
+
+ATP 6-22.6
+
+References-1
+
+This page intentionally left blank.
+
+Index
+Entries are by paragraph number.
+A
+
+B
+
+absence of similarities, 2-56
+account for common needs,
+3-23
+accountability, build shared,
+3-28–3-30
+climate of, 3-32
+team member, B-11
+acknowledge communication
+with feedback, 2-62
+acknowledge differences, 2-58
+act to control conflict, 4-14–
+4-15
+activities, team, 3-41
+adapt, to change, 4-2–4-4
+to demanding challenges,
+1-24
+additional assessment tools
+and techniques, A-13–A-14
+addressing difficult
+personalities, 2-29
+align the team mission, goals,
+and expectations, 1-62–1-64
+approach other team members
+directly, 4-12
+approach to conflict resolution,
+4-6–4-7
+Army team building, defined,
+1-6
+Army team building process,
+1-6
+assemble the team , 2-4–2-35
+assessing external teams,
+A-9–A-12
+assessment, additional tools
+and techniques, A-13–A-14
+individual team leader, A-7
+peer, A-8
+assessment tools, team, A-1–
+A-14
+assessments, individual team
+member, A-3–A-6
+assign the appropriate roles
+and responsibilities, 1-58
+attributes, negative, 1-75
+positive, 1-74
+avoid personal attacks, 4-10
+avoiding conflict, 4-16–4-17
+
+be an active listener, 2-61
+bets, safe, 3-14
+build, commitment, 3-2–3-13
+opportunities for discussion
+and exchange with key
+stakeholders, 2-69
+shared accountability,
+3-28–3-30
+shared competence, 3-14–
+3-15
+shared confidence, 3-16–
+3-18
+team identity and vision,
+B-4
+trust, 2-36–2-56
+building, relationships, 1-77
+trust by increasing
+transparency, 2-46–2-47
+trust in external teams,
+B-7–B-8
+
+30 October 2015
+
+C
+cascading messaging, 3-10
+categories of teams, 1-27–1-34
+challenges, mitigate, 3-9–3-13
+to team dynamics, 2-31
+change, adapt to, 4-2–4-4
+characteristics of effective
+teams, 1-19–1-26
+adapt to demanding
+challenges, 1-24
+execute tasks thoroughly
+and quickly, 1-22
+learn from experiences and
+develop pride in
+accomplishments, 1-25–
+1-26
+meet and exceed the
+standard, 1-23
+trust each other and predict
+what each will do, 1-20
+work together to accomplish
+the mission, 1-21
+clarify, 2-60
+expectations of team
+members’ own
+organizations, B-10
+goals and responsibilities,
+2-78
+climate of accountability, 3-32
+cohesion, develop, 3-33–3-42
+improve the level of, 3-35
+
+ATP 6-22.6
+
+collaboration and dialogue,
+1-59–1-61
+collaborative successes, 1-66–
+1-67
+communicate, team
+commitments, 3-8
+with stakeholders, 2-63–
+2-69
+communication, acknowledge
+with feedback, 2-62
+team, 2-57–2-69
+understand non-verbal,
+2-59
+use technology to enhance,
+B-14
+competence, build shared,
+3-14–3-15
+misjudgments, 2-55
+conduct periodic checks on
+team process, 2-35
+confidence, build shared,
+3-16–3-18
+conflict, act to control, 4-14–
+4-15
+avoiding, 4-16–4-17
+manage, 4-5–4-18
+management, 4 6–4 18
+resolution, 4-6–4-7
+types of, 4-8
+conflict management, 4-6–4-18
+cooperating with other team
+members, 1-79
+create shared vision, B-5–B-6
+creating shared vision and
+team identity, 1-42–1-43
+cultural differences,
+understanding, B-20–B-21
+
+D
+deadlines, use and set
+milestones, 3-11
+define the goal, 2-74
+demonstrating flexibility and
+adaptability, 1-78
+determine motivation, 2-77
+develop, a team statement,
+1-47
+cohesion, 3-33–3-42
+team goals and
+expectations, 2-79–2-80
+discuss operating agreements
+and technology, B-18
+
+Index-1
+
+Index
+
+Entries are by paragraph number.
+discussing, “who are we” as a
+team, 1-46
+and establishing the
+dynamic for the team,
+2-27
+distrust, mitigating, 2-48–2-49
+diversity, team, 4-28–4-32
+
+E
+effective teams, characteristics
+of, 1-19–1-26
+emotions, sense other
+people’s, 4-25–4-27
+encourage team identification,
+3-4
+engage in self-reflection, 1-68
+enriching teams, B-12–B-18
+enrichment stage, 1-12–1-15,
+3-1–3-42
+establish, a positive climate,
+B-3
+goals, 3-32
+establishing, a positive climate,
+1-38–1-41
+an environment of
+collaboration and
+dialogue, 1-59–1-61
+an environment that
+embraces learning, 1-71
+establishing roles and
+responsibilities, 1-53–1-58
+assign the appropriate roles
+and responsibilities, 1-58
+identify team member skills,
+1-57
+identify the required skills,
+1-56
+identify the tasks, 1-55
+events, planning, 3-27
+execute tasks thoroughly and
+quickly, 1-22
+expressing mutual trust in the
+team, 2-39
+external teams, 1-31–1-34,
+B-1–B-21
+assessing, A-9–A-12
+building trust in, B-7–B-8
+forming, B-2–B-11
+sustaining, B-19–B-21
+extrinsic motivation, 3-21
+
+F
+facilitating relationship building,
+2-42
+fit the team identity to the
+organization and its
+leadership, 1-44
+
+Index-2
+
+formation stage, 1-9–1-11,
+2-1–2-80
+forming external teams, B-2–
+B-11
+fundamentals of team building,
+1-1–1-81
+
+G
+get the team ready for work,
+2-14–2-15
+goals, establish, 3-25
+providing clearly stated,
+1-50–1-52
+reiterate, 3-13
+goals and objectives, team and
+individual, 3-40
+group characteristics, 3-37
+group motivation, 3-22
+
+H
+having a willingness to help
+others, 1-80
+hostile intent, never assume,
+4-13
+
+I
+identification, team, 3-42
+identify, and evaluate barriers
+to trust, 2-51–2-53
+team member skills, 1-57
+the required skills, 1-56
+the tasks, 1-55
+improve the level of cohesion,
+3-35
+inaccurate information from
+others, 2-54
+increasing difficulty of training
+sessions, 2-43
+individual assessment, team
+leader, A-7
+individuals on the team, 3-38
+information management, B-15
+integrate new team members,
+2-6
+internal teams, 1-29–1-30
+interview team members, A-4
+intrinsic motivation, 3-20
+
+J-K
+know indicators of mental
+fatigue, 2-34
+knowing the strengths and
+weaknesses of team
+members, 1-72
+
+ATP 6-22.6
+
+knowledge management,
+B-16–B-17
+defined, B-16
+
+L
+leadership, 3-36
+learn from experiences and
+develop pride in
+accomplishments, 1-25–
+1-26
+learning, about the team
+members, 2-28
+establishing an environment
+that embraces, 1-71
+
+M
+maintain a team history, 1-48
+manage conflict, 4-5–4-18
+manage the team’s workflow,
+2-32
+management, information,
+B-15
+knowledge, B-16–B-17
+meet and exceed the standard,
+1-23
+messaging, cascading, 3-10
+milestones, set and use
+deadlines, 3-11
+mission command, defined ,
+1-3
+mitigate challenges, 3-9–3-13
+mitigating distrust, 2-48–2-49
+model what the team should
+do, 1-70
+monitoring and reflecting on
+the team’s dynamic, 2-30
+motivate team members, 3-19–
+3-27
+motivation, extrinsic, 3-21
+group, 3-22
+intrinsic, 3-20
+motivational differences,
+understand individual, 3-24
+
+N
+needs, account for common,
+3-23
+negative attributes, 1-75
+never assume hostile intent,
+4-13
+
+O
+observe team members, A-5
+orientation, 2-9–2-10
+
+30 October 2015
+
+Index
+
+Entries are by paragraph number.
+P
+peer assessment, A-8
+planning events, 3-27
+positive attributes, 1-74
+prepare, the mental
+workspace, 2-19–2-25
+the team for likely
+challenges, 2-16–2-18
+prevent heated outbursts, 4-11
+provide the team with a clear
+vision, 3-6–3-7
+providing, clearly stated goals,
+1-50–1-52
+feedback to team members,
+2-45
+opportunities for social
+interaction, 2-40
+
+Q-R
+rapidly formed teams , 2-70–
+2-80
+recall previous collaborative
+successes, 1-66–1-67
+reception, 2-7–2-8
+recognize, differences, 2-76
+individual expertise, 1-45
+that simple does not equal
+simplistic, 2-67
+recognizing the importance of
+maintaining or rebuilding
+trust, 2-44
+reevaluate the teams identity
+periodically, 1-49
+reflect on each team member’s
+strengths, 1-65
+reiterate goals, 3-13
+repairing trust, 2-50
+respecting others, 1-81
+responsibilities, team member,
+1-76–1-81
+responsive listening, 4-23
+reward and recognize team
+members, 3-26
+reward cooperation, 3-5
+roles and responsibilities,
+1-35–1-81
+assign the appropriate, 1-58
+establishing, 1-53–1-58
+
+S
+seek, external feedback, 2-68
+feedback from the team, 1-69
+self-correction, 3-31
+self-reflection, engage in, 1-68
+
+30 October 2015
+
+sense other people’s emotions,
+4-25–4-27
+set, expectations, 2-33
+skills, identify required, 1-56
+identify team member, 1-57
+social networking, B-9
+social resilience, strategies
+that build, 4-22–4-27
+socialization process, 2-11–
+2-13
+socialize ideas with
+stakeholders, 2-66
+stages, Army team building,
+1-7–1-18
+stakeholders, build in
+opportunities for discussion
+and exchange, 2-69
+communicate with, 2-63–
+2-69
+socialize ideas with, 2-66
+study the team’s, 2-65
+strategies that build a team’s
+social resilience, 4-22–4-27
+study the team’s stakeholders,
+2-65
+sustain resilient teams, 4-19–
+4-27
+sustaining external teams,
+B-19–B-21
+sustainment stage, 4-1–4-32
+
+T
+taking advantage of breaks,
+2-41
+talk with others who know the
+team members, A-6
+tasks, identify, 1-55
+team, 2-57–2-69
+activities, 3-41
+and individual goals and
+objectives, 3-40
+assessment tools, A-1–
+A-14
+communicate commitments,
+3-8
+develop a statement, 1-47
+develop goals and
+expectations, 2-79–2-80
+diversity, 4-28–4-32
+history, 3-42
+identification, 3-42
+individuals on the, 3-38
+maintain a history, 1-48
+provide with a clear vision,
+3-6–3-7
+
+ATP 6-22.6
+
+reevaluate identity
+periodically, 1-49
+socialization, 3-39
+team building, fundamentals
+of, 1-1–1-81
+team building stages, 1-7–1-18
+enrichment stage, 1-12–
+1-15
+formation stage, 1-9–1-11
+sustainment stage, 1-16–
+1-18
+team dynamics, understand,
+2-26–2-31
+team identity, build, B-4
+team leader individual
+assessment, A-7
+team leaders, 1-36–1-72
+team member, accountability,
+B-11
+identify skills, 1-57
+individual assessments,
+A-3–A-6
+responsibilities, 1-76–1-81
+team members, 1-73–1-81
+approach other directly,
+4-12
+cooperating with other, 1-79
+integrate new, 2-6
+interview, A-4
+knowing the strengths and
+weaknesses of, 1-72
+learning about, 2-28
+observe, A-5
+reward and recognize, 3-26
+talk with others who know
+the, A-6
+team vision, build, B-4
+teams, assessing external,
+A-9–A-12
+categories of , 1-27–1-34
+characteristics of effective,
+1-19–1-26
+enriching, B-12–B-18
+external, 1-31–1-34
+internal, 1-29–1-30
+rapidly formed, 2-70–2-80
+sustain resilient, 4-19–4-27
+that fail to meet the
+standard, 4-18
+teamwork, B-13
+think, about thinking, 2-21
+holistically, 2-22
+visually, 2-24–2-25
+tools, team assessment, A-1–
+A-14
+
+Index-3
+
+Index
+
+Entries are by paragraph number.
+trust, building by increasing
+transparency, 2-46–2-47
+each other and predict what
+each will do, 1-20
+recognizing the importance
+of maintaining or
+rebuilding, 2-44
+repairing, 2-50
+
+types of conflict, 4-8
+U
+understand, individual
+motivational differences,
+3-24
+
+Index-4
+
+non-verbal communication,
+2-59
+others’ motivations, 2-23
+team dynamics, 2-26–2-31
+understanding cultural
+differences, B-20–B-21
+unified action, defined, 1-33
+unified action partners,
+defined, 1-32
+unity of effort, defined, 1-34
+use, deadlines and set
+milestones, 3-11
+technology to enhance
+communication, B–14
+
+ATP 6-22.6
+
+V
+vision, create shared, B-5–B-6
+
+W-X-Y-Z
+willingness to share personal
+details to others, 4-24
+work, collaboratively, 2-75
+together to accomplish the
+mission, 1-21
+workflow, manage the team’s,
+2-32
+worst-case scenario, 3-12
+
+30 October 2015
+
+$736226
+30October2015
+
+By Order of the Secretary of the Army:
+
+0$5.$0,//(<
+General, United States Army
+Chief of Staff
+
+Official:
+
+GERALD B. O’KEEFE
+Administrative Assistant to the
+Secretary of the Army
+1528801
+
+DISTRIBUTION:
+Active Army, Army National Guard, and United States Army Reserve: Distributed in electronic media
+only (EMO).
+
+PIN 105697000
+
+

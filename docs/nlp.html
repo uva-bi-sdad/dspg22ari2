@@ -371,22 +371,28 @@ div.tocify {
 </div>
 
 
-<p><em>For the purposes of this study, the colors used for graphs were selected arbitrarily and do not imply any derived meaning.</em></p>
-<p>#Co-Occurrence The frequency at which certain terms co-occurred is graphed below. Words that appeared together more frequently are represented with darker lines. Words that appear together more frequently are assumed to share some association in theme or topic. “N” represents the number of times each word pair appeared together. Some of the most frequent co-occurring words were (1) Army and leader, (2) leader and subordinate, and (3) team and member. The high degree of association between these words, as well as the fact that these words were some of the most frequently occurring words in the corpus overall, demonstrate that we accurately selected key documents for exploring our question of interest, i.e., individual Soldier characteristics that contribute to team performance.</p>
+<p><em>For the purposes of this study, it is important to note that the colors used for graphs were selected arbitrarily and have no correlation to any derived meaning.</em></p>
+<div id="co-occurrence" class="section level1">
+<h1>Co-occurrence</h1>
 <p align="center">
 <img src="www/co-occurence.png" />
 </p>
-<!--Re ordered these sections to align with the Methods overview-->
-<p>#Term Frequency-Inverse Document Frequency (TF-IDF)<br />
-The TF-IDF model shows which words make each of the 10 documents we reviewed unique. The mean TF-IDF score for each word appears on the x-axis. The higher the score, the more important it is to the uniqueness of the document. Because the models highlight the words unique to each document, the most commonly occurring words across the corpus (e.g., Soldier, Army, leader, team) will not appear in these lists,</p>
-<p align="center">
-<img src="www/tf_idf.png" />
+<p>As can be seen above, the frequency at which certain terms co-occurred have been graphed. Words that appeared together more frequently are shown with darker lines.It can be extrapolated that words that appear together the most often, are in some way correlated. “N” represents the number of times each word pair appeared together. Some of the largest co-occurrences were between Army and leader, leader and subordinate, and team and member. These findings show that our corpus of document accurately explored our topic of individual Soldier characteristics that contribute to team performance.</p>
+</div>
+<div id="term-frequency-inverse-document-frequency-tf-idf" class="section level1">
+<h1>Term Frequency-Inverse Document Frequency (TF-IDF)</h1>
+<p>The TF-IDF model shows which words make each of the 10 documents we reviewed unique. The mean TF-IDF score for each word appears on the x-axis. The higher the score, the more important it is to the uniqueness of the document. Because the models highlight the words unique to each document, the most commonly occurring words across the corpus (e.g., Soldier, Army, leader, team) will not appear in these lists.</p>
+<img src="www/tf_idf.png" /><br />
+
 </p>
-<p>#Latent Dirichlet Allocation (LDA) {#LDA}<br />
-We ran an 18-topic LDA topic model. We did not assume that the topic modeling results would match the qualitative coding exactly, but we did find certain topics aligned with the themes identified in the document analysis. The codes most evocative of each topic were used to label the topic. Beta values indicate the number of words in a topic. The higher the beta, the larger the number of words in the corpus that are in the topic. Many of the topics strongly reflected our qualitative analysis codes, providing convergent evidence to the veracity of the qualitative analysis. Some of the codes – such as Qualities of a Leader, Shared Vision, and Team Success – were associated with multiple topics. This suggests that these qualities are particularly important to successful team performance in the Army.</p>
+</div>
+<div id="LDA" class="section level1">
+<h1>Latent Dirichlet Allocation (LDA)</h1>
+<p>We ran an 18-topic LDA topic model. We did not assume that the topic modeling results would match the qualitative coding exactly, but we did find certain topics aligned with the themes identified in the document analysis. The codes most evocative of each topic were used to label the topic. Beta values indicate the number of words in a topic. The higher the beta, the larger the number of words in the corpus that are in the topic. Many of the topics strongly reflected our qualitative analysis codes, providing convergent evidence to the veracity of the qualitative analysis. Some of the codes – such as Qualities of a Leader, Shared Vision, and Team Success – were associated with multiple topics. This suggests that these qualities are particularly important to successful team performance in the Army.</p>
 <p align="center">
 <img src="www/topic_model.png" />
 </p>
+</div>
 
 
 

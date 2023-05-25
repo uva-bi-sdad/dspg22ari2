@@ -3,6 +3,11 @@ library(dplyr)
 
 ####################################################################### SAVING
 # Save objects ---------
+saveRDS(themes, file= "/home/seh6fy/git/dspg22ari2/src/web/RDS/themes.RDS")
+saveRDS(themes_detailed, file= "/home/seh6fy/git/dspg22ari2/src/web/RDS/themes_detailed.RDS")
+saveRDS(top_terms_rename, file= "/home/seh6fy/git/src/web/RDS/top_terms_rename.RDS")
+saveRDS(desc_tf_idf, file= "/home/seh6fy/git/dspg22ari2/src/web/RDS/desc_tf_idf.RDS")
+saveRDS(cooccurence, file= "/home/seh6fy/git/dspg22ari2/src/web/RDS/cooccurence.RDS")
 
 # - codes
 saveRDS(themes, file= "/home/jme6bk/github/dspg22ari2/src/web/RDS/themes.RDS")

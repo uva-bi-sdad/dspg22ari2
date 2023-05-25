@@ -1,0 +1,397 @@
+JOURNAL OF BUSINESS AND PSYCHOLOGY
+Volume 14, No. 2, Winter 1999
+
+
+        THE RELATIONSHIP BETWEEN ORGANIZATIONAL CHARACTERISTICS AND TEAM BUILDING SUCCESS
+Daniel J. Svyantek Scott A. Goodman
+ Lori L. Benz Julia A. Gard
+The University of Akron
+
+
+
+
+
+ABSTRACT: The present paper has three goals. First, an approach to meta­ analysis which combines meta-analytic procedures with a more complete de­ scription of the organizational setting is presented. Second, a meta-analysis of the influence of team building on workgroup effectiveness is conducted. The re­ sults of this meta-analysis support the contention that team building impacts positively on workgroup productivity. Finally, a discussion of the role of meta­ analysis in providing information which both scientists and practitioners may use to understand the relationship between organizational characteristics and the effects of team building on productivity measures is given.
+
+    Organization Development (OD) addresses problems involved in managing human dynamics in organizations (French, Bell, & Zawacki, 1989). The essential elements of OD: are "a powerful set of concepts and techniques for improving organizational effectiveness and individual well being" (French, Bell, & Zawacki, 1989: p. 1). An often used tech­ nique in OD is team building.
+    Team building is used with groups of interdependent individuals whose purpose is to accomplish common tasks (Porras & Robertson, 1992). Team building is designed to help work groups improve the way they accomplish tasks by enhancing the interpersonal and problem­ solving skills of team members (Porras & Robertson, 1992; Porras & Silvers, 1991; Woodman, 1989). Team building is one of the most popu­ lar OD interventions (French, Bell, & Zawacki, 1989; Porras & Berg,
+
+    Address correspondence to Daniel J. Svyantek, PhD, Psychology Department, Univer­ sity of Akron, Akron, OH 44325-4301; e-mail: DSVYANTEK@UAKRON.EDU.
+
+265	© 1999 Human Sciences Press, Inc.
+
+
+
+
+1978; Porras & Robertson, 1992). A meta-analysis conducted by Neu­ man, Edwards, and Raju (1989) examined the effects of several OD interventions (including team building) in modifying satisfaction and/ or other attitudes. Their review suggests that for specific interventions (e.g., interpersonal and problem solving), team building is an effective means of changing satisfaction and other attitudes.
+    However, Neuman et al.'s meta-analysis does not directly address the issue of whether team building impacts workgroup productivity. Several narrative reviews of team building exist (DeMuse & Liebowitz, 1981; Nicholas, 1982; Woodman & Sherwood, 1980) and have provided mixed results with regard to the effectiveness of team building for im­ proving productivity or workgroup performance. One meta-analysis ex­ amined the general effect of OD on productivity and yielded moderate but variable effects (Guzzo, Jette, & Katzell, 1985). The Guzzo et al. (1985) review examined eleven psychologically based OD interventions but did not evaluate the effects of team building alone.
+    Thus, a meta-analysis on the effectiveness of team building on workgroup performance is warranted. The present study has three pri­ mary goals. First, the study will discuss an approach to meta-analysis which combines meta-analytic procedures with a more complete descrip­ tion of the characteristics of organizational settings. Second, a meta­ analysis will be conducted on team building's effects on workgroup pro­ ductivity measures. Finally, a discussion of the role of meta-analysis in providing information which both scientists and practitioners may use to understand the relationship between organizational characteristics and the effects of team building on productivity measures will be pre­ sented.
+
+
+META-ANALYSIS AND OD RESEARCH
+
+    Meta-analysis involves the systematic collection of documented studies relevant to some research question, converting the findings and characteristics of the studies to variables of interest through some coding scheme, and the analysis of these variables using robust statis­ tical procedures (Glass, McGraw, & Smith, 1981; Hunter, Schmidt, & Jackson, 1982; Hunter & Schmidt, 1990). Meta-analysis treats the re­ sults of prior studies as individual data points in a statistical analysis. In meta-analyses done on organizational interventions the studies' find­ ings are reduced to effect sizes, derived from experimental-control group mean comparisons or correlations between outcome and independent variables (e.g., Neuman et al., 1989; Rodgers & Hunter, 1991). Charac­ teristics of the field sites may also be coded as moderator variables. The types of moderators used, however, may be of less help to the consultant
+
+
+
+
+seeking to understand the efficacy of different interventions than they are to the academic researcher. For example, Neuman et al. (1989) in their assessment of the effects of OD interventions on attitudes and sat­ isfaction examined only three moderators that might be of interest to the practitioner (the technology of the organization, the level of em­ ployees affected by the intervention, and the organization type). Rodgers and Hunter (1991), in their assessment of the effects of MBO on organi­ zational productivity, looked at only one moderator (the level of manage­ ment commitment to the program).
+James, Demaree, Mulaik, and Ladd (1993) have proposed that the
+use of meta-analysis to understand the effects of organizational inter­ ventions would benefit from the use of a proactive research design in which moderating situational variables are defined a priori and later tested by a meta-analytic method. A variant of the meta-analytic ap­ proach which has been proposed for evaluating OD interventions and processes which emphasizes this a priori definition of situational mod­ erators is the case meta-analysis method (Bullock & Tubbs, 1987). This paper proposes that the combination of the careful definition of orga­ nizational characteristics proposed by the case meta-analysis method (Bullock & Tubbs, 1987) with the statistical aggregation of diverse re­ sults from individual cases into a common statistic, the effect size (cf., Glass, McGraw, & Smith, 1981; Hunter & Schmidt, 1990) offers good possibilities for the understanding of the effects of OD interventions in real-world contexts. The next section shows how meta-analytic proce­ dures, coupled with the a priori definition of organizational characteris­ tics that may operate as moderators, provide data which can aid the practitioner in the prediction of the success of an intervention before implementation occurs.
+
+METHOD
+
+Selection of Studies
+    A search of the major psychological and business publications was conducted using two separate database systems (PsychLit and ABIN/ inform). The key words, TEAM BUILDING and TEAM DEVELOP­ MENT, were used to create a pool of possible studies for inclusion in the meta-analysis. This resulted in a pool of 133 studies.
+    There were three criteria for inclusion used in this meta-analysis. First, the team building intervention had to fit Beer's (1976) conceptual scheme of team development or Dyer's (1977) description of the problem­ solving team group. Beer (1976) described four models of team building: the goal setting model, the role model, the interpersonal model, and the managerial grid model. In the goal setting model, the team building ef-
+
+
+
+
+fort is aimed at establishing group goals and plans to accomplish these goals. This model may be used to set goals for change in the group's structures and processes to meet organizationally set criteria (e.g., pro­ ductivity measures). The role model approach consists of meetings to facilitate role clarity and decrease ambiguity. The interpersonal model focuses on improving interpersonal relations in the group. The assump­ tion underlying this model is that an interpersonally competent group will be more effective than one which lacks such skills. The final model is the managerial grid model (Blake & Mouton, 1964).1 Team building strategies that focused on problem solving as described by Dyer were also considered. While many studies have employed team building inter­ ventions consistent with Beer's (1976) descriptive scheme (e.g., Eden, 1985; 1986; Hughes, Rosenbach, & Clover, 1983; Mitchell, 1986), other studies have relied on a problem solving model as the primary interven­ tion (e.g., Buller & Bell, 1986). The problem solving model reports a more general model in which team members identify major problems, generate relevant information, engage in problem solving, and imple­ ment and evaluate action plans. Such problem-solving interventions were coded as goal setting or interpersonal based on the relative em­ phasis placed on meeting group production goals or interpersonal com­ petence. In addition, studies that used a combination of these interven­ tions were considered for inclusion and coded as mixed to signify that more than one type of team building approach was used. Second, an inclusion criterion was that each study had to be conducted in a busi­ ness or government field setting. Educational settings were not included due to the difficulty in operationalizing productivity. Finally, the third inclusion criterion concerned the dependent variables used in the study. Each study must have reported a change in objective productivity or a subjective estimate of group productivity made by someone in the group or external to the group undergoing the team building process. These dependent measures must have been reported as a quantitative statistic (usually an F- or t-value). This permitted the assessment of effect size of team building on productivity measures.
+Based on the above criteria, 11 studies were selected and used in
+the ensuing analysis.2 These 11 studies yielded 25 separate data points
+
+    'No studies using either the role or managerial grid approach met both of the second and third criteria for inclusion. Therefore, these types of team building are not included in this analysis.
+    'This number of studies may appear to be small but is consistent with that reported in other meta-analyses of team building interventions and/or OD's impact on productivity. For example, Guzzo et al. (1985) conducted a meta-analysis on 11 studies reporting the effects of multiple organizational interventions on productivity. Neuman et al. (1989) found only 23 studies of team building's effects on satisfaction and work attitudes (which are the more common dependent variables in the investigation of OD intervention results) (cf., Woodman & Sherwood, 1980). Most recently, Salas, Mullen, Rozell, and Driskell
+
+
+
+
+for the meta-analysis (since some authors reported the effect of team building on multiple but independent productivity related dependent variables). The studies included in the meta-analysis are listed in Table 1 along with the research design, the primary focus of the intervention, the setting and subjects employed, the N size for each study, and the calculated effect size for each dependent variable.
+
+
+Method of Analysis
+    The literature on statistical aspects of meta-analysis suggests there are a number of ways to calculate estimates of effect sizes. Glass (1976) proposed an estimation of effect size but presented no sampling theory for his procedures. Hedges (1981) demonstrated this estimate to be bi­ ased. An unbiased estimator of effect size based on a direct weighted linear combination of estimators from different studies has been devel­ oped (Hedges, 1982; Hedges & Olkin, 1985) and empirically tested (Hedges, 1982). Hedges' method has been shown to have the same asymptotic distribution as the frequently used maximum likelihood es­ timator but is simpler, more intuitively appealing, and involves less computation. Furthermore, Hedges (1982) has demonstrated that the distributions of the weighted estimator and the homogeneity statistic are quite accurate when the experimental and control group sample size exceeds 10 and the effect sizes are smaller than about 1.5, as was the case in the majority of the studies sampled here. Thus, the chosen meta-analytic technique was the chi-square method described by Hedges and Olkin (1985).
+    As an initial step, the appropriate N sizes and t values were found for each experiment. If a one degree of freedom F value was reported, it was converted to a t value. Each t value was then converted to an effect size (di) (see Table 1). The variance (SE2di) for each effect size was calcu­ lated and used to compute a variance weighted mean for each effect size. The effect size is interpreted as the amount of change occurring within a dependent variable as a result of some independent variable (here the team building intervention) (cf., Glass et al., 1981; Hunter & Schmidt, 1990). The homogeneity of effect size hypothesis (H0: dil =di2 = ...dik) was assessed by computing an overall chi-square and testing it against a critical value (a = .05).
+
+(1997) conducted a meta-analysis of team building on performance. They searched the same sources this study did and included dissertations in their search. Their inclusion rules were slightly different from this study: They found 8 studies in their meta-analysis. Therefore, the number of studies included in the present analysis, while small, does seem indicative of the majority of the data base on team building's influence on productivity measures available to both practitioners and academics.
+
+
+
+
+
+
+
+Table 1	-:i
+Summary of Team Building Investigations
+Investigation
+Research Design  Primary Intervention
+Setting and Subjects
+Dependent Variable
+n•Effect SizeBuller & Bell (1986)Quasi-ExperimentGoal SettingHard rock miners in un-Production quantity-tonsE=36.130Non-Equivalentderground metal mineper manshiftC=17c:...Control0Quasi-Experiment Non-EquivalentGoal SettingHard rock miners in un- derground metal mineProduction quality-grade of oreE=36 C=17.642C:
+:z:.:,Control
+Quasi-Experiment
+Goal Setting
+Hard rock miners in un-
+Perceptual changes in
+E=36
+1.096t>'"'
+0
+'-.:I
+.718	z
+
+Control
+Quasi-Experiment
+Mixed
+Hard rock miners in un-
+Production quality-grade
+E=18
+.839r:nNon-Equivalentderground metal mineof oreC=9t::IControl
+Quasi-Experiment
+Mixed
+Hard rock miners in un-
+Perceptual changes in
+E=lB
+.866'r":dn
+-<
+0Non-Equivalentderground metal minegrade of oreC=9:::i::
+
+
+units in Israeli Defense	effectiveness	C=270 Forces
+True Experiment	Mixed	Team members-logistics	*Perceptions of organiza-	E=270	.093
+units in Israeli Defense	tional effectiveness	C=270 Forces
+Eden (1986)	Quasi-Experiment	Mixed	Combat company teams in	*Perceptions of group	 E=220	.144 Non-Equivalent			Israeli Defense Forces		effectiveness	C=280
+Control
+
+0-<
+
+
+
+
+
+
+
+Frielander (1967)Quasi-Experiment Non-EquivalentInterpersonalResearch and development groups in the armed*Perceptions of group effectivenessE=31 C=60.298Control
+Quasi-Experiment
+Interpersonalservices
+Research and development
+*Perceptions of individual
+E=31
+.238Non-Equivalentgroups in the armedeffectivenessC=60C,Control	services	i:...
+Howe (1977)	One Group	Mixed	Managers and technicians	*Perceptions of group	n=9	2.615	en
+Pre-Post Design		at a manufacturing	effectiveness plant
+Hughes (1983)	Quasi-Experiment	Mixed	Cadet squadrons at U.S.	*Perceptions of group	 E=74	.386	 ""3 Non-Equivalent			 air force academy who		effectiveness		C=62		:r Control			were working in organi-							en zations						?>-
+Kimberly & Nielsen	One Group	Interpersonal	Assembly line workers in	*Perceptions of organiza-	n=90	.688	Q
+(1975)	Pre-Post Design	automotive plant	tion	0
+One Group	Interpersonal	Assembly line workers in	*Perceptions of supervisor	n=90	.499	C,
+Pre-Post Design	automotive plant
+One Group	Interpersonal	Assembly line workers in	Production rates by period	n=90	.081
+Pre-Post Design	automotive plant	t'"
+One Group	Interpersonal	Assembly line workers in	Quality units by period	n=90	.439
+
+Pre-Post Design	automotive plant
+One Group	Interpersonal	Assembly line workers in	Cost effectiveness-profit	n=90 Pre-Post Design			automotive plant		or loss by period
+
+tX1
+.272	zt.".1
+
+
+
+Mitchell (1986)	One Group	Interpersonal	MBA students and man-	*Perceptions of group	n=28	.549 Pre-Post Design			agement teams in busi-		effectiveness
+
+.C..,.
+
+ness	?>-
+One Group	Interpersonal	MBA students and man-	*Perceptions of group	n=28	.137	Q
+Pre-Post Design	agement teams in busi-	effectiveness
+ness	C,
+Paul & Gross	 One Group	Mixed	Communication and elec-	Cost efficiency	n=90	.895 (1981)	Pre-Post Design			trical division of the city
+of San Diego
+
+
+Note.
+
+
+•E=experimental group. C=control group.
+
+.-..J..
+
+*denotes average effect size of a composite measure.
+
+
+
+
+
+RESULTS
+
+The overall chi-square value obtained in the present analysis was
+67.58. The critical chi-square value at ex = .05 with 23 degrees of free­ dom is 35.17. A comparison of these two values leads to the rejection of the homogeneity of effect size hypothesis (H0: dn = di2 = ... dik). This re­ sult serves as an omnibus test for moderators: it suggests that more than one underlying distribution of effect sizes accurately describes the data. The case meta-analysis method proposes that organizational char­ acteristics are an important determinant of the success of interventions in various cases. A list of 20 moderating organizational characteristics believed to be related to the success of team building interventions were generated. These moderator variables were based on discussions of change theory and team building presented in standard texts on organization development (Beer, 1980; Burke, 1982; Cummings & Huse, 1989). The moderating variables are given in Table 2.
+    These moderators may be organized into five categories. These cate­ gories are: (1) the process before the implementation of team building (e.g., the initiation and reason for team building, expectations regarding the intervention, and participation in planning the intervention); (2) the process of implementation of the team building intervention (e.g., the type of team building intervention, management of the intervention, and individual vs. group focus); (3) organizational support for team building;
+(4) organizational characteristics (e.g., type of organization, organization size, and general management style); and (5) the type of dependent vari­ ables used in the study (e.g., objective vs subjective).
+    The organizational characteristics were coded for each study. The decision rules defining these organizational characteristics were gener­ ated by the authors. Two raters then coded the organizational charac­ teristic information available in each study. Initial inter-rater reliability was acceptable (91% agreement across all 20 moderator variables). Dis­ agreements between raters were resolved through discussion among the raters and the first author. The final consensus coding of organizational characteristics was then used to test for moderators.
+    Table 2 provides information on (1) the sub-groupings used to code each organizational characteristic; b) the x2 value for between-group dif­ ferences on each organizational characteristic and the associated x2 crit­
+ical values; and c) the mean effect size for each sub-grouping of the orga­ nizational characteristics. The mean effect size represents the average amount of change in the dependent variable associated with each of these sub-groupings.
+    Table 2 shows that 19 of the 20 moderator variables tested had signif­ icant between-group differences. Only one moderator variable did not have significant between-group differences. This moderator was whether
+
+
+
+
+Table 2
+Moderator Variables Examined
+
+x2 Between
+
+Moderator		Observed	Critical	n The Process Before The Implementation Of 'Tham Building
+
+
+
+
+
+Table 2 (Continued)
+
+
+
+x2 Between
+
+
+ModeratorObservedCriticalnMd;Support of change effort Support from higher levels10.783*5.991
+7
+.901Support from different levels5.495No evidence13.637Organizational CharacteristicsOrganization size42.522*7.815Small (less than 500 employees)10.796Medium (500-5,000 employees)7.431Large (more than 5,000 employees)5.559No evidence31.100Organization type Industrial/manufacturing46.701*5.991
+16
+.890Government6.208No evidence
+Group responsibility for performance
+Groups were responsible for performance
+31.103*
+5.9913
+
+11.527
+
+.915Groups were interdependent6.760  No evidence Management style
+37.917*
+3.8418.305Participative12.615Autocratic4.177No evidence20.687Characteristics Of The Dependent VariableType of performance measured14.741*3.841Objective11.663Subjective14.699Who makes the subjective report Internal to group9.532*3.841
+11
+.521External to group2.981Level of performance change reported21.225*5.991Individual4.468Group16.713Organization5.854Type of objective performance
+Quantity10.659*5.991
+5
+.804Quality5Cost effectiveness2.895Note. *p<.05. The mean effect size is not reported for non-significant moderators.
+
+
+
+or not the immediate supervisor of the work groups participated in the actual team building process. The remainder of the presentation of results will be focused on the significant results in the five categories of modera­ tors.
+
+
+
+
+Process Before the Implementation of Team Building
+    These moderators may be divided into two general sub-categories. First, three moderator variables were used to assess the reason for, ini­ tiation of, and expectations surrounding the team building intervention. One moderator variable assessed where the initiation of the team build­ ing effort began. Team building efforts initiated by someone external to the work group (generally higher management) had a larger effect size than team building initiated within the work group (.781 to .431). A second moderator variable assessed the reasons for initiation of the team building intervention. Team building conducted as a corrective ac­ tion had a larger mean effect size than team building conducted as a preventive action (.857 to .692). Third, management's expectations re­ garding what organizational criteria team building would affect was used as a moderator. Ifteam building was conducted with the expectation of changing worker attitudes only, the smallest effect size was generated (.233). Expectations that team building would increase performance had an effect size of .785. Team building conducted with the expectations of improving both performance and worker attitudes had the largest effect size (.861).
+    The second sub-category was whether the work group receiving the team building participated in the planning of the intervention. The use of the action research model, in which the work group actively partici­ pates in the early stages of team building, decreased the effect size rela­ tive to not using this approach (.485 to 1.310, respectively). This was supported by a second moderator assessing whether the group was ac­ tively involved in planning the team building effort. Here, involvement in planning had a smaller effect size than did non-involvement (.501 to 1.068, respectively).
+
+
+Team Building Process
+    This category of variables is concerned with the way the team build­ ing intervention was conducted within the studies. First, the type of team building used (based on Beer's (1976) typology) had differential effects on productivity measures. Team building efforts that used a com­ bination (Mixed in Table 2) of methods had an average effect size of
+.785. Goal setting team building efforts alone had an average effect size of .622. Team building efforts with a focus on change in interpersonal skills had an average effect size of .579. The use of other interventions in combination with team building was also a significant moderator. Team building alone had an average effect size of .534 while team build­ ing combined with other interventions had an average effect size of .820. The management of the team building interventions by different types
+
+
+
+
+of consultants also moderated effect sizes significantly. Team building efforts using only internal consultants had an average effect size of .354. Team building efforts using only external consultants had an average effect size of. 741. Team building efforts using internal and external con­ sultants had an average effect size of 1.755. The focus of the team build­ ing effort on individual change versus group change was another signif­ icant moderator. Team building focused on individual change had an average effect size of .477 while team building focused on group change had an average effect size of .748.
+
+
+Organizational Support for the Team Building
+    This category of variables looked at the degree to which the support of organizational elements (outside the work group) affected produc­ tivity. The support of the immediate supervisor of the work group was an important moderator of the impact of team building on productivity. The average effect size for groups with this support was 1.02 while the average effect size for groups without this support was .492. The support of the change effort by different levels of the organization also proved to be a significant moderator. Support by higher levels of management had an average effect size of .901. Support from other levels of the organiza­ tion (e.g., subordinates or peers) had an average effect size of .495.
+
+
+Organizational Characteristics
+    Several general characteristics of the organizations in which the team building intervention was conducted moderated the effect sizes in these studies. The size of the organization was a significant moderator of effect sizes. Team building had an average effect size of .796 in small organizations (less than 500 employees); .431 in medium organizations (between 500 and 5,000 employees); and .559 in large organizations (more than 5,000 employees). The type of the organization in which the team building occurred was another significant moderator of effect sizes. Team building had an average effect size of .890 in industrial/manufac­ turing organizations and an average effect size of .208 in government organizations. The degree to which the performance of the team was independent of other elements of the organization also impacted effect sizes. Groups who were responsible for their own performance had an average effect size of .915 for the team building interventions. The aver­ age effect size was .760 for groups who were interdependent with other elements of the organization and not solely responsible for their own per­ formance. The general management style of the organization in which the team building occurred also moderated the average effect size. The effect
+
+
+
+
+size for the organization that could be classified participative was 2.615 while the average effect size for those classified as autocratic was .177.
+
+Characteristics of the Dependent Variable
+    There were significant differences in effect sizes based on the types of dependent measures used in the studies. One variable that signifi­ cantly moderated effect size was the type of productivity measures, ob­ jective or subjective, used in the studies. Objective measures of produc­ tivity had a mean effect size of .663 while subjective measures had a mean effect size of .699. Another significant moderator of effect sizes was who made estimates of change on the subjective productivity mea­ sures. The effect size for internal reports (made by team member(s) who participated in the change) was .521 while the mean effect size for exter­ nal reports from other organizational members was .981.
+    The level of performance change reported was a significant modera­ tor of effect sizes. Individual performance measures had an average ef­ fect size of .468, group performance measures had an average effect size of .713, and organizational performance measures had an average effect size of .854. Finally, the type of objective performance change measure was a significant moderator of effect size. Performance measures of quantity had an average effect size of .804, measures of quality had an average effect size of .713, and measures of cost effectiveness had an average effect size of .895.
+
+
+DISCUSSION
+
+    The results of this study are divided into three sections. First, infor­ mation about the relationship between team building, change in produc­ tivity measures, and significant moderators of the use of team building is provided. Second, the results of this study are assessed for their con­ sistency with the results of other studies of OD interventions. Finally, conclusions about the role of meta-analysis in providing practical infor­ mation to OD practitioners can be made. Each of these issues will be discussed within the remainder of this paper.
+
+
+THE EFFECTS OF TEAM BUILDING ON PRODUCTIVITY
+
+    Team building does have a significant impact on change in produc­ tivity measures. The significant overall chi-square value found for this relationship supports this. Interestingly, the effects of team building on objective measures of productivity is close to its impact on subjective
+
+
+
+
+measures of productivity (.663 to .699, respectively). This impact, how­ ever, is moderated by several characteristics of the field site in which the intervention occurs. The pattern of results found here allow the fol­ lowing general conclusions about team building's effects to be made.
+    First, there are several moderators that affect the impact of the team building process prior to its implementation. The effects of team building were increased when the intervention was initiated by a higher management level for corrective reasons. Second, the implementation process for the team building moderated the effects of the intervention. Team building interventions which combined different emphases, had the largest effect size. Using other interventions, in combination with team building, also increased the effects of team building. Therefore, while team building does improve productivity, it does so better in con­ junction with other interventions. Team building conducted with both internal and external consultants had the largest effect on productivity. Focusing the intervention on group change (e.g., problem solving to im­ prove work process as a group) had a larger effect than focusing on indi­ vidual change (i.e., role definition for individuals in the group). Third, organizational support for the team building intervention was impor­ tant. The support of the immediate supervisor also increased the effect of team building over that of groups in which this support was not pres­ ent. Fourth, characteristics of the organization in which the team build­ ing was implemented moderated its effects. Team building had a larger impact on productivity in manufacturing than in government organiza­ tions. Team building had its largest effect in organizations of small size. Team building occurring in a more participative management climate had a larger effect than in those with an autocratic management cli­ mate. Finally, it was found that the type of productivity measures used as a dependent variable moderated the effect sizes. The focus of team building is the group. Therefore, team building should have its greatest effect on group measures of productivity. This study found that team building did indeed have greater impact on group and organizational level measures of performance relative to individual performance crite­ ria. Team building also had its largest impact on productivity measures of cost effectiveness, followed by quantity and quality measures, respec­ tively. Subjective measures were slightly more affected than objective measures. However, this does not necessarily reflect a self-serving bias on the part of the group participating in team building. Ratings of sub­ jective measures by organizational members outside the work group had a larger effect size than those within the work group. Subjective mea­ sures given by external members of the organization may more accu­ rately reflect effectiveness than those given by internal members of the group. This is a question which can only be answered, however, by studies using objective and subjective criteria in the same study. The degree to
+
+
+
+
+which these findings are consistent with past OD research is addressed in the next section.
+
+
+CONSISTENCY WITH PRIOR OD KNOWLEDGE
+
+    The findings of this meta-analysis generally support the literature available on organizational change practice. First, the findings empha­ size the support of the management in the successful implementation of team building. This is consistent with past research for other interven­ tions (e.g., Rodgers and Hunter (1991) meta-analysis of MBO). This study extends this to show that all levels of managerial support are nec­ essary in the successful implementation of team building. Higher levels of management must support the initiation of the team building efforts: Immediate supervisors must support the implementation of the team building effort as well if it is to succeed. Second, the findings that team building, in combination with other interventions, is more effective is consistent with the findings of Neuman et al. (1989) who showed that multi-faceted approaches to organizational interventions have the most impact on attitudinal variables. Third, the importance of understanding how interdependence affects workgroup productivity was shown. Team building was found to have a larger influence on productivity in inde­ pendent work groups than in interdependent groups. Interdependence relates to the degree to which a workgroup must rely on others to pro­ duce output (Thompson, 1967). The focus of team building is usually the individual work group. It may be, therefore, that the most effective im­ plementation of team building will typically require an intergroup inter­ vention be paired with the team building to have the most effect since as interdependence increased, the effects of team building decreased.
+    These findings also are contradictory to some aspects of the tradi­ tional OD process. The findings do not provide support for the action research model as it is commonly used in the OD process. Participation of the group in the planning phase of the intervention and/or the use of an action research model decreased the effect of team building. There may be two primary reasons for this. First, this may be due to the cor­ rective reasons for initiation of the team building interventions. The need to correct an existing problem may lead to pressure for fast action from the chosen intervention. Therefore, action research, with its em­ phasis on collaborative planning and consensus building, may take too long and not have the same degree of support (from management) that management-initiated team building does. Second, employees may feel more comfortable participating in the task-oriented problem-solving than they are in participating in the diagnosis and planning phases of the OD effort. This would be consistent with the findings that some peo-
+
+
+
+
+ple do not want, and may resist, participation (Neuman, 1989). The de­ sire for participation, therefore, may be more task-focused than is gener­ ally supposed in the OD literature.
+
+META-ANALYSIS AND OD PRACTICE
+
+    The present study used Hedges' method of meta-analysis (Hedges, 1982; Hedges & Olkin, 1985). This method allows the assessment of multiple moderators derived from an understanding of the organiza­ tional context in which an intervention occurs as advocated by James et al (1993). The testing of multiple moderators may provide more informa­ tion to the practitioner for making predictions about future success of interventions than does traditional meta-analyses done on organizational interventions. This may be seen in a comparison between the results of this study and a meta-analysis investigating the relationship between MBO and organizational productivity (Rodgers & Hunter, 1991).
+    Rodgers and Hunter (1991) used the Hunter and Schmidt (1990) method of meta-analysis. The Hunter and Schmidt (1990) method makes it difficult to find significant moderators of effect sizes because of the logic underlying the method. This method assumes that there is an underly­ ing relationship between the dependent and independent variables. This relationship is masked by statistical artifacts. If these statistical arti­ facts account for a significant portion of the variance (i.e., the 75% rule) in the relationship between dependent and independent variables, the need for searching for moderators is discounted. Individuals using these methods often do not spend time looking for moderators because they are, a priori, assumed not to exist (James, Demaree, & Mulaik, 1986). For example, the Rodgers and Hunter (1991) meta-analysis of the im­ pact of MBO on productivity looked at one moderator of this relation­ ship. The degree to which management supported the use of MBO was found to be a significant moderator of this relationship. No other mod­ erators were assessed.
+The practical value of the Rodgers and Hunter (1991) study for the
+OD practitioner is low. The commitment of management to any interven­ tion as a necessary requisite for intervention success has been a given in theories of Organization Development and organizational change (cf., Cummings & Huse, 1989; Burke, 1982). This study supported the general finding of Rodgers and Hunter (1991). This study also, however, showed that while management support was necessary for the initiation of the team building effort, the support of the immediate supervisor for the team building effort was as important in the implementation of the effort. This is a more "fleshed-out" description of the role management support plays in OD interventions based on the assessment of a priori contextually de-
+
+
+
+
+fined moderators. It may be, therefore, that for practical applications of a meta-analysis, the assumption should be made that moderators exist when conducting the study. The logic behind the Hedges and Olkin method (Hedges, 1982; Hedges & Olkin, 1985) may be more applicable to organiza­ tional change research than is the logic behind the Hunter and Schmidt (1990) method of meta-analysis.
+    One caveat to this proposal is the degree to which the effect sizes found by both methods are stable. The Hunter and Schmidt (1990) meta-analysis methods provide very stable estimates of the effect size of a moderator. The estimates provided by the Hedges and Olkin (1985) methods may, however, be less stable because of the multiple modera­ tors being tested. For example, inspection of Tables 1 and 2 show that
+(1) the effects of the goal-setting approach to team building are based on one study (i.e., Buller & Bell, 1986) and (2) the effects of manage­ ment style is based on coding only 5 of 25 data points for this variable. These are, potentially, very unstable findings. Other findings are more stable. For example, the effects of the moderator variables of (1) who initiated the team building; (2) expectations for team building efforts;
+(3) the use of the action research approach and group involvement in team building plans; (4) the use of other interventions; (5) who man­ aged the team building effort; (6) level of focus; (7) supervisory support of the team building; (8) organization size; (9) organization type; (10) the type of performance measured; and (11) the level of performance change reported are all based on better distributions across studies and within the sub-groupings used. These findings are likely to be sta­ ble.
+The two meta-analysis approaches are complementary. The purpose
+for which the meta-analysis is being conducted is the logical determinant of which is used. The Hunter and Schmidt (1990) method may be better suited to academic purposes. The Hedges and Olkin (1985) method, how­ ever, may be better suited to the needs of practitioners. Practitioners may be able to diagnose the configuration of organizational characteristics in the setting and use this information to make an a priori prediction of the expected effect of a specific intervention. For example, team building ac­ cording to these findings should have its greatest impact when it is taken for corrective action on productivity measures related to cost-effectiveness for work groups which are: independent, have the support of management (including their immediate supervisor and higher management), work in manufacturing jobs in small organizations, and participate in manage­ ment. Understanding how configurations of organizational characteristics affect interventions may prove valuable to the practitioner. The develop­ ment of such a knowledge base which provides information on the match between organizational characteristics and intervention success should be a priority for organizational change researchers.
+
+
+
+
+REFERENCES
+
+Beer, M. (1976). The technology of organization development. In M. D. Dunnette (Ed.), Handbook of Industrial and Organizational Psychology (pp. 937-994). Chicago, IL: Rand McNally.
+Beer, M. (1980). Organization Change and Development: A systems view. Santa Monica, CA: Goodyear Publishing.
+Blake, R., & Mouton, J. (1964). The Managerial Grid. Houston, TX: Gulf Publishing. Buller, P. F., & Bell, C. J. (1986). Effects of team building and goal setting on productivity:
+A field experiment. Academy of Management Journal, 29, 305-328.
+Bullock, R. J., & Tubbs, M. E. (1987). The case meta-analysis method for OD. Research in Organizational Change and Development, 1, 171-228.
+Burke, W. W. (1982). Organization Development: Principles and Practices. Boston, MA: Little, Brown, and Company.
+Cummings, T. G., & Huse, E. F. (1989). Organization Development and Change, 4th Ed. St.
+Paul, MN: West Publishing.
+DeMuse, K. P., & Liebowitz, S. J. (1981). An empirical analysis of team building. Group and Organization Studies, 6, 357-378.
+Dyer, W. G. (1977). Team Building: Issues and Alternatives. Reading, MA: Addison-Wesley. Eden, D. (1985). Team development: A true field experiment at three levels of rigor. Jour­
+nal of Applied Psychology, 70, 94-100.
+Eden, D. (1986). Team development: Quasi-experimental confirmation among combat com­ panies. Group and Organizational Studies, 11, 133-146.
+French, W. D., & Bell, C. H., & Zawacki, R. A. (Eds.) (1989). Organization Development:
+Theory, Practice and Research (3rd edition). Homewood, IL: Richard D. Irwin.
+Glass, G. V. (1976). Primary, secondary, and meta-analysis of research. Educational Re­ searcher, 5, 3-8.
+Glass, G., McGraw, B., & Smith, M. L. (1981). Meta-analysis in Social Research. Beverly Hills, CA: Sage.
+Guzzo, R. A., Jette, R. D., & Katzen, R. A. (1985). The effects of psychologically based intervention programs on worker productivity: A meta-analysis. Personnel Psychology, 38, 275-291.
+Hedges, L. V. (1981). Distribution theory for Glass' estimator of effect size and related estimators. Journal of Educational Statistics, 6, 107-128.
+Hedges, L. V. (1982). Estimation of effect size from a series of independent experiments.
+Psychological Bulletin, 92, 490-499.
+Hedges, L. V., & Olkin, I. (1985). Statistical Methods for Meta-analysis. Orlando, FL: Aca­ demic Press.
+Hughes, R. L., Rosenbach, W. E., & Clover, W. H. (1983). Team development in an intact, ongoing workgroup: A quasi-field experiment. Group and Organization Studies, 8, 161-186.
+Hunter, J. E., & Schmidt, F. L. (1990). Methods of Meta-Analysis: Correcting Error and Bias in Research Findings. Beverly Hills, CA: Sage.
+Hunter, J.E., Schmidt, F. L., & Jackson, G. B. (1982). Meta-analysis: Cumulating Research Findings across Studies. Beverly Hills, CA: Sage.
+James, L.R., Demaree, R.G., & Mulaik, S.A. (1989). A note on validity generalization pro­ cedures. Journal of Applied Psychology, 71, 440-450.
+James, L.R., Demaree, R.G., Mulaik, S.A., & Ladd, R.T. (1993). Validity generalization in the context of situational models. Journal of Applied Psychology, 77, 3-14.
+Mitchell, R. (1986). Team building by disclosure of internal frames of reference. Journal of Applied Behavioral Science, 22, 15-28.
+Neuman, G. A., Edwards, J.E., & Raju, N. S. (1989). Organization development interven­ tions: A meta-analysis of their effects on satisfaction and other attitudes. Personnel Psychology, 42, 461-489.
+Neuman, J. E. (1989). Why people don't participate in change. Research in Organizational Change and Development, 3, 181-212.
+
+
+
+
+Nicholas, J. M. (1982). The comparative impact of organizational development interven­ tions on hard criteria measures. Academy of Management Review, 7, 531-542.
+Porras, J. I., & Berg, P. 0. (1978). Impact of organization development. Academy of Man­ agement Review, 3, 249-266.
+Porras, J. I., & Robertson, P. J. (1992). Organizational development: Theory, practice, and research. In M. D. Dunnette and L. M. Hough (Eds.), Handbook of Industrial and Organizational Psychology, 2nd edition (volume 3) (pp. 719-822). Palo Alto, CA: Con­ sulting Psychologists Press.
+Porras, J. I., & Silvers, R. C. (1991). Organizational development and transformation. An­ nual Review of Psychology, 42, 51-78.
+Rodgers, R. & Hunter, J.E. (1991). Impact of Management By Objectives on organizational productivity. Journal of Applied Psychology, 76, 322-336.
+Salas, E., Mullen, B., Rozell, D. & Driskell, J.E. (1997). The effects of team building on performance: An integration. Paper presented at the 1997 Annual Conference of the Society for Industrial and Organizational Psychology, St. Louis, MO.
+Thompson, J.D. (1967). Organization in Action. New York: McGraw-Hill.
+Woodman, R. W. (1989). Organizational change and development: New arenas for inquiry and action. Journal of Management, 15, 205-228.
+Woodman, R. W., & Sherwood, J. J. (1980). The role of team development in organizational effectiveness: A critical review. Psychological Bulletin, 88, 166-186.
+
+
+STUDIES INCLUDED IN META-ANALYSIS
+
+Butler, P.F. (1988). Long term performance effects of goal setting and team building inter­ ventions in an underground silver mine. Organization Development Journal, Summer, 82-93.
+Buller, P. F., & Bell, C. J. (1986). Effects of team building and goal setting on productivity: A field experiment. Academy of Management Journal, 29, 305-328.
+Eden, D. (1985). Team Development: A true field experiment at three levels of rigor. Jour­ nal of Applied Psychology, 70, 94-100.
+Eden, D. (1986). Team Development: Quasi-experimental confirmation among combat com­ panies. Group and Organizational Studies, 11, 133-146.
+Friedlander, F. (1967). The impact of organizational training laboratories upon the effec­ tiveness and interaction of ongoing workgroups. Personnel Psychology, 20, 299-307.
+Howe, R. J. (1977). Building teams for increased productivity. Personnel Journal, 56, 16- 22.
+Hughes, R. L., Rosenbach, W. E., & Clover, W. H. (1983). Team development in an intact,
+ongoing workgroup: A quasi-field experiment. Group and Organization Studies, 8,
+161-186.
+Kimberly, J. R., & Nielsen, W. R. (1975). Organizational development and change in orga­ nizational performance. Administrative Science Quarterly, 20, 191-206.
+Mitchell, R. (1986). Team building by disclosure of internal frames of reference. Journal of Applied Behavioral Science, 22, 15-28.
+Paul, C. F., & Gross, A. C. (1981). Increasing productivity and morale municipality: Effects of organization development. Journal of Applied Behavioral Science, 17, 59-78.
+Smith, P.E. (1976). Management modeling training to improve morale and customer satis­ faction. Personnel Psychology, 29, 351-359.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
