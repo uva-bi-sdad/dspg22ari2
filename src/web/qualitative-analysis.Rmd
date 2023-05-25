@@ -8,7 +8,7 @@ Below is complete list of the 18 final codes used in the qualitative analysis. Y
 
 ```{r, layout="l-body-outset", echo = FALSE}
 library(DT)
-datatable(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/themes_detailed.RDS"), options = list(
+datatable(readRDS("/home/js2mr/git/dspg22ari2/src/web/RDS/themes_detailed.RDS"), options = list(
   pageLength = 18
   ))
 

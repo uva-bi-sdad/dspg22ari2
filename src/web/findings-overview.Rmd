@@ -10,7 +10,7 @@ We identified re-occurring language and underlying themes across both our qualit
 ###*Codes*
 ```{r, layout="l-body-outset", echo = FALSE}
 library(DT)
-datatable(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/themes.RDS"), options = list(
+datatable(readRDS("/home/js2mr/git/dspg22ari2/src/web/RDS/themes.RDS"), options = list(
   pageLength = 18
   ))
 ```

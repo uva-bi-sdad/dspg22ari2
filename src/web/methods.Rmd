@@ -64,21 +64,21 @@ The same corpus of documents was analyzed using Natural Language Processing (NLP
 The corpus was split into documents and then paragraphs. The words in each paragraph were tokenized and the paragraph to which they belong was recorded. The amount of times word pairs occurred in each paragraph were recorded and the highest occurrences were recorded. [4]
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/cooccurence.RDS"))
+paged_table(readRDS("/home/js2mr/git/dspg22ari2/src/web/RDS/cooccurence.RDS"))
 ```
 
 #**9. Term Frequency-Inverse Document Frequency (TF-IDF)**  
 The term frequency-inverse document frequency was recorded for each document. TF-IDF is calculated by multiplying the number of times each word appears in a given document and the inverse document frequency of the word in the corpus of documents. The final set of words shows which terms make each document unique from other documents in the corpus. [5] 
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"), options = list(cols.print = 3))
+paged_table(readRDS("/home/js2mr/git/dspg22ari2/src/web/RDS/desc_tf_idf.RDS"), options = list(cols.print = 3))
 ```
 
 #**10. Latent Dirichlet Allocation (LDA)**  
 Latent Dirichlet Allocation is a form of topic modeling that is used to find topics within a corpus of documents and identify the words associated with each topic. The number of topics to search for is a parameter set by the researcher. For the purpose of this project, we selected 18 topics as we identified 18 codes when manually reading the documents. [6] 
 ```{r, layout="l-body-outset", echo = FALSE}
 library(rmarkdown)
-paged_table(readRDS("/home/jme6bk/github/dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
+paged_table(readRDS("/home/js2mr/git/dspg22ari2/src/web/RDS/top_terms_rename.RDS"))
 ```
 
 #**11. Triangulation**  
