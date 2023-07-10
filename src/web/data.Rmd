@@ -82,14 +82,8 @@ In order to compare how individual factors relevant to team success might differ
 
 - A publication by researchers at the University of Akron exploring the influence of organizational structure and team building on work group effectiveness written for the general public and other academics 
 
-<<<<<<< HEAD
 ### *Excerpts*
-A full list of all 320 excerpts can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/excel).
-
-=======
-###*Excerpts*
 There was a total of 320 excerpts coded within the ten documents used in the qualitative analysis. [3]
->>>>>>> main
 
 <!--Moved the NLP section to methods and combined with step 7 since it was more about pre-processing for analysis.
 

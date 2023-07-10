@@ -10,17 +10,11 @@ title: "Methods"
 ![Document Discovery](www/document_discovery.PNG){fig.align='center'}
 A list of 55 documents from the Army and external sources pertaining to the role of an individual in unit performance were collected. The author, keywords, potential for use in our analyses, detailed document description, date written, and notes were annotated for each document. [1]   
 
-# **2. Document Selection**  
-10 documents were selected to be from a variety of sources, sectors, and time periods. Documents most relevant to the theme were chosen.  
-The documents selected can be found [here](https://github.com/uva-bi-sdad/dspg22ari2/tree/main/data/yellow)
-
-# **3. Initial Analysis & Code Development**  
-The 10 documents in the corpus were read a first time to determine major themes that emerged. A literature review was also conducted to determine possible biases that would influence the documents.  
-=======
-#**2. Document Selection**
+# **2. Document Selection**
 The research team collectively decided on 10 documents most relevant to our question of interest, as it relates to leadership in the Army and team science, for further analysis. [2]
 
-#**3. Initial Analysis & Code Development**  
+# **3. Initial Analysis & Code Development**  
+
 The 10 documents in the corpus were read a first time to identify emergent themes (i.e., themes about which there were no a priori expectations). A literature review was also conducted to determine possible biases that would influence the documents.
 
 Possible Biases:  
