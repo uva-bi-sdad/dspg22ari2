@@ -1,0 +1,19 @@
+Character,Cosine Similarity,Average Similarity
+adaptability.txt,1.0,0.06
+bad_coping.txt,1.0,0.06
+catastrophizing.txt,1.0,0.06
+character.txt,1.0,0.06
+depression.txt,1.0,0.06
+family_closeness.txt,1.0,0.06
+family_satisfaction.txt,1.0,0.06
+family_support.txt,1.0,0.06
+friendship.txt,1.0,0.06
+good_coping.txt,1.0,0.06
+life_meaning.txt,1.0,0.06
+loneliness.txt,1.0,0.06
+negative_affect.txt,1.0,0.06
+non-work_interests.txt,1.0,0.06
+optimism.txt,1.0,0.06
+organizational_trust.txt,1.0,0.06
+positive_affect.txt,1.0,0.06
+work_engagement.txt,1.0,0.06
