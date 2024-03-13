@@ -6,7 +6,9 @@ library(dplyr)
 
 ud_model <- udpipe_download_model(language = "english")
 
-text <- pdf_text("https://www.jcs.mil/Portals/36/Documents/Doctrine/training/ujtl_tasks.pdf?ver=xPwVK3BUygIUkK-4gjBY4w%3d%3d")
+#text <- pdf_text("https://www.jcs.mil/Portals/36/Documents/Doctrine/training/ujtl_tasks.pdf?ver=xPwVK3BUygIUkK-4gjBY4w%3d%3d")
+
+text <- pdf_text("warrior-skills-pub.pdf")
 
 pg_one <- text
 
@@ -26,7 +28,7 @@ verbs <- readr::read_csv("./data/verbs.csv")
 library(tm)
 library(stringr)
 library(tidytext)
-library(tidyverse)
+#library(tidyverse)
 library(SnowballC)
 library(widyr)
 library(ggplot2)
@@ -37,7 +39,9 @@ library(pacman)
 library(textstem)
 library(qdapRegex)
 
-#setwd("~/github/dspg22ari2/data/pam600-3")
+setwd("~/git/dspg22ari2/BERT_Analysis/GAT")
+files <- list.files()
+files <- files[grepl("^GAT", files)]
 
 #importing documents, removing analysis.R, cleaning.R and paragraph_cleaning.R
 #files <- list.files("~/git/dspg22ari2/data/pam600-3")
@@ -47,9 +51,9 @@ names <- NULL
 cleaned <- NULL
 # my_stop_words <- bind_rows(stop_words, tibble(word = c("bolc","tmts","cohen","hambrick","ancona","ruth","ross","johnson","rodriguez","ibid","adrp","also","bunnell","cajina","rc","ccc","ile","ar","finkelstein",as.character(1:12)), lexicon = rep("custom", 30)))
 
-
+for(i in 1:length(files)){
+  doc01 <- text
   # nothing after readLines, reads it in as paragraphs
-  doc01 <-paste(text)
   #cleaning document
   doc01 <- gsub(pattern="\\W" , replace = " ", doc01)%>% gsub(pattern = "\\d", replacement = " ", doc01)
   doc01<-tolower(doc01)
@@ -65,7 +69,8 @@ cleaned <- NULL
                                "fema","kingston","mcpherson","opms","hqda","arng","wocs","capi","opmg",
                                "much", "will", "grinston", "however", "rater", "find", "make", "table")) # adding capital T to the stopwords
   cleaned <- cleaned %>% append(doc01) # object for cleaned paragraph text
-  names <- names %>% append(rep(file, length(doc01))) # object for the document name each paragraph belongs to
+ # names <- names %>% append(rep(file, length(doc01))) # object for the document name each paragraph belongs to
+}
 
 text_df <- tibble(paragraph = c(seq(1:length(cleaned))), text = cleaned, document = 1)
 tokenized_paragraphs <- text_df %>% unnest_tokens(word, text) %>% count(word, paragraph, sort = TRUE)
@@ -78,15 +83,16 @@ top_verb_phrases <- verb_phrases %>% group_by(lemma) %>% top_n(n = 5)
 
 # NEXT: Sys.time for more and more pages of the manual
 
-files <- list.files(path = "./BERT_Analysis/GAT")
+setwd("~/git/dspg22ari2/BERT_Analysis/GAT")
+files <- list.files()
 files <- files[grepl("^GAT", files)]
 names <- NULL
 cleaned <- NULL
 
-for (file in files){
-  doc01 <-paste(readLines(paste0("./BERT_Analysis/GAT/", file)))
+for(i in 1:length(files)){
+  doc01 <-paste(readLines(files[i]))
   cleaned <- cleaned %>% append(doc01) # object for cleaned paragraph text
-  names <- names %>% append(rep(file, length(doc01))) # object for the document name each paragraph belongs to
+  names <- names %>% append(rep(files[i], length(doc01))) # object for the document name each paragraph belongs to
 }
 
 text_df <- tibble(paragraph = c(seq(1:length(cleaned))), text = cleaned, document = names)
@@ -96,4 +102,7 @@ tokenized_words <- text_df %>% unnest_tokens(word,text) %>% count(word,document,
 verb_gat <- tokenized_words %>% group_by(document) %>% mutate(total_words = n()) %>% left_join(verbs, by = c("word" = "lemma")) %>% filter(!is.na(count)) %>%
   group_by(document) %>%
   mutate(verb_count = n(),
-         verb_sum = sum(count)/total_words) %>% distinct(document, verb_count, verb_sum)
+         verb_sum = sum(count),
+         weighted_verb_sum = verb_sum/total_words) %>% distinct(document, verb_sum, weighted_verb_sum)
+
+write.csv(verb_gat, "~/git/dspg23ari/data/verbs_gat.csv", row.names = FALSE)
